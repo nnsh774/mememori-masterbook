@@ -1,0 +1,174 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": "泉ランク1",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
+        "RequireCount": 0,
+        "TotalRequireCount": 0
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.NInit",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.NInit",
+    "QuestLotteryInfoListId": 1,
+    "Rank": 1
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "泉ランク2",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
+        "RequireCount": 1,
+        "TotalRequireCount": 1
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.N",
+    "QuestLotteryInfoListId": 2,
+    "Rank": 2
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "泉ランク3",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.N",
+        "RequireCount": 10,
+        "TotalRequireCount": 10
+      },
+      {
+        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "BountyQuestRarityFlags.N",
+        "RequireCount": 5,
+        "TotalRequireCount": 5
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SSR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.N",
+    "QuestLotteryInfoListId": 3,
+    "Rank": 3
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "泉ランク4",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.R",
+        "RequireCount": 20,
+        "TotalRequireCount": 20
+      },
+      {
+        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "BountyQuestRarityFlags.R",
+        "RequireCount": 10,
+        "TotalRequireCount": 10
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SSR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.R",
+    "QuestLotteryInfoListId": 4,
+    "Rank": 4
+  },
+  {
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "泉ランク5",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SR",
+        "RequireCount": 30,
+        "TotalRequireCount": 30
+      },
+      {
+        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SR",
+        "RequireCount": 10,
+        "TotalRequireCount": 10
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.UR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.R",
+    "QuestLotteryInfoListId": 5,
+    "Rank": 5
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "泉ランク6",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "RequireCount": 30,
+        "TotalRequireCount": 30
+      },
+      {
+        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "RequireCount": 10,
+        "TotalRequireCount": 10
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.UR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SR",
+    "QuestLotteryInfoListId": 6,
+    "Rank": 6
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "泉ランク7",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "RequireCount": 40,
+        "TotalRequireCount": 70
+      },
+      {
+        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "RequireCount": 20,
+        "TotalRequireCount": 30
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.LR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SR",
+    "QuestLotteryInfoListId": 7,
+    "Rank": 7
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "泉ランク8",
+    "BoardRankConditionInfos": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "RequireCount": 100,
+        "TotalRequireCount": 170
+      },
+      {
+        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "RequireCount": 50,
+        "TotalRequireCount": 80
+      }
+    ],
+    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.LR",
+    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SSR",
+    "QuestLotteryInfoListId": 8,
+    "Rank": 8
+  }
+]

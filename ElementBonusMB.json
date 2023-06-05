@@ -1,0 +1,148 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": "通常_3体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Default",
+    "Phase": "ElementBonusPhaseType.First"
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "通常_3+2体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Default",
+    "Phase": "ElementBonusPhaseType.Second"
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "通常_4体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Default",
+    "Phase": "ElementBonusPhaseType.Third"
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "通常_5体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2500.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Default",
+    "Phase": "ElementBonusPhaseType.Fourth"
+  },
+  {
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "冥_1体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2500.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Dark",
+    "Phase": "ElementBonusPhaseType.First"
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "冥_2体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Dark",
+    "Phase": "ElementBonusPhaseType.Second"
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "冥_3体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Dark",
+    "Phase": "ElementBonusPhaseType.Third"
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "冥_4体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Dark",
+    "Phase": "ElementBonusPhaseType.Fourth"
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "冥_5体",
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 3000.0
+      }
+    ],
+    "ConditionType": "ElementBonusConditionType.Dark",
+    "Phase": "ElementBonusPhaseType.Fifth"
+  }
+]

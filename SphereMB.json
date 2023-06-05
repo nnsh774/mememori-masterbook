@@ -1,0 +1,6002 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": "腕力Lv1",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "腕力Lv2",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 100.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "腕力Lv3",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 180.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "腕力Lv4",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 330.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "腕力Lv5",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 620.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "腕力Lv6",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1130.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "腕力Lv7",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2070.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "腕力Lv8",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3800.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "腕力Lv9",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 6930.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 10,
+    "IsIgnore": null,
+    "Memo": "腕力Lv10",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 12600.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 11,
+    "IsIgnore": null,
+    "Memo": "腕力Lv11",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 23100.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 12,
+    "IsIgnore": null,
+    "Memo": "腕力Lv12",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 42300.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 13,
+    "IsIgnore": null,
+    "Memo": "腕力Lv13",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 77400.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 14,
+    "IsIgnore": null,
+    "Memo": "腕力Lv14",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 141000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 15,
+    "IsIgnore": null,
+    "Memo": "腕力Lv15",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Muscle",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 250000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 1,
+    "DescriptionKey": "[SphereDescription1]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName1]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 16,
+    "IsIgnore": null,
+    "Memo": "技力Lv1",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 17,
+    "IsIgnore": null,
+    "Memo": "技力Lv2",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 100.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 18,
+    "IsIgnore": null,
+    "Memo": "技力Lv3",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 180.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 19,
+    "IsIgnore": null,
+    "Memo": "技力Lv4",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 330.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 20,
+    "IsIgnore": null,
+    "Memo": "技力Lv5",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 620.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 21,
+    "IsIgnore": null,
+    "Memo": "技力Lv6",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1130.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 22,
+    "IsIgnore": null,
+    "Memo": "技力Lv7",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2070.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 23,
+    "IsIgnore": null,
+    "Memo": "技力Lv8",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3800.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 24,
+    "IsIgnore": null,
+    "Memo": "技力Lv9",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 6930.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 25,
+    "IsIgnore": null,
+    "Memo": "技力Lv10",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 12600.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 26,
+    "IsIgnore": null,
+    "Memo": "技力Lv11",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 23100.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 27,
+    "IsIgnore": null,
+    "Memo": "技力Lv12",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 42300.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 28,
+    "IsIgnore": null,
+    "Memo": "技力Lv13",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 77400.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 29,
+    "IsIgnore": null,
+    "Memo": "技力Lv14",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 141000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 30,
+    "IsIgnore": null,
+    "Memo": "技力Lv15",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Energy",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 250000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 2,
+    "DescriptionKey": "[SphereDescription16]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName16]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 31,
+    "IsIgnore": null,
+    "Memo": "魔力Lv1",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 32,
+    "IsIgnore": null,
+    "Memo": "魔力Lv2",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 100.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 33,
+    "IsIgnore": null,
+    "Memo": "魔力Lv3",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 180.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 34,
+    "IsIgnore": null,
+    "Memo": "魔力Lv4",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 330.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 35,
+    "IsIgnore": null,
+    "Memo": "魔力Lv5",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 620.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 36,
+    "IsIgnore": null,
+    "Memo": "魔力Lv6",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1130.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 37,
+    "IsIgnore": null,
+    "Memo": "魔力Lv7",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2070.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 38,
+    "IsIgnore": null,
+    "Memo": "魔力Lv8",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3800.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 39,
+    "IsIgnore": null,
+    "Memo": "魔力Lv9",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 6930.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 40,
+    "IsIgnore": null,
+    "Memo": "魔力Lv10",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 12600.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 41,
+    "IsIgnore": null,
+    "Memo": "魔力Lv11",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 23100.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 42,
+    "IsIgnore": null,
+    "Memo": "魔力Lv12",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 42300.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 43,
+    "IsIgnore": null,
+    "Memo": "魔力Lv13",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 77400.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 44,
+    "IsIgnore": null,
+    "Memo": "魔力Lv14",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 141000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 45,
+    "IsIgnore": null,
+    "Memo": "魔力Lv15",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Intelligence",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 250000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 3,
+    "DescriptionKey": "[SphereDescription31]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName31]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 46,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 240.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 47,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 440.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 48,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 810.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 49,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1480.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 50,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2710.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 51,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 4950.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 52,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 9050.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 53,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 16500.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 54,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 30200.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 55,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 55300.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 56,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 101000.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 57,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 184000.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 58,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 338000.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 59,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 617000.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 60,
+    "IsIgnore": null,
+    "Memo": "攻撃力Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.AttackPower",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1090000.0
+    },
+    "CategoryId": 4,
+    "DescriptionKey": "[SphereDescription46]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName46]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 61,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 25.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 62,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 45.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 63,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 80.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 64,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 140.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 65,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 250.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 66,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 430.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 67,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 750.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 68,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1300.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 69,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2200.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 70,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3710.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 71,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 6250.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 72,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 10400.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 73,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 15900.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 74,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 21900.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 75,
+    "IsIgnore": null,
+    "Memo": "物魔防御貫通Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DamageEnhance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 26900.0
+    },
+    "CategoryId": 5,
+    "DescriptionKey": "[SphereDescription61]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName61]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 76,
+    "IsIgnore": null,
+    "Memo": "命中Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 260.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 77,
+    "IsIgnore": null,
+    "Memo": "命中Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 500.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 78,
+    "IsIgnore": null,
+    "Memo": "命中Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 970.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 79,
+    "IsIgnore": null,
+    "Memo": "命中Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1900.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 80,
+    "IsIgnore": null,
+    "Memo": "命中Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3770.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 81,
+    "IsIgnore": null,
+    "Memo": "命中Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 7500.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 82,
+    "IsIgnore": null,
+    "Memo": "命中Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 14900.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 83,
+    "IsIgnore": null,
+    "Memo": "命中Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 29700.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 84,
+    "IsIgnore": null,
+    "Memo": "命中Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 59300.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 85,
+    "IsIgnore": null,
+    "Memo": "命中Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 118000.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 86,
+    "IsIgnore": null,
+    "Memo": "命中Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 235000.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 87,
+    "IsIgnore": null,
+    "Memo": "命中Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 463000.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 88,
+    "IsIgnore": null,
+    "Memo": "命中Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 835000.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 89,
+    "IsIgnore": null,
+    "Memo": "命中Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1380000.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 90,
+    "IsIgnore": null,
+    "Memo": "命中Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2080000.0
+    },
+    "CategoryId": 6,
+    "DescriptionKey": "[SphereDescription76]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName76]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 91,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 92,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 100.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 93,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 190.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 94,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 370.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 95,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 730.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 96,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1450.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 97,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2890.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 98,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 5770.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 99,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 11500.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 100,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 22900.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 101,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 45700.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 102,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 91300.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 103,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 167000.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 104,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 277000.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 105,
+    "IsIgnore": null,
+    "Memo": "クリティカルLv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Critical",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 416000.0
+    },
+    "CategoryId": 7,
+    "DescriptionKey": "[SphereDescription91]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName91]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 106,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 260.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 107,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 500.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 108,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 970.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 109,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1900.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 110,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3770.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 111,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 7500.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 112,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 14900.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 113,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 29700.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 114,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 59300.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 115,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 118000.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 116,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 235000.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 117,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 463000.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 118,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 835000.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 119,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1380000.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 120,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffHit",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2080000.0
+    },
+    "CategoryId": 8,
+    "DescriptionKey": "[SphereDescription106]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName106]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 121,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv1",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 35.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 122,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv2",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 123,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv3",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 90.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 124,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv4",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 150.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 125,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv5",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 270.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 126,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv6",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 510.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 127,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv7",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 930.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 128,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv8",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1700.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 129,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv9",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3120.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 130,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv10",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 5700.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 131,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv11",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 10400.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 132,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv12",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 19000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv13",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 34800.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 134,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv14",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 63700.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 135,
+    "IsIgnore": null,
+    "Memo": "耐久力Lv15",
+    "BaseParameterChangeInfo": {
+      "BaseParameterType": "BaseParameterType.Health",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 112000.0
+    },
+    "BattleParameterChangeInfo": null,
+    "CategoryId": 10,
+    "DescriptionKey": "[SphereDescription121]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName121]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 136,
+    "IsIgnore": null,
+    "Memo": "HPLv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 137,
+    "IsIgnore": null,
+    "Memo": "HPLv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1830.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 138,
+    "IsIgnore": null,
+    "Memo": "HPLv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3340.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 139,
+    "IsIgnore": null,
+    "Memo": "HPLv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 6110.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 140,
+    "IsIgnore": null,
+    "Memo": "HPLv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 11100.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 141,
+    "IsIgnore": null,
+    "Memo": "HPLv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 20400.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 142,
+    "IsIgnore": null,
+    "Memo": "HPLv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 37300.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 143,
+    "IsIgnore": null,
+    "Memo": "HPLv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 68300.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 144,
+    "IsIgnore": null,
+    "Memo": "HPLv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 124000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 145,
+    "IsIgnore": null,
+    "Memo": "HPLv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 228000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 146,
+    "IsIgnore": null,
+    "Memo": "HPLv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 417000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 147,
+    "IsIgnore": null,
+    "Memo": "HPLv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 762000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 148,
+    "IsIgnore": null,
+    "Memo": "HPLv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1390000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 149,
+    "IsIgnore": null,
+    "Memo": "HPLv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2540000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 150,
+    "IsIgnore": null,
+    "Memo": "HPLv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Hp",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 4510000.0
+    },
+    "CategoryId": 11,
+    "DescriptionKey": "[SphereDescription136]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName136]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 151,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 40.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 152,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 153,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 110.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 154,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 200.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 155,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 370.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 156,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 680.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 157,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1240.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 158,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2270.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 159,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 4160.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 160,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 7600.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 161,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 13900.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 162,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 25400.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 163,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 46400.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 164,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 84900.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 165,
+    "IsIgnore": null,
+    "Memo": "物理防御力Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 150000.0
+    },
+    "CategoryId": 12,
+    "DescriptionKey": "[SphereDescription151]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName151]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 166,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 40.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 167,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 168,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 110.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 169,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 200.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 170,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 370.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 171,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 680.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 172,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1240.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 173,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2270.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 174,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 4160.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 175,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 7600.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 176,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 13900.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 177,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 25400.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 178,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 46400.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 179,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 84900.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 180,
+    "IsIgnore": null,
+    "Memo": "魔法防御力Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.MagicDamageRelax",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 150000.0
+    },
+    "CategoryId": 13,
+    "DescriptionKey": "[SphereDescription166]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName166]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 181,
+    "IsIgnore": null,
+    "Memo": "回避Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 260.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 182,
+    "IsIgnore": null,
+    "Memo": "回避Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 500.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 183,
+    "IsIgnore": null,
+    "Memo": "回避Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 970.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 184,
+    "IsIgnore": null,
+    "Memo": "回避Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1900.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 185,
+    "IsIgnore": null,
+    "Memo": "回避Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3770.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 186,
+    "IsIgnore": null,
+    "Memo": "回避Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 7500.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 187,
+    "IsIgnore": null,
+    "Memo": "回避Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 14900.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 188,
+    "IsIgnore": null,
+    "Memo": "回避Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 29700.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 189,
+    "IsIgnore": null,
+    "Memo": "回避Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 59300.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 190,
+    "IsIgnore": null,
+    "Memo": "回避Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 118000.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 191,
+    "IsIgnore": null,
+    "Memo": "回避Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 235000.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 192,
+    "IsIgnore": null,
+    "Memo": "回避Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 463000.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 193,
+    "IsIgnore": null,
+    "Memo": "回避Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 835000.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 194,
+    "IsIgnore": null,
+    "Memo": "回避Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1380000.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 195,
+    "IsIgnore": null,
+    "Memo": "回避Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Avoidance",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2080000.0
+    },
+    "CategoryId": 14,
+    "DescriptionKey": "[SphereDescription181]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName181]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 196,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 60.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 197,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 100.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 198,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 190.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 199,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 370.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 200,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 730.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 201,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1450.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 202,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2890.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 203,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 5770.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 204,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 11500.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 205,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 22900.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 206,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 45700.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 207,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 91300.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 208,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 167000.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 209,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 277000.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 210,
+    "IsIgnore": null,
+    "Memo": "クリティカル耐性Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.CriticalResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 416000.0
+    },
+    "CategoryId": 15,
+    "DescriptionKey": "[SphereDescription196]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName196]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 211,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 260.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 212,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 500.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 213,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 970.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 214,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1900.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 215,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 3770.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 216,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 7500.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 217,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 14900.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 218,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 29700.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 219,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 59300.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 220,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 118000.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 221,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 235000.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 222,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 463000.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 223,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 835000.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 224,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 1380000.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 225,
+    "IsIgnore": null,
+    "Memo": "弱体効果耐性Lv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.DebuffResist",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 2080000.0
+    },
+    "CategoryId": 16,
+    "DescriptionKey": "[SphereDescription211]",
+    "IsAttackType": false,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName211]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 226,
+    "IsIgnore": null,
+    "Memo": "スピードLv1",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 10.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 5000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 1,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 227,
+    "IsIgnore": null,
+    "Memo": "スピードLv2",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 18.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 2,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 228,
+    "IsIgnore": null,
+    "Memo": "スピードLv3",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 33.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 25000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 3,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.R",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 229,
+    "IsIgnore": null,
+    "Memo": "スピードLv4",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 53.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 50000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 4,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 230,
+    "IsIgnore": null,
+    "Memo": "スピードLv5",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 80.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 5,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Small"
+  },
+  {
+    "Id": 231,
+    "IsIgnore": null,
+    "Memo": "スピードLv6",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 110.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 175000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 6,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 232,
+    "IsIgnore": null,
+    "Memo": "スピードLv7",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 150.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 250000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 7,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 233,
+    "IsIgnore": null,
+    "Memo": "スピードLv8",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 195.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 375000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 8,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 234,
+    "IsIgnore": null,
+    "Memo": "スピードLv9",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 240.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 500000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 9,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Medium"
+  },
+  {
+    "Id": 235,
+    "IsIgnore": null,
+    "Memo": "スピードLv10",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 300.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 625000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 10,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 236,
+    "IsIgnore": null,
+    "Memo": "スピードLv11",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 360.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 750000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ],
+    "Lv": 11,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.SSR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 237,
+    "IsIgnore": null,
+    "Memo": "スピードLv12",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 425.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 100,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 12,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 238,
+    "IsIgnore": null,
+    "Memo": "スピードLv13",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 500.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 200,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 13,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 239,
+    "IsIgnore": null,
+    "Memo": "スピードLv14",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 575.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 14,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  },
+  {
+    "Id": 240,
+    "IsIgnore": null,
+    "Memo": "スピードLv15",
+    "BaseParameterChangeInfo": null,
+    "BattleParameterChangeInfo": {
+      "BattleParameterType": "BattleParameterType.Speed",
+      "ChangeParameterType": "ChangeParameterType.Addition",
+      "Value": 660.0
+    },
+    "CategoryId": 9,
+    "DescriptionKey": "[SphereDescription226]",
+    "IsAttackType": true,
+    "ItemListRequiredToCombine": [
+      {
+        "ItemCount": 99999,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "Lv": 15,
+    "NameKey": "[SphereName226]",
+    "RarityFlags": "ItemRarityFlags.UR",
+    "SphereType": "SphereType.Large"
+  }
+]
