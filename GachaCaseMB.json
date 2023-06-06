@@ -844,5 +844,23 @@
     "GachaLimitDayFromCreatePlayer": 0,
     "StartTimeFixJST": "2023-05-31 17:30:00",
     "EndTimeFixJST": "2023-06-14 14:29:59"
+  },
+  {
+    "Id": 48,
+    "IsIgnore": null,
+    "Memo": "A.A.復刻キャラガチャ 06/07 14:30 ~ 06/21 14:29",
+    "DisplayOrder": 19048,
+    "ElementType": "ElementType.None",
+    "GachaCaseUiId": 47,
+    "GachaCategoryType": "GachaCategoryType.Character",
+    "GachaDestinyType": "GachaDestinyType.None",
+    "GachaGroupType": "GachaGroupType.None",
+    "GachaRelicType": "GachaRelicType.None",
+    "GachaResetType": "GachaResetType.None",
+    "GachaSelectListType": "GachaSelectListType.Default",
+    "GachaCaseFlags": "GachaCaseFlags.ShowCeilingCount",
+    "GachaLimitDayFromCreatePlayer": 0,
+    "StartTimeFixJST": "2023-06-07 14:30:00",
+    "EndTimeFixJST": "2023-06-21 14:29:59"
   }
 ]
