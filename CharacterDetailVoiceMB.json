@@ -24254,5 +24254,453 @@
     "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
     "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
     "UnlockQuestId": 0
+  },
+  {
+    "Id": 6702,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "Path": {
+      "TimelineId": 2,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 2,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6702]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6703,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "Path": {
+      "TimelineId": 3,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 3,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6703]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6704,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 4,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 4,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6704]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6705,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 5,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 5,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6705]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6706,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 6,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 6,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6706]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6707,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 7,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 7,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6707]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6708,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 8,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 8,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6708]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6709,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "Path": {
+      "TimelineId": 9,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 9,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6709]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6710,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 10,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 10,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6710]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6711,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 11,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 11,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6711]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6712,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 12,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 12,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6712]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6713,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 13,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 13,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6713]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6714,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 14,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 14,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6714]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6715,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 15,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 15,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6715]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6716,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 16,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 16,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6716]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6717,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 17,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 17,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6717]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6718,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 18,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 18,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6718]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6719,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 19,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 19,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6719]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6720,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 20,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 20,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6720]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6721,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 21,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 21,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6721]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6790,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "Path": {
+      "TimelineId": 20,
+      "TimelineType": "TimelineType.Battle"
+    },
+    "SortOrder": 90,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6790]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6791,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "Path": {
+      "TimelineId": 21,
+      "TimelineType": "TimelineType.Battle"
+    },
+    "SortOrder": 91,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6791]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6792,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 1,
+      "TimelineType": "TimelineType.Skill"
+    },
+    "SortOrder": 92,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6792]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6793,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 2,
+      "TimelineType": "TimelineType.Skill"
+    },
+    "SortOrder": 93,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6793]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6796,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 2,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 96,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6797,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 1,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 97,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6798,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 3,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 98,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "UnlockQuestId": 0
+  },
+  {
+    "Id": 6799,
+    "IsIgnore": null,
+    "Memo": "リシェス",
+    "CharacterId": 67,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 4,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 99,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "UnlockQuestId": 0
   }
 ]

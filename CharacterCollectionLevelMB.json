@@ -2167,5 +2167,132 @@
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "CollectionId": 17,
     "CollectionLevel": 6
+  },
+  {
+    "Id": 109,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Avoidance",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 25.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "CollectionId": 19,
+    "CollectionLevel": 1
+  },
+  {
+    "Id": 110,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Avoidance",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "CollectionId": 19,
+    "CollectionLevel": 2
+  },
+  {
+    "Id": 111,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Avoidance",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "CollectionId": 19,
+    "CollectionLevel": 3
+  },
+  {
+    "Id": 112,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Avoidance",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "CollectionId": 19,
+    "CollectionLevel": 4
+  },
+  {
+    "Id": 113,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Avoidance",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 51.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 210.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "CollectionId": 19,
+    "CollectionLevel": 5
+  },
+  {
+    "Id": 114,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Avoidance",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 52.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 220.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "CollectionId": 19,
+    "CollectionLevel": 6
   }
 ]
