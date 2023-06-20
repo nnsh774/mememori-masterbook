@@ -880,5 +880,23 @@
     "GachaLimitDayFromCreatePlayer": 0,
     "StartTimeFixJST": "2023-06-14 16:30:00",
     "EndTimeFixJST": "2023-06-30 14:29:59"
+  },
+  {
+    "Id": 50,
+    "IsIgnore": null,
+    "Memo": "ウィーラ復刻キャラガチャ 06/21 14:30 ~ 07/07 14:29 ",
+    "DisplayOrder": 19550,
+    "ElementType": "ElementType.None",
+    "GachaCaseUiId": 49,
+    "GachaCategoryType": "GachaCategoryType.Character",
+    "GachaDestinyType": "GachaDestinyType.None",
+    "GachaGroupType": "GachaGroupType.None",
+    "GachaRelicType": "GachaRelicType.None",
+    "GachaResetType": "GachaResetType.None",
+    "GachaSelectListType": "GachaSelectListType.Default",
+    "GachaCaseFlags": "GachaCaseFlags.ShowCeilingCount",
+    "GachaLimitDayFromCreatePlayer": 0,
+    "StartTimeFixJST": "2023-06-21 14:30:00",
+    "EndTimeFixJST": "2023-07-07 14:29:59"
   }
 ]
