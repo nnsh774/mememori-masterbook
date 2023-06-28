@@ -66,6 +66,12 @@
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
   },
   {
+    "Id": 402,
+    "IsIgnore": null,
+    "Memo": "アプリアセットのマスターデータが見つかりません",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
     "Id": 998,
     "IsIgnore": null,
     "Memo": "現在、新規のお客様のアカウント作成を停止しております。<br>再開時期等の情報は公式Twitterをご確認ください。",
@@ -492,6 +498,18 @@
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
   },
   {
+    "Id": 97009,
+    "IsIgnore": null,
+    "Memo": "アクティブスキルの条件データがありません",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 100113,
+    "IsIgnore": null,
+    "Memo": "このパーティは現在使用できません",
+    "ErrorMessageType": "ErrorMessageType.Toast"
+  },
+  {
     "Id": 101000,
     "IsIgnore": null,
     "Memo": null,
@@ -562,6 +580,12 @@
     "IsIgnore": null,
     "Memo": null,
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 104003,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.Toast"
   },
   {
     "Id": 111000,
@@ -975,6 +999,18 @@
     "Id": 122073,
     "IsIgnore": null,
     "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 122074,
+    "IsIgnore": null,
+    "Memo": "選択できないマスです",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 122075,
+    "IsIgnore": null,
+    "Memo": "バトル報酬が存在しません",
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
   },
   {
@@ -1854,6 +1890,12 @@
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
   },
   {
+    "Id": 231009,
+    "IsIgnore": null,
+    "Memo": "プレイヤーの装備固定されたキャラデータがありません",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
     "Id": 232000,
     "IsIgnore": null,
     "Memo": null,
@@ -2085,6 +2127,36 @@
     "Id": 232039,
     "IsIgnore": null,
     "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 232040,
+    "IsIgnore": null,
+    "Memo": "無効なパーティ編成のタイプです",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 232041,
+    "IsIgnore": null,
+    "Memo": "装備固定のクールダウン中です",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 232042,
+    "IsIgnore": null,
+    "Memo": "装備固定機能が解放されていません",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 232043,
+    "IsIgnore": null,
+    "Memo": "装備固定された武具データがありません",
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 232044,
+    "IsIgnore": null,
+    "Memo": "装備固定されたキャラデータがありません",
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
   },
   {
@@ -2835,6 +2907,30 @@
     "Id": 302003,
     "IsIgnore": null,
     "Memo": "報酬の受取期限を過ぎた為、報酬を受け取れませんでした",
+    "ErrorMessageType": "ErrorMessageType.Dialog"
+  },
+  {
+    "Id": 310001,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.Dialog"
+  },
+  {
+    "Id": 310002,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.Dialog"
+  },
+  {
+    "Id": 310003,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.Dialog"
+  },
+  {
+    "Id": 310004,
+    "IsIgnore": null,
+    "Memo": null,
     "ErrorMessageType": "ErrorMessageType.Dialog"
   },
   {
@@ -3770,8 +3866,8 @@
   {
     "Id": 1001000,
     "IsIgnore": null,
-    "Memo": null,
-    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+    "Memo": "ギルドに所属しないと発言できません",
+    "ErrorMessageType": "ErrorMessageType.Toast"
   },
   {
     "Id": 1001001,
@@ -3789,7 +3885,7 @@
     "Id": 1001003,
     "IsIgnore": null,
     "Memo": null,
-    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+    "ErrorMessageType": "ErrorMessageType.Toast"
   },
   {
     "Id": 1001004,

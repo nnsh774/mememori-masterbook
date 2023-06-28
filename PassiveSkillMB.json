@@ -4453,7 +4453,7 @@
   {
     "Id": 50003,
     "IsIgnore": null,
-    "Memo": "【撃鉄の魔女】\\nアームストロングSR",
+    "Memo": "アームストロングSR:",
     "NameKey": "[PassiveSkillName50003]",
     "PassiveSkillInfos": [
       {
@@ -4466,8 +4466,62 @@
           {
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 105001
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003001
+          }
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[PassiveSkillDescription500032]",
+        "CharacterLevel": 121,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003001
+          },
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003202
+          },
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003203
+          }
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[PassiveSkillDescription500033]",
+        "CharacterLevel": 201,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003301
+          },
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003302
+          },
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 50003303
           }
         ]
       }
@@ -4476,7 +4530,7 @@
   {
     "Id": 50004,
     "IsIgnore": null,
-    "Memo": "【撃鉄の魔女】\\nアームストロングSR",
+    "Memo": "アームストロングSR",
     "NameKey": "[PassiveSkillName50004]",
     "PassiveSkillInfos": [
       {
@@ -4487,10 +4541,73 @@
         "BlessingItemId": 0,
         "PassiveSubSetSkillInfos": [
           {
+            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 50004001
+          }
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[PassiveSkillDescription500042]",
+        "CharacterLevel": 141,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 50004001
+          },
+          {
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 105001
+            "SubSetSkillId": 50004202
+          }
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[PassiveSkillDescription500043]",
+        "CharacterLevel": 221,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 50004301
+          },
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 50004302
+          }
+        ]
+      },
+      {
+        "OrderNumber": 4,
+        "DescriptionKey": "[PassiveSkillDescription500044]",
+        "CharacterLevel": 181,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 50004401
+          },
+          {
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 50004402
           }
         ]
       }
