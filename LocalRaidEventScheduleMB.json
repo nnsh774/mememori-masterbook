@@ -1,5 +1,7 @@
 [
   {
+    "EndTime": "2022-12-07 13:30:00",
+    "StartTime": "2022-11-30 17:30:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "クリスマス2022",
@@ -54,14 +56,14 @@
       48,
       49
     ],
+    "LocalRaidEventTutorialId": 2001,
     "LocalRaidEventType": "LocalRaidEventType.PlusQuest",
     "LocalRaidStartEndTimes": [],
-    "RewardBonusRate": 0,
-    "StartTime": "2022-11-30 17:30:00",
-    "EndTime": "2022-12-07 13:30:00",
-    "LocalRaidEventTutorialId": 2001
+    "RewardBonusRate": 0
   },
   {
+    "EndTime": "2023-05-08 03:59:59",
+    "StartTime": "2023-04-28 04:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "20230428ルサールカ_イベント",
@@ -817,20 +819,18 @@
       798,
       799
     ],
+    "LocalRaidEventTutorialId": 2001,
     "LocalRaidEventType": "LocalRaidEventType.FullOpen",
     "LocalRaidStartEndTimes": [
       {
-        "StartTime": 123000,
-        "EndTime": 133000
+        "EndTime": 133000,
+        "StartTime": 123000
       },
       {
-        "StartTime": 193000,
-        "EndTime": 203000
+        "EndTime": 203000,
+        "StartTime": 193000
       }
     ],
-    "RewardBonusRate": 11000,
-    "StartTime": "2023-04-28 04:00:00",
-    "EndTime": "2023-05-08 03:59:59",
-    "LocalRaidEventTutorialId": 2001
+    "RewardBonusRate": 11000
   }
 ]

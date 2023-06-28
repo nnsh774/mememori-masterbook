@@ -1,13 +1,13 @@
 [
   {
+    "EndTime": "2033-05-31 23:59:59",
+    "StartTime": "2033-04-20 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "test1",
-    "NameKey": "[FriendMissionName1]",
-    "TransitionDestination": "MissionTransitionDestinationType.None",
     "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName1]",
     "RequireValue": 1,
-    "SortOrder": 1,
     "RewardList": [
       {
         "ItemCount": 100,
@@ -20,18 +20,18 @@
         "ItemType": "ItemType.Gold"
       }
     ],
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00"
+    "SortOrder": 1,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
   },
   {
+    "EndTime": "2033-05-31 23:59:59",
+    "StartTime": "2033-04-20 00:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "test2",
-    "NameKey": "[FriendMissionName2]",
-    "TransitionDestination": "MissionTransitionDestinationType.None",
     "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName2]",
     "RequireValue": 2,
-    "SortOrder": 2,
     "RewardList": [
       {
         "ItemCount": 200,
@@ -44,18 +44,18 @@
         "ItemType": "ItemType.Gold"
       }
     ],
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00"
+    "SortOrder": 2,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
   },
   {
+    "EndTime": "2033-05-31 23:59:59",
+    "StartTime": "2033-04-20 00:00:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": "test3",
-    "NameKey": "[FriendMissionName3]",
-    "TransitionDestination": "MissionTransitionDestinationType.None",
     "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName3]",
     "RequireValue": 3,
-    "SortOrder": 3,
     "RewardList": [
       {
         "ItemCount": 300,
@@ -68,18 +68,18 @@
         "ItemType": "ItemType.Gold"
       }
     ],
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00"
+    "SortOrder": 3,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
   },
   {
+    "EndTime": "2033-05-31 23:59:59",
+    "StartTime": "2033-04-20 00:00:00",
     "Id": 4,
     "IsIgnore": null,
     "Memo": "test4",
-    "NameKey": "[FriendMissionName4]",
-    "TransitionDestination": "MissionTransitionDestinationType.None",
     "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName4]",
     "RequireValue": 4,
-    "SortOrder": 4,
     "RewardList": [
       {
         "ItemCount": 300,
@@ -92,7 +92,7 @@
         "ItemType": "ItemType.Gold"
       }
     ],
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00"
+    "SortOrder": 4,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
   }
 ]

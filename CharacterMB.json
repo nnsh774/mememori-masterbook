@@ -1,5 +1,7 @@
 [
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "モニカ",
@@ -28,8 +30,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -44,11 +46,11 @@
     "NormalSkillId": 101,
     "PassiveSkillIds": [],
     "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 0
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "イリア",
@@ -77,8 +79,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -1,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -2,
@@ -95,11 +97,11 @@
       2003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": "アイリス",
@@ -128,8 +130,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -146,11 +148,11 @@
       3003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 4,
     "IsIgnore": null,
     "Memo": "ロキ",
@@ -179,8 +181,8 @@
       "DebuffResist": 0,
       "Defense": 6,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -197,11 +199,11 @@
       4003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 5,
     "IsIgnore": null,
     "Memo": "ソルティーナ",
@@ -230,8 +232,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 1,
       "HP": -1,
+      "Hit": 1,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -249,11 +251,11 @@
       5004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 6,
     "IsIgnore": null,
     "Memo": "アムレート",
@@ -282,8 +284,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -2,
@@ -301,11 +303,11 @@
       6004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 7,
     "IsIgnore": null,
     "Memo": "フェンリル",
@@ -334,8 +336,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 4,
@@ -353,11 +355,11 @@
       7004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 8,
     "IsIgnore": null,
     "Memo": "フローレンス",
@@ -386,8 +388,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -405,11 +407,11 @@
       8004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2022-12-28 15:30:00",
     "Id": 9,
     "IsIgnore": null,
     "Memo": "ソーニャ",
@@ -438,8 +440,8 @@
       "DebuffResist": 0,
       "Defense": 6,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -457,11 +459,11 @@
       9004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2022-12-28 15:30:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 10,
     "IsIgnore": null,
     "Memo": "モーザ",
@@ -490,8 +492,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -509,11 +511,11 @@
       10004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 11,
     "IsIgnore": null,
     "Memo": "シャーロット",
@@ -542,8 +544,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 3,
@@ -558,11 +560,11 @@
     "NormalSkillId": 101,
     "PassiveSkillIds": [],
     "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 0
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 12,
     "IsIgnore": null,
     "Memo": "アリアンロッド",
@@ -591,8 +593,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -609,11 +611,11 @@
       12003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 13,
     "IsIgnore": null,
     "Memo": "テオドラ",
@@ -642,8 +644,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -660,11 +662,11 @@
       13003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 14,
     "IsIgnore": null,
     "Memo": "ペトラ",
@@ -693,8 +695,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -711,11 +713,11 @@
       14003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 15,
     "IsIgnore": null,
     "Memo": "サブリナ",
@@ -744,8 +746,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 1,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -2,
@@ -763,11 +765,11 @@
       15004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 16,
     "IsIgnore": null,
     "Memo": "フレイシア",
@@ -796,8 +798,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -1,
@@ -815,11 +817,11 @@
       16004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 17,
     "IsIgnore": null,
     "Memo": "アモール",
@@ -848,8 +850,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -1,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -867,11 +869,11 @@
       17004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 18,
     "IsIgnore": null,
     "Memo": "リーン",
@@ -900,8 +902,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 1,
@@ -919,11 +921,11 @@
       18004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2022-11-01 15:00:00",
     "Id": 19,
     "IsIgnore": null,
     "Memo": "ベル",
@@ -952,8 +954,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 3,
       "HP": -3,
+      "Hit": 3,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -971,11 +973,11 @@
       19004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2022-11-01 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 20,
     "IsIgnore": null,
     "Memo": "ディアン",
@@ -1004,8 +1006,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 2,
       "HP": -2,
+      "Hit": 2,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1023,11 +1025,11 @@
       20004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 21,
     "IsIgnore": null,
     "Memo": "シズ",
@@ -1056,8 +1058,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1072,11 +1074,11 @@
     "NormalSkillId": 101,
     "PassiveSkillIds": [],
     "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 0
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 22,
     "IsIgnore": null,
     "Memo": "ザラ",
@@ -1105,8 +1107,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -2,
@@ -1123,11 +1125,11 @@
       22003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 23,
     "IsIgnore": null,
     "Memo": "ロザリー",
@@ -1156,8 +1158,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1174,11 +1176,11 @@
       23003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 24,
     "IsIgnore": null,
     "Memo": "リブラ",
@@ -1207,8 +1209,8 @@
       "DebuffResist": 0,
       "Defense": 6,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1225,11 +1227,11 @@
       24003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 25,
     "IsIgnore": null,
     "Memo": "アイビー",
@@ -1258,8 +1260,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1277,11 +1279,11 @@
       25004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 26,
     "IsIgnore": null,
     "Memo": "マーリン",
@@ -1310,8 +1312,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 1,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 4,
@@ -1329,11 +1331,11 @@
       26004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 27,
     "IsIgnore": null,
     "Memo": "コルディ",
@@ -1362,8 +1364,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 2,
       "HP": -2,
+      "Hit": 2,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1381,11 +1383,11 @@
       27004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 28,
     "IsIgnore": null,
     "Memo": "ニーナ",
@@ -1414,8 +1416,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1433,11 +1435,11 @@
       28004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 29,
     "IsIgnore": null,
     "Memo": "メルティーユ",
@@ -1466,8 +1468,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 1,
       "HP": -1,
+      "Hit": 1,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 3,
@@ -1485,11 +1487,11 @@
       29004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2022-11-30 15:00:00",
     "Id": 30,
     "IsIgnore": null,
     "Memo": "ルーク",
@@ -1518,8 +1520,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -2,
@@ -1538,11 +1540,11 @@
       30005
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2022-11-30 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 31,
     "IsIgnore": null,
     "Memo": "ガルム",
@@ -1571,8 +1573,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 2,
       "HP": -1,
+      "Hit": 2,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1587,11 +1589,11 @@
     "NormalSkillId": 101,
     "PassiveSkillIds": [],
     "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 0
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 32,
     "IsIgnore": null,
     "Memo": "スクルド",
@@ -1620,8 +1622,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 4,
@@ -1638,11 +1640,11 @@
       32003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 33,
     "IsIgnore": null,
     "Memo": "チェルナ",
@@ -1671,8 +1673,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -1,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1689,11 +1691,11 @@
       33003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 34,
     "IsIgnore": null,
     "Memo": "ソテイラ",
@@ -1722,8 +1724,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 2,
       "HP": -3,
+      "Hit": 2,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1740,11 +1742,11 @@
       34003
     ],
     "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 35,
     "IsIgnore": null,
     "Memo": "ミミ",
@@ -1773,8 +1775,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -1,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1792,11 +1794,11 @@
       35004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 36,
     "IsIgnore": null,
     "Memo": "トロポン",
@@ -1825,8 +1827,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1844,11 +1846,11 @@
       36004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 37,
     "IsIgnore": null,
     "Memo": "ハトホル",
@@ -1877,8 +1879,8 @@
       "DebuffResist": 0,
       "Defense": 6,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1896,11 +1898,11 @@
       37004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 38,
     "IsIgnore": null,
     "Memo": "オリヴィエ",
@@ -1929,8 +1931,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -1948,11 +1950,11 @@
       38004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 39,
     "IsIgnore": null,
     "Memo": "プリマヴェーラ",
@@ -1981,8 +1983,8 @@
       "DebuffResist": 0,
       "Defense": 6,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2000,11 +2002,11 @@
       39004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2022-12-15 15:00:00",
     "Id": 40,
     "IsIgnore": null,
     "Memo": "カロル",
@@ -2033,8 +2035,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2052,11 +2054,11 @@
       40004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2022-12-15 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 41,
     "IsIgnore": null,
     "Memo": "【弔花の魔女】ナターシャ",
@@ -2085,8 +2087,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -4,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2104,11 +2106,11 @@
       41004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2022-10-21 15:00:00",
     "Id": 42,
     "IsIgnore": null,
     "Memo": "【聖剣の魔女】フォルティナ",
@@ -2137,8 +2139,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 4,
@@ -2156,11 +2158,11 @@
       42004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2022-10-21 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-01-17 15:00:00",
     "Id": 43,
     "IsIgnore": null,
     "Memo": "【雷啼の魔女】ケルベロス",
@@ -2189,8 +2191,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2208,11 +2210,11 @@
       43004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-01-17 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-04-28 15:00:00",
     "Id": 44,
     "IsIgnore": null,
     "Memo": "【天泣の魔女】ルサールカ",
@@ -2241,8 +2243,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2261,11 +2263,11 @@
       44005
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-04-28 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2100-12-31 15:30:00",
     "Id": 45,
     "IsIgnore": null,
     "Memo": "【聖槍の魔女】エルフリンデ",
@@ -2294,8 +2296,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2310,11 +2312,11 @@
     "NormalSkillId": 101,
     "PassiveSkillIds": [],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2100-12-31 15:30:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 46,
     "IsIgnore": null,
     "Memo": "【雪幻の魔女】ルナリンド",
@@ -2343,8 +2345,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2362,11 +2364,11 @@
       46004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2022-11-15 15:00:00",
     "Id": 47,
     "IsIgnore": null,
     "Memo": "【劫火の魔女】ヴァルリーデ",
@@ -2395,8 +2397,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -3,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2414,11 +2416,11 @@
       47004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2022-11-15 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-02-15 15:00:00",
     "Id": 48,
     "IsIgnore": null,
     "Memo": "【錆鉄の魔女】Ａ.Ａ.",
@@ -2447,8 +2449,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 2,
       "HP": -1,
+      "Hit": 2,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2467,11 +2469,11 @@
       48005
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-02-15 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-02-28 15:00:00",
     "Id": 49,
     "IsIgnore": null,
     "Memo": "【骸晶の魔女】オフィーリア",
@@ -2500,8 +2502,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2520,11 +2522,11 @@
       49005
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-02-28 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2100-12-31 15:30:00",
     "Id": 50,
     "IsIgnore": null,
     "Memo": "【英霊の魔女】アームストロング",
@@ -2553,8 +2555,8 @@
       "DebuffResist": 0,
       "Defense": 9,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2572,11 +2574,11 @@
       50004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2100-12-31 15:30:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-01-31 15:00:00",
     "Id": 51,
     "IsIgnore": null,
     "Memo": "ソフィア",
@@ -2605,8 +2607,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2625,11 +2627,11 @@
       51005
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-01-31 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-05-15 15:00:00",
     "Id": 52,
     "IsIgnore": null,
     "Memo": "シヴィ",
@@ -2658,8 +2660,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 4,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -2,
@@ -2677,11 +2679,11 @@
       52004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-05-15 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-03-16 15:00:00",
     "Id": 53,
     "IsIgnore": null,
     "Memo": "ウィーラ",
@@ -2710,8 +2712,8 @@
       "DebuffResist": 0,
       "Defense": 7,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 0,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2729,11 +2731,11 @@
       53004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-03-16 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-04-14 15:00:00",
     "Id": 54,
     "IsIgnore": null,
     "Memo": "シフォン",
@@ -2762,8 +2764,8 @@
       "DebuffResist": 0,
       "Defense": 8,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2781,11 +2783,11 @@
       54004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-04-14 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-03-31 15:00:00",
     "Id": 55,
     "IsIgnore": null,
     "Memo": "レア",
@@ -2814,8 +2816,8 @@
       "DebuffResist": 0,
       "Defense": 6,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": -2,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2833,11 +2835,11 @@
       55004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-03-31 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-05-31 15:00:00",
     "Id": 58,
     "IsIgnore": null,
     "Memo": "アーティ",
@@ -2866,8 +2868,8 @@
       "DebuffResist": 0,
       "Defense": 10,
       "DefensePenetration": 0,
-      "Hit": 1,
       "HP": 0,
+      "Hit": 1,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
@@ -2885,11 +2887,11 @@
       58004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-05-31 15:00:00"
+    "RequireFragmentCount": 60
   },
   {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-06-14 15:00:00",
     "Id": 67,
     "IsIgnore": null,
     "Memo": "リシェス",
@@ -2918,8 +2920,8 @@
       "DebuffResist": 0,
       "Defense": 12,
       "DefensePenetration": 0,
-      "Hit": 0,
       "HP": 5,
+      "Hit": 0,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": -3,
@@ -2937,8 +2939,6 @@
       67004
     ],
     "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60,
-    "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2023-06-14 15:00:00"
+    "RequireFragmentCount": 60
   }
 ]

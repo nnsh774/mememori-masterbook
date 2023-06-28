@@ -1,5 +1,7 @@
 [
   {
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
@@ -39,11 +41,11 @@
     ],
     "GachaSelectListType": "GachaSelectListType.Default",
     "NewCharacterIdList": [],
-    "OrderNumber": 0,
-    "StartTimeFixJST": "2020-01-01 00:00:00",
-    "EndTimeFixJST": "2100-01-01 00:00:00"
+    "OrderNumber": 0
   },
   {
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
@@ -73,11 +75,11 @@
     ],
     "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [],
-    "OrderNumber": 0,
-    "StartTimeFixJST": "2020-01-01 00:00:00",
-    "EndTimeFixJST": "2100-01-01 00:00:00"
+    "OrderNumber": 0
   },
   {
+    "EndTimeFixJST": "2023-03-16 14:29:59",
+    "StartTimeFixJST": "2023-02-28 17:30:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
@@ -110,11 +112,11 @@
     "NewCharacterIdList": [
       49
     ],
-    "OrderNumber": 1,
-    "StartTimeFixJST": "2023-02-28 17:30:00",
-    "EndTimeFixJST": "2023-03-16 14:29:59"
+    "OrderNumber": 1
   },
   {
+    "EndTimeFixJST": "2023-03-31 14:29:59",
+    "StartTimeFixJST": "2023-03-16 17:30:00",
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
@@ -147,11 +149,11 @@
     "NewCharacterIdList": [
       53
     ],
-    "OrderNumber": 2,
-    "StartTimeFixJST": "2023-03-16 17:30:00",
-    "EndTimeFixJST": "2023-03-31 14:29:59"
+    "OrderNumber": 2
   },
   {
+    "EndTimeFixJST": "2023-04-07 14:29:59",
+    "StartTimeFixJST": "2023-03-23 17:30:00",
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
@@ -186,11 +188,11 @@
       42,
       53
     ],
-    "OrderNumber": 3,
-    "StartTimeFixJST": "2023-03-23 17:30:00",
-    "EndTimeFixJST": "2023-04-07 14:29:59"
+    "OrderNumber": 3
   },
   {
+    "EndTimeFixJST": "2023-04-07 14:29:59",
+    "StartTimeFixJST": "2023-03-31 17:30:00",
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
@@ -225,11 +227,11 @@
       42,
       55
     ],
-    "OrderNumber": 4,
-    "StartTimeFixJST": "2023-03-31 17:30:00",
-    "EndTimeFixJST": "2023-04-07 14:29:59"
+    "OrderNumber": 4
   },
   {
+    "EndTimeFixJST": "2023-04-14 14:29:59",
+    "StartTimeFixJST": "2023-04-07 14:30:00",
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
@@ -262,11 +264,11 @@
     "NewCharacterIdList": [
       55
     ],
-    "OrderNumber": 5,
-    "StartTimeFixJST": "2023-04-07 14:30:00",
-    "EndTimeFixJST": "2023-04-14 14:29:59"
+    "OrderNumber": 5
   },
   {
+    "EndTimeFixJST": "2023-04-28 14:29:59",
+    "StartTimeFixJST": "2023-04-14 17:30:00",
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
@@ -299,11 +301,11 @@
     "NewCharacterIdList": [
       54
     ],
-    "OrderNumber": 6,
-    "StartTimeFixJST": "2023-04-14 17:30:00",
-    "EndTimeFixJST": "2023-04-28 14:29:59"
+    "OrderNumber": 6
   },
   {
+    "EndTimeFixJST": "2023-04-28 14:29:59",
+    "StartTimeFixJST": "2023-04-21 14:30:00",
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
@@ -338,11 +340,11 @@
       54,
       19
     ],
-    "OrderNumber": 7,
-    "StartTimeFixJST": "2023-04-21 14:30:00",
-    "EndTimeFixJST": "2023-04-28 14:29:59"
+    "OrderNumber": 7
   },
   {
+    "EndTimeFixJST": "2023-05-08 14:29:59",
+    "StartTimeFixJST": "2023-04-28 17:30:00",
     "Id": 10,
     "IsIgnore": null,
     "Memo": "ルサールカ・ベル",
@@ -377,11 +379,11 @@
       44,
       19
     ],
-    "OrderNumber": 8,
-    "StartTimeFixJST": "2023-04-28 17:30:00",
-    "EndTimeFixJST": "2023-05-08 14:29:59"
+    "OrderNumber": 8
   },
   {
+    "EndTimeFixJST": "2023-05-15 14:29:59",
+    "StartTimeFixJST": "2023-05-08 14:30:00",
     "Id": 11,
     "IsIgnore": null,
     "Memo": "ルサールカのみ",
@@ -414,11 +416,11 @@
     "NewCharacterIdList": [
       44
     ],
-    "OrderNumber": 9,
-    "StartTimeFixJST": "2023-05-08 14:30:00",
-    "EndTimeFixJST": "2023-05-15 14:29:59"
+    "OrderNumber": 9
   },
   {
+    "EndTimeFixJST": "2023-05-31 14:29:59",
+    "StartTimeFixJST": "2023-05-15 16:30:00",
     "Id": 12,
     "IsIgnore": null,
     "Memo": "シヴィのみ",
@@ -451,11 +453,11 @@
     "NewCharacterIdList": [
       52
     ],
-    "OrderNumber": 10,
-    "StartTimeFixJST": "2023-05-15 16:30:00",
-    "EndTimeFixJST": "2023-05-31 14:29:59"
+    "OrderNumber": 10
   },
   {
+    "EndTimeFixJST": "2023-05-31 14:29:59",
+    "StartTimeFixJST": "2023-05-22 14:30:00",
     "Id": 13,
     "IsIgnore": null,
     "Memo": "シヴィ・ルーク復刻",
@@ -490,11 +492,11 @@
       52,
       30
     ],
-    "OrderNumber": 11,
-    "StartTimeFixJST": "2023-05-22 14:30:00",
-    "EndTimeFixJST": "2023-05-31 14:29:59"
+    "OrderNumber": 11
   },
   {
+    "EndTimeFixJST": "2023-06-07 14:29:59",
+    "StartTimeFixJST": "2023-05-31 17:30:00",
     "Id": 14,
     "IsIgnore": null,
     "Memo": "アーティ・ルーク復刻(上書き)",
@@ -529,11 +531,11 @@
       58,
       30
     ],
-    "OrderNumber": 12,
-    "StartTimeFixJST": "2023-05-31 17:30:00",
-    "EndTimeFixJST": "2023-06-07 14:29:59"
+    "OrderNumber": 12
   },
   {
+    "EndTimeFixJST": "2023-06-14 14:29:59",
+    "StartTimeFixJST": "2023-06-07 14:30:00",
     "Id": 15,
     "IsIgnore": null,
     "Memo": "アーティ",
@@ -566,11 +568,11 @@
     "NewCharacterIdList": [
       58
     ],
-    "OrderNumber": 13,
-    "StartTimeFixJST": "2023-06-07 14:30:00",
-    "EndTimeFixJST": "2023-06-14 14:29:59"
+    "OrderNumber": 13
   },
   {
+    "EndTimeFixJST": "2023-06-21 14:29:59",
+    "StartTimeFixJST": "2023-06-14 16:30:00",
     "Id": 16,
     "IsIgnore": null,
     "Memo": "リシェス",
@@ -603,11 +605,11 @@
     "NewCharacterIdList": [
       67
     ],
-    "OrderNumber": 14,
-    "StartTimeFixJST": "2023-06-14 16:30:00",
-    "EndTimeFixJST": "2023-06-21 14:29:59"
+    "OrderNumber": 14
   },
   {
+    "EndTimeFixJST": "2023-06-30 14:29:59",
+    "StartTimeFixJST": "2023-06-21 14:30:00",
     "Id": 17,
     "IsIgnore": null,
     "Memo": "リシェス・ウィーラ(0621切替用)",
@@ -642,11 +644,11 @@
       67,
       53
     ],
-    "OrderNumber": 15,
-    "StartTimeFixJST": "2023-06-21 14:30:00",
-    "EndTimeFixJST": "2023-06-30 14:29:59"
+    "OrderNumber": 15
   },
   {
+    "EndTimeFixJST": "2023-07-07 14:29:59",
+    "StartTimeFixJST": "2023-06-30 14:30:00",
     "Id": 18,
     "IsIgnore": null,
     "Memo": "ウィーラ(仮0630切替用)",
@@ -679,8 +681,6 @@
     "NewCharacterIdList": [
       53
     ],
-    "OrderNumber": 16,
-    "StartTimeFixJST": "2023-06-30 14:30:00",
-    "EndTimeFixJST": "2023-07-07 14:29:59"
+    "OrderNumber": 16
   }
 ]

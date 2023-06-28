@@ -1,5 +1,7 @@
 [
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 1,
     "IsIgnore": null,
     "Memo": "店舗",
@@ -12,16 +14,66 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.SetTime",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.CurrencyFree",
-        "ItemId": 1
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
       },
       {
-        "ItemType": "ItemType.Gold",
-        "ItemId": 1
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -42,6 +94,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#11443EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -74,11 +176,11 @@
     "SortOrder": 10,
     "TabNameKey": "[TradeShopTabName1]",
     "TradeShopItemCount": 6,
-    "TradeShopType": "TradeShopType.Store",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Store"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 2,
     "IsIgnore": null,
     "Memo": "武具合成_通常",
@@ -88,12 +190,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 2
+        "ItemId": 2,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -114,6 +266,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#292E5CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -146,11 +348,11 @@
     "SortOrder": 13,
     "TabNameKey": "[TradeShopTabName2]",
     "TradeShopItemCount": 5,
-    "TradeShopType": "TradeShopType.NormalEquipmentComposite",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.NormalEquipmentComposite"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 3,
     "IsIgnore": null,
     "Memo": "武具合成_聖装",
@@ -160,16 +362,66 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 2
+        "ItemId": 2,
+        "ItemType": "ItemType.ExchangePlaceItem"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 3
+        "ItemId": 3,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -190,6 +442,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -222,11 +524,11 @@
     "SortOrder": 14,
     "TabNameKey": "[TradeShopTabName3]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Fix"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 4,
     "IsIgnore": null,
     "Memo": "GvGショップ",
@@ -236,12 +538,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 12
+        "ItemId": 12,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -262,6 +614,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#194923FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -294,11 +696,11 @@
     "SortOrder": 17,
     "TabNameKey": "[TradeShopTabName4]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 5,
     "IsIgnore": null,
     "Memo": "キャラコインショップ",
@@ -308,12 +710,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneMonth",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 14
+        "ItemId": 14,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -334,6 +786,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#3D3752FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -366,11 +868,11 @@
     "SortOrder": 16,
     "TabNameKey": "[TradeShopTabName5]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 6,
     "IsIgnore": null,
     "Memo": "時空の洞窟ショップ",
@@ -380,12 +882,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneMonth",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 13
+        "ItemId": 13,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -406,6 +958,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C305CFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -438,11 +1040,11 @@
     "SortOrder": 18,
     "TabNameKey": "[TradeShopTabName6]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 7,
     "IsIgnore": null,
     "Memo": "バトルリーグショップ",
@@ -452,12 +1054,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 10
+        "ItemId": 10,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -478,6 +1130,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#214B8AFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -510,11 +1212,11 @@
     "SortOrder": 19,
     "TabNameKey": "[TradeShopTabName7]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 8,
     "IsIgnore": null,
     "Memo": "レジェンドリーグショップ",
@@ -524,12 +1226,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 11
+        "ItemId": 11,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -550,6 +1302,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#723A42FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -582,11 +1384,11 @@
     "SortOrder": 20,
     "TabNameKey": "[TradeShopTabName8]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 9,
     "IsIgnore": null,
     "Memo": "スフィアショップ",
@@ -596,16 +1398,66 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 4
+        "ItemId": 4,
+        "ItemType": "ItemType.ExchangePlaceItem"
       },
       {
-        "ItemType": "ItemType.Gold",
-        "ItemId": 1
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -626,6 +1478,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#573219FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -658,11 +1560,11 @@
     "SortOrder": 15,
     "TabNameKey": "[TradeShopTabName9]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Sphere",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Sphere"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 10,
     "IsIgnore": null,
     "Memo": "魔女の秘奥ショップ",
@@ -672,12 +1574,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 1
+        "ItemId": 1,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -698,6 +1650,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4C345EFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -730,11 +1732,11 @@
     "SortOrder": 21,
     "TabNameKey": "[TradeShopTabName10]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Fix"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 11,
     "IsIgnore": null,
     "Memo": "聖天使の神託ショップ",
@@ -744,24 +1746,74 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 6
+        "ItemId": 6,
+        "ItemType": "ItemType.ExchangePlaceItem"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 7
+        "ItemId": 7,
+        "ItemType": "ItemType.ExchangePlaceItem"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 8
+        "ItemId": 8,
+        "ItemType": "ItemType.ExchangePlaceItem"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 9
+        "ItemId": 9,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -782,6 +1834,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#633734FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -814,11 +1916,11 @@
     "SortOrder": 22,
     "TabNameKey": "[TradeShopTabName11]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 12,
     "IsIgnore": null,
     "Memo": "紅の金剛石ショップ",
@@ -828,12 +1930,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 5
+        "ItemId": 5,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -854,6 +2006,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#612C34FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -886,11 +2088,11 @@
     "SortOrder": 23,
     "TabNameKey": "[TradeShopTabName12]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 13,
     "IsIgnore": null,
     "Memo": "限定特典",
@@ -900,12 +2102,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneDay",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.CurrencyFree",
-        "ItemId": 1
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -926,6 +2178,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#8C4023FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -958,11 +2260,11 @@
     "SortOrder": 12,
     "TabNameKey": "[TradeShopTabName13]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": null,
-    "StartTime": null
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": "2022-12-12 03:59:59",
+    "StartTime": "2000-01-01 00:00:00",
     "Id": 14,
     "IsIgnore": null,
     "Memo": "20221130ルーク_イベント",
@@ -972,12 +2274,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.EventExchangePlaceItem",
-        "ItemId": 1
+        "ItemId": 1,
+        "ItemType": "ItemType.EventExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -998,6 +2350,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#ba3d3dFF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1030,11 +2432,11 @@
     "SortOrder": 24,
     "TabNameKey": "[TradeShopTabName14]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": "2022-12-12 03:59:59",
-    "StartTime": "2000-01-01 00:00:00"
+    "TradeShopType": "TradeShopType.Fix"
   },
   {
+    "EndTime": "2023-03-15 03:59:59",
+    "StartTime": "2023-02-28 04:00:00",
     "Id": 15,
     "IsIgnore": null,
     "Memo": "20230228オフィーリア_イベント",
@@ -1044,12 +2446,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.EventExchangePlaceItem",
-        "ItemId": 2
+        "ItemId": 2,
+        "ItemType": "ItemType.EventExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1079,6 +2531,56 @@
         "BannerPositionY": -3.0,
         "TitleFontSize": 0
       },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44061FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "zhTW": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
@@ -1102,11 +2604,11 @@
     "SortOrder": 1,
     "TabNameKey": "[TradeShopTabName15]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": "2023-03-15 03:59:59",
-    "StartTime": "2023-02-28 04:00:00"
+    "TradeShopType": "TradeShopType.Fix"
   },
   {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
     "Id": 16,
     "IsIgnore": null,
     "Memo": "グランドバトルショップ",
@@ -1116,12 +2618,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.OneWeek",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
-        "ItemId": 15
+        "ItemId": 15,
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1142,6 +2694,56 @@
         "TitleFontSize": 0
       },
       "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#323640FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1174,11 +2776,11 @@
     "SortOrder": 17,
     "TabNameKey": "[TradeShopTabName16]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Normal",
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00"
+    "TradeShopType": "TradeShopType.Normal"
   },
   {
+    "EndTime": "2023-04-13 03:59:59",
+    "StartTime": "2023-03-31 04:00:00",
     "Id": 17,
     "IsIgnore": null,
     "Memo": "20230331レア_イベント",
@@ -1188,12 +2790,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.EventExchangePlaceItem",
-        "ItemId": 4
+        "ItemId": 4,
+        "ItemType": "ItemType.EventExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1218,6 +2870,56 @@
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
         "BannerLineSpacing": 1.0,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a14010FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
         "BannerOutlineColor": "#a14010FF",
         "BannerPositionX": -40.0,
         "BannerPositionY": -3.0,
@@ -1246,11 +2948,11 @@
     "SortOrder": 11,
     "TabNameKey": "[TradeShopTabName17]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": "2023-04-13 03:59:59",
-    "StartTime": "2023-03-31 04:00:00"
+    "TradeShopType": "TradeShopType.Fix"
   },
   {
+    "EndTime": "2023-05-11 03:59:59",
+    "StartTime": "2023-04-28 04:00:00",
     "Id": 18,
     "IsIgnore": null,
     "Memo": "20230428ルサールカ_イベント",
@@ -1260,12 +2962,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.EventExchangePlaceItem",
-        "ItemId": 5
+        "ItemId": 5,
+        "ItemType": "ItemType.EventExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1290,6 +3042,56 @@
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
         "BannerLineSpacing": 1.0,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#4f3481FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
         "BannerOutlineColor": "#4f3481FF",
         "BannerPositionX": -40.0,
         "BannerPositionY": -3.0,
@@ -1318,11 +3120,11 @@
     "SortOrder": 11,
     "TabNameKey": "[TradeShopTabName18]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": "2023-05-11 03:59:59",
-    "StartTime": "2023-04-28 04:00:00"
+    "TradeShopType": "TradeShopType.Fix"
   },
   {
+    "EndTime": "2023-06-13 03:59:59",
+    "StartTime": "2023-05-31 04:00:00",
     "Id": 19,
     "IsIgnore": null,
     "Memo": "20230531アーティ_イベント",
@@ -1332,12 +3134,62 @@
     "AutoUpdateType": "TradeShopAutoUpdateType.None",
     "ConsumeItemInfos": [
       {
-        "ItemType": "ItemType.EventExchangePlaceItem",
-        "ItemId": 6
+        "ItemId": 6,
+        "ItemType": "ItemType.EventExchangePlaceItem"
       }
     ],
     "CustomTextLayout": {
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "idID": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
         "BannerLetterSpacing": 0.0,
@@ -1367,6 +3219,56 @@
         "BannerPositionY": -3.0,
         "TitleFontSize": 0
       },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#a44040FF",
+        "BannerPositionX": -40.0,
+        "BannerPositionY": -3.0,
+        "TitleFontSize": 0
+      },
       "zhTW": {
         "BannerAlignment": 4,
         "BannerFontSize": 23,
@@ -1390,8 +3292,6 @@
     "SortOrder": 11,
     "TabNameKey": "[TradeShopTabName19]",
     "TradeShopItemCount": 0,
-    "TradeShopType": "TradeShopType.Fix",
-    "EndTime": "2023-06-13 03:59:59",
-    "StartTime": "2023-05-31 04:00:00"
+    "TradeShopType": "TradeShopType.Fix"
   }
 ]

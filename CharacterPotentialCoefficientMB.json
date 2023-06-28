@@ -5,8 +5,8 @@
     "Memo": "初期N/N",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 0.82875,
-      "b": 0
+      "b": 0,
+      "m": 0.82875
     },
     "RarityFlags": "CharacterRarityFlags.N"
   },
@@ -16,8 +16,8 @@
     "Memo": "初期N/R",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 0.975,
-      "b": 0
+      "b": 0,
+      "m": 0.975
     },
     "RarityFlags": "CharacterRarityFlags.R"
   },
@@ -27,8 +27,8 @@
     "Memo": "初期N/R+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 1.1199808961221092,
-      "b": 1050
+      "b": 1050,
+      "m": 1.1199808961221092
     },
     "RarityFlags": "CharacterRarityFlags.RPlus"
   },
@@ -38,8 +38,8 @@
     "Memo": "初期N/SR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 1.2865202130035718,
-      "b": 3150
+      "b": 3150,
+      "m": 1.2865202130035718
     },
     "RarityFlags": "CharacterRarityFlags.SR"
   },
@@ -49,8 +49,8 @@
     "Memo": "初期N/SR+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 1.477823652347638,
-      "b": 5250
+      "b": 5250,
+      "m": 1.477823652347638
     },
     "RarityFlags": "CharacterRarityFlags.SRPlus"
   },
@@ -60,8 +60,8 @@
     "Memo": "初期N/SSR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 1.697573598427442,
-      "b": 7000
+      "b": 7000,
+      "m": 1.697573598427442
     },
     "RarityFlags": "CharacterRarityFlags.SSR"
   },
@@ -71,8 +71,8 @@
     "Memo": "初期N/SSR+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 1.95,
-      "b": 8400
+      "b": 8400,
+      "m": 1.95
     },
     "RarityFlags": "CharacterRarityFlags.SSRPlus"
   },
@@ -82,8 +82,8 @@
     "Memo": "初期N/UR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.0899582519457716,
-      "b": 9450
+      "b": 9450,
+      "m": 2.0899582519457716
     },
     "RarityFlags": "CharacterRarityFlags.UR"
   },
@@ -93,8 +93,8 @@
     "Memo": "初期N/UR+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.2399617922442183,
-      "b": 10150
+      "b": 10150,
+      "m": 2.2399617922442183
     },
     "RarityFlags": "CharacterRarityFlags.URPlus"
   },
@@ -104,8 +104,8 @@
     "Memo": "初期N/LR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.5730404260071436,
-      "b": 10500
+      "b": 10500,
+      "m": 2.5730404260071436
     },
     "RarityFlags": "CharacterRarityFlags.LR"
   },
@@ -115,8 +115,8 @@
     "Memo": "初期N/LR1",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.6453784385229597,
-      "b": 11950
+      "b": 11950,
+      "m": 2.6453784385229597
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus"
   },
@@ -126,8 +126,8 @@
     "Memo": "初期N/LR2",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.719750149383291,
-      "b": 13150
+      "b": 13150,
+      "m": 2.719750149383291
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus2"
   },
@@ -137,8 +137,8 @@
     "Memo": "初期N/LR3",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.7962127336308633,
-      "b": 14350
+      "b": 14350,
+      "m": 2.7962127336308633
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus3"
   },
@@ -148,8 +148,8 @@
     "Memo": "初期N/LR4",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.8748249737176472,
-      "b": 15500
+      "b": 15500,
+      "m": 2.8748249737176472
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus4"
   },
@@ -159,8 +159,8 @@
     "Memo": "初期N/LR5",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 2.955647304695276,
-      "b": 16700
+      "b": 16700,
+      "m": 2.955647304695276
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus5"
   },
@@ -170,8 +170,8 @@
     "Memo": "初期N/LR6",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 3.038741860675949,
-      "b": 17900
+      "b": 17900,
+      "m": 3.038741860675949
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus6"
   },
@@ -181,8 +181,8 @@
     "Memo": "初期N/LR7",
     "InitialRarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
-      "m": 3.070501109,
-      "b": 18274
+      "b": 18274,
+      "m": 3.070501109
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus7"
   },
@@ -192,8 +192,8 @@
     "Memo": "初期R,R/N",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 0.82875,
-      "b": 0
+      "b": 0,
+      "m": 0.82875
     },
     "RarityFlags": "CharacterRarityFlags.N"
   },
@@ -203,8 +203,8 @@
     "Memo": "初期R,R/R",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 0.975,
-      "b": 0
+      "b": 0,
+      "m": 0.975
     },
     "RarityFlags": "CharacterRarityFlags.R"
   },
@@ -214,8 +214,8 @@
     "Memo": "初期R,R/R+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 1.1199808961221092,
-      "b": 1050
+      "b": 1050,
+      "m": 1.1199808961221092
     },
     "RarityFlags": "CharacterRarityFlags.RPlus"
   },
@@ -225,8 +225,8 @@
     "Memo": "初期R,R/SR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 1.2865202130035718,
-      "b": 3150
+      "b": 3150,
+      "m": 1.2865202130035718
     },
     "RarityFlags": "CharacterRarityFlags.SR"
   },
@@ -236,8 +236,8 @@
     "Memo": "初期R,R/SR+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 1.477823652347638,
-      "b": 5250
+      "b": 5250,
+      "m": 1.477823652347638
     },
     "RarityFlags": "CharacterRarityFlags.SRPlus"
   },
@@ -247,8 +247,8 @@
     "Memo": "初期R,R/SSR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 1.697573598427442,
-      "b": 7000
+      "b": 7000,
+      "m": 1.697573598427442
     },
     "RarityFlags": "CharacterRarityFlags.SSR"
   },
@@ -258,8 +258,8 @@
     "Memo": "初期R,R/SSR+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 1.95,
-      "b": 8400
+      "b": 8400,
+      "m": 1.95
     },
     "RarityFlags": "CharacterRarityFlags.SSRPlus"
   },
@@ -269,8 +269,8 @@
     "Memo": "初期R,R/UR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.0899582519457716,
-      "b": 9450
+      "b": 9450,
+      "m": 2.0899582519457716
     },
     "RarityFlags": "CharacterRarityFlags.UR"
   },
@@ -280,8 +280,8 @@
     "Memo": "初期R,R/UR+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.2399617922442183,
-      "b": 10150
+      "b": 10150,
+      "m": 2.2399617922442183
     },
     "RarityFlags": "CharacterRarityFlags.URPlus"
   },
@@ -291,8 +291,8 @@
     "Memo": "初期R,R/LR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.5730404260071436,
-      "b": 10500
+      "b": 10500,
+      "m": 2.5730404260071436
     },
     "RarityFlags": "CharacterRarityFlags.LR"
   },
@@ -302,8 +302,8 @@
     "Memo": "初期R,R/LR1",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.6453784385229597,
-      "b": 11950
+      "b": 11950,
+      "m": 2.6453784385229597
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus"
   },
@@ -313,8 +313,8 @@
     "Memo": "初期R,R/LR2",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.719750149383291,
-      "b": 13150
+      "b": 13150,
+      "m": 2.719750149383291
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus2"
   },
@@ -324,8 +324,8 @@
     "Memo": "初期R,R/LR3",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.7962127336308633,
-      "b": 14350
+      "b": 14350,
+      "m": 2.7962127336308633
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus3"
   },
@@ -335,8 +335,8 @@
     "Memo": "初期R,R/LR4",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.8748249737176472,
-      "b": 15500
+      "b": 15500,
+      "m": 2.8748249737176472
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus4"
   },
@@ -346,8 +346,8 @@
     "Memo": "初期R,R/LR5",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 2.955647304695276,
-      "b": 16700
+      "b": 16700,
+      "m": 2.955647304695276
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus5"
   },
@@ -357,8 +357,8 @@
     "Memo": "初期R,R/LR6",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 3.038741860675949,
-      "b": 17900
+      "b": 17900,
+      "m": 3.038741860675949
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus6"
   },
@@ -368,8 +368,8 @@
     "Memo": "初期R,R/LR7",
     "InitialRarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
-      "m": 3.070501109,
-      "b": 18274
+      "b": 18274,
+      "m": 3.070501109
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus7"
   },
@@ -379,8 +379,8 @@
     "Memo": "初期SR/N",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 0.875,
-      "b": 0
+      "b": 0,
+      "m": 0.875
     },
     "RarityFlags": "CharacterRarityFlags.N"
   },
@@ -390,8 +390,8 @@
     "Memo": "初期SR/R",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 1.0,
-      "b": 0
+      "b": 0,
+      "m": 1.0
     },
     "RarityFlags": "CharacterRarityFlags.R"
   },
@@ -401,8 +401,8 @@
     "Memo": "初期SR/R+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 1.148698354997035,
-      "b": 1070
+      "b": 1070,
+      "m": 1.148698354997035
     },
     "RarityFlags": "CharacterRarityFlags.RPlus"
   },
@@ -412,8 +412,8 @@
     "Memo": "初期SR/SR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 1.3195079107728942,
-      "b": 3230
+      "b": 3230,
+      "m": 1.3195079107728942
     },
     "RarityFlags": "CharacterRarityFlags.SR"
   },
@@ -423,8 +423,8 @@
     "Memo": "初期SR/SR+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 1.515716566510398,
-      "b": 5390
+      "b": 5390,
+      "m": 1.515716566510398
     },
     "RarityFlags": "CharacterRarityFlags.SRPlus"
   },
@@ -434,8 +434,8 @@
     "Memo": "初期SR/SSR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 1.7411011265922482,
-      "b": 7180
+      "b": 7180,
+      "m": 1.7411011265922482
     },
     "RarityFlags": "CharacterRarityFlags.SSR"
   },
@@ -445,8 +445,8 @@
     "Memo": "初期SR/SSR+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.0,
-      "b": 8620
+      "b": 8620,
+      "m": 2.0
     },
     "RarityFlags": "CharacterRarityFlags.SSRPlus"
   },
@@ -456,8 +456,8 @@
     "Memo": "初期SR/UR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.1435469250725863,
-      "b": 9700
+      "b": 9700,
+      "m": 2.1435469250725863
     },
     "RarityFlags": "CharacterRarityFlags.UR"
   },
@@ -467,8 +467,8 @@
     "Memo": "初期SR/UR+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.29739670999407,
-      "b": 10420
+      "b": 10420,
+      "m": 2.29739670999407
     },
     "RarityFlags": "CharacterRarityFlags.URPlus"
   },
@@ -478,8 +478,8 @@
     "Memo": "初期SR/LR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.6390158215457884,
-      "b": 10780
+      "b": 10780,
+      "m": 2.6390158215457884
     },
     "RarityFlags": "CharacterRarityFlags.LR"
   },
@@ -489,8 +489,8 @@
     "Memo": "初期SR/LR1",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.7132086548953436,
-      "b": 12250
+      "b": 12250,
+      "m": 2.7132086548953436
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus"
   },
@@ -500,8 +500,8 @@
     "Memo": "初期SR/LR2",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.789487332700811,
-      "b": 13470
+      "b": 13470,
+      "m": 2.789487332700811
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus2"
   },
@@ -511,8 +511,8 @@
     "Memo": "初期SR/LR3",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.8679104960316546,
-      "b": 14700
+      "b": 14700,
+      "m": 2.8679104960316546
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus3"
   },
@@ -522,8 +522,8 @@
     "Memo": "初期SR/LR4",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 2.9485384345822023,
-      "b": 15920
+      "b": 15920,
+      "m": 2.9485384345822023
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus4"
   },
@@ -533,8 +533,8 @@
     "Memo": "初期SR/LR5",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 3.031433133020796,
-      "b": 17150
+      "b": 17150,
+      "m": 3.031433133020796
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus5"
   },
@@ -544,8 +544,8 @@
     "Memo": "初期SR/LR6",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 3.116658318641999,
-      "b": 18375
+      "b": 18375,
+      "m": 3.116658318641999
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus6"
   },
@@ -555,8 +555,8 @@
     "Memo": "初期SR/LR7",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
-      "m": 3.149231906,
-      "b": 18743
+      "b": 18743,
+      "m": 3.149231906
     },
     "RarityFlags": "CharacterRarityFlags.LRPlus7"
   }

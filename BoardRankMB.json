@@ -5,8 +5,8 @@
     "Memo": "泉ランク1",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 0,
         "TotalRequireCount": 0
       }
@@ -22,8 +22,8 @@
     "Memo": "泉ランク2",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 1,
         "TotalRequireCount": 1
       }
@@ -39,14 +39,14 @@
     "Memo": "泉ランク3",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.N",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 10,
         "TotalRequireCount": 10
       },
       {
-        "BountyQuestType": "BountyQuestType.Team",
         "BountyQuestRarity": "BountyQuestRarityFlags.N",
+        "BountyQuestType": "BountyQuestType.Team",
         "RequireCount": 5,
         "TotalRequireCount": 5
       }
@@ -62,14 +62,14 @@
     "Memo": "泉ランク4",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.R",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 20,
         "TotalRequireCount": 20
       },
       {
-        "BountyQuestType": "BountyQuestType.Team",
         "BountyQuestRarity": "BountyQuestRarityFlags.R",
+        "BountyQuestType": "BountyQuestType.Team",
         "RequireCount": 10,
         "TotalRequireCount": 10
       }
@@ -85,14 +85,14 @@
     "Memo": "泉ランク5",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.SR",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 30,
         "TotalRequireCount": 30
       },
       {
-        "BountyQuestType": "BountyQuestType.Team",
         "BountyQuestRarity": "BountyQuestRarityFlags.SR",
+        "BountyQuestType": "BountyQuestType.Team",
         "RequireCount": 10,
         "TotalRequireCount": 10
       }
@@ -108,14 +108,14 @@
     "Memo": "泉ランク6",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 30,
         "TotalRequireCount": 30
       },
       {
-        "BountyQuestType": "BountyQuestType.Team",
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "BountyQuestType": "BountyQuestType.Team",
         "RequireCount": 10,
         "TotalRequireCount": 10
       }
@@ -131,14 +131,14 @@
     "Memo": "泉ランク7",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 40,
         "TotalRequireCount": 70
       },
       {
-        "BountyQuestType": "BountyQuestType.Team",
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "BountyQuestType": "BountyQuestType.Team",
         "RequireCount": 20,
         "TotalRequireCount": 30
       }
@@ -154,14 +154,14 @@
     "Memo": "泉ランク8",
     "BoardRankConditionInfos": [
       {
-        "BountyQuestType": "BountyQuestType.Solo",
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "BountyQuestType": "BountyQuestType.Solo",
         "RequireCount": 100,
         "TotalRequireCount": 170
       },
       {
-        "BountyQuestType": "BountyQuestType.Team",
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
+        "BountyQuestType": "BountyQuestType.Team",
         "RequireCount": 50,
         "TotalRequireCount": 80
       }

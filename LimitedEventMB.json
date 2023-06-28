@@ -1,34 +1,26 @@
 [
   {
+    "EndTime": "2023-01-04 03:59:59",
+    "StartTime": "2022-12-27 04:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "塔解放イベント(12/27~01/03)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
-    "StartTime": "2022-12-27 04:00:00",
-    "EndTime": "2023-01-04 03:59:59"
+    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease"
   },
   {
+    "EndTime": "2023-05-21 03:59:59",
+    "StartTime": "2023-05-15 04:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "塔解放イベント(05/15~05/20)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
-    "StartTime": "2023-05-15 04:00:00",
-    "EndTime": "2023-05-21 03:59:59"
+    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease"
   },
   {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2023-05-31 14:30:00",
     "Id": 999,
     "IsIgnore": null,
     "Memo": "メニュー：シリアルコード入力ボタン",
-    "LimitedEventType": "LimitedEventType.SerialCode",
-    "StartTime": "2023-05-31 14:30:00",
-    "EndTime": "2100-01-01 00:00:00"
-  },
-  {
-    "Id": 9999,
-    "IsIgnore": null,
-    "Memo": "課金復元旧仕様適用期間",
-    "LimitedEventType": "LimitedEventType.ApplyOldPurchaseSystem",
-    "StartTime": "2023-05-21 04:00:00",
-    "EndTime": "2023-06-30 23:59:59"
+    "LimitedEventType": "LimitedEventType.SerialCode"
   }
 ]

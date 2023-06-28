@@ -1,5 +1,7 @@
 [
   {
+    "EndTime": "2100-12-31 23:59:59",
+    "StartTime": "2020-01-01 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "ギルドレイド通常ソーニャ",
@@ -7,6 +9,7 @@
       9001,
       9002
     ],
+    "BannerText": null,
     "BaseParameter": {
       "Energy": 10513,
       "Health": 7227,
@@ -25,8 +28,8 @@
       "DebuffResist": 50000,
       "Defense": 200000,
       "DefensePenetration": 500,
-      "Hit": 100000000,
       "HP": 250000000000,
+      "Hit": 100000000,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 500000,
@@ -35,6 +38,8 @@
       "Speed": 3533
     },
     "BattlePower": 73755,
+    "CharacterImageX": 0.03500000014901161,
+    "CharacterImageY": -0.05000000074505806,
     "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
     "ElementType": "ElementType.Blue",
     "EnemyRank": 240,
@@ -141,6 +146,8 @@
       }
     ],
     "GuildRaidBossType": "GuildRaidBossType.Normal",
+    "GuildRaidButtonU": 0.3400000035762787,
+    "GuildRaidButtonV": 0.5099999904632568,
     "JobFlags": "JobFlags.Sniper",
     "NameKey": "[CharacterName9]",
     "NormalDamageBar": [
@@ -252,16 +259,11 @@
     ],
     "ReleasableGuildFame": 0,
     "UnitIconId": 9,
-    "UnitIconType": "UnitIconType.Character",
-    "StartTime": "2020-01-01 00:00:00",
-    "EndTime": "2100-12-31 23:59:59",
-    "CharacterImageX": 0.03500000014901161,
-    "CharacterImageY": -0.05000000074505806,
-    "BannerText": null,
-    "GuildRaidButtonU": 0.3400000035762787,
-    "GuildRaidButtonV": 0.5099999904632568
+    "UnitIconType": "UnitIconType.Character"
   },
   {
+    "EndTime": "2100-12-31 23:59:59",
+    "StartTime": "2020-01-01 00:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "ギルドレイド解放ルーク",
@@ -269,6 +271,7 @@
       550230001,
       550230002
     ],
+    "BannerText": null,
     "BaseParameter": {
       "Energy": 14567,
       "Health": 17111,
@@ -287,8 +290,8 @@
       "DebuffResist": 500000,
       "Defense": 300000,
       "DefensePenetration": 5000,
-      "Hit": 100000000,
       "HP": 250000000000,
+      "Hit": 100000000,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 600000,
@@ -297,6 +300,8 @@
       "Speed": 2600
     },
     "BattlePower": 2657353,
+    "CharacterImageX": 0.023000000044703484,
+    "CharacterImageY": -0.07900000363588333,
     "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
     "ElementType": "ElementType.Green",
     "EnemyRank": 240,
@@ -403,6 +408,8 @@
       }
     ],
     "GuildRaidBossType": "GuildRaidBossType.Releasable",
+    "GuildRaidButtonU": 0.0,
+    "GuildRaidButtonV": 0.0,
     "JobFlags": "JobFlags.Warrior",
     "NameKey": "[CharacterName30]",
     "NormalDamageBar": [
@@ -515,16 +522,11 @@
     ],
     "ReleasableGuildFame": 10000,
     "UnitIconId": 30,
-    "UnitIconType": "UnitIconType.Character",
-    "StartTime": "2020-01-01 00:00:00",
-    "EndTime": "2100-12-31 23:59:59",
-    "CharacterImageX": 0.023000000044703484,
-    "CharacterImageY": -0.07900000363588333,
-    "BannerText": null,
-    "GuildRaidButtonU": 0.0,
-    "GuildRaidButtonV": 0.0
+    "UnitIconType": "UnitIconType.Character"
   },
   {
+    "EndTime": "2023-04-10  03:59:59",
+    "StartTime": "2023-03-31  04:00:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": "202303レア_イベント",
@@ -532,6 +534,7 @@
       550255001,
       550255002
     ],
+    "BannerText": "[GuildRaidEventRemainingTimeFormat]",
     "BaseParameter": {
       "Energy": 18208,
       "Health": 10043,
@@ -550,8 +553,8 @@
       "DebuffResist": 500000,
       "Defense": 200000,
       "DefensePenetration": 5000,
-      "Hit": 100000000,
       "HP": 250000000000,
+      "Hit": 100000000,
       "HpDrain": 0,
       "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 500000,
@@ -560,6 +563,8 @@
       "Speed": 3571
     },
     "BattlePower": 2668496,
+    "CharacterImageX": -0.009999999776482582,
+    "CharacterImageY": -0.05900000035762787,
     "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
     "ElementType": "ElementType.Green",
     "EnemyRank": 240,
@@ -666,6 +671,8 @@
       }
     ],
     "GuildRaidBossType": "GuildRaidBossType.Event",
+    "GuildRaidButtonU": 0.0,
+    "GuildRaidButtonV": 0.0,
     "JobFlags": "JobFlags.Sniper",
     "NameKey": "[CharacterName55]",
     "NormalDamageBar": [
@@ -842,13 +849,6 @@
     ],
     "ReleasableGuildFame": 0,
     "UnitIconId": 55,
-    "UnitIconType": "UnitIconType.Character",
-    "StartTime": "2023-03-31  04:00:00",
-    "EndTime": "2023-04-10  03:59:59",
-    "CharacterImageX": -0.009999999776482582,
-    "CharacterImageY": -0.05900000035762787,
-    "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-    "GuildRaidButtonU": 0.0,
-    "GuildRaidButtonV": 0.0
+    "UnitIconType": "UnitIconType.Character"
   }
 ]

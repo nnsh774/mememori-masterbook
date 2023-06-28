@@ -1,8 +1,20 @@
 [
   {
+    "EventEndTime": "2023-07-10 03:59:59",
+    "EventStartTime": "2023-06-30 04:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [
+      {
+        "EventItem": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "ItemType.EventExchangePlaceItem"
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 20,
     "RewardList": [
@@ -30,24 +42,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": "2023-06-30 04:00:00",
-    "EventEndTime": "2023-07-10 03:59:59",
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 5,
-          "ItemId": 7,
-          "ItemType": "ItemType.EventExchangePlaceItem"
-        },
-        "RarityFlags": "CharacterRarityFlags.None"
-      }
     ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 40,
     "RewardList": [
@@ -75,15 +78,24 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   },
   {
+    "EventEndTime": "2023-07-10 03:59:59",
+    "EventStartTime": "2023-06-30 04:00:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [
+      {
+        "EventItem": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "ItemType.EventExchangePlaceItem"
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 60,
     "RewardList": [
@@ -111,24 +123,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": "2023-06-30 04:00:00",
-    "EventEndTime": "2023-07-10 03:59:59",
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 5,
-          "ItemId": 7,
-          "ItemType": "ItemType.EventExchangePlaceItem"
-        },
-        "RarityFlags": "CharacterRarityFlags.None"
-      }
     ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 80,
     "RewardList": [
@@ -148,15 +151,24 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   },
   {
+    "EventEndTime": "2023-07-10 03:59:59",
+    "EventStartTime": "2023-06-30 04:00:00",
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [
+      {
+        "EventItem": {
+          "ItemCount": 10,
+          "ItemId": 7,
+          "ItemType": "ItemType.EventExchangePlaceItem"
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 100,
     "RewardList": [
@@ -176,24 +188,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": "2023-06-30 04:00:00",
-    "EventEndTime": "2023-07-10 03:59:59",
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 10,
-          "ItemId": 7,
-          "ItemType": "ItemType.EventExchangePlaceItem"
-        },
-        "RarityFlags": "CharacterRarityFlags.None"
-      }
     ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 20,
     "RewardList": [
@@ -221,15 +224,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 40,
     "RewardList": [
@@ -257,15 +260,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 60,
     "RewardList": [
@@ -301,15 +304,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 80,
     "RewardList": [
@@ -337,15 +340,15 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   },
   {
+    "EventEndTime": null,
+    "EventStartTime": null,
     "Id": 10,
     "IsIgnore": null,
     "Memo": null,
+    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 100,
     "RewardList": [
@@ -381,9 +384,6 @@
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ],
-    "EventStartTime": null,
-    "EventEndTime": null,
-    "EventMissionRewardList": []
+    ]
   }
 ]

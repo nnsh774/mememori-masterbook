@@ -1,0 +1,59 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": "日本語（日本語）",
+    "HyphenationBack": "$([\\{£¥‘“〈《「『【〔＄（［｛｢￡￥",
+    "HyphenationFront": "!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕ぁぃぅぇぉっゃゅょゎ゛゜ゝゞァィゥェォッャュョヮヵヶ・ーヽヾ！％），．：；？］｝｡｣､･ｧｨｩｪｫｬｭｮｯｰﾞﾟ￠♪",
+    "HyphenationSeparable": [
+      "…",
+      "─",
+      "Lv0123456789.",
+      "A.",
+      "-'’ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    ],
+    "LanguageType": "LanguageType.jaJP"
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "英語（English）",
+    "HyphenationBack": "〈《「『【〔＄（［｛￡￥°$([\\{£‘“｢«-¥",
+    "HyphenationFront": "〉》】゜￠♪—!%),.:;?]/}¢”%♪-—~»",
+    "HyphenationSeparable": [
+      "Lv0123456790.",
+      "-'’ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+      "A."
+    ],
+    "LanguageType": "LanguageType.enUS"
+  },
+  {
+    "Id": 13,
+    "IsIgnore": null,
+    "Memo": "繁体字（繁體中文）",
+    "HyphenationBack": "〈《「『【〔（［｛＄￡￥$([\\{£¥｢",
+    "HyphenationFront": "…，。、．：；！？—〉》」』】〕）］｝％＆／～￠♪゜℃℉!%),.:;?]}¢‰｡｣､･/",
+    "HyphenationSeparable": [
+      "…",
+      "─",
+      "Lv0123456789.",
+      "A.",
+      "小Ａ",
+      "-'’ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    ],
+    "LanguageType": "LanguageType.zhTW"
+  },
+  {
+    "Id": 14,
+    "IsIgnore": null,
+    "Memo": "韓国語（한국어）",
+    "HyphenationBack": "〈《「『【〔＄（［｛￡￥°$([\\{£¥‘“｢«-₩원",
+    "HyphenationFront": "〉》】゜￠♪—円!%),.:;?]/}¢’”%♪-—~»",
+    "HyphenationSeparable": [
+      "─",
+      "Lv0123456789.",
+      "A."
+    ],
+    "LanguageType": "LanguageType.koKR"
+  }
+]
