@@ -7941,6 +7941,58 @@
     "SkillMaxCoolTime": 4
   },
   {
+    "Id": 550270001,
+    "IsIgnore": null,
+    "Memo": "ギルドレイド水着サブリナ1",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription700013]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          70001301,
+          70001202
+        ]
+      }
+    ],
+    "NameKey": "[ActiveSkillName70001]",
+    "RootActiveSkillId": 70001,
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4
+  },
+  {
+    "Id": 550270002,
+    "IsIgnore": null,
+    "Memo": "ギルドレイド水着サブリナ2",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription700024]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          70002001,
+          70002002,
+          70002002,
+          70002002,
+          70002002,
+          70002403,
+          70002404,
+          70002405,
+          70002406,
+          70002407
+        ]
+      }
+    ],
+    "NameKey": "[ActiveSkillName70002]",
+    "RootActiveSkillId": 70002,
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4
+  },
+  {
     "Id": 550344001,
     "IsIgnore": null,
     "Memo": "ルサールカ別スキル1",
