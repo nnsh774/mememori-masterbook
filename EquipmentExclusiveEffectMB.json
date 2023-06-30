@@ -5368,5 +5368,138 @@
       }
     ],
     "CharacterId": 67
+  },
+  {
+    "Id": 247,
+    "IsIgnore": null,
+    "Memo": "水着サブリナSSR180",
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200.0
+      }
+    ],
+    "CharacterId": 70
+  },
+  {
+    "Id": 248,
+    "IsIgnore": null,
+    "Memo": "水着サブリナSSR200",
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600.0
+      }
+    ],
+    "CharacterId": 70
+  },
+  {
+    "Id": 249,
+    "IsIgnore": null,
+    "Memo": "水着サブリナSSR220",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700.0
+      }
+    ],
+    "CharacterId": 70
+  },
+  {
+    "Id": 250,
+    "IsIgnore": null,
+    "Memo": "水着サブリナSSR240",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800.0
+      }
+    ],
+    "CharacterId": 70
+  },
+  {
+    "Id": 251,
+    "IsIgnore": null,
+    "Memo": "水着サブリナUR",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900.0
+      }
+    ],
+    "CharacterId": 70
+  },
+  {
+    "Id": 252,
+    "IsIgnore": null,
+    "Memo": "水着サブリナLR",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterId": 70
   }
 ]
