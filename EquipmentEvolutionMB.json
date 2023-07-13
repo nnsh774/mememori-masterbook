@@ -51949,5 +51949,651 @@
       }
     ],
     "EvolutionType": "EvolutionType.ReinforcementLevelMaximumUp"
+  },
+  {
+    "Id": 85,
+    "IsIgnore": null,
+    "Memo": "水着モーザ魔導書",
+    "EquipmentEvolutionInfoList": [
+      {
+        "AfterEquipmentLv": 200,
+        "BeforeEquipmentLv": 180,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 150000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 50,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 59,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 220,
+        "BeforeEquipmentLv": 200,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 300000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 65,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 60,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 240,
+        "BeforeEquipmentLv": 220,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 450000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 80,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 61,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 250,
+        "BeforeEquipmentLv": 240,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 600000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 15,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 62,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 260,
+        "BeforeEquipmentLv": 250,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 750000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 15,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 63,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 270,
+        "BeforeEquipmentLv": 260,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 900000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 15,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 64,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 280,
+        "BeforeEquipmentLv": 270,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1050000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 20,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 65,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 290,
+        "BeforeEquipmentLv": 280,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1200000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 20,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 66,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 300,
+        "BeforeEquipmentLv": 290,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1350000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 20,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 67,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 310,
+        "BeforeEquipmentLv": 300,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1500000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 30,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 68,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 320,
+        "BeforeEquipmentLv": 310,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1650000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 30,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 69,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 330,
+        "BeforeEquipmentLv": 320,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1800000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 30,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 70,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 340,
+        "BeforeEquipmentLv": 330,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 1950000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 71,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 350,
+        "BeforeEquipmentLv": 340,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2100000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 72,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 360,
+        "BeforeEquipmentLv": 350,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 73,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 370,
+        "BeforeEquipmentLv": 360,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 74,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 380,
+        "BeforeEquipmentLv": 370,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 390,
+        "BeforeEquipmentLv": 380,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 76,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 400,
+        "BeforeEquipmentLv": 390,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 77,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 410,
+        "BeforeEquipmentLv": 400,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 78,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 420,
+        "BeforeEquipmentLv": 410,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 79,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 430,
+        "BeforeEquipmentLv": 420,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 80,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 440,
+        "BeforeEquipmentLv": 430,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 81,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 450,
+        "BeforeEquipmentLv": 440,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 82,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 460,
+        "BeforeEquipmentLv": 450,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 83,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 470,
+        "BeforeEquipmentLv": 460,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 84,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 480,
+        "BeforeEquipmentLv": 470,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 85,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 490,
+        "BeforeEquipmentLv": 480,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 86,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      },
+      {
+        "AfterEquipmentLv": 500,
+        "BeforeEquipmentLv": 490,
+        "RarityFlags": "EquipmentRarityFlags.None",
+        "RequiredItemList": [
+          {
+            "ItemCount": 2250000,
+            "ItemId": 1,
+            "ItemType": "ItemType.Gold"
+          },
+          {
+            "ItemCount": 40,
+            "ItemId": 75,
+            "ItemType": "ItemType.EquipmentFragment"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 87,
+            "ItemType": "ItemType.EquipmentSetMaterial"
+          }
+        ]
+      }
+    ],
+    "EvolutionType": "EvolutionType.ReinforcementLevelMaximumUp"
   }
 ]

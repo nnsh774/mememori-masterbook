@@ -115,5 +115,23 @@
     "EndGachaSelectListId": 19,
     "GachaAddCharacterType": "GachaAddCharacterType.New",
     "StartGachaSelectListId": 18
+  },
+  {
+    "Id": 14,
+    "IsIgnore": null,
+    "Memo": "ヴァルリーデ追加",
+    "CharacterId": 47,
+    "EndGachaSelectListId": 20,
+    "GachaAddCharacterType": "GachaAddCharacterType.New",
+    "StartGachaSelectListId": 19
+  },
+  {
+    "Id": 15,
+    "IsIgnore": null,
+    "Memo": "水着モーザ追加",
+    "CharacterId": 71,
+    "EndGachaSelectListId": 21,
+    "GachaAddCharacterType": "GachaAddCharacterType.New",
+    "StartGachaSelectListId": 20
   }
 ]

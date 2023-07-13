@@ -1,6 +1,6 @@
 [
   {
-    "Id": 1,
+    "Id": 101,
     "IsIgnore": null,
     "Memo": "通常SSR",
     "CharacterRarityFlags": "CharacterRarityFlags.SSR",
@@ -9,7 +9,7 @@
     "ReturnWitchLetterCount": 36
   },
   {
-    "Id": 2,
+    "Id": 102,
     "IsIgnore": null,
     "Memo": "通常SSR+",
     "CharacterRarityFlags": "CharacterRarityFlags.SSRPlus",
@@ -18,7 +18,7 @@
     "ReturnWitchLetterCount": 36
   },
   {
-    "Id": 3,
+    "Id": 103,
     "IsIgnore": null,
     "Memo": "通常UR",
     "CharacterRarityFlags": "CharacterRarityFlags.UR",
@@ -27,7 +27,7 @@
     "ReturnWitchLetterCount": 108
   },
   {
-    "Id": 4,
+    "Id": 104,
     "IsIgnore": null,
     "Memo": "通常UR+",
     "CharacterRarityFlags": "CharacterRarityFlags.URPlus",
@@ -36,7 +36,7 @@
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 5,
+    "Id": 105,
     "IsIgnore": null,
     "Memo": "通常LR",
     "CharacterRarityFlags": "CharacterRarityFlags.LR",
@@ -45,70 +45,79 @@
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 6,
+    "Id": 106,
     "IsIgnore": null,
-    "Memo": "通常LR＋",
+    "Memo": "通常LR+1",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 4,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 7,
+    "Id": 107,
     "IsIgnore": null,
-    "Memo": "通常LR＋1",
+    "Memo": "通常LR+2",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus2",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 5,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 8,
+    "Id": 108,
     "IsIgnore": null,
-    "Memo": "通常LR＋2",
+    "Memo": "通常LR+3",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus3",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 6,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 9,
+    "Id": 109,
     "IsIgnore": null,
-    "Memo": "通常LR＋3",
+    "Memo": "通常LR+4",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus4",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 7,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 10,
+    "Id": 110,
     "IsIgnore": null,
-    "Memo": "通常LR＋4",
+    "Memo": "通常LR+5",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 9,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 11,
+    "Id": 111,
     "IsIgnore": null,
-    "Memo": "通常LR＋5",
+    "Memo": "通常LR+6",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 11,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 12,
+    "Id": 112,
     "IsIgnore": null,
-    "Memo": "通常LR＋6",
+    "Memo": "通常LR+7",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "ElementClassificationType": "ElementClassificationType.DefaultElement",
     "ReturnCharacterCount": 13,
     "ReturnWitchLetterCount": 180
   },
   {
-    "Id": 13,
+    "Id": 113,
+    "IsIgnore": null,
+    "Memo": "通常LR+8",
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "ElementClassificationType": "ElementClassificationType.DefaultElement",
+    "ReturnCharacterCount": 15,
+    "ReturnWitchLetterCount": 180
+  },
+  {
+    "Id": 201,
     "IsIgnore": null,
     "Memo": "天冥SSR",
     "CharacterRarityFlags": "CharacterRarityFlags.SSR",
@@ -117,7 +126,7 @@
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 14,
+    "Id": 202,
     "IsIgnore": null,
     "Memo": "天冥SSR+",
     "CharacterRarityFlags": "CharacterRarityFlags.SSRPlus",
@@ -126,7 +135,7 @@
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 15,
+    "Id": 203,
     "IsIgnore": null,
     "Memo": "天冥UR",
     "CharacterRarityFlags": "CharacterRarityFlags.UR",
@@ -135,7 +144,7 @@
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 16,
+    "Id": 204,
     "IsIgnore": null,
     "Memo": "天冥UR+",
     "CharacterRarityFlags": "CharacterRarityFlags.URPlus",
@@ -144,7 +153,7 @@
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 17,
+    "Id": 205,
     "IsIgnore": null,
     "Memo": "天冥LR",
     "CharacterRarityFlags": "CharacterRarityFlags.LR",
@@ -153,66 +162,75 @@
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 18,
+    "Id": 206,
     "IsIgnore": null,
-    "Memo": "天冥LR+",
+    "Memo": "天冥LR+1",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 7,
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 19,
+    "Id": 207,
     "IsIgnore": null,
-    "Memo": "天冥LR+1",
+    "Memo": "天冥LR+2",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus2",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 8,
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 20,
+    "Id": 208,
     "IsIgnore": null,
-    "Memo": "天冥LR+2",
+    "Memo": "天冥LR+3",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus3",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 9,
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 21,
+    "Id": 209,
     "IsIgnore": null,
-    "Memo": "天冥LR+3",
+    "Memo": "天冥LR+4",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus4",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 10,
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 22,
+    "Id": 210,
     "IsIgnore": null,
-    "Memo": "天冥LR+4",
+    "Memo": "天冥LR+5",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 12,
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 23,
+    "Id": 211,
     "IsIgnore": null,
-    "Memo": "天冥LR+5",
+    "Memo": "天冥LR+6",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 14,
     "ReturnWitchLetterCount": 0
   },
   {
-    "Id": 24,
+    "Id": 212,
     "IsIgnore": null,
-    "Memo": "天冥LR+6",
+    "Memo": "天冥LR+7",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "ReturnCharacterCount": 16,
+    "ReturnWitchLetterCount": 0
+  },
+  {
+    "Id": 213,
+    "IsIgnore": null,
+    "Memo": "天冥LR+8",
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "ElementClassificationType": "ElementClassificationType.SpecialElement",
+    "ReturnCharacterCount": 18,
     "ReturnWitchLetterCount": 0
   }
 ]

@@ -25150,5 +25150,453 @@
     "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
     "UnlockQuestId": 0,
     "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]"
+  },
+  {
+    "Id": 7102,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "Path": {
+      "TimelineId": 2,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 2,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7102]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]"
+  },
+  {
+    "Id": 7103,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "Path": {
+      "TimelineId": 3,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 3,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7103]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]"
+  },
+  {
+    "Id": 7104,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 4,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 4,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7104]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]"
+  },
+  {
+    "Id": 7105,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 5,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 5,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7105]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]"
+  },
+  {
+    "Id": 7106,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 6,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 6,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7106]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]"
+  },
+  {
+    "Id": 7107,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 7,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 7,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7107]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]"
+  },
+  {
+    "Id": 7108,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 8,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 8,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7108]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]"
+  },
+  {
+    "Id": 7109,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "Path": {
+      "TimelineId": 9,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 9,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7109]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]"
+  },
+  {
+    "Id": 7110,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 10,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 10,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7110]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]"
+  },
+  {
+    "Id": 7111,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 11,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 11,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7111]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]"
+  },
+  {
+    "Id": 7112,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 12,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 12,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7112]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]"
+  },
+  {
+    "Id": 7113,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 13,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 13,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7113]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]"
+  },
+  {
+    "Id": 7114,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 14,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 14,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7114]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]"
+  },
+  {
+    "Id": 7115,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "Path": {
+      "TimelineId": 15,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 15,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7115]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]"
+  },
+  {
+    "Id": 7116,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 16,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 16,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7116]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]"
+  },
+  {
+    "Id": 7117,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 17,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 17,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7117]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]"
+  },
+  {
+    "Id": 7118,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 18,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 18,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7118]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]"
+  },
+  {
+    "Id": 7119,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 19,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 19,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7119]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]"
+  },
+  {
+    "Id": 7120,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 20,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 20,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7120]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]"
+  },
+  {
+    "Id": 7121,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "Path": {
+      "TimelineId": 21,
+      "TimelineType": "TimelineType.MyPage"
+    },
+    "SortOrder": 21,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7121]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]"
+  },
+  {
+    "Id": 7190,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "Path": {
+      "TimelineId": 20,
+      "TimelineType": "TimelineType.Battle"
+    },
+    "SortOrder": 90,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7190]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]"
+  },
+  {
+    "Id": 7191,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "Path": {
+      "TimelineId": 21,
+      "TimelineType": "TimelineType.Battle"
+    },
+    "SortOrder": 91,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7191]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]"
+  },
+  {
+    "Id": 7192,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 1,
+      "TimelineType": "TimelineType.Skill"
+    },
+    "SortOrder": 92,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7192]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]"
+  },
+  {
+    "Id": 7193,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 2,
+      "TimelineType": "TimelineType.Skill"
+    },
+    "SortOrder": 93,
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7193]",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]"
+  },
+  {
+    "Id": 7196,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 2,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 96,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]"
+  },
+  {
+    "Id": 7197,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 1,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 97,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]"
+  },
+  {
+    "Id": 7198,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 3,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 98,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]"
+  },
+  {
+    "Id": 7199,
+    "IsIgnore": null,
+    "Memo": "水着モーザ",
+    "CharacterId": 71,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "Path": {
+      "TimelineId": 4,
+      "TimelineType": "TimelineType.Memory"
+    },
+    "SortOrder": 99,
+    "SubtitleKey": null,
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]"
   }
 ]

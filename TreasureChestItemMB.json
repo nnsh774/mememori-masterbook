@@ -2364,5 +2364,14 @@
     "LotteryRewardId": 0,
     "SelectItemList": [],
     "TreasureChestItemListType": "TreasureChestItemListType.None"
+  },
+  {
+    "Id": 10000,
+    "IsIgnore": null,
+    "Memo": "魔女の手紙（SR）（補填用）",
+    "FixItemList": [],
+    "LotteryRewardId": 10000,
+    "SelectItemList": [],
+    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList"
   }
 ]

@@ -3870,5 +3870,21 @@
     "ItemId": 700,
     "ItemType": "ItemType.GachaTicket",
     "NeedCount": 1
+  },
+  {
+    "Id": 243,
+    "IsIgnore": null,
+    "Memo": "水着モーザガチャチケット",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "ItemType.GachaTicket"
+      }
+    ],
+    "ItemId": 710,
+    "ItemType": "ItemType.GachaTicket",
+    "NeedCount": 1
   }
 ]

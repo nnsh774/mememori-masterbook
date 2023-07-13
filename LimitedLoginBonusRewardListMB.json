@@ -218,5 +218,135 @@
         "ItemType": "ItemType.TreasureChest"
       }
     }
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "2023_サマーログインボーナス",
+    "DailyRewardList": [
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "ItemType.GachaTicket"
+        },
+        "Date": 1
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 20,
+          "ItemId": 1,
+          "ItemType": "ItemType.TreasureChestKey"
+        },
+        "Date": 2
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 200,
+          "ItemId": 2,
+          "ItemType": "ItemType.CharacterTrainingMaterial"
+        },
+        "Date": 3
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 5,
+          "ItemId": 1,
+          "ItemType": "ItemType.BossChallengeTicket"
+        },
+        "Date": 4
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "ItemType.TreasureChestKey"
+        },
+        "Date": 5
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 50,
+          "ItemId": 4,
+          "ItemType": "ItemType.ExchangePlaceItem"
+        },
+        "Date": 6
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 5,
+          "ItemId": 1,
+          "ItemType": "ItemType.TowerBattleTicket"
+        },
+        "Date": 7
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 5,
+          "ItemId": 3,
+          "ItemType": "ItemType.TreasureChestKey"
+        },
+        "Date": 8
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 50,
+          "ItemId": 4,
+          "ItemType": "ItemType.ExchangePlaceItem"
+        },
+        "Date": 9
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 1,
+          "ItemId": 15,
+          "ItemType": "ItemType.QuestQuickTicket"
+        },
+        "Date": 10
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "ItemType.GachaTicket"
+        },
+        "Date": 11
+      }
+    ],
+    "EveryDayRewardItem": null,
+    "ExistEveryDayReward": false,
+    "ExistSpecialReward": true,
+    "SpecialRewardItem": {
+      "Item": null,
+      "RarityFlags": "CharacterRarityFlags.None",
+      "Date": 11,
+      "SpecialRewardItem": {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    }
   }
 ]
