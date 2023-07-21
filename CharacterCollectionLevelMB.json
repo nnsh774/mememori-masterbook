@@ -3145,5 +3145,154 @@
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "CollectionId": 21,
     "CollectionLevel": 7
+  },
+  {
+    "Id": 2201,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "CollectionId": 22,
+    "CollectionLevel": 1
+  },
+  {
+    "Id": 2202,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "CollectionId": 22,
+    "CollectionLevel": 2
+  },
+  {
+    "Id": 2203,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "CollectionId": 22,
+    "CollectionLevel": 3
+  },
+  {
+    "Id": 2204,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "CollectionId": 22,
+    "CollectionLevel": 4
+  },
+  {
+    "Id": 2205,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1100.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 510.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "CollectionId": 22,
+    "CollectionLevel": 5
+  },
+  {
+    "Id": 2206,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 520.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "CollectionId": 22,
+    "CollectionLevel": 6
+  },
+  {
+    "Id": 2207,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1300.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 530.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "CollectionId": 22,
+    "CollectionLevel": 7
   }
 ]
