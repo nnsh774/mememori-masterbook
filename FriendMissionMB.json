@@ -1,98 +1,482 @@
 [
   {
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
     "Id": 1,
     "IsIgnore": null,
-    "Memo": "test1",
+    "Memo": "1人招待する_ダイヤ150潜在宝珠（2時間）",
     "AchievementType": "MissionAchievementType.UseFriendCode",
     "NameKey": "[FriendMissionName1]",
     "RequireValue": 1,
     "RewardList": [
       {
-        "ItemCount": 100,
+        "ItemCount": 150,
         "ItemId": 1,
         "ItemType": "ItemType.CurrencyFree"
       },
       {
-        "ItemCount": 1000000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
       }
     ],
     "SortOrder": 1,
     "TransitionDestination": "MissionTransitionDestinationType.None"
   },
   {
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
     "Id": 2,
     "IsIgnore": null,
-    "Memo": "test2",
+    "Memo": "2人招待する_ダイヤ150潜在宝珠（2時間）",
     "AchievementType": "MissionAchievementType.UseFriendCode",
     "NameKey": "[FriendMissionName2]",
     "RequireValue": 2,
     "RewardList": [
       {
-        "ItemCount": 200,
+        "ItemCount": 150,
         "ItemId": 1,
         "ItemType": "ItemType.CurrencyFree"
       },
       {
-        "ItemCount": 2000000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
       }
     ],
     "SortOrder": 2,
     "TransitionDestination": "MissionTransitionDestinationType.None"
   },
   {
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
     "Id": 3,
     "IsIgnore": null,
-    "Memo": "test3",
+    "Memo": "3人招待する_ダイヤ150潜在宝珠（2時間）",
     "AchievementType": "MissionAchievementType.UseFriendCode",
     "NameKey": "[FriendMissionName3]",
     "RequireValue": 3,
     "RewardList": [
       {
-        "ItemCount": 300,
+        "ItemCount": 150,
         "ItemId": 1,
         "ItemType": "ItemType.CurrencyFree"
       },
       {
-        "ItemCount": 3000000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
       }
     ],
     "SortOrder": 3,
     "TransitionDestination": "MissionTransitionDestinationType.None"
   },
   {
-    "EndTime": "2033-05-31 23:59:59",
-    "StartTime": "2033-04-20 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
     "Id": 4,
     "IsIgnore": null,
-    "Memo": "test4",
+    "Memo": "4人招待する_ダイヤ150潜在宝珠（2時間）",
     "AchievementType": "MissionAchievementType.UseFriendCode",
     "NameKey": "[FriendMissionName4]",
     "RequireValue": 4,
     "RewardList": [
       {
-        "ItemCount": 300,
+        "ItemCount": 150,
         "ItemId": 1,
         "ItemType": "ItemType.CurrencyFree"
       },
       {
-        "ItemCount": 3000000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
       }
     ],
     "SortOrder": 4,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "5人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName5]",
+    "RequireValue": 5,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 5,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "6人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName6]",
+    "RequireValue": 6,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 6,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "7人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName7]",
+    "RequireValue": 7,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 7,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "8人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName8]",
+    "RequireValue": 8,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 8,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "9人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName9]",
+    "RequireValue": 9,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 9,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 10,
+    "IsIgnore": null,
+    "Memo": "10人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName10]",
+    "RequireValue": 10,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 10,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 11,
+    "IsIgnore": null,
+    "Memo": "11人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName11]",
+    "RequireValue": 11,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 11,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 12,
+    "IsIgnore": null,
+    "Memo": "12人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName12]",
+    "RequireValue": 12,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 12,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 13,
+    "IsIgnore": null,
+    "Memo": "13人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName13]",
+    "RequireValue": 13,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 13,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 14,
+    "IsIgnore": null,
+    "Memo": "14人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName14]",
+    "RequireValue": 14,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 14,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 15,
+    "IsIgnore": null,
+    "Memo": "15人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName15]",
+    "RequireValue": 15,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 15,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 16,
+    "IsIgnore": null,
+    "Memo": "16人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName16]",
+    "RequireValue": 16,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 16,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 17,
+    "IsIgnore": null,
+    "Memo": "17人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName17]",
+    "RequireValue": 17,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 17,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 18,
+    "IsIgnore": null,
+    "Memo": "18人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName18]",
+    "RequireValue": 18,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 18,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 19,
+    "IsIgnore": null,
+    "Memo": "19人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName19]",
+    "RequireValue": 19,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 19,
+    "TransitionDestination": "MissionTransitionDestinationType.None"
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 20,
+    "IsIgnore": null,
+    "Memo": "20人招待する_ダイヤ150潜在宝珠（2時間）",
+    "AchievementType": "MissionAchievementType.UseFriendCode",
+    "NameKey": "[FriendMissionName20]",
+    "RequireValue": 20,
+    "RewardList": [
+      {
+        "ItemCount": 150,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ],
+    "SortOrder": 20,
     "TransitionDestination": "MissionTransitionDestinationType.None"
   }
 ]

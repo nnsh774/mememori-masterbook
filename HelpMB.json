@@ -410,6 +410,51 @@
     "TutorialDescriptionId": 0
   },
   {
+    "Id": 2210,
+    "IsIgnore": null,
+    "Memo": "キャラ育成画面 - 簡易DLG（スキル）",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine2210]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2210]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2211]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2211]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2212]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2212]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2213]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2213]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2214]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2214]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2215]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2215]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2216]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText2216]"
+      }
+    ],
+    "HelpTitle": "[HelpTitleKey]",
+    "IsDisplayed": true,
+    "TutorialDescriptionId": 0
+  },
+  {
     "Id": 2300,
     "IsIgnore": null,
     "Memo": "キャラ育成画面 - 武具DLG - 装備タブ",
@@ -1128,6 +1173,36 @@
         "HeadLine": "[HelpHeadLine5301]",
         "HelpParameterType": "HelpParameterType.None",
         "MainText": "[HelpMainText5301]"
+      }
+    ],
+    "HelpTitle": "[HelpTitleKey]",
+    "IsDisplayed": true,
+    "TutorialDescriptionId": 0
+  },
+  {
+    "Id": 5400,
+    "IsIgnore": null,
+    "Memo": "友達招待",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5400]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText5400]"
+      }
+    ],
+    "HelpTitle": "[HelpTitleKey]",
+    "IsDisplayed": true,
+    "TutorialDescriptionId": 0
+  },
+  {
+    "Id": 5500,
+    "IsIgnore": null,
+    "Memo": "バトル結果画面 - バトルレポートDLG",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5500]",
+        "HelpParameterType": "HelpParameterType.None",
+        "MainText": "[HelpMainText5500]"
       }
     ],
     "HelpTitle": "[HelpTitleKey]",
