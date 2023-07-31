@@ -3294,5 +3294,124 @@
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "CollectionId": 22,
     "CollectionLevel": 7
+  },
+  {
+    "Id": 2301,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 150.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "CollectionId": 23,
+    "CollectionLevel": 1
+  },
+  {
+    "Id": 2302,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 300.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "CollectionId": 23,
+    "CollectionLevel": 2
+  },
+  {
+    "Id": 2303,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 300.0
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "CollectionId": 23,
+    "CollectionLevel": 3
+  },
+  {
+    "Id": 2304,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 310.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "CollectionId": 23,
+    "CollectionLevel": 4
+  },
+  {
+    "Id": 2305,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 320.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "CollectionId": 23,
+    "CollectionLevel": 5
+  },
+  {
+    "Id": 2306,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 330.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "CollectionId": 23,
+    "CollectionLevel": 6
+  },
+  {
+    "Id": 2307,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 340.0
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "CollectionId": 23,
+    "CollectionLevel": 7
   }
 ]

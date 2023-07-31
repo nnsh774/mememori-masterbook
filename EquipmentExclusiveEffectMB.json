@@ -5634,5 +5634,138 @@
       }
     ],
     "CharacterId": 71
+  },
+  {
+    "Id": 259,
+    "IsIgnore": null,
+    "Memo": "フィアーSSR180",
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200.0
+      }
+    ],
+    "CharacterId": 60
+  },
+  {
+    "Id": 260,
+    "IsIgnore": null,
+    "Memo": "フィアーSSR200",
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 300.0
+      }
+    ],
+    "CharacterId": 60
+  },
+  {
+    "Id": 261,
+    "IsIgnore": null,
+    "Memo": "フィアーSSR220",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 350.0
+      }
+    ],
+    "CharacterId": 60
+  },
+  {
+    "Id": 262,
+    "IsIgnore": null,
+    "Memo": "フィアーSSR240",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 400.0
+      }
+    ],
+    "CharacterId": 60
+  },
+  {
+    "Id": 263,
+    "IsIgnore": null,
+    "Memo": "フィアーUR",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 450.0
+      }
+    ],
+    "CharacterId": 60
+  },
+  {
+    "Id": 264,
+    "IsIgnore": null,
+    "Memo": "フィアーLR",
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterId": 60
   }
 ]

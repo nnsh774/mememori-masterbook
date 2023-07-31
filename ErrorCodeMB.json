@@ -39,7 +39,7 @@
     "Id": 103,
     "IsIgnore": null,
     "Memo": null,
-    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+    "ErrorMessageType": "ErrorMessageType.Dialog"
   },
   {
     "Id": 111,
@@ -1126,6 +1126,24 @@
     "IsIgnore": null,
     "Memo": "ランキングデータの更新に失敗しました",
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 132016,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 132017,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 132018,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.Dialog"
   },
   {
     "Id": 141000,
