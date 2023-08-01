@@ -3,1805 +3,1805 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "バトル開始時敵全体に4ターンの間「睡眠」を付与する。",
+    "NameKey": "[DungeonBattleRelicName1]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription1]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 1,
-    "NameKey": "[DungeonBattleRelicName1]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000001,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription1]",
+    "IconId": 1
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "味方が攻撃を行い、攻撃を受ける敵のHP割合が10％以下の場合、その敵に最大HP×10％の直接攻撃を行う。この攻撃は相手のシールドを無視する。",
+    "NameKey": "[DungeonBattleRelicName2]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription2]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 2,
-    "NameKey": "[DungeonBattleRelicName2]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000002,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription2]",
+    "IconId": 2
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "バトル開始時、ランダムな敵1体の被ダメージを10ターンの間100％増加させる。その敵が戦闘不能になった場合、生存しているランダムな敵1体に同じ効果を与える。",
+    "NameKey": "[DungeonBattleRelicName3]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription3]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 3,
-    "NameKey": "[DungeonBattleRelicName3]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000003,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription3]",
+    "IconId": 3
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "バトル開始時敵全体に敵の現在HP×10％の直接攻撃を行う",
+    "NameKey": "[DungeonBattleRelicName4]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription4]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 4,
-    "NameKey": "[DungeonBattleRelicName4]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000004,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription4]",
+    "IconId": 4
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "バトル開始時ランダムな敵2体に「共鳴」を付与する。お互いが受けたダメージの50％を受けるようになる。",
+    "NameKey": "[DungeonBattleRelicName5]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription5]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 5,
-    "NameKey": "[DungeonBattleRelicName5]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000005,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription5]",
+    "IconId": 5
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "味方が攻撃する時一定の確率で、攻撃を受ける敵の防御力を10％減少させる。「緋炎の剣」を持っている場合、さらに防御力を吸収しその味方に加えるようになる。",
+    "NameKey": "[DungeonBattleRelicName6]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription6]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 6,
-    "NameKey": "[DungeonBattleRelicName6]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000006,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription6]",
+    "IconId": 6
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "味方が攻撃する時一定の確率で、攻撃を受ける敵の攻撃力を10％減少させる。「氷蒼の剣」を持っている場合、さらに攻撃力を吸収しその味方に加えるようになる。",
+    "NameKey": "[DungeonBattleRelicName7]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription7]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 7,
-    "NameKey": "[DungeonBattleRelicName7]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000007,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription7]",
+    "IconId": 7
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": "毎ターン開始時一定の確率で、ランダムな敵に5回敵の現在HP×10％の直接攻撃を行い、1ターンの間「気絶」を付与する。",
+    "NameKey": "[DungeonBattleRelicName8]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription8]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 8,
-    "NameKey": "[DungeonBattleRelicName8]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000008,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription8]",
+    "IconId": 8
   },
   {
     "Id": 9,
     "IsIgnore": null,
     "Memo": "ターン終了時、このターン中にダメージを受けなかった味方のスピードを1ターンの間20%増加させる。",
+    "NameKey": "[DungeonBattleRelicName9]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription9]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 9,
-    "NameKey": "[DungeonBattleRelicName9]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000009,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription9]",
+    "IconId": 9
   },
   {
     "Id": 10,
     "IsIgnore": null,
     "Memo": "ターン開始時敵全体に敵の現在HP×20％の直接攻撃を行う。この効果は4ターンに1回発動する。",
+    "NameKey": "[DungeonBattleRelicName10]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription10]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 10,
-    "NameKey": "[DungeonBattleRelicName10]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000010,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription10]",
+    "IconId": 10
   },
   {
     "Id": 11,
     "IsIgnore": null,
     "Memo": "6ターン目のターン開始時、敵全体に敵の現在HP×30％の直接攻撃を行い、1ターンの間「気絶」を付与する。",
+    "NameKey": "[DungeonBattleRelicName11]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription11]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 11,
-    "NameKey": "[DungeonBattleRelicName11]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000011,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription11]",
+    "IconId": 11
   },
   {
     "Id": 12,
     "IsIgnore": null,
     "Memo": "味方が攻撃した時、攻撃を受けた敵に受けたダメージ×10％の直接攻撃を行う。ただしこのダメージでは敵は戦闘不能にならない。",
+    "NameKey": "[DungeonBattleRelicName12]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription12]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 12,
-    "NameKey": "[DungeonBattleRelicName12]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000012,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription12]",
+    "IconId": 12
   },
   {
     "Id": 13,
     "IsIgnore": null,
     "Memo": "味方が攻撃を受け、その味方のHP割合が30％以下になった場合、その味方に4ターンの間「再生」を付与する。毎ターン行動開始時自身のHPを最大HP×15％回復する。この効果はバトル中1回のみ発動する。",
+    "NameKey": "[DungeonBattleRelicName13]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription13]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 13,
-    "NameKey": "[DungeonBattleRelicName13]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000013,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription13]",
+    "IconId": 13
   },
   {
     "Id": 14,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の攻撃力を時空の洞窟で勝利した数×6％増加させる。（最大60％まで）",
+    "NameKey": "[DungeonBattleRelicName14]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 15,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription14]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 14,
-    "NameKey": "[DungeonBattleRelicName14]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000014,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 15
+    "DescriptionKey": "[DungeonBattleRelicDescription14]",
+    "IconId": 14
   },
   {
     "Id": 15,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の攻撃力を時空の洞窟で勝利した数×3％増加させる。（最大30％まで）",
+    "NameKey": "[DungeonBattleRelicName15]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 16,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription15]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 14,
-    "NameKey": "[DungeonBattleRelicName15]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000015,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 16
+    "DescriptionKey": "[DungeonBattleRelicDescription15]",
+    "IconId": 14
   },
   {
     "Id": 16,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の攻撃力を時空の洞窟で勝利した数×1.5％増加させる。（最大15％まで）",
+    "NameKey": "[DungeonBattleRelicName16]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription16]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 14,
-    "NameKey": "[DungeonBattleRelicName16]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000016,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription16]",
+    "IconId": 14
   },
   {
     "Id": 17,
     "IsIgnore": null,
     "Memo": "バトル開始時、4ターンの間味方全体のスピードを12%増加させる",
+    "NameKey": "[DungeonBattleRelicName17]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription17]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 17,
-    "NameKey": "[DungeonBattleRelicName17]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000017,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription17]",
+    "IconId": 17
   },
   {
     "Id": 18,
     "IsIgnore": null,
     "Memo": "味方が致命的な攻撃を受けたときその味方はHP1で耐え、その味方に1ターンの間「ダメージ無効」を付与する。この効果はバトル中1回のみ発動する。",
+    "NameKey": "[DungeonBattleRelicName18]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription18]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 18,
-    "NameKey": "[DungeonBattleRelicName18]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000018,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription18]",
+    "IconId": 18
   },
   {
     "Id": 19,
     "IsIgnore": null,
     "Memo": "バトル開始時、持っている「エネルギーの欠片」の数によって味方全体に以下の効果を付与する。",
+    "NameKey": "[DungeonBattleRelicName19]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": true,
-    "DescriptionKey": "[DungeonBattleRelicDescription19]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 19,
-    "NameKey": "[DungeonBattleRelicName19]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000019,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription19]",
+    "IconId": 19
   },
   {
     "Id": 20,
     "IsIgnore": null,
     "Memo": "「エネルギーの欠片」によるバフ効果が2倍になる。",
+    "NameKey": "[DungeonBattleRelicName20]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription20]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 20,
-    "NameKey": "[DungeonBattleRelicName20]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000020,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription20]",
+    "IconId": 20
   },
   {
     "Id": 21,
     "IsIgnore": null,
     "Memo": "3層目のハードモードで、バトル開始時味方全体の攻撃力と防御力を30％増加させる。",
+    "NameKey": "[DungeonBattleRelicName21]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 22,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription21]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 21,
-    "NameKey": "[DungeonBattleRelicName21]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000021,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 22
+    "DescriptionKey": "[DungeonBattleRelicDescription21]",
+    "IconId": 21
   },
   {
     "Id": 22,
     "IsIgnore": null,
     "Memo": "3層目のハードモードで、バトル開始時味方全体の攻撃力と防御力を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName22]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 23,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription22]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 21,
-    "NameKey": "[DungeonBattleRelicName22]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000022,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 23
+    "DescriptionKey": "[DungeonBattleRelicDescription22]",
+    "IconId": 21
   },
   {
     "Id": 23,
     "IsIgnore": null,
     "Memo": "3層目のハードモードで、バトル開始時味方全体の攻撃力と防御力を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName23]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription23]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 21,
-    "NameKey": "[DungeonBattleRelicName23]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000023,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription23]",
+    "IconId": 21
   },
   {
     "Id": 24,
     "IsIgnore": null,
     "Memo": "毎ターン開始時、行動阻害効果を付帯している敵全体に敵の現在HP×30％の直接攻撃を行う。",
+    "NameKey": "[DungeonBattleRelicName24]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription24]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 24,
-    "NameKey": "[DungeonBattleRelicName24]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000024,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription24]",
+    "IconId": 24
   },
   {
     "Id": 25,
     "IsIgnore": null,
     "Memo": "バトル開始時、HP割合が90％以上の味方の攻撃力を15％増加させる。",
+    "NameKey": "[DungeonBattleRelicName25]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription25]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 25,
-    "NameKey": "[DungeonBattleRelicName25]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000025,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription25]",
+    "IconId": 25
   },
   {
     "Id": 26,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体のクリダメ強化を20％増加させる",
+    "NameKey": "[DungeonBattleRelicName26]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 27,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription26]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 26,
-    "NameKey": "[DungeonBattleRelicName26]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000026,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 27
+    "DescriptionKey": "[DungeonBattleRelicDescription26]",
+    "IconId": 26
   },
   {
     "Id": 27,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体のクリダメ強化を10％増加させる",
+    "NameKey": "[DungeonBattleRelicName27]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 28,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription27]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 26,
-    "NameKey": "[DungeonBattleRelicName27]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000027,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 28
+    "DescriptionKey": "[DungeonBattleRelicDescription27]",
+    "IconId": 26
   },
   {
     "Id": 28,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体のクリダメ強化を5％増加させる",
+    "NameKey": "[DungeonBattleRelicName28]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription28]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 26,
-    "NameKey": "[DungeonBattleRelicName28]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000028,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription28]",
+    "IconId": 26
   },
   {
     "Id": 29,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の被ダメージを20％減少させる",
+    "NameKey": "[DungeonBattleRelicName29]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 30,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription29]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 29,
-    "NameKey": "[DungeonBattleRelicName29]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000029,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 30
+    "DescriptionKey": "[DungeonBattleRelicDescription29]",
+    "IconId": 29
   },
   {
     "Id": 30,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の被ダメージを10％減少させる",
+    "NameKey": "[DungeonBattleRelicName30]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 31,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription30]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 29,
-    "NameKey": "[DungeonBattleRelicName30]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000030,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 31
+    "DescriptionKey": "[DungeonBattleRelicDescription30]",
+    "IconId": 29
   },
   {
     "Id": 31,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の被ダメージを５％減少させる",
+    "NameKey": "[DungeonBattleRelicName31]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription31]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 29,
-    "NameKey": "[DungeonBattleRelicName31]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000031,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription31]",
+    "IconId": 29
   },
   {
     "Id": 32,
     "IsIgnore": null,
     "Memo": "バトル開始時味方全体の通常攻撃を強化する。「火傷」を付与するようになる。毎ターン行動開始時に最大HP×【大きさ】のダメージを与える。",
+    "NameKey": "[DungeonBattleRelicName32]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription32]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 32,
-    "NameKey": "[DungeonBattleRelicName32]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000032,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription32]",
+    "IconId": 32
   },
   {
     "Id": 33,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がソーサラーの味方の攻撃力を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName33]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 34,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Sorcerer",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription33]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 33,
-    "NameKey": "[DungeonBattleRelicName33]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000033,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 34
+    "DescriptionKey": "[DungeonBattleRelicDescription33]",
+    "IconId": 33
   },
   {
     "Id": 34,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がソーサラーの味方の攻撃力を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName34]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 35,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Sorcerer",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription34]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 33,
-    "NameKey": "[DungeonBattleRelicName34]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000034,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 35
+    "DescriptionKey": "[DungeonBattleRelicDescription34]",
+    "IconId": 33
   },
   {
     "Id": 35,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がソーサラーの味方の攻撃力を5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName35]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Sorcerer",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription35]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 33,
-    "NameKey": "[DungeonBattleRelicName35]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000035,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription35]",
+    "IconId": 33
   },
   {
     "Id": 36,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がウォーリアの味方の攻撃力を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName36]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 37,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Warrior",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription36]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 36,
-    "NameKey": "[DungeonBattleRelicName36]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000036,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 37
+    "DescriptionKey": "[DungeonBattleRelicDescription36]",
+    "IconId": 36
   },
   {
     "Id": 37,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がウォーリアの味方の攻撃力を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName37]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 38,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Warrior",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription37]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 36,
-    "NameKey": "[DungeonBattleRelicName37]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000037,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 38
+    "DescriptionKey": "[DungeonBattleRelicDescription37]",
+    "IconId": 36
   },
   {
     "Id": 38,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がウォーリアの味方の攻撃力を5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName38]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Warrior",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription38]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 36,
-    "NameKey": "[DungeonBattleRelicName38]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000038,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription38]",
+    "IconId": 36
   },
   {
     "Id": 39,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がスナイパーの味方の攻撃力を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName39]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 40,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Sniper",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription39]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 39,
-    "NameKey": "[DungeonBattleRelicName39]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000039,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 40
+    "DescriptionKey": "[DungeonBattleRelicDescription39]",
+    "IconId": 39
   },
   {
     "Id": 40,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がスナイパーの味方の攻撃力を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName40]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 41,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Sniper",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription40]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 39,
-    "NameKey": "[DungeonBattleRelicName40]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000040,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 41
+    "DescriptionKey": "[DungeonBattleRelicDescription40]",
+    "IconId": 39
   },
   {
     "Id": 41,
     "IsIgnore": null,
     "Memo": "バトル開始時、職業がスナイパーの味方の攻撃力を5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName41]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.Sniper",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription41]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 39,
-    "NameKey": "[DungeonBattleRelicName41]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000041,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription41]",
+    "IconId": 39
   },
   {
     "Id": 42,
     "IsIgnore": null,
     "Memo": "バトル開始時、スピードが低い味方3体のクリティカルを20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName42]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 43,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription42]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 42,
-    "NameKey": "[DungeonBattleRelicName42]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000042,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 43
+    "DescriptionKey": "[DungeonBattleRelicDescription42]",
+    "IconId": 42
   },
   {
     "Id": 43,
     "IsIgnore": null,
     "Memo": "バトル開始時、スピードが低い味方3体のクリティカルを10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName43]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 44,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription43]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 42,
-    "NameKey": "[DungeonBattleRelicName43]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000043,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 44
+    "DescriptionKey": "[DungeonBattleRelicDescription43]",
+    "IconId": 42
   },
   {
     "Id": 44,
     "IsIgnore": null,
     "Memo": "バトル開始時、スピードが低い味方3体のクリティカルを5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName44]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription44]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 42,
-    "NameKey": "[DungeonBattleRelicName44]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000044,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription44]",
+    "IconId": 42
   },
   {
     "Id": 45,
     "IsIgnore": null,
     "Memo": "バトル開始時味方全体のHPを最大HP×12％回復する。",
+    "NameKey": "[DungeonBattleRelicName45]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 46,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription45]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 45,
-    "NameKey": "[DungeonBattleRelicName45]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000045,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 46
+    "DescriptionKey": "[DungeonBattleRelicDescription45]",
+    "IconId": 45
   },
   {
     "Id": 46,
     "IsIgnore": null,
     "Memo": "バトル開始時味方全体のHPを最大HP×8％回復する。",
+    "NameKey": "[DungeonBattleRelicName46]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 47,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription46]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 45,
-    "NameKey": "[DungeonBattleRelicName46]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000046,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 47
+    "DescriptionKey": "[DungeonBattleRelicDescription46]",
+    "IconId": 45
   },
   {
     "Id": 47,
     "IsIgnore": null,
     "Memo": "バトル開始時味方全体のHPを最大HP×4％回復する。",
+    "NameKey": "[DungeonBattleRelicName47]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription47]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 45,
-    "NameKey": "[DungeonBattleRelicName47]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000047,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription47]",
+    "IconId": 45
   },
   {
     "Id": 48,
     "IsIgnore": null,
     "Memo": "回復の樹を使用したとき、さらに味方全体のHPを最大HP×25％回復する。",
+    "NameKey": "[DungeonBattleRelicName48]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription48]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 48,
-    "NameKey": "[DungeonBattleRelicName48]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000048,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription48]",
+    "IconId": 48
   },
   {
     "Id": 49,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体のHPと防御力を時空の洞窟で勝利した数×6％増加させる。（最大60％まで）",
+    "NameKey": "[DungeonBattleRelicName49]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 50,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription49]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 49,
-    "NameKey": "[DungeonBattleRelicName49]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000049,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 50
+    "DescriptionKey": "[DungeonBattleRelicDescription49]",
+    "IconId": 49
   },
   {
     "Id": 50,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体のHPと防御力を時空の洞窟で勝利した数×3％増加させる。（最大30％まで）",
+    "NameKey": "[DungeonBattleRelicName50]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 51,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription50]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 49,
-    "NameKey": "[DungeonBattleRelicName50]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000050,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 51
+    "DescriptionKey": "[DungeonBattleRelicDescription50]",
+    "IconId": 49
   },
   {
     "Id": 51,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体のHPと防御力を時空の洞窟で勝利した数×1.5％増加させる。（最大15％まで）",
+    "NameKey": "[DungeonBattleRelicName51]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription51]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 49,
-    "NameKey": "[DungeonBattleRelicName51]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000051,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription51]",
+    "IconId": 49
   },
   {
     "Id": 52,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が愁の味方の防御力とクリダメ強化を40％増加させる。",
+    "NameKey": "[DungeonBattleRelicName52]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 53,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementBlue",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription52]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 52,
-    "NameKey": "[DungeonBattleRelicName52]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000052,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 53
+    "DescriptionKey": "[DungeonBattleRelicDescription52]",
+    "IconId": 52
   },
   {
     "Id": 53,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が愁の味方の防御力とクリダメ強化を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName53]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 54,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementBlue",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription53]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 52,
-    "NameKey": "[DungeonBattleRelicName53]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000053,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 54
+    "DescriptionKey": "[DungeonBattleRelicDescription53]",
+    "IconId": 52
   },
   {
     "Id": 54,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が愁の味方の防御力とクリダメ強化を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName54]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementBlue",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription54]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 52,
-    "NameKey": "[DungeonBattleRelicName54]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000054,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription54]",
+    "IconId": 52
   },
   {
     "Id": 55,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が業の味方の攻撃力とHPドレインを40％増加させる。",
+    "NameKey": "[DungeonBattleRelicName55]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 56,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementRed",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription55]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 55,
-    "NameKey": "[DungeonBattleRelicName55]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000055,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 56
+    "DescriptionKey": "[DungeonBattleRelicDescription55]",
+    "IconId": 55
   },
   {
     "Id": 56,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が業の味方の攻撃力とHPドレインを20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName56]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 57,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementRed",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription56]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 55,
-    "NameKey": "[DungeonBattleRelicName56]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000056,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 57
+    "DescriptionKey": "[DungeonBattleRelicDescription56]",
+    "IconId": 55
   },
   {
     "Id": 57,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が業の味方の攻撃力とHPドレインを10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName57]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementRed",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription57]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 55,
-    "NameKey": "[DungeonBattleRelicName57]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000057,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription57]",
+    "IconId": 55
   },
   {
     "Id": 58,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が心の味方のクリティカルとスピードを40％増加させる。",
+    "NameKey": "[DungeonBattleRelicName58]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 59,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementGreen",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription58]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 58,
-    "NameKey": "[DungeonBattleRelicName58]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000058,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 59
+    "DescriptionKey": "[DungeonBattleRelicDescription58]",
+    "IconId": 58
   },
   {
     "Id": 59,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が心の味方のクリティカルとスピードを20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName59]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 60,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementGreen",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription59]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 58,
-    "NameKey": "[DungeonBattleRelicName59]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000059,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 60
+    "DescriptionKey": "[DungeonBattleRelicDescription59]",
+    "IconId": 58
   },
   {
     "Id": 60,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が心の味方のクリティカルとスピードを10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName60]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementGreen",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription60]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 58,
-    "NameKey": "[DungeonBattleRelicName60]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000060,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription60]",
+    "IconId": 58
   },
   {
     "Id": 61,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が渇の味方のHPと命中を40％増加させる。",
+    "NameKey": "[DungeonBattleRelicName61]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 62,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementYellow",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription61]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 61,
-    "NameKey": "[DungeonBattleRelicName61]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000061,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 62
+    "DescriptionKey": "[DungeonBattleRelicDescription61]",
+    "IconId": 61
   },
   {
     "Id": 62,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が渇の味方のHPと命中を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName62]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 63,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementYellow",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription62]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 61,
-    "NameKey": "[DungeonBattleRelicName62]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000062,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 63
+    "DescriptionKey": "[DungeonBattleRelicDescription62]",
+    "IconId": 61
   },
   {
     "Id": 63,
     "IsIgnore": null,
     "Memo": "バトル開始時、属性が渇の味方のHPと命中を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName63]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementYellow",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription63]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 61,
-    "NameKey": "[DungeonBattleRelicName63]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000063,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription63]",
+    "IconId": 61
   },
   {
     "Id": 64,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の命中を30％、クリティカルを10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName64]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 65,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription64]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 64,
-    "NameKey": "[DungeonBattleRelicName64]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000064,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 65
+    "DescriptionKey": "[DungeonBattleRelicDescription64]",
+    "IconId": 64
   },
   {
     "Id": 65,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の命中を20％、クリティカルを5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName65]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 66,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription65]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 64,
-    "NameKey": "[DungeonBattleRelicName65]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000065,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 66
+    "DescriptionKey": "[DungeonBattleRelicDescription65]",
+    "IconId": 64
   },
   {
     "Id": 66,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の命中を10％、クリティカルを2.5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName66]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription66]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 64,
-    "NameKey": "[DungeonBattleRelicName66]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000066,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription66]",
+    "IconId": 64
   },
   {
     "Id": 67,
     "IsIgnore": null,
     "Memo": "属性相性が有利な場合、味方の与ダメージを60％増加させる。",
+    "NameKey": "[DungeonBattleRelicName67]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 68,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription67]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 67,
-    "NameKey": "[DungeonBattleRelicName67]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000067,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 68
+    "DescriptionKey": "[DungeonBattleRelicDescription67]",
+    "IconId": 67
   },
   {
     "Id": 68,
     "IsIgnore": null,
     "Memo": "属性相性が有利な場合、味方の与ダメージを40％増加させる。",
+    "NameKey": "[DungeonBattleRelicName68]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 69,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription68]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 67,
-    "NameKey": "[DungeonBattleRelicName68]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000068,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 69
+    "DescriptionKey": "[DungeonBattleRelicDescription68]",
+    "IconId": 67
   },
   {
     "Id": 69,
     "IsIgnore": null,
     "Memo": "属性相性が有利な場合、味方の与ダメージを20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName69]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription69]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 67,
-    "NameKey": "[DungeonBattleRelicName69]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000069,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription69]",
+    "IconId": 67
   },
   {
     "Id": 70,
     "IsIgnore": null,
     "Memo": "3ターン目と6ターン目のターン開始時、HP割合が最も低い味方のHPを最大HP×40％回復する。",
+    "NameKey": "[DungeonBattleRelicName70]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 71,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription70]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 70,
-    "NameKey": "[DungeonBattleRelicName70]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000070,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 71
+    "DescriptionKey": "[DungeonBattleRelicDescription70]",
+    "IconId": 70
   },
   {
     "Id": 71,
     "IsIgnore": null,
     "Memo": "3ターン目と6ターン目のターン開始時、HP割合が最も低い味方のHPを最大HP×20％回復する。",
+    "NameKey": "[DungeonBattleRelicName71]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 72,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription71]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 70,
-    "NameKey": "[DungeonBattleRelicName71]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000071,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 72
+    "DescriptionKey": "[DungeonBattleRelicDescription71]",
+    "IconId": 70
   },
   {
     "Id": 72,
     "IsIgnore": null,
     "Memo": "3ターン目と6ターン目のターン開始時、HP割合が最も低い味方のHPを最大HP×10％回復する。",
+    "NameKey": "[DungeonBattleRelicName72]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription72]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 70,
-    "NameKey": "[DungeonBattleRelicName72]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000072,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription72]",
+    "IconId": 70
   },
   {
     "Id": 73,
     "IsIgnore": null,
     "Memo": "属性が愁の味方1体につき、味方全体の防御力を15％増加させる。",
+    "NameKey": "[DungeonBattleRelicName73]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 74,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementBlue",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription73]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 73,
-    "NameKey": "[DungeonBattleRelicName73]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000073,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 74
+    "DescriptionKey": "[DungeonBattleRelicDescription73]",
+    "IconId": 73
   },
   {
     "Id": 74,
     "IsIgnore": null,
     "Memo": "属性が愁の味方1体につき、味方全体の防御力を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName74]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 75,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementBlue",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription74]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 73,
-    "NameKey": "[DungeonBattleRelicName74]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000074,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 75
+    "DescriptionKey": "[DungeonBattleRelicDescription74]",
+    "IconId": 73
   },
   {
     "Id": 75,
     "IsIgnore": null,
     "Memo": "属性が愁の味方1体につき、味方全体の防御力を5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName75]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementBlue",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription75]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 73,
-    "NameKey": "[DungeonBattleRelicName75]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000075,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription75]",
+    "IconId": 73
   },
   {
     "Id": 76,
     "IsIgnore": null,
     "Memo": "属性が業の味方1体につき、味方全体のHPドレインを15％増加させる。",
+    "NameKey": "[DungeonBattleRelicName76]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 77,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementRed",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription76]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 76,
-    "NameKey": "[DungeonBattleRelicName76]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000076,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 77
+    "DescriptionKey": "[DungeonBattleRelicDescription76]",
+    "IconId": 76
   },
   {
     "Id": 77,
     "IsIgnore": null,
     "Memo": "属性が業の味方1体につき、味方全体のHPドレインを10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName77]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 78,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementRed",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription77]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 76,
-    "NameKey": "[DungeonBattleRelicName77]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000077,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 78
+    "DescriptionKey": "[DungeonBattleRelicDescription77]",
+    "IconId": 76
   },
   {
     "Id": 78,
     "IsIgnore": null,
     "Memo": "属性が業の味方1体につき、味方全体のHPドレインを5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName78]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementRed",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription78]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 76,
-    "NameKey": "[DungeonBattleRelicName78]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000078,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription78]",
+    "IconId": 76
   },
   {
     "Id": 79,
     "IsIgnore": null,
     "Memo": "属性が心の味方1体につき、味方全体の最大HPを15％増加させる。",
+    "NameKey": "[DungeonBattleRelicName79]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 80,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementGreen",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription79]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 79,
-    "NameKey": "[DungeonBattleRelicName79]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000079,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 80
+    "DescriptionKey": "[DungeonBattleRelicDescription79]",
+    "IconId": 79
   },
   {
     "Id": 80,
     "IsIgnore": null,
     "Memo": "属性が心の味方1体につき、味方全体の最大HPを10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName80]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 81,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementGreen",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription80]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 79,
-    "NameKey": "[DungeonBattleRelicName80]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000080,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 81
+    "DescriptionKey": "[DungeonBattleRelicDescription80]",
+    "IconId": 79
   },
   {
     "Id": 81,
     "IsIgnore": null,
     "Memo": "属性が心の味方1体につき、味方全体の最大HPを5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName81]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementGreen",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription81]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 79,
-    "NameKey": "[DungeonBattleRelicName81]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000081,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription81]",
+    "IconId": 79
   },
   {
     "Id": 82,
     "IsIgnore": null,
     "Memo": "属性が渇の味方1体につき、味方全体の攻撃力を15％増加させる。",
+    "NameKey": "[DungeonBattleRelicName82]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 83,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementYellow",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription82]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 82,
-    "NameKey": "[DungeonBattleRelicName82]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000082,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 83
+    "DescriptionKey": "[DungeonBattleRelicDescription82]",
+    "IconId": 82
   },
   {
     "Id": 83,
     "IsIgnore": null,
     "Memo": "属性が渇の味方1体につき、味方全体の攻撃力を10％増加させる。",
+    "NameKey": "[DungeonBattleRelicName83]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 84,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementYellow",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription83]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 82,
-    "NameKey": "[DungeonBattleRelicName83]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000083,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 84
+    "DescriptionKey": "[DungeonBattleRelicDescription83]",
+    "IconId": 82
   },
   {
     "Id": 84,
     "IsIgnore": null,
     "Memo": "属性が渇の味方1体につき、味方全体の攻撃力を5％増加させる。",
+    "NameKey": "[DungeonBattleRelicName84]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.ElementYellow",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription84]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 82,
-    "NameKey": "[DungeonBattleRelicName84]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000084,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription84]",
+    "IconId": 82
   },
   {
     "Id": 85,
     "IsIgnore": null,
     "Memo": "回復の果実を使用した時、味方全体の攻撃力を20％増加させる。",
+    "NameKey": "[DungeonBattleRelicName85]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription85]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 85,
-    "NameKey": "[DungeonBattleRelicName85]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000085,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription85]",
+    "IconId": 85
   },
   {
     "Id": 86,
     "IsIgnore": null,
     "Memo": "バトル終了時、生存している味方全体のHPを失ったHP×30％回復させる。",
+    "NameKey": "[DungeonBattleRelicName86]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 87,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription86]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 86,
-    "NameKey": "[DungeonBattleRelicName86]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000086,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 87
+    "DescriptionKey": "[DungeonBattleRelicDescription86]",
+    "IconId": 86
   },
   {
     "Id": 87,
     "IsIgnore": null,
     "Memo": "バトル終了時、生存している味方全体のHPを失ったHP×20％回復させる。",
+    "NameKey": "[DungeonBattleRelicName87]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 88,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription87]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 86,
-    "NameKey": "[DungeonBattleRelicName87]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000087,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 88
+    "DescriptionKey": "[DungeonBattleRelicDescription87]",
+    "IconId": 86
   },
   {
     "Id": 88,
     "IsIgnore": null,
     "Memo": "バトル終了時、生存している味方全体のHPを失ったHP×10％回復させる。",
+    "NameKey": "[DungeonBattleRelicName88]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription88]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 86,
-    "NameKey": "[DungeonBattleRelicName88]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000088,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription88]",
+    "IconId": 86
   },
   {
     "Id": 89,
     "IsIgnore": null,
     "Memo": "バトル開始時、ランダムな敵3体に1ターンの間「混乱」を付与する。",
+    "NameKey": "[DungeonBattleRelicName89]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription89]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 89,
-    "NameKey": "[DungeonBattleRelicName89]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000089,
         "PassiveType": "PassiveType.Team"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription89]",
+    "IconId": 89
   },
   {
     "Id": 90,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の回避を40％増加させる",
+    "NameKey": "[DungeonBattleRelicName90]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 91,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription90]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 90,
-    "NameKey": "[DungeonBattleRelicName90]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000090,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 91
+    "DescriptionKey": "[DungeonBattleRelicDescription90]",
+    "IconId": 90
   },
   {
     "Id": 91,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の回避を20％増加させる",
+    "NameKey": "[DungeonBattleRelicName91]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 92,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription91]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 90,
-    "NameKey": "[DungeonBattleRelicName91]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000091,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 92
+    "DescriptionKey": "[DungeonBattleRelicDescription91]",
+    "IconId": 90
   },
   {
     "Id": 92,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の回避を10％増加させる",
+    "NameKey": "[DungeonBattleRelicName92]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription92]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 90,
-    "NameKey": "[DungeonBattleRelicName92]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000092,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription92]",
+    "IconId": 90
   },
   {
     "Id": 93,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の命中を40％増加させる",
+    "NameKey": "[DungeonBattleRelicName93]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
+    "ReinforceFrom": 94,
     "BattlePowerBonus": 10,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription93]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SSR",
-    "IconId": 93,
-    "NameKey": "[DungeonBattleRelicName93]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000093,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 94
+    "DescriptionKey": "[DungeonBattleRelicDescription93]",
+    "IconId": 93
   },
   {
     "Id": 94,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の命中を20％増加させる",
+    "NameKey": "[DungeonBattleRelicName94]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
+    "ReinforceFrom": 95,
     "BattlePowerBonus": 6,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription94]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.SR",
-    "IconId": 93,
-    "NameKey": "[DungeonBattleRelicName94]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000094,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 95
+    "DescriptionKey": "[DungeonBattleRelicDescription94]",
+    "IconId": 93
   },
   {
     "Id": 95,
     "IsIgnore": null,
     "Memo": "バトル開始時、味方全体の命中を10％増加させる",
+    "NameKey": "[DungeonBattleRelicName95]",
+    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
+    "ReinforceFrom": 0,
     "BattlePowerBonus": 3,
     "BattlePowerBonusTargetType": "DungeonBattleRelicBattlePowerBonusTargetType.All",
     "CanMultiplePossession": false,
-    "DescriptionKey": "[DungeonBattleRelicDescription95]",
-    "DungeonRelicRarityType": "DungeonBattleRelicRarityType.R",
-    "IconId": 93,
-    "NameKey": "[DungeonBattleRelicName95]",
     "PassiveSkillTypeInfos": [
       {
         "PassiveSkillId": 500000095,
         "PassiveType": "PassiveType.EachUnit"
       }
     ],
-    "ReinforceFrom": 0
+    "DescriptionKey": "[DungeonBattleRelicDescription95]",
+    "IconId": 93
   }
 ]

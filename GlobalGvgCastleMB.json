@@ -3,351 +3,354 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "神殿",
+    "NameKey": "[GlobalGvgCastleName1]",
+    "CastleType": "CastleType.Large",
+    "CastlePoint": 4,
     "AdjacentCastleIds": [
       2,
       3,
       4,
       5
     ],
-    "CastlePoint": 4,
-    "CastleType": "CastleType.Large",
+    "Priority": 0,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 500000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 500000
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 100
         },
         {
-          "ItemCount": 120,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 120
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 750000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 750000
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 150
         },
         {
-          "ItemCount": 180,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 180
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 1500000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 1500000
         },
         {
-          "ItemCount": 300,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 300
         },
         {
-          "ItemCount": 200,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 200
         }
       ]
     },
-    "LotteryRewardId": 1,
-    "NameKey": "[GlobalGvgCastleName1]",
-    "Priority": 0
+    "LotteryRewardId": 1
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "城1",
+    "NameKey": "[GlobalGvgCastleName2]",
+    "CastleType": "CastleType.Medium",
+    "CastlePoint": 2,
     "AdjacentCastleIds": [
       1,
       6,
       8,
       10
     ],
-    "CastlePoint": 2,
-    "CastleType": "CastleType.Medium",
+    "Priority": 0,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 250000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 250000
         },
         {
-          "ItemCount": 50,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 50
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 60
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 375000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 375000
         },
         {
-          "ItemCount": 80,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 80
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 750000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 750000
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 150
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 150
         }
       ]
     },
-    "LotteryRewardId": 2,
-    "NameKey": "[GlobalGvgCastleName2]",
-    "Priority": 0
+    "LotteryRewardId": 2
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "城2",
+    "NameKey": "[GlobalGvgCastleName3]",
+    "CastleType": "CastleType.Medium",
+    "CastlePoint": 2,
     "AdjacentCastleIds": [
       1,
       10,
       12,
       15
     ],
-    "CastlePoint": 2,
-    "CastleType": "CastleType.Medium",
+    "Priority": 0,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 250000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 250000
         },
         {
-          "ItemCount": 50,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 50
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 60
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 375000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 375000
         },
         {
-          "ItemCount": 80,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 80
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 750000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 750000
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 150
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 150
         }
       ]
     },
-    "LotteryRewardId": 2,
-    "NameKey": "[GlobalGvgCastleName3]",
-    "Priority": 0
+    "LotteryRewardId": 2
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "城3",
+    "NameKey": "[GlobalGvgCastleName4]",
+    "CastleType": "CastleType.Medium",
+    "CastlePoint": 2,
     "AdjacentCastleIds": [
       1,
       15,
       16,
       19
     ],
-    "CastlePoint": 2,
-    "CastleType": "CastleType.Medium",
+    "Priority": 0,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 250000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 250000
         },
         {
-          "ItemCount": 50,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 50
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 60
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 375000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 375000
         },
         {
-          "ItemCount": 80,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 80
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 750000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 750000
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 150
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 150
         }
       ]
     },
-    "LotteryRewardId": 2,
-    "NameKey": "[GlobalGvgCastleName4]",
-    "Priority": 0
+    "LotteryRewardId": 2
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "城4",
+    "NameKey": "[GlobalGvgCastleName5]",
+    "CastleType": "CastleType.Medium",
+    "CastlePoint": 2,
     "AdjacentCastleIds": [
       1,
       6,
       19,
       20
     ],
-    "CastlePoint": 2,
-    "CastleType": "CastleType.Medium",
+    "Priority": 0,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 250000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 250000
         },
         {
-          "ItemCount": 50,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 50
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 60
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 375000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 375000
         },
         {
-          "ItemCount": 80,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 80
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 750000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 750000
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 150
         },
         {
-          "ItemCount": 150,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 150
         }
       ]
     },
-    "LotteryRewardId": 2,
-    "NameKey": "[GlobalGvgCastleName5]",
-    "Priority": 0
+    "LotteryRewardId": 2
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "教会1",
+    "NameKey": "[GlobalGvgCastleName6]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       2,
       5,
@@ -355,1079 +358,1076 @@
       11,
       21
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 1,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName6]",
-    "Priority": 1
+    "LotteryRewardId": 3
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "教会2",
+    "NameKey": "[GlobalGvgCastleName7]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       6,
       8,
       11
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName7]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": "教会3",
+    "NameKey": "[GlobalGvgCastleName8]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       2,
       7,
       9
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 2,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName8]",
-    "Priority": 2
+    "LotteryRewardId": 3
   },
   {
     "Id": 9,
     "IsIgnore": null,
     "Memo": "教会4",
+    "NameKey": "[GlobalGvgCastleName9]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       8,
       10
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName9]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 10,
     "IsIgnore": null,
     "Memo": "教会5",
+    "NameKey": "[GlobalGvgCastleName10]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       2,
       3,
       9
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 1,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName10]",
-    "Priority": 1
+    "LotteryRewardId": 3
   },
   {
     "Id": 11,
     "IsIgnore": null,
     "Memo": "教会6",
+    "NameKey": "[GlobalGvgCastleName11]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       6,
       7
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName11]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 12,
     "IsIgnore": null,
     "Memo": "教会7",
+    "NameKey": "[GlobalGvgCastleName12]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       3,
       13,
       14
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 2,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName12]",
-    "Priority": 2
+    "LotteryRewardId": 3
   },
   {
     "Id": 13,
     "IsIgnore": null,
     "Memo": "教会8",
+    "NameKey": "[GlobalGvgCastleName13]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       12,
       14
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName13]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 14,
     "IsIgnore": null,
     "Memo": "教会9",
+    "NameKey": "[GlobalGvgCastleName14]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       12,
       13,
       15,
       16
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName14]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 15,
     "IsIgnore": null,
     "Memo": "教会10",
+    "NameKey": "[GlobalGvgCastleName15]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       3,
       4,
       14,
       16
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 1,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName15]",
-    "Priority": 1
+    "LotteryRewardId": 3
   },
   {
     "Id": 16,
     "IsIgnore": null,
     "Memo": "教会11",
+    "NameKey": "[GlobalGvgCastleName16]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       4,
       14,
       15,
       17
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 2,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName16]",
-    "Priority": 2
+    "LotteryRewardId": 3
   },
   {
     "Id": 17,
     "IsIgnore": null,
     "Memo": "教会12",
+    "NameKey": "[GlobalGvgCastleName17]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       16,
       18
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName17]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 18,
     "IsIgnore": null,
     "Memo": "教会13",
+    "NameKey": "[GlobalGvgCastleName18]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       17,
       19
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName18]",
-    "Priority": 3
+    "LotteryRewardId": 3
   },
   {
     "Id": 19,
     "IsIgnore": null,
     "Memo": "教会14",
+    "NameKey": "[GlobalGvgCastleName19]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       4,
       5,
       18
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 1,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName19]",
-    "Priority": 1
+    "LotteryRewardId": 3
   },
   {
     "Id": 20,
     "IsIgnore": null,
     "Memo": "教会15",
+    "NameKey": "[GlobalGvgCastleName20]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       5,
       21
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 2,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName20]",
-    "Priority": 2
+    "LotteryRewardId": 3
   },
   {
     "Id": 21,
     "IsIgnore": null,
     "Memo": "教会16",
+    "NameKey": "[GlobalGvgCastleName21]",
+    "CastleType": "CastleType.Small",
+    "CastlePoint": 1,
     "AdjacentCastleIds": [
       6,
       20
     ],
-    "CastlePoint": 1,
-    "CastleType": "CastleType.Small",
+    "Priority": 3,
     "GlobalGvgFixedRewards": {
       "LowerClass": [
         {
-          "ItemCount": 75000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 75000
         },
         {
-          "ItemCount": 20,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 20
         },
         {
-          "ItemCount": 5,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 5
         }
       ],
       "MediumClass": [
         {
-          "ItemCount": 100000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 100000
         },
         {
-          "ItemCount": 30,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 30
         },
         {
-          "ItemCount": 10,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 10
         }
       ],
       "UpperClass": [
         {
-          "ItemCount": 225000,
+          "ItemType": "ItemType.Gold",
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemCount": 225000
         },
         {
-          "ItemCount": 60,
+          "ItemType": "ItemType.EquipmentReinforcementItem",
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemCount": 60
         },
         {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ExchangePlaceItem",
           "ItemId": 15,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 100
         }
       ]
     },
-    "LotteryRewardId": 3,
-    "NameKey": "[GlobalGvgCastleName21]",
-    "Priority": 3
+    "LotteryRewardId": 3
   }
 ]

@@ -4,10 +4,10 @@
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 10,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -15,10 +15,10 @@
     "IsIgnore": null,
     "Memo": "AA登場記念",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 20,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -26,10 +26,10 @@
     "IsIgnore": null,
     "Memo": "オフィーリア登場記念",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 30,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -37,10 +37,10 @@
     "IsIgnore": null,
     "Memo": "ウィーラ新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 40,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -48,10 +48,10 @@
     "IsIgnore": null,
     "Memo": "レア新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 50,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -59,10 +59,10 @@
     "IsIgnore": null,
     "Memo": "シフォン新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 70,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -70,10 +70,10 @@
     "IsIgnore": null,
     "Memo": "ルサールカ新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 80,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -81,10 +81,10 @@
     "IsIgnore": null,
     "Memo": "ハーフアニバーサリー",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 60,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -92,10 +92,10 @@
     "IsIgnore": null,
     "Memo": "シヴィ新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 90,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -103,10 +103,10 @@
     "IsIgnore": null,
     "Memo": "アーティ新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 100,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -114,10 +114,10 @@
     "IsIgnore": null,
     "Memo": "リシェス新ガチャ ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 110,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -125,10 +125,10 @@
     "IsIgnore": null,
     "Memo": "水着サブリナ新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 120,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
@@ -136,21 +136,21 @@
     "IsIgnore": null,
     "Memo": "水着モーザ新ガチャ",
     "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
       "NumberInfo1": 130,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   },
   {
     "Id": 14,
     "IsIgnore": null,
-    "Memo": "フィアー新ガチャ",
+    "Memo": "サマーキャンペーン第2弾",
     "TransferDetailInfo": {
-      "NumberInfo1": 140,
+      "TransferSpotType": "TransferSpotType.Notice",
+      "NumberInfo1": 145,
       "NumberInfo2": 0,
-      "StringInfo": null,
-      "TransferSpotType": "TransferSpotType.Notice"
+      "StringInfo": null
     }
   }
 ]

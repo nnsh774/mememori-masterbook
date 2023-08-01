@@ -5,7 +5,13 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1001,
+      1002,
+      1003,
+      1004
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -13,13 +19,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1001,
-      1002,
-      1003,
-      1004
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -27,14 +27,6 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-19 05:00:00",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 1,
     "WorldIdList": [
       1005,
@@ -42,7 +34,15 @@
       1007,
       1008,
       1009
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-19 05:00:00",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -50,14 +50,6 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-19 05:00:00",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 1,
     "WorldIdList": [
       1010,
@@ -65,7 +57,15 @@
       1012,
       1013,
       1014
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-19 05:00:00",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -73,14 +73,6 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-19 05:00:00",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 1,
     "WorldIdList": [
       1015,
@@ -88,7 +80,15 @@
       1017,
       1018,
       1019
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-19 05:00:00",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -96,14 +96,6 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-19 05:00:00",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 1,
     "WorldIdList": [
       1020,
@@ -111,7 +103,15 @@
       1022,
       1023,
       1024
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-19 05:00:00",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -119,14 +119,6 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-19 05:00:00",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 1,
     "WorldIdList": [
       1025,
@@ -134,7 +126,15 @@
       1027,
       1028,
       1029
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-19 05:00:00",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -142,7 +142,13 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1030,
+      1031,
+      1032,
+      1033
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -150,13 +156,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1030,
-      1031,
-      1032,
-      1033
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -164,7 +164,13 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1034,
+      1035,
+      1036,
+      1037
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -172,13 +178,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1034,
-      1035,
-      1036,
-      1037
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -186,7 +186,13 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1038,
+      1039,
+      1040,
+      1041
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -194,13 +200,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1038,
-      1039,
-      1040,
-      1041
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -208,7 +208,13 @@
     "Id": 10,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1042,
+      1043,
+      1044,
+      1045
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -216,13 +222,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1042,
-      1043,
-      1044,
-      1045
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -230,7 +230,13 @@
     "Id": 11,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1046,
+      1047,
+      1048,
+      1049
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -238,13 +244,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1046,
-      1047,
-      1048,
-      1049
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -252,7 +252,13 @@
     "Id": 12,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1050,
+      1051,
+      1052,
+      1053
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -260,13 +266,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1050,
-      1051,
-      1052,
-      1053
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -274,7 +274,13 @@
     "Id": 13,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1054,
+      1055,
+      1056,
+      1057
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -282,13 +288,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1054,
-      1055,
-      1056,
-      1057
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -296,7 +296,13 @@
     "Id": 14,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1058,
+      1059,
+      1060,
+      1061
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -304,13 +310,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1058,
-      1059,
-      1060,
-      1061
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -318,7 +318,13 @@
     "Id": 15,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1062,
+      1063,
+      1064,
+      1065
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -326,13 +332,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1062,
-      1063,
-      1064,
-      1065
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -340,7 +340,13 @@
     "Id": 16,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1066,
+      1067,
+      1068,
+      1069
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -348,13 +354,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1066,
-      1067,
-      1068,
-      1069
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -362,7 +362,13 @@
     "Id": 17,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1070,
+      1071,
+      1072,
+      1073
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -370,13 +376,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1070,
-      1071,
-      1072,
-      1073
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -384,7 +384,13 @@
     "Id": 18,
     "IsIgnore": null,
     "Memo": "jp",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    "TimeServerId": 1,
+    "WorldIdList": [
+      1074,
+      1075,
+      1076,
+      1077
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -392,13 +398,7 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
-    "TimeServerId": 1,
-    "WorldIdList": [
-      1074,
-      1075,
-      1076,
-      1077
-    ]
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -406,14 +406,6 @@
     "Id": 19,
     "IsIgnore": null,
     "Memo": "kr",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-19 05:00:00",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 2,
     "WorldIdList": [
       2001,
@@ -423,15 +415,7 @@
       2005,
       2006,
       2007
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 20,
-    "IsIgnore": null,
-    "Memo": "kr",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -439,6 +423,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 20,
+    "IsIgnore": null,
+    "Memo": "kr",
     "TimeServerId": 2,
     "WorldIdList": [
       2008,
@@ -449,15 +441,7 @@
       2013,
       2014,
       2015
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 21,
-    "IsIgnore": null,
-    "Memo": "ap",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -465,6 +449,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 21,
+    "IsIgnore": null,
+    "Memo": "ap",
     "TimeServerId": 3,
     "WorldIdList": [
       3001,
@@ -473,15 +465,7 @@
       3004,
       3005,
       3006
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 22,
-    "IsIgnore": null,
-    "Memo": "ap",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-19 05:00:00",
@@ -489,6 +473,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 22,
+    "IsIgnore": null,
+    "Memo": "ap",
     "TimeServerId": 3,
     "WorldIdList": [
       3007,
@@ -498,7 +490,15 @@
       3011,
       3012,
       3013
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-19 05:00:00",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   },
   {
     "EndTime": "2023-06-22 03:59:59",
@@ -506,14 +506,6 @@
     "Id": 23,
     "IsIgnore": null,
     "Memo": "us",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
-    "GrandBattleDateTimeList": [
-      {
-        "EndTime": "2023-06-21 03:59:59",
-        "StartTime": "2023-06-19 04:00:00"
-      }
-    ],
-    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
     "TimeServerId": 4,
     "WorldIdList": [
       4001,
@@ -521,15 +513,7 @@
       4003,
       4004,
       4005
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 24,
-    "IsIgnore": null,
-    "Memo": "us",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-21 03:59:59",
@@ -537,6 +521,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 24,
+    "IsIgnore": null,
+    "Memo": "us",
     "TimeServerId": 4,
     "WorldIdList": [
       4006,
@@ -546,15 +538,7 @@
       4010,
       4011,
       4012
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 25,
-    "IsIgnore": null,
-    "Memo": "eu",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-21 03:59:59",
@@ -562,6 +546,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 25,
+    "IsIgnore": null,
+    "Memo": "eu",
     "TimeServerId": 5,
     "WorldIdList": [
       5001,
@@ -570,15 +562,7 @@
       5004,
       5005,
       5006
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 26,
-    "IsIgnore": null,
-    "Memo": "gl",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-21 03:59:59",
@@ -586,6 +570,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 26,
+    "IsIgnore": null,
+    "Memo": "gl",
     "TimeServerId": 6,
     "WorldIdList": [
       6001,
@@ -594,15 +586,7 @@
       6004,
       6005,
       6006
-    ]
-  },
-  {
-    "EndTime": "2023-06-22 03:59:59",
-    "StartTime": "2023-06-19 04:00:00",
-    "Id": 27,
-    "IsIgnore": null,
-    "Memo": "gl",
-    "EndLegendLeagueDateTime": "2100-09-21 04:00:00",
+    ],
     "GrandBattleDateTimeList": [
       {
         "EndTime": "2023-06-21 03:59:59",
@@ -610,6 +594,14 @@
       }
     ],
     "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
+  },
+  {
+    "EndTime": "2023-06-22 03:59:59",
+    "StartTime": "2023-06-19 04:00:00",
+    "Id": 27,
+    "IsIgnore": null,
+    "Memo": "gl",
     "TimeServerId": 6,
     "WorldIdList": [
       6007,
@@ -619,6 +611,14 @@
       6011,
       6012,
       6013
-    ]
+    ],
+    "GrandBattleDateTimeList": [
+      {
+        "EndTime": "2023-06-21 03:59:59",
+        "StartTime": "2023-06-19 04:00:00"
+      }
+    ],
+    "StartLegendLeagueDateTime": "2100-09-01 04:00:00",
+    "EndLegendLeagueDateTime": "2100-09-21 04:00:00"
   }
 ]

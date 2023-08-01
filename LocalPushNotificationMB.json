@@ -5,13 +5,13 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "GroupId": 1,
-    "LocalNotificationSendType": "LocalNotificationSendType.AutoBattle",
     "LocalNotificationType": "LocalNotificationType.AutoBattle",
-    "MessageKey": "[LocalPushNotificationMessageKey1]",
+    "GroupId": 1,
     "Priority": 1,
-    "SendTime": null,
-    "TitleKey": "[LocalPushNotificationTitleKey1]"
+    "TitleKey": "[LocalPushNotificationTitleKey1]",
+    "MessageKey": "[LocalPushNotificationMessageKey1]",
+    "LocalNotificationSendType": "LocalNotificationSendType.AutoBattle",
+    "SendTime": null
   },
   {
     "EndTime": "2100-12-31 23:59:59",
@@ -19,13 +19,13 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
-    "GroupId": 2,
-    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
     "LocalNotificationType": "LocalNotificationType.LocalRaid",
-    "MessageKey": "[LocalPushNotificationMessageKey2]",
+    "GroupId": 2,
     "Priority": 1,
-    "SendTime": "12:35:00",
-    "TitleKey": "[LocalPushNotificationTitleKey2]"
+    "TitleKey": "[LocalPushNotificationTitleKey2]",
+    "MessageKey": "[LocalPushNotificationMessageKey2]",
+    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
+    "SendTime": "12:35:00"
   },
   {
     "EndTime": "2100-12-31 23:59:59",
@@ -33,13 +33,13 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
-    "GroupId": 2,
-    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
     "LocalNotificationType": "LocalNotificationType.LocalRaid",
-    "MessageKey": "[LocalPushNotificationMessageKey3]",
+    "GroupId": 2,
     "Priority": 1,
-    "SendTime": "19:35:00",
-    "TitleKey": "[LocalPushNotificationTitleKey3]"
+    "TitleKey": "[LocalPushNotificationTitleKey3]",
+    "MessageKey": "[LocalPushNotificationMessageKey3]",
+    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
+    "SendTime": "19:35:00"
   },
   {
     "EndTime": "2100-12-31 23:59:59",
@@ -47,13 +47,13 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "GroupId": 3,
-    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
     "LocalNotificationType": "LocalNotificationType.BattleLeagueReward",
-    "MessageKey": "[LocalPushNotificationMessageKey4]",
+    "GroupId": 3,
     "Priority": 1,
-    "SendTime": "20:45:00",
-    "TitleKey": "[LocalPushNotificationTitleKey4]"
+    "TitleKey": "[LocalPushNotificationTitleKey4]",
+    "MessageKey": "[LocalPushNotificationMessageKey4]",
+    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
+    "SendTime": "20:45:00"
   },
   {
     "EndTime": "2023-05-08 03:59:59",
@@ -61,13 +61,13 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "GroupId": 2,
-    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
     "LocalNotificationType": "LocalNotificationType.LocalRaidRewardIncrease",
-    "MessageKey": "[LocalPushNotificationMessageKey5]",
+    "GroupId": 2,
     "Priority": 2,
-    "SendTime": "12:35:00",
-    "TitleKey": "[LocalPushNotificationTitleKey5]"
+    "TitleKey": "[LocalPushNotificationTitleKey5]",
+    "MessageKey": "[LocalPushNotificationMessageKey5]",
+    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
+    "SendTime": "12:35:00"
   },
   {
     "EndTime": "2023-05-08 03:59:59",
@@ -75,12 +75,12 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "GroupId": 2,
-    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
     "LocalNotificationType": "LocalNotificationType.LocalRaidRewardIncrease",
-    "MessageKey": "[LocalPushNotificationMessageKey6]",
+    "GroupId": 2,
     "Priority": 2,
-    "SendTime": "19:35:00",
-    "TitleKey": "[LocalPushNotificationTitleKey6]"
+    "TitleKey": "[LocalPushNotificationTitleKey6]",
+    "MessageKey": "[LocalPushNotificationMessageKey6]",
+    "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
+    "SendTime": "19:35:00"
   }
 ]

@@ -5,6 +5,8 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Default",
+    "OrderNumber": 0,
     "CharacterIdList": [
       2,
       3,
@@ -39,9 +41,7 @@
       38,
       39
     ],
-    "GachaSelectListType": "GachaSelectListType.Default",
-    "NewCharacterIdList": [],
-    "OrderNumber": 0
+    "NewCharacterIdList": []
   },
   {
     "EndTimeFixJST": "2100-01-01 00:00:00",
@@ -49,6 +49,8 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 0,
     "CharacterIdList": [
       5,
       6,
@@ -73,9 +75,7 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
-    "NewCharacterIdList": [],
-    "OrderNumber": 0
+    "NewCharacterIdList": []
   },
   {
     "EndTimeFixJST": "2023-03-16 14:29:59",
@@ -83,6 +83,8 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 1,
     "CharacterIdList": [
       49,
       5,
@@ -108,11 +110,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       49
-    ],
-    "OrderNumber": 1
+    ]
   },
   {
     "EndTimeFixJST": "2023-03-31 14:29:59",
@@ -120,6 +120,8 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 2,
     "CharacterIdList": [
       53,
       5,
@@ -145,11 +147,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       53
-    ],
-    "OrderNumber": 2
+    ]
   },
   {
     "EndTimeFixJST": "2023-04-07 14:29:59",
@@ -157,6 +157,8 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 3,
     "CharacterIdList": [
       53,
       42,
@@ -183,12 +185,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       42,
       53
-    ],
-    "OrderNumber": 3
+    ]
   },
   {
     "EndTimeFixJST": "2023-04-07 14:29:59",
@@ -196,6 +196,8 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 4,
     "CharacterIdList": [
       55,
       42,
@@ -222,12 +224,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       42,
       55
-    ],
-    "OrderNumber": 4
+    ]
   },
   {
     "EndTimeFixJST": "2023-04-14 14:29:59",
@@ -235,6 +235,8 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 5,
     "CharacterIdList": [
       55,
       5,
@@ -260,11 +262,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       55
-    ],
-    "OrderNumber": 5
+    ]
   },
   {
     "EndTimeFixJST": "2023-04-28 14:29:59",
@@ -272,6 +272,8 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 6,
     "CharacterIdList": [
       54,
       5,
@@ -297,11 +299,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       54
-    ],
-    "OrderNumber": 6
+    ]
   },
   {
     "EndTimeFixJST": "2023-04-28 14:29:59",
@@ -309,6 +309,8 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 7,
     "CharacterIdList": [
       54,
       19,
@@ -335,12 +337,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       54,
       19
-    ],
-    "OrderNumber": 7
+    ]
   },
   {
     "EndTimeFixJST": "2023-05-08 14:29:59",
@@ -348,6 +348,8 @@
     "Id": 10,
     "IsIgnore": null,
     "Memo": "ルサールカ・ベル",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 8,
     "CharacterIdList": [
       44,
       19,
@@ -374,12 +376,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       44,
       19
-    ],
-    "OrderNumber": 8
+    ]
   },
   {
     "EndTimeFixJST": "2023-05-15 14:29:59",
@@ -387,6 +387,8 @@
     "Id": 11,
     "IsIgnore": null,
     "Memo": "ルサールカのみ",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 9,
     "CharacterIdList": [
       44,
       5,
@@ -412,11 +414,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       44
-    ],
-    "OrderNumber": 9
+    ]
   },
   {
     "EndTimeFixJST": "2023-05-31 14:29:59",
@@ -424,6 +424,8 @@
     "Id": 12,
     "IsIgnore": null,
     "Memo": "シヴィのみ",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 10,
     "CharacterIdList": [
       52,
       5,
@@ -449,11 +451,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       52
-    ],
-    "OrderNumber": 10
+    ]
   },
   {
     "EndTimeFixJST": "2023-05-31 14:29:59",
@@ -461,6 +461,8 @@
     "Id": 13,
     "IsIgnore": null,
     "Memo": "シヴィ・ルーク復刻",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 11,
     "CharacterIdList": [
       52,
       30,
@@ -487,12 +489,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       52,
       30
-    ],
-    "OrderNumber": 11
+    ]
   },
   {
     "EndTimeFixJST": "2023-06-07 14:29:59",
@@ -500,6 +500,8 @@
     "Id": 14,
     "IsIgnore": null,
     "Memo": "アーティ・ルーク復刻(上書き)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 12,
     "CharacterIdList": [
       58,
       30,
@@ -526,12 +528,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       58,
       30
-    ],
-    "OrderNumber": 12
+    ]
   },
   {
     "EndTimeFixJST": "2023-06-14 14:29:59",
@@ -539,6 +539,8 @@
     "Id": 15,
     "IsIgnore": null,
     "Memo": "アーティ",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 13,
     "CharacterIdList": [
       58,
       5,
@@ -564,11 +566,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       58
-    ],
-    "OrderNumber": 13
+    ]
   },
   {
     "EndTimeFixJST": "2023-06-21 14:29:59",
@@ -576,6 +576,8 @@
     "Id": 16,
     "IsIgnore": null,
     "Memo": "リシェス",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 14,
     "CharacterIdList": [
       67,
       5,
@@ -601,11 +603,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       67
-    ],
-    "OrderNumber": 14
+    ]
   },
   {
     "EndTimeFixJST": "2023-06-30 14:29:59",
@@ -613,6 +613,8 @@
     "Id": 17,
     "IsIgnore": null,
     "Memo": "リシェス・ウィーラ(0621切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 15,
     "CharacterIdList": [
       67,
       53,
@@ -639,12 +641,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       67,
       53
-    ],
-    "OrderNumber": 15
+    ]
   },
   {
     "EndTimeFixJST": "2023-07-07 14:29:59",
@@ -652,6 +652,8 @@
     "Id": 18,
     "IsIgnore": null,
     "Memo": "水着サブリナ・ウィーラ(0630切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 16,
     "CharacterIdList": [
       70,
       53,
@@ -678,12 +680,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       70,
       53
-    ],
-    "OrderNumber": 16
+    ]
   },
   {
     "EndTimeFixJST": "2023-07-13 14:29:59",
@@ -691,6 +691,8 @@
     "Id": 19,
     "IsIgnore": null,
     "Memo": "水着サブリナ・ヴァルリーデ追加(0707切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 17,
     "CharacterIdList": [
       70,
       47,
@@ -717,12 +719,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       70,
       47
-    ],
-    "OrderNumber": 17
+    ]
   },
   {
     "EndTimeFixJST": "2023-07-24 14:29:59",
@@ -730,6 +730,8 @@
     "Id": 20,
     "IsIgnore": null,
     "Memo": "水着モーザ・ヴァルリーデ(0713切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 18,
     "CharacterIdList": [
       71,
       47,
@@ -756,12 +758,10 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       71,
       47
-    ],
-    "OrderNumber": 18
+    ]
   },
   {
     "EndTimeFixJST": "2023-07-31 14:29:59",
@@ -769,6 +769,8 @@
     "Id": 21,
     "IsIgnore": null,
     "Memo": "水着モーザ・カロル追加(0724切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 19,
     "CharacterIdList": [
       71,
       40,
@@ -795,19 +797,19 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       71,
       40
-    ],
-    "OrderNumber": 19
+    ]
   },
   {
     "EndTimeFixJST": "2023-08-07 14:29:59",
-    "StartTimeFixJST": "2023-07-31 15:00:00",
+    "StartTimeFixJST": "2023-07-31 17:30:00",
     "Id": 22,
     "IsIgnore": null,
     "Memo": "フィアー・カロル(0731切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 20,
     "CharacterIdList": [
       60,
       40,
@@ -834,19 +836,19 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       60,
       40
-    ],
-    "OrderNumber": 20
+    ]
   },
   {
     "EndTimeFixJST": "2023-09-04 14:29:59",
-    "StartTimeFixJST": "2023-07-31 15:00:00",
+    "StartTimeFixJST": "2023-07-31 17:30:00",
     "Id": 23,
     "IsIgnore": null,
     "Memo": "フィアー（終了期間表示用、実質使用しない）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 2,
     "CharacterIdList": [
       60,
       5,
@@ -872,11 +874,9 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       60
-    ],
-    "OrderNumber": 2
+    ]
   },
   {
     "EndTimeFixJST": "2023-08-14 14:29:59",
@@ -884,6 +884,8 @@
     "Id": 24,
     "IsIgnore": null,
     "Memo": "フィアー・復刻仮入れ（0807切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 21,
     "CharacterIdList": [
       60,
       5,
@@ -909,10 +911,8 @@
       41,
       46
     ],
-    "GachaSelectListType": "GachaSelectListType.Destiny",
     "NewCharacterIdList": [
       60
-    ],
-    "OrderNumber": 21
+    ]
   }
 ]

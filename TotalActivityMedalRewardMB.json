@@ -5,40 +5,40 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 5,
-          "ItemId": 7,
-          "ItemType": "ItemType.EventExchangePlaceItem"
-        },
-        "RarityFlags": "CharacterRarityFlags.None"
-      }
-    ],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 20,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.QuestQuickTicket",
           "ItemId": 12,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 2,
+          "ItemType": "ItemType.TreasureChestKey",
           "ItemId": 1,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemCount": 2
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 20,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 20
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "EventMissionRewardList": [
+      {
+        "EventItem": {
+          "ItemType": "ItemType.EventExchangePlaceItem",
+          "ItemId": 7,
+          "ItemCount": 5
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -50,35 +50,35 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 40,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.QuestQuickTicket",
           "ItemId": 2,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.TreasureChestKey",
           "ItemId": 2,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 30,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 30
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   },
   {
     "EventEndTime": "2023-07-10 03:59:59",
@@ -86,40 +86,40 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 5,
-          "ItemId": 7,
-          "ItemType": "ItemType.EventExchangePlaceItem"
-        },
-        "RarityFlags": "CharacterRarityFlags.None"
-      }
-    ],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 60,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 5,
+          "ItemType": "ItemType.TreasureChest",
           "ItemId": 27,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemCount": 5
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.TreasureChestKey",
           "ItemId": 3,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 40,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 40
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "EventMissionRewardList": [
+      {
+        "EventItem": {
+          "ItemType": "ItemType.EventExchangePlaceItem",
+          "ItemId": 7,
+          "ItemCount": 5
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -131,27 +131,27 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 80,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 100,
+          "ItemType": "ItemType.CurrencyFree",
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemCount": 100
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 60,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 60
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   },
   {
     "EventEndTime": "2023-07-10 03:59:59",
@@ -159,32 +159,32 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 10,
-          "ItemId": 7,
-          "ItemType": "ItemType.EventExchangePlaceItem"
-        },
-        "RarityFlags": "CharacterRarityFlags.None"
-      }
-    ],
     "MissionGroupType": "MissionGroupType.Daily",
     "RequiredActivityMedalCount": 100,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.GachaTicket",
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 100,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 100
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "EventMissionRewardList": [
+      {
+        "EventItem": {
+          "ItemType": "ItemType.EventExchangePlaceItem",
+          "ItemId": 7,
+          "ItemCount": 10
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -196,35 +196,35 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 20,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.QuestQuickTicket",
           "ItemId": 4,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.DungeonRecoveryItem",
           "ItemId": 1,
-          "ItemType": "ItemType.DungeonRecoveryItem"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 80,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 80
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   },
   {
     "EventEndTime": null,
@@ -232,35 +232,35 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 40,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.QuestQuickTicket",
           "ItemId": 9,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 60,
+          "ItemType": "ItemType.TreasureChest",
           "ItemId": 27,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemCount": 60
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 160,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 160
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   },
   {
     "EventEndTime": null,
@@ -268,43 +268,43 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 60,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 10,
+          "ItemType": "ItemType.TreasureChest",
           "ItemId": 28,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemCount": 10
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.QuestQuickTicket",
           "ItemId": 4,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.DungeonRecoveryItem",
           "ItemId": 1,
-          "ItemType": "ItemType.DungeonRecoveryItem"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 240,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 240
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   },
   {
     "EventEndTime": null,
@@ -312,35 +312,35 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 80,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 400,
+          "ItemType": "ItemType.CurrencyFree",
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemCount": 400
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 3,
+          "ItemType": "ItemType.TowerBattleTicket",
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemCount": 3
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 320,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 320
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   },
   {
     "EventEndTime": null,
@@ -348,42 +348,42 @@
     "Id": 10,
     "IsIgnore": null,
     "Memo": null,
-    "EventMissionRewardList": [],
     "MissionGroupType": "MissionGroupType.Weekly",
     "RequiredActivityMedalCount": 100,
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 3,
+          "ItemType": "ItemType.GachaTicket",
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemCount": 3
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
+          "ItemType": "ItemType.DungeonRecoveryItem",
           "ItemId": 1,
-          "ItemType": "ItemType.DungeonRecoveryItem"
+          "ItemCount": 1
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 3,
+          "ItemType": "ItemType.BossChallengeTicket",
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemCount": 3
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 400,
+          "ItemType": "ItemType.ActivityMedal",
           "ItemId": 4,
-          "ItemType": "ItemType.ActivityMedal"
+          "ItemCount": 400
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
-    ]
+    ],
+    "EventMissionRewardList": []
   }
 ]

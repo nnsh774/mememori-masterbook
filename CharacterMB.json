@@ -5,19 +5,20 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "モニカ",
+    "NameKey": "[CharacterName1]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       1001,
       1002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 89,
-      "Health": 92,
-      "Intelligence": 80,
-      "Muscle": 80
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [],
+    "RequireFragmentCount": 0,
+    "ItemRarityFlags": "ItemRarityFlags.None",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.N",
     "InitialBattleParameter": {
       "AttackPower": -4,
       "Avoidance": 4,
@@ -39,14 +40,13 @@
       "PhysicalDamageRelax": 2,
       "Speed": 2600
     },
-    "ItemRarityFlags": "ItemRarityFlags.None",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName1]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [],
-    "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0
+    "BaseParameterCoefficient": {
+      "Energy": 89,
+      "Health": 92,
+      "Intelligence": 80,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -54,19 +54,22 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "イリア",
+    "NameKey": "[CharacterName2]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       2001,
       2002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 91,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      2003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 1,
       "Avoidance": 0,
@@ -88,16 +91,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2733
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName2]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      2003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 91,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -105,19 +105,22 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "アイリス",
+    "NameKey": "[CharacterName3]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       3001,
       3002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 69,
-      "Intelligence": 85,
-      "Muscle": 99
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      3003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -139,16 +142,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3133
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName3]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      3003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 69,
+      "Intelligence": 85,
+      "Muscle": 99
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -156,19 +156,22 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": "ロキ",
+    "NameKey": "[CharacterName4]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       4001,
       4002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 68,
-      "Intelligence": 84,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      4003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -190,16 +193,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3066
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName4]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      4003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 68,
+      "Intelligence": 84,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -207,19 +207,23 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": "ソルティーナ",
+    "NameKey": "[CharacterName5]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       5001,
       5002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 89,
-      "Health": 68,
-      "Intelligence": 100,
-      "Muscle": 80
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      5003,
+      5004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -241,17 +245,13 @@
       "PhysicalDamageRelax": -3,
       "Speed": 3302
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName5]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      5003,
-      5004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 89,
+      "Health": 68,
+      "Intelligence": 100,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -259,19 +259,23 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": "アムレート",
+    "NameKey": "[CharacterName6]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       6001,
       6002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 94,
-      "Intelligence": 80,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 343,
+    "PassiveSkillIds": [
+      6003,
+      6004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -293,17 +297,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2766
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName6]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      6003,
-      6004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 94,
+      "Intelligence": 80,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 343
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -311,19 +311,23 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": "フェンリル",
+    "NameKey": "[CharacterName7]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       7001,
       7002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 92,
-      "Intelligence": 89,
-      "Muscle": 80
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      7003,
+      7004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -4,
       "Avoidance": 3,
@@ -345,17 +349,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2894
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName7]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      7003,
-      7004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 92,
+      "Intelligence": 89,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -363,19 +363,23 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": "フローレンス",
+    "NameKey": "[CharacterName8]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       8001,
       8002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 69,
-      "Intelligence": 85,
-      "Muscle": 99
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      8003,
+      8004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -397,17 +401,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3022
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName8]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      8003,
-      8004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 69,
+      "Intelligence": 85,
+      "Muscle": 99
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -415,19 +415,23 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": "ソーニャ",
+    "NameKey": "[CharacterName9]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       9001,
       9002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 67,
-      "Intelligence": 85,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 336,
+    "PassiveSkillIds": [
+      9003,
+      9004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -449,17 +453,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3376
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName9]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      9003,
-      9004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 67,
+      "Intelligence": 85,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 336
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -467,19 +467,23 @@
     "Id": 10,
     "IsIgnore": null,
     "Memo": "モーザ",
+    "NameKey": "[CharacterName10]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       10001,
       10002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 82,
-      "Intelligence": 95,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [
+      10003,
+      10004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -501,17 +505,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2826
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName10]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      10003,
-      10004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 82,
+      "Intelligence": 95,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -519,19 +519,20 @@
     "Id": 11,
     "IsIgnore": null,
     "Memo": "シャーロット",
+    "NameKey": "[CharacterName11]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       11001,
       11002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 69,
-      "Intelligence": 84,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [],
+    "RequireFragmentCount": 0,
+    "ItemRarityFlags": "ItemRarityFlags.None",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.N",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -553,14 +554,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2716
     },
-    "ItemRarityFlags": "ItemRarityFlags.None",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName11]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [],
-    "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 69,
+      "Intelligence": 84,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -568,19 +568,22 @@
     "Id": 12,
     "IsIgnore": null,
     "Memo": "アリアンロッド",
+    "NameKey": "[CharacterName12]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       12001,
       12002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 84,
-      "Health": 71,
-      "Intelligence": 85,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      12003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -602,16 +605,13 @@
       "PhysicalDamageRelax": 3,
       "Speed": 2921
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName12]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      12003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 71,
+      "Intelligence": 85,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -619,19 +619,22 @@
     "Id": 13,
     "IsIgnore": null,
     "Memo": "テオドラ",
+    "NameKey": "[CharacterName13]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       13001,
       13002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 80,
-      "Intelligence": 94,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      13003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -653,16 +656,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2866
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName13]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      13003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 80,
+      "Intelligence": 94,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -670,19 +670,22 @@
     "Id": 14,
     "IsIgnore": null,
     "Memo": "ペトラ",
+    "NameKey": "[CharacterName14]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       14001,
       14002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 70,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      14003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 5,
       "Avoidance": 0,
@@ -704,16 +707,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3166
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName14]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      14003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 70,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -721,19 +721,23 @@
     "Id": 15,
     "IsIgnore": null,
     "Memo": "サブリナ",
+    "NameKey": "[CharacterName15]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       15001,
       15002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 92,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [
+      15003,
+      15004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -1,
       "Avoidance": 0,
@@ -755,17 +759,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2966
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName15]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      15003,
-      15004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 92,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -773,19 +773,23 @@
     "Id": 16,
     "IsIgnore": null,
     "Memo": "フレイシア",
+    "NameKey": "[CharacterName16]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       16001,
       16002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 92,
-      "Intelligence": 90,
-      "Muscle": 80
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [
+      16003,
+      16004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 2,
@@ -807,17 +811,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2680
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName16]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      16003,
-      16004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 92,
+      "Intelligence": 90,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -825,19 +825,23 @@
     "Id": 17,
     "IsIgnore": null,
     "Memo": "アモール",
+    "NameKey": "[CharacterName17]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       17001,
       17002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 94,
-      "Health": 78,
-      "Intelligence": 90,
-      "Muscle": 74
-    },
-    "BaseParameterGrossCoefficient": 336,
+    "PassiveSkillIds": [
+      17003,
+      17004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 0,
@@ -859,17 +863,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2550
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName17]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      17003,
-      17004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 94,
+      "Health": 78,
+      "Intelligence": 90,
+      "Muscle": 74
+    },
+    "BaseParameterGrossCoefficient": 336
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -877,19 +877,23 @@
     "Id": 18,
     "IsIgnore": null,
     "Memo": "リーン",
+    "NameKey": "[CharacterName18]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       18001,
       18002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 71,
-      "Intelligence": 84,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      18003,
+      18004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -911,17 +915,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2813
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName18]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      18003,
-      18004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 71,
+      "Intelligence": 84,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -929,19 +929,23 @@
     "Id": 19,
     "IsIgnore": null,
     "Memo": "ベル",
+    "NameKey": "[CharacterName19]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       19001,
       19002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 70,
-      "Intelligence": 99,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      19003,
+      19004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -963,17 +967,13 @@
       "PhysicalDamageRelax": -3,
       "Speed": 3217
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName19]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      19003,
-      19004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 70,
+      "Intelligence": 99,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -981,19 +981,23 @@
     "Id": 20,
     "IsIgnore": null,
     "Memo": "ディアン",
+    "NameKey": "[CharacterName20]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       20001,
       20002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 69,
-      "Intelligence": 80,
-      "Muscle": 89
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      20003,
+      20004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1015,17 +1019,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3080
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName20]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      20003,
-      20004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 69,
+      "Intelligence": 80,
+      "Muscle": 89
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1033,19 +1033,20 @@
     "Id": 21,
     "IsIgnore": null,
     "Memo": "シズ",
+    "NameKey": "[CharacterName21]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       21001,
       21002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 84,
-      "Health": 70,
-      "Intelligence": 85,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [],
+    "RequireFragmentCount": 0,
+    "ItemRarityFlags": "ItemRarityFlags.None",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.N",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1067,14 +1068,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2520
     },
-    "ItemRarityFlags": "ItemRarityFlags.None",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName21]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [],
-    "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 70,
+      "Intelligence": 85,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1082,19 +1082,22 @@
     "Id": 22,
     "IsIgnore": null,
     "Memo": "ザラ",
+    "NameKey": "[CharacterName22]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       22001,
       22002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 92,
-      "Intelligence": 80,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [
+      22003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": -2,
       "Avoidance": 0,
@@ -1116,16 +1119,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2766
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName22]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      22003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 92,
+      "Intelligence": 80,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1133,19 +1133,22 @@
     "Id": 23,
     "IsIgnore": null,
     "Memo": "ロザリー",
+    "NameKey": "[CharacterName23]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       23001,
       23002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 81,
-      "Intelligence": 95,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      23003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -1167,16 +1170,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2800
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName23]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      23003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 81,
+      "Intelligence": 95,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1184,19 +1184,22 @@
     "Id": 24,
     "IsIgnore": null,
     "Memo": "リブラ",
+    "NameKey": "[CharacterName24]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       24001,
       24002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 99,
-      "Health": 68,
-      "Intelligence": 85,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      24003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1218,16 +1221,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3066
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName24]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      24003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 99,
+      "Health": 68,
+      "Intelligence": 85,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1235,19 +1235,23 @@
     "Id": 25,
     "IsIgnore": null,
     "Memo": "アイビー",
+    "NameKey": "[CharacterName25]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       25001,
       25002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 69,
-      "Intelligence": 86,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      25003,
+      25004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -1269,17 +1273,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2790
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName25]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      25003,
-      25004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 69,
+      "Intelligence": 86,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1287,19 +1287,23 @@
     "Id": 26,
     "IsIgnore": null,
     "Memo": "マーリン",
+    "NameKey": "[CharacterName26]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       26001,
       26002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 94,
-      "Intelligence": 89,
-      "Muscle": 80
-    },
-    "BaseParameterGrossCoefficient": 343,
+    "PassiveSkillIds": [
+      26003,
+      26004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -4,
       "Avoidance": 1,
@@ -1321,17 +1325,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2888
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName26]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      26003,
-      26004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 94,
+      "Intelligence": 89,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 343
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1339,19 +1339,23 @@
     "Id": 27,
     "IsIgnore": null,
     "Memo": "コルディ",
+    "NameKey": "[CharacterName27]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       27001,
       27002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 69,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      27003,
+      27004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -1373,17 +1377,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3562
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName27]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      27003,
-      27004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 69,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1391,19 +1391,23 @@
     "Id": 28,
     "IsIgnore": null,
     "Memo": "ニーナ",
+    "NameKey": "[CharacterName28]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       28001,
       28002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 95,
-      "Health": 78,
-      "Intelligence": 89,
-      "Muscle": 75
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      28003,
+      28004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 0,
@@ -1425,17 +1429,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2839
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName28]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      28003,
-      28004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 95,
+      "Health": 78,
+      "Intelligence": 89,
+      "Muscle": 75
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1443,19 +1443,23 @@
     "Id": 29,
     "IsIgnore": null,
     "Memo": "メルティーユ",
+    "NameKey": "[CharacterName29]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       29001,
       29002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 74,
-      "Intelligence": 94,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      29003,
+      29004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 1,
@@ -1477,17 +1481,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2796
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName29]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      29003,
-      29004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 74,
+      "Intelligence": 94,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1495,19 +1495,24 @@
     "Id": 30,
     "IsIgnore": null,
     "Memo": "ルーク",
+    "NameKey": "[CharacterName30]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       30001,
       30002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 92,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [
+      30003,
+      30004,
+      30005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -1529,18 +1534,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3093
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName30]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      30003,
-      30004,
-      30005
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 92,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1548,19 +1548,20 @@
     "Id": 31,
     "IsIgnore": null,
     "Memo": "ガルム",
+    "NameKey": "[CharacterName31]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       31001,
       31002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 99,
-      "Health": 69,
-      "Intelligence": 80,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [],
+    "RequireFragmentCount": 0,
+    "ItemRarityFlags": "ItemRarityFlags.None",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.N",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -1582,14 +1583,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2880
     },
-    "ItemRarityFlags": "ItemRarityFlags.None",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName31]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [],
-    "RarityFlags": "CharacterRarityFlags.N",
-    "RequireFragmentCount": 0
+    "BaseParameterCoefficient": {
+      "Energy": 99,
+      "Health": 69,
+      "Intelligence": 80,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1597,19 +1597,22 @@
     "Id": 32,
     "IsIgnore": null,
     "Memo": "スクルド",
+    "NameKey": "[CharacterName32]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       32001,
       32002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 92,
-      "Intelligence": 90,
-      "Muscle": 79
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      32003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": -4,
       "Avoidance": 2,
@@ -1631,16 +1634,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2590
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName32]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      32003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 92,
+      "Intelligence": 90,
+      "Muscle": 79
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1648,19 +1648,22 @@
     "Id": 33,
     "IsIgnore": null,
     "Memo": "チェルナ",
+    "NameKey": "[CharacterName33]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       33001,
       33002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 81,
-      "Intelligence": 95,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 340,
+    "PassiveSkillIds": [
+      33003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1682,16 +1685,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2809
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName33]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      33003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 81,
+      "Intelligence": 95,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 340
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1699,19 +1699,22 @@
     "Id": 34,
     "IsIgnore": null,
     "Memo": "ソテイラ",
+    "NameKey": "[CharacterName34]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       34001,
       34002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 70,
-      "Intelligence": 99,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      34003
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.R",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.R",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -1733,16 +1736,13 @@
       "PhysicalDamageRelax": -3,
       "Speed": 3019
     },
-    "ItemRarityFlags": "ItemRarityFlags.R",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName34]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      34003
-    ],
-    "RarityFlags": "CharacterRarityFlags.R",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 70,
+      "Intelligence": 99,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1750,19 +1750,23 @@
     "Id": 35,
     "IsIgnore": null,
     "Memo": "ミミ",
+    "NameKey": "[CharacterName35]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       35001,
       35002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 69,
-      "Intelligence": 84,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      35003,
+      35004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1784,17 +1788,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3328
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName35]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      35003,
-      35004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 69,
+      "Intelligence": 84,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1802,19 +1802,23 @@
     "Id": 36,
     "IsIgnore": null,
     "Memo": "トロポン",
+    "NameKey": "[CharacterName36]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       36001,
       36002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 80,
-      "Intelligence": 95,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      36003,
+      36004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1836,17 +1840,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2657
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName36]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      36003,
-      36004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 80,
+      "Intelligence": 95,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1854,19 +1854,23 @@
     "Id": 37,
     "IsIgnore": null,
     "Memo": "ハトホル",
+    "NameKey": "[CharacterName37]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       37001,
       37002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 67,
-      "Intelligence": 84,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 336,
+    "PassiveSkillIds": [
+      37003,
+      37004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -1888,17 +1892,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3334
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName37]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      37003,
-      37004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 67,
+      "Intelligence": 84,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 336
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1906,19 +1906,23 @@
     "Id": 38,
     "IsIgnore": null,
     "Memo": "オリヴィエ",
+    "NameKey": "[CharacterName38]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       38001,
       38002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 85,
-      "Health": 74,
-      "Intelligence": 84,
-      "Muscle": 95
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      38003,
+      38004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 2,
@@ -1940,17 +1944,13 @@
       "PhysicalDamageRelax": 4,
       "Speed": 3120
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName38]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      38003,
-      38004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 85,
+      "Health": 74,
+      "Intelligence": 84,
+      "Muscle": 95
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -1958,19 +1958,23 @@
     "Id": 39,
     "IsIgnore": null,
     "Memo": "プリマヴェーラ",
+    "NameKey": "[CharacterName39]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       39001,
       39002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 99,
-      "Health": 67,
-      "Intelligence": 85,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 336,
+    "PassiveSkillIds": [
+      39003,
+      39004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -1992,17 +1996,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3268
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName39]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      39003,
-      39004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 99,
+      "Health": 67,
+      "Intelligence": 85,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 336
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2010,19 +2010,23 @@
     "Id": 40,
     "IsIgnore": null,
     "Memo": "カロル",
+    "NameKey": "[CharacterName40]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       40001,
       40002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 80,
-      "Intelligence": 95,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      40003,
+      40004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -2044,17 +2048,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3452
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName40]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      40003,
-      40004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 80,
+      "Intelligence": 95,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2062,19 +2062,23 @@
     "Id": 41,
     "IsIgnore": null,
     "Memo": "【弔花の魔女】ナターシャ",
+    "NameKey": "[CharacterName41]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       41001,
       41002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 83,
-      "Health": 69,
-      "Intelligence": 86,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      41003,
+      41004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName41]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Light",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -2096,17 +2100,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2926
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName41]",
-    "NameKey": "[CharacterName41]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      41003,
-      41004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 83,
+      "Health": 69,
+      "Intelligence": 86,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2114,19 +2114,23 @@
     "Id": 42,
     "IsIgnore": null,
     "Memo": "【聖剣の魔女】フォルティナ",
+    "NameKey": "[CharacterName42]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       42001,
       42002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 86,
-      "Health": 73,
-      "Intelligence": 84,
-      "Muscle": 94
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      42003,
+      42004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName42]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Light",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 2,
@@ -2148,17 +2152,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3059
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName42]",
-    "NameKey": "[CharacterName42]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      42003,
-      42004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 86,
+      "Health": 73,
+      "Intelligence": 84,
+      "Muscle": 94
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2166,19 +2166,23 @@
     "Id": 43,
     "IsIgnore": null,
     "Memo": "【雷啼の魔女】ケルベロス",
+    "NameKey": "[CharacterName43]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       43001,
       43002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 83,
-      "Health": 69,
-      "Intelligence": 86,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      43003,
+      43004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName43]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Light",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2200,17 +2204,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3363
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName43]",
-    "NameKey": "[CharacterName43]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      43003,
-      43004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 83,
+      "Health": 69,
+      "Intelligence": 86,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2218,19 +2218,24 @@
     "Id": 44,
     "IsIgnore": null,
     "Memo": "【天泣の魔女】ルサールカ",
+    "NameKey": "[CharacterName44]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       44001,
       44002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 86,
-      "Health": 73,
-      "Intelligence": 94,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      44003,
+      44004,
+      44005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName44]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Light",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2252,18 +2257,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2972
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": "[CharacterSubName44]",
-    "NameKey": "[CharacterName44]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      44003,
-      44004,
-      44005
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 86,
+      "Health": 73,
+      "Intelligence": 94,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2271,19 +2271,20 @@
     "Id": 45,
     "IsIgnore": null,
     "Memo": "【聖槍の魔女】エルフリンデ",
+    "NameKey": "[CharacterName45]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       45001,
       45002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 83,
-      "Health": 69,
-      "Intelligence": 86,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName45]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Light",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2305,14 +2306,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3026
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName45]",
-    "NameKey": "[CharacterName45]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 83,
+      "Health": 69,
+      "Intelligence": 86,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2320,19 +2320,23 @@
     "Id": 46,
     "IsIgnore": null,
     "Memo": "【雪幻の魔女】ルナリンド",
+    "NameKey": "[CharacterName46]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       46001,
       46002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 78,
-      "Intelligence": 100,
-      "Muscle": 80
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      46003,
+      46004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName46]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Dark",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 0,
@@ -2354,17 +2358,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3304
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": "[CharacterSubName46]",
-    "NameKey": "[CharacterName46]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      46003,
-      46004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 78,
+      "Intelligence": 100,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2372,19 +2372,23 @@
     "Id": 47,
     "IsIgnore": null,
     "Memo": "【劫火の魔女】ヴァルリーデ",
+    "NameKey": "[CharacterName47]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       47001,
       47002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 86,
-      "Health": 70,
-      "Intelligence": 83,
-      "Muscle": 100
-    },
-    "BaseParameterGrossCoefficient": 339,
+    "PassiveSkillIds": [
+      47003,
+      47004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName47]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Dark",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -2406,17 +2410,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2883
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName47]",
-    "NameKey": "[CharacterName47]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      47003,
-      47004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 86,
+      "Health": 70,
+      "Intelligence": 83,
+      "Muscle": 100
+    },
+    "BaseParameterGrossCoefficient": 339
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2424,19 +2424,24 @@
     "Id": 48,
     "IsIgnore": null,
     "Memo": "【錆鉄の魔女】Ａ.Ａ.",
+    "NameKey": "[CharacterName48]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       48001,
       48002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 73,
-      "Intelligence": 99,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      48003,
+      48004,
+      48005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName48]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Dark",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -2458,18 +2463,13 @@
       "PhysicalDamageRelax": -3,
       "Speed": 2687
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": "[CharacterSubName48]",
-    "NameKey": "[CharacterName48]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      48003,
-      48004,
-      48005
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 73,
+      "Intelligence": 99,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2477,19 +2477,24 @@
     "Id": 49,
     "IsIgnore": null,
     "Memo": "【骸晶の魔女】オフィーリア",
+    "NameKey": "[CharacterName49]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       49001,
       49002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 92,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 341,
+    "PassiveSkillIds": [
+      49003,
+      49004,
+      49005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName49]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Dark",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2511,18 +2516,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3007
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName49]",
-    "NameKey": "[CharacterName49]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      49003,
-      49004,
-      49005
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 92,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 341
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2530,19 +2530,23 @@
     "Id": 50,
     "IsIgnore": null,
     "Memo": "【英霊の魔女】アームストロング",
+    "NameKey": "[CharacterName50]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       50001,
       50002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 104,
-      "Health": 64,
-      "Intelligence": 78,
-      "Muscle": 91
-    },
-    "BaseParameterGrossCoefficient": 337,
+    "PassiveSkillIds": [
+      50003,
+      50004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName50]",
     "CharacterType": "CharacterType.Qlipha",
     "ElementType": "ElementType.Dark",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -2564,17 +2568,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3047
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": "[CharacterSubName50]",
-    "NameKey": "[CharacterName50]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      50003,
-      50004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 104,
+      "Health": 64,
+      "Intelligence": 78,
+      "Muscle": 91
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2582,19 +2582,24 @@
     "Id": 51,
     "IsIgnore": null,
     "Memo": "ソフィア",
+    "NameKey": "[CharacterName51]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       51001,
       51002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 84,
-      "Health": 69,
-      "Intelligence": 88,
-      "Muscle": 99
-    },
-    "BaseParameterGrossCoefficient": 338,
+    "PassiveSkillIds": [
+      51003,
+      51004,
+      51005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -2616,18 +2621,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2935
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName51]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      51003,
-      51004,
-      51005
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 69,
+      "Intelligence": 88,
+      "Muscle": 99
+    },
+    "BaseParameterGrossCoefficient": 338
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2635,19 +2635,23 @@
     "Id": 52,
     "IsIgnore": null,
     "Memo": "シヴィ",
+    "NameKey": "[CharacterName52]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       52001,
       52002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 93,
-      "Intelligence": 78,
-      "Muscle": 92
-    },
-    "BaseParameterGrossCoefficient": 343,
+    "PassiveSkillIds": [
+      52003,
+      52004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2669,17 +2673,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2855
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName52]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      52003,
-      52004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 93,
+      "Intelligence": 78,
+      "Muscle": 92
+    },
+    "BaseParameterGrossCoefficient": 343
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2687,19 +2687,23 @@
     "Id": 53,
     "IsIgnore": null,
     "Memo": "ウィーラ",
+    "NameKey": "[CharacterName53]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       53001,
       53002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 86,
-      "Health": 96,
-      "Intelligence": 78,
-      "Muscle": 62
-    },
-    "BaseParameterGrossCoefficient": 322,
+    "PassiveSkillIds": [
+      53003,
+      53004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -2721,17 +2725,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3654
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName53]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      53003,
-      53004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 86,
+      "Health": 96,
+      "Intelligence": 78,
+      "Muscle": 62
+    },
+    "BaseParameterGrossCoefficient": 322
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2739,19 +2739,23 @@
     "Id": 54,
     "IsIgnore": null,
     "Memo": "シフォン",
+    "NameKey": "[CharacterName54]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       54001,
       54002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 83,
-      "Intelligence": 97,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 344,
+    "PassiveSkillIds": [
+      54003,
+      54004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 3,
       "Avoidance": 0,
@@ -2773,17 +2777,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2783
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName54]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      54003,
-      54004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 83,
+      "Intelligence": 97,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 344
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2791,19 +2791,23 @@
     "Id": 55,
     "IsIgnore": null,
     "Memo": "レア",
+    "NameKey": "[CharacterName55]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       55001,
       55002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 100,
-      "Health": 54,
-      "Intelligence": 86,
-      "Muscle": 84
-    },
-    "BaseParameterGrossCoefficient": 324,
+    "PassiveSkillIds": [
+      55003,
+      55004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2825,17 +2829,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3571
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sniper",
-    "Name2Key": null,
-    "NameKey": "[CharacterName55]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      55003,
-      55004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 100,
+      "Health": 54,
+      "Intelligence": 86,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 324
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2843,19 +2843,23 @@
     "Id": 58,
     "IsIgnore": null,
     "Memo": "アーティ",
+    "NameKey": "[CharacterName58]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       58001,
       58002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 79,
-      "Health": 74,
-      "Intelligence": 103,
-      "Muscle": 89
-    },
-    "BaseParameterGrossCoefficient": 343,
+    "PassiveSkillIds": [
+      58003,
+      58004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 4,
       "Avoidance": 0,
@@ -2877,17 +2881,13 @@
       "PhysicalDamageRelax": -2,
       "Speed": 2734
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": null,
-    "NameKey": "[CharacterName58]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      58003,
-      58004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 74,
+      "Intelligence": 103,
+      "Muscle": 89
+    },
+    "BaseParameterGrossCoefficient": 343
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2895,19 +2895,23 @@
     "Id": 60,
     "IsIgnore": null,
     "Memo": "フィアー",
+    "NameKey": "[CharacterName60]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       60001,
       60002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 80,
-      "Health": 98,
-      "Intelligence": 79,
-      "Muscle": 90
-    },
-    "BaseParameterGrossCoefficient": 347,
+    "PassiveSkillIds": [
+      60003,
+      60004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2929,17 +2933,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 2645
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName60]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      60003,
-      60004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 98,
+      "Intelligence": 79,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 347
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2947,19 +2947,23 @@
     "Id": 67,
     "IsIgnore": null,
     "Memo": "リシェス",
+    "NameKey": "[CharacterName67]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       67001,
       67002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 77,
-      "Health": 78,
-      "Intelligence": 79,
-      "Muscle": 91
-    },
-    "BaseParameterGrossCoefficient": 325,
+    "PassiveSkillIds": [
+      67003,
+      67004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
     "CharacterType": "CharacterType.Normal",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 0,
       "Avoidance": 0,
@@ -2981,17 +2985,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3596
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": null,
-    "NameKey": "[CharacterName67]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      67003,
-      67004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 77,
+      "Health": 78,
+      "Intelligence": 79,
+      "Muscle": 91
+    },
+    "BaseParameterGrossCoefficient": 325
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -2999,19 +2999,23 @@
     "Id": 70,
     "IsIgnore": null,
     "Memo": "水着サブリナ",
+    "NameKey": "[CharacterName70]",
+    "NormalSkillId": 101,
     "ActiveSkillIds": [
       70001,
       70002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 81,
-      "Health": 77,
-      "Intelligence": 93,
-      "Muscle": 93
-    },
-    "BaseParameterGrossCoefficient": 344,
+    "PassiveSkillIds": [
+      70003,
+      70004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName70]",
     "CharacterType": "CharacterType.ColorChange",
     "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": -3,
       "Avoidance": 0,
@@ -3033,17 +3037,13 @@
       "PhysicalDamageRelax": 0,
       "Speed": 3418
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Warrior",
-    "Name2Key": "[CharacterSubName70]",
-    "NameKey": "[CharacterName70]",
-    "NormalSkillId": 101,
-    "PassiveSkillIds": [
-      70003,
-      70004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 81,
+      "Health": 77,
+      "Intelligence": 93,
+      "Muscle": 93
+    },
+    "BaseParameterGrossCoefficient": 344
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
@@ -3051,19 +3051,23 @@
     "Id": 71,
     "IsIgnore": null,
     "Memo": "水着モーザ",
+    "NameKey": "[CharacterName71]",
+    "NormalSkillId": 102,
     "ActiveSkillIds": [
       71001,
       71002
     ],
-    "BaseParameterCoefficient": {
-      "Energy": 75,
-      "Health": 69,
-      "Intelligence": 104,
-      "Muscle": 85
-    },
-    "BaseParameterGrossCoefficient": 333,
+    "PassiveSkillIds": [
+      71003,
+      71004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": "[CharacterSubName71]",
     "CharacterType": "CharacterType.ColorChange",
     "ElementType": "ElementType.Yellow",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
       "AttackPower": 2,
       "Avoidance": 0,
@@ -3085,16 +3089,12 @@
       "PhysicalDamageRelax": -3,
       "Speed": 3245
     },
-    "ItemRarityFlags": "ItemRarityFlags.SR",
-    "JobFlags": "JobFlags.Sorcerer",
-    "Name2Key": "[CharacterSubName71]",
-    "NameKey": "[CharacterName71]",
-    "NormalSkillId": 102,
-    "PassiveSkillIds": [
-      71003,
-      71004
-    ],
-    "RarityFlags": "CharacterRarityFlags.SR",
-    "RequireFragmentCount": 60
+    "BaseParameterCoefficient": {
+      "Energy": 75,
+      "Health": 69,
+      "Intelligence": 104,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 333
   }
 ]

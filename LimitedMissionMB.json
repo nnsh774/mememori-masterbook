@@ -5,11 +5,12 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "AppealTextKey": "[LimitedMissionAppeal1]",
     "CharacterImageId": 21,
-    "CharacterImageSize": 0.75,
     "CharacterImageX": 0.0,
     "CharacterImageY": 0.0,
+    "CharacterImageSize": 0.75,
+    "TitleTextKey": "[LimitedMissionTitle1]",
+    "AppealTextKey": "[LimitedMissionAppeal1]",
     "TargetMissionIdList": [
       723,
       724,
@@ -109,8 +110,7 @@
       818,
       819,
       820
-    ],
-    "TitleTextKey": "[LimitedMissionTitle1]"
+    ]
   },
   {
     "EndTime": "2023-06-01 03:59:59",
@@ -118,11 +118,12 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "0.5周年ミッション　4/14~6/1",
-    "AppealTextKey": "[LimitedMissionAppeal2]",
     "CharacterImageId": 39,
-    "CharacterImageSize": 0.75,
     "CharacterImageX": 0.0,
     "CharacterImageY": 0.0,
+    "CharacterImageSize": 0.75,
+    "TitleTextKey": "[LimitedMissionTitle2]",
+    "AppealTextKey": "[LimitedMissionAppeal2]",
     "TargetMissionIdList": [
       940,
       941,
@@ -222,8 +223,7 @@
       1035,
       1036,
       1037
-    ],
-    "TitleTextKey": "[LimitedMissionTitle2]"
+    ]
   },
   {
     "EndTime": "2023-09-01 03:59:59",
@@ -231,11 +231,12 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "2023サマーミッション 7/13~9/1",
-    "AppealTextKey": "[LimitedMissionAppeal3]",
     "CharacterImageId": 71,
-    "CharacterImageSize": 0.75,
     "CharacterImageX": 0.0,
     "CharacterImageY": 0.0,
+    "CharacterImageSize": 0.75,
+    "TitleTextKey": "[LimitedMissionTitle3]",
+    "AppealTextKey": "[LimitedMissionAppeal3]",
     "TargetMissionIdList": [
       1059,
       1060,
@@ -335,7 +336,6 @@
       1154,
       1155,
       1156
-    ],
-    "TitleTextKey": "[LimitedMissionTitle3]"
+    ]
   }
 ]

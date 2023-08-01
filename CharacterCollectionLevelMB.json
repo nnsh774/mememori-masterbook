@@ -3,6 +3,9 @@
     "Id": 101,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -11,15 +14,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 1,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 102,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -33,15 +36,15 @@
         "Value": 3000.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 1,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 103,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -55,15 +58,15 @@
         "Value": 3000.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 1,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 104,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -77,15 +80,15 @@
         "Value": 3000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 1,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 105,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -99,15 +102,15 @@
         "Value": 4000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 1,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 106,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -121,15 +124,15 @@
         "Value": 5000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 1,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 107,
     "IsIgnore": null,
     "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -143,15 +146,15 @@
         "Value": 6000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 1,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 201,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -160,15 +163,15 @@
         "Value": 700.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 2,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 202,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -182,15 +185,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 2,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 203,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -204,15 +207,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 2,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 204,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -226,15 +229,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 2,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 205,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -248,15 +251,15 @@
         "Value": 2000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 2,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 206,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -270,15 +273,15 @@
         "Value": 2500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 2,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 207,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -292,15 +295,15 @@
         "Value": 3000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 2,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 301,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -309,15 +312,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 3,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 302,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -331,15 +334,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 3,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 303,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -353,15 +356,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 3,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 304,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -375,15 +378,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 3,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 305,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -397,15 +400,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 3,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 306,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -419,15 +422,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 3,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 307,
     "IsIgnore": null,
     "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -441,15 +444,15 @@
         "Value": 250.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 3,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 401,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -458,15 +461,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 4,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 402,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -480,15 +483,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 4,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 403,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -502,15 +505,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 4,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 404,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -524,15 +527,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 4,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 405,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -546,15 +549,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 4,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 406,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -568,15 +571,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 4,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 407,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -590,15 +593,15 @@
         "Value": 250.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 4,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 501,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -607,15 +610,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 5,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 502,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -629,15 +632,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 5,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 503,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -651,15 +654,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 5,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 504,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -673,15 +676,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 5,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 505,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -695,15 +698,15 @@
         "Value": 1600.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 5,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 506,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -717,15 +720,15 @@
         "Value": 1700.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 5,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 507,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -739,15 +742,15 @@
         "Value": 1800.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 5,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 601,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -756,15 +759,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 6,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 602,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -779,15 +782,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 6,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 603,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -802,15 +805,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 6,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 604,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -825,15 +828,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 6,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 605,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -848,15 +851,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 6,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 606,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -871,15 +874,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 6,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 607,
     "IsIgnore": null,
     "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -894,15 +897,15 @@
         "Value": 250.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 6,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 701,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -911,15 +914,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 7,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 702,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -934,15 +937,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 7,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 703,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -957,15 +960,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 7,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 704,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -980,15 +983,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 7,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 705,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1003,15 +1006,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 7,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 706,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1026,15 +1029,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 7,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 707,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1049,15 +1052,15 @@
         "Value": 250.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 7,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 801,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1066,15 +1069,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 8,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 802,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1088,15 +1091,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 8,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 803,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1110,15 +1113,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 8,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 804,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1132,15 +1135,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 8,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 805,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1154,15 +1157,15 @@
         "Value": 75.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 8,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 806,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1176,15 +1179,15 @@
         "Value": 80.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 8,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 807,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1198,15 +1201,15 @@
         "Value": 85.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 8,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 901,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1215,15 +1218,15 @@
         "Value": 30.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 9,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 902,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1237,15 +1240,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 9,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 903,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1259,15 +1262,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 9,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 904,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1281,15 +1284,15 @@
         "Value": 1500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 9,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 905,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1303,15 +1306,15 @@
         "Value": 1600.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 9,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 906,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1325,15 +1328,15 @@
         "Value": 1700.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 9,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 907,
     "IsIgnore": null,
     "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1347,15 +1350,15 @@
         "Value": 1800.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 9,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1001,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1364,15 +1367,15 @@
         "Value": 5.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 10,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1002,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1386,15 +1389,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 10,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1003,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1408,15 +1411,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 10,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1004,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1430,15 +1433,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 10,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1005,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1452,15 +1455,15 @@
         "Value": 550.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 10,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1006,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1474,15 +1477,15 @@
         "Value": 600.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 10,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1007,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1496,15 +1499,15 @@
         "Value": 650.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 10,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1101,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1513,15 +1516,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 11,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1102,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1536,15 +1539,15 @@
         "Value": 160.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 11,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1103,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1559,15 +1562,15 @@
         "Value": 160.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 11,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1104,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1582,15 +1585,15 @@
         "Value": 160.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 11,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1105,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1605,15 +1608,15 @@
         "Value": 180.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 11,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1106,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1628,15 +1631,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 11,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1107,
     "IsIgnore": null,
     "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Energy",
@@ -1651,15 +1654,15 @@
         "Value": 220.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 11,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1201,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1668,15 +1671,15 @@
         "Value": 300.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 12,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1202,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1691,15 +1694,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 12,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1203,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1714,15 +1717,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 12,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1204,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1737,15 +1740,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 12,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1205,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1760,15 +1763,15 @@
         "Value": 510.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 12,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1206,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1783,15 +1786,15 @@
         "Value": 520.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 12,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1207,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -1806,15 +1809,15 @@
         "Value": 530.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 12,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1301,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1823,15 +1826,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 13,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1302,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1845,15 +1848,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 13,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1303,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1867,15 +1870,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 13,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1304,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1889,15 +1892,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 13,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1305,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1911,15 +1914,15 @@
         "Value": 71.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 13,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1306,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1933,15 +1936,15 @@
         "Value": 72.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 13,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1307,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1955,15 +1958,15 @@
         "Value": 73.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 13,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1401,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1972,15 +1975,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 14,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1402,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -1989,15 +1992,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 14,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1403,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2006,15 +2009,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 14,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1404,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2023,15 +2026,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 14,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1405,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2040,15 +2043,15 @@
         "Value": 505.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 14,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1406,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2057,15 +2060,15 @@
         "Value": 510.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 14,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1407,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2074,15 +2077,15 @@
         "Value": 515.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 14,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1501,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2091,15 +2094,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 15,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1502,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2114,15 +2117,15 @@
         "Value": 15.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 15,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1503,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2137,15 +2140,15 @@
         "Value": 15.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 15,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1504,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2160,15 +2163,15 @@
         "Value": 15.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 15,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1505,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2183,15 +2186,15 @@
         "Value": 16.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 15,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1506,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2206,15 +2209,15 @@
         "Value": 17.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 15,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1507,
     "IsIgnore": null,
     "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2229,15 +2232,15 @@
         "Value": 18.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 15,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1601,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2246,15 +2249,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 16,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1602,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2269,15 +2272,15 @@
         "Value": 1000.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 16,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1603,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2292,15 +2295,15 @@
         "Value": 1000.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 16,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1604,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2315,15 +2318,15 @@
         "Value": 1000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 16,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1605,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2338,15 +2341,15 @@
         "Value": 1050.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 16,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1606,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2361,15 +2364,15 @@
         "Value": 1100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 16,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1607,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Muscle",
@@ -2384,15 +2387,15 @@
         "Value": 1150.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 16,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1701,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2401,15 +2404,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 17,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1702,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2424,15 +2427,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 17,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1703,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2447,15 +2450,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 17,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1704,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2470,15 +2473,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 17,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1705,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2493,15 +2496,15 @@
         "Value": 110.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 17,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1706,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2516,15 +2519,15 @@
         "Value": 120.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 17,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1707,
     "IsIgnore": null,
     "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Intelligence",
@@ -2539,15 +2542,15 @@
         "Value": 130.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 17,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1801,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2556,15 +2559,15 @@
         "Value": 100.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 18,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1802,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2578,15 +2581,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 18,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1803,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2600,15 +2603,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 18,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1804,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2622,15 +2625,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 18,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1805,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2644,15 +2647,15 @@
         "Value": 510.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 18,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1806,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2666,15 +2669,15 @@
         "Value": 520.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 18,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1807,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2688,15 +2691,15 @@
         "Value": 530.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 18,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1901,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2705,15 +2708,15 @@
         "Value": 25.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 19,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1902,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2727,15 +2730,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 19,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1903,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2749,15 +2752,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 19,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 1904,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2771,15 +2774,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 19,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1905,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2793,15 +2796,15 @@
         "Value": 210.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 19,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1906,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2815,15 +2818,15 @@
         "Value": 220.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 19,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 1907,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -2837,15 +2840,15 @@
         "Value": 230.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 19,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2001,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2854,15 +2857,15 @@
       }
     ],
     "BattleParameterChangeInfos": [],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 20,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2002,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2877,15 +2880,15 @@
         "Value": 1000.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 20,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2003,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2900,15 +2903,15 @@
         "Value": 1000.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 20,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2004,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2923,15 +2926,15 @@
         "Value": 1000.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 20,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2005,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2946,15 +2949,15 @@
         "Value": 1050.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 20,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2006,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2969,15 +2972,15 @@
         "Value": 1100.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 20,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2007,
     "IsIgnore": null,
     "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [
       {
         "BaseParameterType": "BaseParameterType.Health",
@@ -2992,15 +2995,15 @@
         "Value": 1150.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 20,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2101,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3009,15 +3012,15 @@
         "Value": 70.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 21,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2102,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3031,15 +3034,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 21,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2103,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3053,15 +3056,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 21,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2104,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3075,15 +3078,15 @@
         "Value": 200.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 21,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2105,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3097,15 +3100,15 @@
         "Value": 210.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 21,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2106,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3119,15 +3122,15 @@
         "Value": 220.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 21,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2107,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3141,15 +3144,15 @@
         "Value": 230.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 21,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2201,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3158,15 +3161,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 22,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2202,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3180,15 +3183,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 22,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2203,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3202,15 +3205,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 22,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2204,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3224,15 +3227,15 @@
         "Value": 500.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 22,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2205,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3246,15 +3249,15 @@
         "Value": 510.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 22,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2206,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3268,15 +3271,15 @@
         "Value": 520.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 22,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2207,
     "IsIgnore": null,
     "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3290,15 +3293,15 @@
         "Value": 530.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 22,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2301,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3307,15 +3310,15 @@
         "Value": 150.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
-    "CollectionId": 23,
-    "CollectionLevel": 1
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2302,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3324,15 +3327,15 @@
         "Value": 300.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
-    "CollectionId": 23,
-    "CollectionLevel": 2
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2303,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3341,15 +3344,15 @@
         "Value": 300.0
       }
     ],
-    "CharacterRarityBonus": 0,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
-    "CollectionId": 23,
-    "CollectionLevel": 3
+    "CharacterRarityBonus": 0
   },
   {
     "Id": 2304,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3358,15 +3361,15 @@
         "Value": 310.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "CollectionId": 23,
-    "CollectionLevel": 4
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2305,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3375,15 +3378,15 @@
         "Value": 320.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "CollectionId": 23,
-    "CollectionLevel": 5
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2306,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3392,15 +3395,15 @@
         "Value": 330.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "CollectionId": 23,
-    "CollectionLevel": 6
+    "CharacterRarityBonus": 1
   },
   {
     "Id": 2307,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "BaseParameterChangeInfos": [],
     "BattleParameterChangeInfos": [
       {
@@ -3409,9 +3412,6 @@
         "Value": 340.0
       }
     ],
-    "CharacterRarityBonus": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "CollectionId": 23,
-    "CollectionLevel": 7
+    "CharacterRarityBonus": 1
   }
 ]

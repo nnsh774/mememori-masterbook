@@ -5,10 +5,10 @@
     "Memo": "ご質問ボタン　　　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey1]",
     "ButtonType": "InquiryButtonType.Mail",
-    "MailBodyKey": "[MailBody1]",
     "MailSubjectKey": "[MailSubject1]",
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": "[MailBody1]",
+    "TransferUrl": null,
+    "TimeServerIds": []
   },
   {
     "Id": 2,
@@ -16,10 +16,10 @@
     "Memo": "不具合関連ボタン　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey2]",
     "ButtonType": "InquiryButtonType.Mail",
-    "MailBodyKey": "[MailBody2]",
     "MailSubjectKey": "[MailSubject2]",
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": "[MailBody2]",
+    "TransferUrl": null,
+    "TimeServerIds": []
   },
   {
     "Id": 3,
@@ -27,10 +27,10 @@
     "Memo": "通報ボタン　　　　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey3]",
     "ButtonType": "InquiryButtonType.Mail",
-    "MailBodyKey": "[MailBody3]",
     "MailSubjectKey": "[MailSubject3]",
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": "[MailBody3]",
+    "TransferUrl": null,
+    "TimeServerIds": []
   },
   {
     "Id": 4,
@@ -38,10 +38,10 @@
     "Memo": "データ引き継ぎボタン　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey4]",
     "ButtonType": "InquiryButtonType.Mail",
-    "MailBodyKey": "[MailBody4]",
     "MailSubjectKey": "[MailSubject4]",
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": "[MailBody4]",
+    "TransferUrl": null,
+    "TimeServerIds": []
   },
   {
     "Id": 5,
@@ -49,10 +49,10 @@
     "Memo": "購入・決済ボタン　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey5]",
     "ButtonType": "InquiryButtonType.Mail",
-    "MailBodyKey": "[MailBody5]",
     "MailSubjectKey": "[MailSubject5]",
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": "[MailBody5]",
+    "TransferUrl": null,
+    "TimeServerIds": []
   },
   {
     "Id": 6,
@@ -60,10 +60,10 @@
     "Memo": "ご意見・ご要望ボタン　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey6]",
     "ButtonType": "InquiryButtonType.Mail",
-    "MailBodyKey": "[MailBody6]",
     "MailSubjectKey": "[MailSubject6]",
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": "[MailBody6]",
+    "TransferUrl": null,
+    "TimeServerIds": []
   },
   {
     "Id": 7,
@@ -71,9 +71,9 @@
     "Memo": null,
     "ButtonTextKey": "[MenuAccountDeleteButton]",
     "ButtonType": "InquiryButtonType.AccountDelete",
-    "MailBodyKey": null,
     "MailSubjectKey": null,
-    "TimeServerIds": [],
-    "TransferUrl": null
+    "MailBodyKey": null,
+    "TransferUrl": null,
+    "TimeServerIds": []
   }
 ]

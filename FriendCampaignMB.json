@@ -9,8 +9,15 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "友達招待キャンペーン（07/31~08/31）",
-    "CodeExpirationPeriod": 10,
     "CodeLimitCount": 20,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 500
+      }
+    ],
+    "CodeExpirationPeriod": 10,
     "FriendMissionIdList": [
       1,
       2,
@@ -32,13 +39,6 @@
       18,
       19,
       20
-    ],
-    "RewardItemList": [
-      {
-        "ItemCount": 500,
-        "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
-      }
     ],
     "Title": "[FriendCampaignKey1]"
   }

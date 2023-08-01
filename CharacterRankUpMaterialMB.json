@@ -4,329 +4,329 @@
     "IsIgnore": null,
     "Memo": "基本RtoR+",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.R",
     "MaterialRankFlags": "CharacterRarityFlags.R",
     "MaterialRankSecondFlags": "CharacterRarityFlags.R",
-    "RankFlags": "CharacterRarityFlags.R",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.RPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.RPlus"
   },
   {
     "Id": 102,
     "IsIgnore": null,
     "Memo": "基本R+toSR",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.ElementType",
+    "RankFlags": "CharacterRarityFlags.RPlus",
     "MaterialRankFlags": "CharacterRarityFlags.RPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.RPlus",
-    "RankFlags": "CharacterRarityFlags.RPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SR",
-    "UpType": "RankUpType.ElementType"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SR"
   },
   {
     "Id": 103,
     "IsIgnore": null,
     "Memo": "基本SRtoSR+",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.SR",
     "MaterialRankFlags": "CharacterRarityFlags.SR",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SRPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SRPlus"
   },
   {
     "Id": 104,
     "IsIgnore": null,
     "Memo": "基本SR+toSSR",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.ElementType",
+    "RankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.SRPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SSR",
-    "UpType": "RankUpType.ElementType"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SSR"
   },
   {
     "Id": 105,
     "IsIgnore": null,
     "Memo": "基本SSRtoSSR+",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.SSR",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SSR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SSRPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SSRPlus"
   },
   {
     "Id": 106,
     "IsIgnore": null,
     "Memo": "基本SSR+toUR",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.ElementType",
+    "RankFlags": "CharacterRarityFlags.SSRPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SSRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SSRPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.UR",
-    "UpType": "RankUpType.ElementType"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.UR"
   },
   {
     "Id": 107,
     "IsIgnore": null,
     "Memo": "基本URtoUR+",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.ElementType",
+    "RankFlags": "CharacterRarityFlags.UR",
     "MaterialRankFlags": "CharacterRarityFlags.SSRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.UR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.URPlus",
-    "UpType": "RankUpType.ElementType"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.URPlus"
   },
   {
     "Id": 108,
     "IsIgnore": null,
     "Memo": "基本UR+toLR",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.URPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.URPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LR",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LR"
   },
   {
     "Id": 109,
     "IsIgnore": null,
     "Memo": "基本LRtoLR+",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LR",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus"
   },
   {
     "Id": 110,
     "IsIgnore": null,
     "Memo": "基本LR+toLR+2",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LRPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus2",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus2"
   },
   {
     "Id": 111,
     "IsIgnore": null,
     "Memo": "基本LR+2toLR+3",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus2",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LRPlus2",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus3",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus3"
   },
   {
     "Id": 112,
     "IsIgnore": null,
     "Memo": "基本LR+3toLR+4",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus3",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LRPlus3",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus4",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus4"
   },
   {
     "Id": 113,
     "IsIgnore": null,
     "Memo": "基本LR+4toLR+5",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus4",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus4",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus5"
   },
   {
     "Id": 114,
     "IsIgnore": null,
     "Memo": "基本LR+5toLR+6",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus5",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus5",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus6"
   },
   {
     "Id": 115,
     "IsIgnore": null,
     "Memo": "基本LR+6toLR+7",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus6",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus6",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus7"
   },
   {
     "Id": 116,
     "IsIgnore": null,
     "Memo": "基本LR+7toLR+8",
     "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus7",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus7",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus8"
   },
   {
     "Id": 201,
     "IsIgnore": null,
     "Memo": "特殊SRtoSR+",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.SR",
     "MaterialRankFlags": "CharacterRarityFlags.SR",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SRPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SRPlus"
   },
   {
     "Id": 202,
     "IsIgnore": null,
     "Memo": "特殊SR+toSSR",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SRPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SSR",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SSR"
   },
   {
     "Id": 203,
     "IsIgnore": null,
     "Memo": "特殊SSRtoSSR+",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.SSR",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SSR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.SSRPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.SSRPlus"
   },
   {
     "Id": 204,
     "IsIgnore": null,
     "Memo": "特殊SSR+toUR",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.SSRPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.SSRPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.UR",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.UR"
   },
   {
     "Id": 205,
     "IsIgnore": null,
     "Memo": "特殊URtoUR+",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.UR",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.UR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.URPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.URPlus"
   },
   {
     "Id": 206,
     "IsIgnore": null,
     "Memo": "特殊UR+toLR",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.URPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.URPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LR",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LR"
   },
   {
     "Id": 207,
     "IsIgnore": null,
     "Memo": "特殊LRtoLR+",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LR",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LR",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus"
   },
   {
     "Id": 208,
     "IsIgnore": null,
     "Memo": "特殊LR+toLR+2",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LRPlus",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus2",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus2"
   },
   {
     "Id": 209,
     "IsIgnore": null,
     "Memo": "特殊LR+2toLR+3",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus2",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LRPlus2",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus3",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus3"
   },
   {
     "Id": 210,
     "IsIgnore": null,
     "Memo": "特殊LR+3toLR+4",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus3",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.None",
-    "RankFlags": "CharacterRarityFlags.LRPlus3",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus4",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus4"
   },
   {
     "Id": 211,
     "IsIgnore": null,
     "Memo": "特殊LR+4toLR+5",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus4",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus4",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus5",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus5"
   },
   {
     "Id": 212,
     "IsIgnore": null,
     "Memo": "特殊LR+5toLR+6",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus5",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus5",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus6",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus6"
   },
   {
     "Id": 213,
     "IsIgnore": null,
     "Memo": "特殊LR+6toLR+7",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus6",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus6",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus7",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus7"
   },
   {
     "Id": 214,
     "IsIgnore": null,
     "Memo": "特殊LR+7toLR+8",
     "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus7",
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
-    "RankFlags": "CharacterRarityFlags.LRPlus7",
-    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus8",
-    "UpType": "RankUpType.SameName"
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus8"
   }
 ]

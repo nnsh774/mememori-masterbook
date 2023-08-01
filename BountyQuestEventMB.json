@@ -5,9 +5,14 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（12/12~12/14）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -44,11 +49,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -58,9 +58,14 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（12/27~01/03）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -97,11 +102,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -111,9 +111,14 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（01/21~01/24）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -150,11 +155,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -164,9 +164,14 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（02/10~02/16）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -203,11 +208,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -217,9 +217,14 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（03/10~03/16）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -256,11 +261,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -270,9 +270,14 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（04/10~04/15）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -309,11 +314,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -323,9 +323,14 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（05/08~05/16）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -362,11 +367,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -376,9 +376,14 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（06/10~06/15）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -415,11 +420,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   },
@@ -429,9 +429,14 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": "ソロ報酬2倍（07/10~07/15）",
-    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
     "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
     "TargetItemList": [
       {
         "ItemId": 1,
@@ -468,11 +473,6 @@
       {
         "ItemId": 8,
         "ItemType": "ItemType.TreasureChest"
-      }
-    ],
-    "TargetQuestTypeList": [
-      {
-        "BountyQuestType": "BountyQuestType.Solo"
       }
     ]
   }

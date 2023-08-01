@@ -3,6 +3,7 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "泉ランク1",
+    "Rank": 1,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
@@ -13,13 +14,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.NInit",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.NInit",
-    "QuestLotteryInfoListId": 1,
-    "Rank": 1
+    "QuestLotteryInfoListId": 1
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "泉ランク2",
+    "Rank": 2,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
@@ -30,13 +31,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.N",
-    "QuestLotteryInfoListId": 2,
-    "Rank": 2
+    "QuestLotteryInfoListId": 2
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "泉ランク3",
+    "Rank": 3,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.N",
@@ -53,13 +54,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SSR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.N",
-    "QuestLotteryInfoListId": 3,
-    "Rank": 3
+    "QuestLotteryInfoListId": 3
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "泉ランク4",
+    "Rank": 4,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.R",
@@ -76,13 +77,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SSR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.R",
-    "QuestLotteryInfoListId": 4,
-    "Rank": 4
+    "QuestLotteryInfoListId": 4
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "泉ランク5",
+    "Rank": 5,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.SR",
@@ -99,13 +100,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.UR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.R",
-    "QuestLotteryInfoListId": 5,
-    "Rank": 5
+    "QuestLotteryInfoListId": 5
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "泉ランク6",
+    "Rank": 6,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
@@ -122,13 +123,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.UR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SR",
-    "QuestLotteryInfoListId": 6,
-    "Rank": 6
+    "QuestLotteryInfoListId": 6
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "泉ランク7",
+    "Rank": 7,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
@@ -145,13 +146,13 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.LR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SR",
-    "QuestLotteryInfoListId": 7,
-    "Rank": 7
+    "QuestLotteryInfoListId": 7
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": "泉ランク8",
+    "Rank": 8,
     "BoardRankConditionInfos": [
       {
         "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
@@ -168,7 +169,6 @@
     ],
     "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.LR",
     "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SSR",
-    "QuestLotteryInfoListId": 8,
-    "Rank": 8
+    "QuestLotteryInfoListId": 8
   }
 ]

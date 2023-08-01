@@ -3,1187 +3,1187 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 0,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 1,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 5000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 0,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": false,
-    "IsMultipleBountyQuestAvailable": false,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": false,
-    "IsQuickStartGuildRaidAvailable": false,
-    "IsRefundEquipmentMergeAvailable": false,
-    "LoginBonusMissedCompensationCount": 0,
     "Lv": 0,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 1,
-    "MaxCharacterBoxPlus": 0,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 2,
     "MaxShopItemCountPlus": 0,
-    "MaxSoloQuestCount": 6,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 0,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 0,
+    "LoginBonusMissedCompensationCount": 0,
+    "IsMultipleBountyQuestAvailable": false,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": false,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 0,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": false,
+    "IsRefundEquipmentMergeAvailable": false,
+    "IsLockEquipmentTrainingAvailable": false,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 10,
+            "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 4,
-            "ItemType": "ItemType.ExchangePlaceItem"
+            "ItemCount": 10
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 50,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 50
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 5000
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 0,
+    "MaxQuickUseCurrencyCount": 2,
+    "QuickBattlePlayerExpBonus": 0,
+    "MaxSoloQuestCount": 6,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 0,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 22,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 1,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 15000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 0,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": false,
-    "IsMultipleBountyQuestAvailable": false,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": false,
-    "IsRefundEquipmentMergeAvailable": false,
-    "LoginBonusMissedCompensationCount": 2,
     "Lv": 1,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 2,
-    "MaxCharacterBoxPlus": 10,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 3,
     "MaxShopItemCountPlus": 0,
-    "MaxSoloQuestCount": 6,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 0,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 0,
+    "LoginBonusMissedCompensationCount": 2,
+    "IsMultipleBountyQuestAvailable": false,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": false,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 80,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": false,
+    "IsLockEquipmentTrainingAvailable": false,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 1,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 7,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 1
           },
           {
-            "ItemCount": 20,
+            "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 4,
-            "ItemType": "ItemType.ExchangePlaceItem"
+            "ItemCount": 20
           },
           {
-            "ItemCount": 2,
+            "ItemType": "ItemType.GachaTicket",
             "ItemId": 2,
-            "ItemType": "ItemType.GachaTicket"
+            "ItemCount": 2
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 150,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 150
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 15000
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 22,
+    "MaxQuickUseCurrencyCount": 3,
+    "QuickBattlePlayerExpBonus": 0,
+    "MaxSoloQuestCount": 6,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 10,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 22,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 1,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 25000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 1,
-        "ItemType": "ItemType.TreasureChestKey"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 0,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": false,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": false,
-    "LoginBonusMissedCompensationCount": 2,
     "Lv": 2,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 3,
-    "MaxCharacterBoxPlus": 15,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 4,
     "MaxShopItemCountPlus": 1,
-    "MaxSoloQuestCount": 6,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 0,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 0,
+    "LoginBonusMissedCompensationCount": 2,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 500,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": false,
+    "IsLockEquipmentTrainingAvailable": false,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 2,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 7,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 2
           },
           {
-            "ItemCount": 60,
+            "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 4,
-            "ItemType": "ItemType.ExchangePlaceItem"
+            "ItemCount": 60
           },
           {
-            "ItemCount": 4,
+            "ItemType": "ItemType.GachaTicket",
             "ItemId": 2,
-            "ItemType": "ItemType.GachaTicket"
+            "ItemCount": 4
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 750,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 750
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 25000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 1,
+        "ItemCount": 1
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 22,
+    "MaxQuickUseCurrencyCount": 4,
+    "QuickBattlePlayerExpBonus": 0,
+    "MaxSoloQuestCount": 6,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 15,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 1,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 40000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 1,
-        "ItemType": "ItemType.TreasureChestKey"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 0,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": false,
-    "LoginBonusMissedCompensationCount": 3,
     "Lv": 3,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 4,
-    "MaxCharacterBoxPlus": 20,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 6,
     "MaxShopItemCountPlus": 1,
-    "MaxSoloQuestCount": 6,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 5,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 0,
+    "LoginBonusMissedCompensationCount": 3,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 1250,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": false,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 10,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 10
           },
           {
-            "ItemCount": 120,
+            "ItemType": "ItemType.TreasureChest",
             "ItemId": 28,
-            "ItemType": "ItemType.TreasureChest"
+            "ItemCount": 120
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 900,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 900
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 40000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 1,
+        "ItemCount": 1
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 6,
+    "QuickBattlePlayerExpBonus": 5,
+    "MaxSoloQuestCount": 6,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 20,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 2,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 50000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 2,
-        "ItemType": "ItemType.TreasureChestKey"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 0,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": false,
-    "LoginBonusMissedCompensationCount": 3,
     "Lv": 4,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 5,
-    "MaxCharacterBoxPlus": 25,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 8,
     "MaxShopItemCountPlus": 1,
-    "MaxSoloQuestCount": 7,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 8,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 0,
+    "LoginBonusMissedCompensationCount": 3,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 2500,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": false,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 2,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 3,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 2
           },
           {
-            "ItemCount": 2,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 8,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 2
           },
           {
-            "ItemCount": 240,
+            "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 4,
-            "ItemType": "ItemType.ExchangePlaceItem"
+            "ItemCount": 240
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 1000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 1000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 2
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 50000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 2,
+        "ItemCount": 1
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 8,
+    "QuickBattlePlayerExpBonus": 8,
+    "MaxSoloQuestCount": 7,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 25,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 2,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 75000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 2,
-        "ItemType": "ItemType.TreasureChestKey"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": false,
-    "LoginBonusMissedCompensationCount": 3,
     "Lv": 5,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 6,
-    "MaxCharacterBoxPlus": 30,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 10,
     "MaxShopItemCountPlus": 2,
-    "MaxSoloQuestCount": 7,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 12,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 3,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 4000,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": false,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 1,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 5,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 1
           },
           {
-            "ItemCount": 1,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 10,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 1
           },
           {
-            "ItemCount": 240,
+            "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 4,
-            "ItemType": "ItemType.ExchangePlaceItem"
+            "ItemCount": 240
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 1200,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 1200
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 2
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 75000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 2,
+        "ItemCount": 1
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 10,
+    "QuickBattlePlayerExpBonus": 12,
+    "MaxSoloQuestCount": 7,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 30,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 2,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 100000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 2,
-        "ItemType": "ItemType.TreasureChestKey"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 0,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": false,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 3,
     "Lv": 6,
+    "DungeonBattleGoldBonus": 0,
     "MaxBossBattleUseCurrencyCount": 7,
-    "MaxCharacterBoxPlus": 35,
-    "MaxGuildRaidChallengeCount": 2,
-    "MaxQuickUseCurrencyCount": 12,
     "MaxShopItemCountPlus": 2,
-    "MaxSoloQuestCount": 7,
-    "MaxTeamQuestCount": 1,
-    "QuickBattlePlayerExpBonus": 16,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 3,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 2,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": false,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 7000,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 2,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 5,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 2
           },
           {
-            "ItemCount": 2,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 10,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 2
           },
           {
-            "ItemCount": 480,
+            "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 4,
-            "ItemType": "ItemType.ExchangePlaceItem"
+            "ItemCount": 480
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 2400,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 2400
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 2
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 100000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 2,
+        "ItemCount": 1
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 12,
+    "QuickBattlePlayerExpBonus": 16,
+    "MaxSoloQuestCount": 7,
+    "MaxTeamQuestCount": 1,
+    "MaxCharacterBoxPlus": 35,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 2,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 150000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 50,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 20,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 4,
     "Lv": 7,
+    "DungeonBattleGoldBonus": 20,
     "MaxBossBattleUseCurrencyCount": 8,
-    "MaxCharacterBoxPlus": 40,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 14,
     "MaxShopItemCountPlus": 2,
-    "MaxSoloQuestCount": 8,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 20,
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 4,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": false,
+    "RequiredExp": 12500,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
     "ReachRewardItemList": [
       {
-        "ItemCount": 1,
+        "ItemType": "ItemType.TreasureChest",
         "ItemId": 26,
-        "ItemType": "ItemType.TreasureChest"
+        "ItemCount": 1
       }
     ],
-    "RequiredExp": 12500,
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 30,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 30
           },
           {
-            "ItemCount": 240,
+            "ItemType": "ItemType.TreasureChest",
             "ItemId": 28,
-            "ItemType": "ItemType.TreasureChest"
+            "ItemCount": 240
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 3000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 3000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 2
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 150000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 50
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 14,
+    "QuickBattlePlayerExpBonus": 20,
+    "MaxSoloQuestCount": 8,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 40,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 2,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 200000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 100,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 50,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 4,
     "Lv": 8,
+    "DungeonBattleGoldBonus": 50,
     "MaxBossBattleUseCurrencyCount": 9,
-    "MaxCharacterBoxPlus": 45,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 16,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 8,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 25,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 4,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 22500,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 7,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 13,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 7
           },
           {
-            "ItemCount": 100,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 100
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 3600,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 3600
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 2
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 200000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 100
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 16,
+    "QuickBattlePlayerExpBonus": 25,
+    "MaxSoloQuestCount": 8,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 45,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 10,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 250000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 150,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 4,
     "Lv": 9,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 10,
-    "MaxCharacterBoxPlus": 50,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 18,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 8,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 30,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 4,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 35000,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 14,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 13,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 14
           },
           {
-            "ItemCount": 12000,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 1,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 12000
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 7000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 7000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 250000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 150
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 18,
+    "QuickBattlePlayerExpBonus": 30,
+    "MaxSoloQuestCount": 8,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 50,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 11,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 300000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 200,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 4,
     "Lv": 10,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 11,
-    "MaxCharacterBoxPlus": 55,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 20,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 9,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 35,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 4,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 60000,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 5,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 15,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 5
           },
           {
-            "ItemCount": 300,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 300
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 10000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 10000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 300000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 200
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 20,
+    "QuickBattlePlayerExpBonus": 35,
+    "MaxSoloQuestCount": 9,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 55,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 12,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 400000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 275,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 0,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 1,
-    "IsDestinyGachaAvailable": false,
-    "IsDestinyGachaLogAvailable": false,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 4,
     "Lv": 11,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 12,
-    "MaxCharacterBoxPlus": 60,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 22,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 9,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 40,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 1,
+    "LoginBonusMissedCompensationCount": 4,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": false,
     "RequiredExp": 100000,
+    "IsDestinyGachaLogAvailable": false,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 6,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 15,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 6
           },
           {
-            "ItemCount": 24000,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 1,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 24000
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 12000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 12000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 400000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 275
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 22,
+    "QuickBattlePlayerExpBonus": 40,
+    "MaxSoloQuestCount": 9,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 60,
+    "DungeonBattleCoinBonus": 0
   },
   {
     "Id": 13,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 500000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 350,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 50,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 2,
-    "IsDestinyGachaAvailable": true,
-    "IsDestinyGachaLogAvailable": true,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 5,
     "Lv": 12,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 13,
-    "MaxCharacterBoxPlus": 65,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 24,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 9,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 45,
+    "DungeonBattleMissedCompensationCount": 2,
+    "LoginBonusMissedCompensationCount": 5,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": true,
+    "RequiredExp": 150000,
+    "IsDestinyGachaLogAvailable": true,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
     "ReachRewardItemList": [
       {
-        "ItemCount": 1,
+        "ItemType": "ItemType.TreasureChest",
         "ItemId": 26,
-        "ItemType": "ItemType.TreasureChest"
+        "ItemCount": 1
       }
     ],
-    "RequiredExp": 150000,
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 150,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 150
           },
           {
-            "ItemCount": 480,
+            "ItemType": "ItemType.TreasureChest",
             "ItemId": 28,
-            "ItemType": "ItemType.TreasureChest"
+            "ItemCount": 480
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 15000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 15000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 500000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 350
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 24,
+    "QuickBattlePlayerExpBonus": 45,
+    "MaxSoloQuestCount": 9,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 65,
+    "DungeonBattleCoinBonus": 50
   },
   {
     "Id": 14,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 750000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 425,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 100,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 2,
-    "IsDestinyGachaAvailable": true,
-    "IsDestinyGachaLogAvailable": true,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 5,
     "Lv": 13,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 14,
-    "MaxCharacterBoxPlus": 70,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 26,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 10,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 50,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 2,
+    "LoginBonusMissedCompensationCount": 5,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": true,
     "RequiredExp": 250000,
+    "IsDestinyGachaLogAvailable": true,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 10,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 20,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 10
           },
           {
-            "ItemCount": 600,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 600
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 26000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 26000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 750000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 425
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 26,
+    "QuickBattlePlayerExpBonus": 50,
+    "MaxSoloQuestCount": 10,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 70,
+    "DungeonBattleCoinBonus": 100
   },
   {
     "Id": 15,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 1000000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 500,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 100,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 2,
-    "IsDestinyGachaAvailable": true,
-    "IsDestinyGachaLogAvailable": true,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 5,
     "Lv": 14,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 15,
-    "MaxCharacterBoxPlus": 120,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 28,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 10,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 55,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 2,
+    "LoginBonusMissedCompensationCount": 5,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": true,
     "RequiredExp": 400000,
+    "IsDestinyGachaLogAvailable": true,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 10,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 20,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 10
           },
           {
-            "ItemCount": 80000,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 1,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 80000
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 34000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 34000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 1000000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 500
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 28,
+    "QuickBattlePlayerExpBonus": 55,
+    "MaxSoloQuestCount": 10,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 120,
+    "DungeonBattleCoinBonus": 100
   },
   {
     "Id": 16,
     "IsIgnore": null,
     "Memo": null,
-    "AutoBattlePlayerExpBonus": 34,
-    "DailyRewardItemList": [
-      {
-        "ItemCount": 3,
-        "ItemId": 1,
-        "ItemType": "ItemType.BossChallengeTicket"
-      },
-      {
-        "ItemCount": 1500000,
-        "ItemId": 1,
-        "ItemType": "ItemType.Gold"
-      },
-      {
-        "ItemCount": 1,
-        "ItemId": 3,
-        "ItemType": "ItemType.TreasureChestKey"
-      },
-      {
-        "ItemCount": 600,
-        "ItemId": 3,
-        "ItemType": "ItemType.ExchangePlaceItem"
-      }
-    ],
-    "DungeonBattleCoinBonus": 100,
-    "DungeonBattleGoldBonus": 100,
-    "DungeonBattleMissedCompensationCount": 2,
-    "IsDestinyGachaAvailable": true,
-    "IsDestinyGachaLogAvailable": true,
-    "IsLockEquipmentTrainingAvailable": true,
-    "IsMultipleBountyQuestAvailable": true,
-    "IsMultipleQuickStartGuildRaidAvailable": true,
-    "IsQuickBossBattleAvailable": true,
-    "IsQuickStartGuildRaidAvailable": true,
-    "IsRefundEquipmentMergeAvailable": true,
-    "LoginBonusMissedCompensationCount": 5,
     "Lv": 15,
+    "DungeonBattleGoldBonus": 100,
     "MaxBossBattleUseCurrencyCount": 16,
-    "MaxCharacterBoxPlus": 170,
-    "MaxGuildRaidChallengeCount": 3,
-    "MaxQuickUseCurrencyCount": 30,
     "MaxShopItemCountPlus": 3,
-    "MaxSoloQuestCount": 10,
-    "MaxTeamQuestCount": 2,
-    "QuickBattlePlayerExpBonus": 60,
-    "ReachRewardItemList": [],
+    "DungeonBattleMissedCompensationCount": 2,
+    "LoginBonusMissedCompensationCount": 5,
+    "IsMultipleBountyQuestAvailable": true,
+    "MaxGuildRaidChallengeCount": 3,
+    "IsQuickStartGuildRaidAvailable": true,
+    "IsMultipleQuickStartGuildRaidAvailable": true,
+    "IsDestinyGachaAvailable": true,
     "RequiredExp": 600000,
+    "IsDestinyGachaLogAvailable": true,
+    "IsQuickBossBattleAvailable": true,
+    "IsRefundEquipmentMergeAvailable": true,
+    "IsLockEquipmentTrainingAvailable": true,
+    "ReachRewardItemList": [],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemCount": 10,
+            "ItemType": "ItemType.QuestQuickTicket",
             "ItemId": 20,
-            "ItemType": "ItemType.QuestQuickTicket"
+            "ItemCount": 10
           },
           {
-            "ItemCount": 1200,
+            "ItemType": "ItemType.EquipmentReinforcementItem",
             "ItemId": 2,
-            "ItemType": "ItemType.EquipmentReinforcementItem"
+            "ItemCount": 1200
           }
         ],
         "RequiredItemList": [
           {
-            "ItemCount": 42000,
+            "ItemType": "ItemType.CurrencyFree",
             "ItemId": 1,
-            "ItemType": "ItemType.CurrencyFree"
+            "ItemCount": 42000
           }
         ],
         "VipGiftId": 0
       }
-    ]
+    ],
+    "DailyRewardItemList": [
+      {
+        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemId": 1,
+        "ItemCount": 3
+      },
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 1500000
+      },
+      {
+        "ItemType": "ItemType.TreasureChestKey",
+        "ItemId": 3,
+        "ItemCount": 1
+      },
+      {
+        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemId": 3,
+        "ItemCount": 600
+      }
+    ],
+    "AutoBattlePlayerExpBonus": 34,
+    "MaxQuickUseCurrencyCount": 30,
+    "QuickBattlePlayerExpBonus": 60,
+    "MaxSoloQuestCount": 10,
+    "MaxTeamQuestCount": 2,
+    "MaxCharacterBoxPlus": 170,
+    "DungeonBattleCoinBonus": 100
   }
 ]

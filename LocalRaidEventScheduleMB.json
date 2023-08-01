@@ -56,10 +56,10 @@
       48,
       49
     ],
-    "LocalRaidEventTutorialId": 2001,
     "LocalRaidEventType": "LocalRaidEventType.PlusQuest",
     "LocalRaidStartEndTimes": [],
-    "RewardBonusRate": 0
+    "RewardBonusRate": 0,
+    "LocalRaidEventTutorialId": 2001
   },
   {
     "EndTime": "2023-05-08 03:59:59",
@@ -819,7 +819,6 @@
       798,
       799
     ],
-    "LocalRaidEventTutorialId": 2001,
     "LocalRaidEventType": "LocalRaidEventType.FullOpen",
     "LocalRaidStartEndTimes": [
       {
@@ -831,6 +830,7 @@
         "StartTime": 193000
       }
     ],
-    "RewardBonusRate": 11000
+    "RewardBonusRate": 11000,
+    "LocalRaidEventTutorialId": 2001
   }
 ]

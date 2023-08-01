@@ -4,593 +4,593 @@
     "IsIgnore": null,
     "Memo": "初期N/N",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
       "b": 0,
       "m": 0.82875
-    },
-    "RarityFlags": "CharacterRarityFlags.N"
+    }
   },
   {
     "Id": 102,
     "IsIgnore": null,
     "Memo": "初期N/R",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
       "b": 0,
       "m": 0.975
-    },
-    "RarityFlags": "CharacterRarityFlags.R"
+    }
   },
   {
     "Id": 103,
     "IsIgnore": null,
     "Memo": "初期N/R+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.RPlus",
     "RarityCoefficientInfo": {
       "b": 1050,
       "m": 1.1199808961221092
-    },
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    }
   },
   {
     "Id": 104,
     "IsIgnore": null,
     "Memo": "初期N/SR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
       "b": 3150,
       "m": 1.2865202130035718
-    },
-    "RarityFlags": "CharacterRarityFlags.SR"
+    }
   },
   {
     "Id": 105,
     "IsIgnore": null,
     "Memo": "初期N/SR+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.SRPlus",
     "RarityCoefficientInfo": {
       "b": 5250,
       "m": 1.477823652347638
-    },
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    }
   },
   {
     "Id": 106,
     "IsIgnore": null,
     "Memo": "初期N/SSR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.SSR",
     "RarityCoefficientInfo": {
       "b": 7000,
       "m": 1.697573598427442
-    },
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    }
   },
   {
     "Id": 107,
     "IsIgnore": null,
     "Memo": "初期N/SSR+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus",
     "RarityCoefficientInfo": {
       "b": 8400,
       "m": 1.95
-    },
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    }
   },
   {
     "Id": 108,
     "IsIgnore": null,
     "Memo": "初期N/UR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.UR",
     "RarityCoefficientInfo": {
       "b": 9450,
       "m": 2.0899582519457716
-    },
-    "RarityFlags": "CharacterRarityFlags.UR"
+    }
   },
   {
     "Id": 109,
     "IsIgnore": null,
     "Memo": "初期N/UR+",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.URPlus",
     "RarityCoefficientInfo": {
       "b": 10150,
       "m": 2.2399617922442183
-    },
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    }
   },
   {
     "Id": 110,
     "IsIgnore": null,
     "Memo": "初期N/LR",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LR",
     "RarityCoefficientInfo": {
       "b": 10500,
       "m": 2.5730404260071436
-    },
-    "RarityFlags": "CharacterRarityFlags.LR"
+    }
   },
   {
     "Id": 111,
     "IsIgnore": null,
     "Memo": "初期N/LR1",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus",
     "RarityCoefficientInfo": {
       "b": 11950,
       "m": 2.6453784385229597
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus"
+    }
   },
   {
     "Id": 112,
     "IsIgnore": null,
     "Memo": "初期N/LR2",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus2",
     "RarityCoefficientInfo": {
       "b": 13150,
       "m": 2.719750149383291
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus2"
+    }
   },
   {
     "Id": 113,
     "IsIgnore": null,
     "Memo": "初期N/LR3",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus3",
     "RarityCoefficientInfo": {
       "b": 14350,
       "m": 2.7962127336308633
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus3"
+    }
   },
   {
     "Id": 114,
     "IsIgnore": null,
     "Memo": "初期N/LR4",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus4",
     "RarityCoefficientInfo": {
       "b": 15500,
       "m": 2.8748249737176472
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus4"
+    }
   },
   {
     "Id": 115,
     "IsIgnore": null,
     "Memo": "初期N/LR5",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus5",
     "RarityCoefficientInfo": {
       "b": 16700,
       "m": 2.955647304695276
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus5"
+    }
   },
   {
     "Id": 116,
     "IsIgnore": null,
     "Memo": "初期N/LR6",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus6",
     "RarityCoefficientInfo": {
       "b": 17900,
       "m": 3.038741860675949
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus6"
+    }
   },
   {
     "Id": 117,
     "IsIgnore": null,
     "Memo": "初期N/LR7",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus7",
     "RarityCoefficientInfo": {
       "b": 18274,
       "m": 3.070501109
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus7"
+    }
   },
   {
     "Id": 118,
     "IsIgnore": null,
     "Memo": "初期N/LR8",
     "InitialRarityFlags": "CharacterRarityFlags.N",
+    "RarityFlags": "CharacterRarityFlags.LRPlus8",
     "RarityCoefficientInfo": {
       "b": 18632,
       "m": 3.1025922866
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus8"
+    }
   },
   {
     "Id": 201,
     "IsIgnore": null,
     "Memo": "初期R,R/N",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
       "b": 0,
       "m": 0.82875
-    },
-    "RarityFlags": "CharacterRarityFlags.N"
+    }
   },
   {
     "Id": 202,
     "IsIgnore": null,
     "Memo": "初期R,R/R",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
       "b": 0,
       "m": 0.975
-    },
-    "RarityFlags": "CharacterRarityFlags.R"
+    }
   },
   {
     "Id": 203,
     "IsIgnore": null,
     "Memo": "初期R,R/R+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.RPlus",
     "RarityCoefficientInfo": {
       "b": 1050,
       "m": 1.1199808961221092
-    },
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    }
   },
   {
     "Id": 204,
     "IsIgnore": null,
     "Memo": "初期R,R/SR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
       "b": 3150,
       "m": 1.2865202130035718
-    },
-    "RarityFlags": "CharacterRarityFlags.SR"
+    }
   },
   {
     "Id": 205,
     "IsIgnore": null,
     "Memo": "初期R,R/SR+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.SRPlus",
     "RarityCoefficientInfo": {
       "b": 5250,
       "m": 1.477823652347638
-    },
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    }
   },
   {
     "Id": 206,
     "IsIgnore": null,
     "Memo": "初期R,R/SSR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.SSR",
     "RarityCoefficientInfo": {
       "b": 7000,
       "m": 1.697573598427442
-    },
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    }
   },
   {
     "Id": 207,
     "IsIgnore": null,
     "Memo": "初期R,R/SSR+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus",
     "RarityCoefficientInfo": {
       "b": 8400,
       "m": 1.95
-    },
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    }
   },
   {
     "Id": 208,
     "IsIgnore": null,
     "Memo": "初期R,R/UR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.UR",
     "RarityCoefficientInfo": {
       "b": 9450,
       "m": 2.0899582519457716
-    },
-    "RarityFlags": "CharacterRarityFlags.UR"
+    }
   },
   {
     "Id": 209,
     "IsIgnore": null,
     "Memo": "初期R,R/UR+",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.URPlus",
     "RarityCoefficientInfo": {
       "b": 10150,
       "m": 2.2399617922442183
-    },
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    }
   },
   {
     "Id": 210,
     "IsIgnore": null,
     "Memo": "初期R,R/LR",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LR",
     "RarityCoefficientInfo": {
       "b": 10500,
       "m": 2.5730404260071436
-    },
-    "RarityFlags": "CharacterRarityFlags.LR"
+    }
   },
   {
     "Id": 211,
     "IsIgnore": null,
     "Memo": "初期R,R/LR1",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus",
     "RarityCoefficientInfo": {
       "b": 11950,
       "m": 2.6453784385229597
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus"
+    }
   },
   {
     "Id": 212,
     "IsIgnore": null,
     "Memo": "初期R,R/LR2",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus2",
     "RarityCoefficientInfo": {
       "b": 13150,
       "m": 2.719750149383291
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus2"
+    }
   },
   {
     "Id": 213,
     "IsIgnore": null,
     "Memo": "初期R,R/LR3",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus3",
     "RarityCoefficientInfo": {
       "b": 14350,
       "m": 2.7962127336308633
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus3"
+    }
   },
   {
     "Id": 214,
     "IsIgnore": null,
     "Memo": "初期R,R/LR4",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus4",
     "RarityCoefficientInfo": {
       "b": 15500,
       "m": 2.8748249737176472
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus4"
+    }
   },
   {
     "Id": 215,
     "IsIgnore": null,
     "Memo": "初期R,R/LR5",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus5",
     "RarityCoefficientInfo": {
       "b": 16700,
       "m": 2.955647304695276
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus5"
+    }
   },
   {
     "Id": 216,
     "IsIgnore": null,
     "Memo": "初期R,R/LR6",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus6",
     "RarityCoefficientInfo": {
       "b": 17900,
       "m": 3.038741860675949
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus6"
+    }
   },
   {
     "Id": 217,
     "IsIgnore": null,
     "Memo": "初期R,R/LR7",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus7",
     "RarityCoefficientInfo": {
       "b": 18274,
       "m": 3.070501109
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus7"
+    }
   },
   {
     "Id": 218,
     "IsIgnore": null,
     "Memo": "初期R,R/LR8",
     "InitialRarityFlags": "CharacterRarityFlags.R",
+    "RarityFlags": "CharacterRarityFlags.LRPlus8",
     "RarityCoefficientInfo": {
       "b": 18632,
       "m": 3.1025922866
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus8"
+    }
   },
   {
     "Id": 801,
     "IsIgnore": null,
     "Memo": "初期SR/N",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.N",
     "RarityCoefficientInfo": {
       "b": 0,
       "m": 0.82875
-    },
-    "RarityFlags": "CharacterRarityFlags.N"
+    }
   },
   {
     "Id": 802,
     "IsIgnore": null,
     "Memo": "初期SR/R",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.R",
     "RarityCoefficientInfo": {
       "b": 0,
       "m": 1.0
-    },
-    "RarityFlags": "CharacterRarityFlags.R"
+    }
   },
   {
     "Id": 803,
     "IsIgnore": null,
     "Memo": "初期SR/R+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.RPlus",
     "RarityCoefficientInfo": {
       "b": 1070,
       "m": 1.148698354997035
-    },
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    }
   },
   {
     "Id": 804,
     "IsIgnore": null,
     "Memo": "初期SR/SR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.SR",
     "RarityCoefficientInfo": {
       "b": 3230,
       "m": 1.3195079107728942
-    },
-    "RarityFlags": "CharacterRarityFlags.SR"
+    }
   },
   {
     "Id": 805,
     "IsIgnore": null,
     "Memo": "初期SR/SR+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.SRPlus",
     "RarityCoefficientInfo": {
       "b": 5390,
       "m": 1.515716566510398
-    },
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    }
   },
   {
     "Id": 806,
     "IsIgnore": null,
     "Memo": "初期SR/SSR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.SSR",
     "RarityCoefficientInfo": {
       "b": 7180,
       "m": 1.7411011265922482
-    },
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    }
   },
   {
     "Id": 807,
     "IsIgnore": null,
     "Memo": "初期SR/SSR+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus",
     "RarityCoefficientInfo": {
       "b": 8620,
       "m": 2.0
-    },
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    }
   },
   {
     "Id": 808,
     "IsIgnore": null,
     "Memo": "初期SR/UR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.UR",
     "RarityCoefficientInfo": {
       "b": 9700,
       "m": 2.1435469250725863
-    },
-    "RarityFlags": "CharacterRarityFlags.UR"
+    }
   },
   {
     "Id": 809,
     "IsIgnore": null,
     "Memo": "初期SR/UR+",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.URPlus",
     "RarityCoefficientInfo": {
       "b": 10420,
       "m": 2.29739670999407
-    },
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    }
   },
   {
     "Id": 810,
     "IsIgnore": null,
     "Memo": "初期SR/LR",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LR",
     "RarityCoefficientInfo": {
       "b": 10780,
       "m": 2.6390158215457884
-    },
-    "RarityFlags": "CharacterRarityFlags.LR"
+    }
   },
   {
     "Id": 811,
     "IsIgnore": null,
     "Memo": "初期SR/LR1",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus",
     "RarityCoefficientInfo": {
       "b": 12250,
       "m": 2.7132086548953436
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus"
+    }
   },
   {
     "Id": 812,
     "IsIgnore": null,
     "Memo": "初期SR/LR2",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus2",
     "RarityCoefficientInfo": {
       "b": 13470,
       "m": 2.789487332700811
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus2"
+    }
   },
   {
     "Id": 813,
     "IsIgnore": null,
     "Memo": "初期SR/LR3",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus3",
     "RarityCoefficientInfo": {
       "b": 14700,
       "m": 2.8679104960316546
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus3"
+    }
   },
   {
     "Id": 814,
     "IsIgnore": null,
     "Memo": "初期SR/LR4",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus4",
     "RarityCoefficientInfo": {
       "b": 15920,
       "m": 2.9485384345822023
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus4"
+    }
   },
   {
     "Id": 815,
     "IsIgnore": null,
     "Memo": "初期SR/LR5",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus5",
     "RarityCoefficientInfo": {
       "b": 17150,
       "m": 3.031433133020796
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus5"
+    }
   },
   {
     "Id": 816,
     "IsIgnore": null,
     "Memo": "初期SR/LR6",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus6",
     "RarityCoefficientInfo": {
       "b": 18375,
       "m": 3.116658318641999
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus6"
+    }
   },
   {
     "Id": 817,
     "IsIgnore": null,
     "Memo": "初期SR/LR7",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus7",
     "RarityCoefficientInfo": {
       "b": 18743,
       "m": 3.149231906
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus7"
+    }
   },
   {
     "Id": 818,
     "IsIgnore": null,
     "Memo": "初期SR/LR8",
     "InitialRarityFlags": "CharacterRarityFlags.SR",
+    "RarityFlags": "CharacterRarityFlags.LRPlus8",
     "RarityCoefficientInfo": {
       "b": 19110,
       "m": 3.182145935
-    },
-    "RarityFlags": "CharacterRarityFlags.LRPlus8"
+    }
   }
 ]

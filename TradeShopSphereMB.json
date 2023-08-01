@@ -3,140 +3,140 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 1,
     "ConsumeItem1": {
-      "ItemCount": 2,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 2
     },
-    "ConsumeItem2": null,
-    "SphereLevel": 1
+    "ConsumeItem2": null
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 2,
     "ConsumeItem1": {
-      "ItemCount": 4,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 4
     },
     "ConsumeItem2": {
-      "ItemCount": 5000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 2
+      "ItemCount": 5000
+    }
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 3,
     "ConsumeItem1": {
-      "ItemCount": 8,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 8
     },
     "ConsumeItem2": {
-      "ItemCount": 20000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 3
+      "ItemCount": 20000
+    }
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 4,
     "ConsumeItem1": {
-      "ItemCount": 16,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 16
     },
     "ConsumeItem2": {
-      "ItemCount": 65000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 4
+      "ItemCount": 65000
+    }
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 5,
     "ConsumeItem1": {
-      "ItemCount": 32,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 32
     },
     "ConsumeItem2": {
-      "ItemCount": 180000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 5
+      "ItemCount": 180000
+    }
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 6,
     "ConsumeItem1": {
-      "ItemCount": 64,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 64
     },
     "ConsumeItem2": {
-      "ItemCount": 460000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 6
+      "ItemCount": 460000
+    }
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 7,
     "ConsumeItem1": {
-      "ItemCount": 128,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 128
     },
     "ConsumeItem2": {
-      "ItemCount": 1095000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 7
+      "ItemCount": 1095000
+    }
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 8,
     "ConsumeItem1": {
-      "ItemCount": 256,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 256
     },
     "ConsumeItem2": {
-      "ItemCount": 2440000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 8
+      "ItemCount": 2440000
+    }
   },
   {
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
+    "SphereLevel": 9,
     "ConsumeItem1": {
-      "ItemCount": 512,
+      "ItemType": "ItemType.ExchangePlaceItem",
       "ItemId": 4,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemCount": 512
     },
     "ConsumeItem2": {
-      "ItemCount": 5255000,
+      "ItemType": "ItemType.Gold",
       "ItemId": 1,
-      "ItemType": "ItemType.Gold"
-    },
-    "SphereLevel": 9
+      "ItemCount": 5255000
+    }
   }
 ]

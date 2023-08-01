@@ -3,54 +3,54 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "Dの鋳造",
-    "MatchlessSacredTreasure": false,
-    "PriceForForge": 5,
+    "SuccessRateId": 1,
     "SuccessRarityFlag": "EquipmentRarityFlags.C",
-    "SuccessRateId": 1
+    "MatchlessSacredTreasure": false,
+    "PriceForForge": 5
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "Cの鋳造",
-    "MatchlessSacredTreasure": false,
-    "PriceForForge": 10,
+    "SuccessRateId": 2,
     "SuccessRarityFlag": "EquipmentRarityFlags.B",
-    "SuccessRateId": 2
+    "MatchlessSacredTreasure": false,
+    "PriceForForge": 10
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "Bの鋳造",
-    "MatchlessSacredTreasure": false,
-    "PriceForForge": 20,
+    "SuccessRateId": 3,
     "SuccessRarityFlag": "EquipmentRarityFlags.A",
-    "SuccessRateId": 3
+    "MatchlessSacredTreasure": false,
+    "PriceForForge": 20
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "Aの鋳造",
-    "MatchlessSacredTreasure": false,
-    "PriceForForge": 50,
+    "SuccessRateId": 4,
     "SuccessRarityFlag": "EquipmentRarityFlags.S",
-    "SuccessRateId": 4
+    "MatchlessSacredTreasure": false,
+    "PriceForForge": 50
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "Sの鋳造",
-    "MatchlessSacredTreasure": true,
-    "PriceForForge": 200,
+    "SuccessRateId": 5,
     "SuccessRarityFlag": "EquipmentRarityFlags.S",
-    "SuccessRateId": 5
+    "MatchlessSacredTreasure": true,
+    "PriceForForge": 200
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "S☆の鋳造",
-    "MatchlessSacredTreasure": true,
-    "PriceForForge": 200,
+    "SuccessRateId": 6,
     "SuccessRarityFlag": "EquipmentRarityFlags.S",
-    "SuccessRateId": 6
+    "MatchlessSacredTreasure": true,
+    "PriceForForge": 200
   }
 ]

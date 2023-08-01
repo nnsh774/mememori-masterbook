@@ -4,55 +4,55 @@
     "IsIgnore": null,
     "Memo": "キャラのレベルを上げる",
     "MessageKey": "[TipDescription1]",
-    "OpenCommandType": "OpenCommandType.None",
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining"
+    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
+    "OpenCommandType": "OpenCommandType.None"
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "キャラのレアリティを上げる",
     "MessageKey": "[TipDescription2]",
-    "OpenCommandType": "OpenCommandType.RankUp",
-    "ViewTransitionType": "ViewTransitionType.CharacterRankUp"
+    "ViewTransitionType": "ViewTransitionType.CharacterRankUp",
+    "OpenCommandType": "OpenCommandType.RankUp"
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "パーティ編成を見直す",
     "MessageKey": "[TipDescription3]",
-    "OpenCommandType": "OpenCommandType.None",
-    "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition"
+    "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition",
+    "OpenCommandType": "OpenCommandType.None"
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "強力な武具を装備する",
     "MessageKey": "[TipDescription4]",
-    "OpenCommandType": "OpenCommandType.None",
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining"
+    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
+    "OpenCommandType": "OpenCommandType.None"
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "高レベルなスフィアを装着する",
     "MessageKey": "[TipDescription5]",
-    "OpenCommandType": "OpenCommandType.SphereSet",
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining"
+    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
+    "OpenCommandType": "OpenCommandType.SphereSet"
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "高速バトルで報酬を獲得する",
     "MessageKey": "[TipDescription6]",
-    "OpenCommandType": "OpenCommandType.None",
-    "ViewTransitionType": "ViewTransitionType.Map"
+    "ViewTransitionType": "ViewTransitionType.Map",
+    "OpenCommandType": "OpenCommandType.None"
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "ミッションで報酬を獲得する",
     "MessageKey": "[TipDescription7]",
-    "OpenCommandType": "OpenCommandType.Mission",
-    "ViewTransitionType": "ViewTransitionType.Mission"
+    "ViewTransitionType": "ViewTransitionType.Mission",
+    "OpenCommandType": "OpenCommandType.Mission"
   }
 ]
