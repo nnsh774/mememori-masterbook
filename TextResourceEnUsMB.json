@@ -107569,6 +107569,13 @@
     "Memo": ""
   },
   {
+    "StringKey": "[GachaDetailDialogDetail7]",
+    "Text": "・You can use Diamonds or Tickets of Chance to Invoke.<br>・Characters and items will appear.<br>・Only the character you set will be the character who appears.<br>・If the set character does not appear after 56 consecutive pulls, their pull rate on the 57th pull will rise. If they do not appear on the 57th pull, their pull rate on the 58th pull will rise again, and will do so for each consecutive pull until they appear, with the 70th pull’s pull rate being 100%.<br>・Your pull count for the guaranteed appearance is currently【{0}/70】.<br>・If the set character is changed, the risen pull rate will carry over as long as the new set character is part of the same Soul group.<br>・There are 2 Soul groups: [Azure, Crimson, Emerald, Amber] and [Radiance, Chaos].<br>*Changing the set character within the same Soul group will not reset the pull count, and each Soul group’s pull count will exist separately from one another.<br>・You can obtain 1 Chest of Chance as a bonus reward with each pull.<br>*The bonus reward will be sent directly to your Item Box.<br>*If your Item Box is full, the bonus reward will be sent to your Presents Box.",
+    "Id": 15823,
+    "IsIgnore": false,
+    "Memo": ""
+  },
+  {
     "StringKey": "[GachaDetailDialogDetail8]",
     "Text": "・You can use Gold, Diamonds, or Tickets of The Sinful to Invoke.<br>・You can spend Gold for 5 pulls each day.<br>・Only items will appear.<br>・You are guaranteed to obtain a bonus reward based on your total pull count from the Invocation of The Sinful.<br>*The bonus reward will be sent directly to your Item Box.<br>*If your Item Box is full, the bonus reward will be sent to your Presents Box.",
     "Id": 15824,
