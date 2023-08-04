@@ -14304,11 +14304,11 @@
     "RequireValue": 476
   },
   {
-    "EndTime": "2100-01-01 00:00:00",
+    "EndTime": "2020-01-01 00:00:00",
     "StartTime": "2020-01-01 00:00:00",
     "Id": 481,
     "IsIgnore": null,
-    "Memo": "メイン_メインクエスト１章をクリアする",
+    "Memo": "（削除）メイン_メインクエスト１章をクリアする",
     "MissionType": "MissionType.Main",
     "SortOrderA": 6,
     "SortOrderB": 14,
@@ -35360,5 +35360,39 @@
     "TransitionDestination": "MissionTransitionDestinationType.None",
     "AchievementType": "MissionAchievementType.BoughtByCurrency",
     "RequireValue": 4500
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1157,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト１章をクリアする　修正版",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 3
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      },
+      {
+        "Item": {
+          "ItemType": "ItemType.Character",
+          "ItemId": 4,
+          "ItemCount": 1
+        },
+        "RarityFlags": "CharacterRarityFlags.R"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName481]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattledMaxClearChapter",
+    "RequireValue": 1
   }
 ]
