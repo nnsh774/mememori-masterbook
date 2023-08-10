@@ -3902,5 +3902,37 @@
         "ItemCount": 1
       }
     ]
+  },
+  {
+    "Id": 245,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディガチャチケット",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.GachaTicket",
+    "ItemId": 720,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.GachaTicket",
+        "ItemId": 2,
+        "ItemCount": 1
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "IsIgnore": null,
+    "Memo": "線香花火",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "ItemId": 8,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 10000
+      }
+    ]
   }
 ]
