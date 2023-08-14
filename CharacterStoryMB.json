@@ -7270,5 +7270,131 @@
     ],
     "TextKey": "[CharacterStoryText7107]",
     "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
+    "Id": 482,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ1",
+    "CharacterId": 72,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7201]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 483,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ2",
+    "CharacterId": 72,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7202]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 484,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ3",
+    "CharacterId": 72,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7203]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 485,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ4",
+    "CharacterId": 72,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7204]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 486,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ5",
+    "CharacterId": 72,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7205]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 487,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ6",
+    "CharacterId": 72,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7206]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 488,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ7",
+    "CharacterId": 72,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7207]",
+    "RarityFlags": "CharacterRarityFlags.LR"
   }
 ]

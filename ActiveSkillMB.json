@@ -8019,6 +8019,144 @@
     "RootActiveSkillId": 71002
   },
   {
+    "Id": 72001,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディSR:Lv1 「百発百中のガンマンが、最高のショーを見せてあげる！」1ターンの間攻撃力が最も高い味方の命中率を25%増加させ、回避率を25%減少させる。これらは1つのバフとして扱う。「仕掛けは十分。ここからが本番だよ」さらに夜空に咲いた大輪の花が、祭りを邪魔する敵に降り注ぐ──その後ランダムな敵に4回攻撃力×200%の物理攻撃を行う。/ Lv2 『命中率増加』と『回避率減少』のターン数が4ターンになり、物理攻撃のダメージが攻撃力×330%になる。/ Lv3 『命中率増加』と『回避率減少』の対象が攻撃力が高い味方2体になる。/ Ex1 花雷を強化する。命中率の増加量が50%、回避率の減少量が50%になる。/ Ex3 花雷を強化する。物理攻撃の回数が5回になる。",
+    "NameKey": "[ActiveSkillName72001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription720011]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          72001001,
+          72001002,
+          72001003,
+          72001003,
+          72001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription720012]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          72001201,
+          72001202,
+          72001203,
+          72001203,
+          72001203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription720013]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          72001301,
+          72001202,
+          72001203,
+          72001203,
+          72001203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription720014]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.SSR",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          72001401,
+          72001202,
+          72001203,
+          72001203,
+          72001203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription720015]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.LR",
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          72001401,
+          72001202,
+          72001203,
+          72001203,
+          72001203,
+          72001203
+        ]
+      }
+    ],
+    "RootActiveSkillId": 72001
+  },
+  {
+    "Id": 72002,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディSR:Lv1 連続連射で打ち上げられた花火が、ランダムな敵4体に攻撃力×200%の物理攻撃を行う。「テンション上がってきた！」さらに祭りの雰囲気が気分を高潮させ、自身が付帯しているバフの個数が1以上の場合、物理攻撃のダメージが1.5倍になる。/ Lv2 さらにHP割合が最も低い味方のHPをこのスキルの総与ダメージ×30%回復する。/ Lv3 物理攻撃のダメージが攻撃力×300%になる。/ Lv4 このスキルの対象がランダムな敵5体になる。",
+    "NameKey": "[ActiveSkillName72002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription720021]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          72002001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription720022]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          72002001,
+          72002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription720023]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          72002301,
+          72002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription720024]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          72002401,
+          72002202
+        ]
+      }
+    ],
+    "RootActiveSkillId": 72002
+  },
+  {
     "Id": 550109001,
     "IsIgnore": null,
     "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -16939,6 +17077,144 @@
       }
     ],
     "RootActiveSkillId": 71002
+  },
+  {
+    "Id": 550472001,
+    "IsIgnore": null,
+    "Memo": "敵用浴衣コルディSR:Lv1 「百発百中のガンマンが、最高のショーを見せてあげる！」1ターンの間攻撃力が最も高い味方の命中率を25%増加させ、回避率を25%減少させる。これらは1つのバフとして扱う。「仕掛けは十分。ここからが本番だよ」さらに夜空に咲いた大輪の花が、祭りを邪魔する敵に降り注ぐ──その後ランダムな敵に4回攻撃力×200%の物理攻撃を行う。/ Lv2 『命中率増加』と『回避率減少』のターン数が4ターンになり、物理攻撃のダメージが攻撃力×330%になる。/ Lv3 『命中率増加』と『回避率減少』の対象が攻撃力が高い味方2体になる。/ Ex1 花雷を強化する。命中率の増加量が50%、回避率の減少量が50%になる。/ Ex3 花雷を強化する。物理攻撃の回数が5回になる。",
+    "NameKey": "[ActiveSkillName72001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          550472001001,
+          550472001002,
+          550472001003,
+          550472001003,
+          550472001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          550472001201,
+          550472001202,
+          550472001203,
+          550472001203,
+          550472001203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          550472001301,
+          550472001202,
+          550472001203,
+          550472001203,
+          550472001203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.SSR",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          550472001401,
+          550472001202,
+          550472001203,
+          550472001203,
+          550472001203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.LR",
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          550472001401,
+          550472001202,
+          550472001203,
+          550472001203,
+          550472001203,
+          550472001203
+        ]
+      }
+    ],
+    "RootActiveSkillId": 72001
+  },
+  {
+    "Id": 550472002,
+    "IsIgnore": null,
+    "Memo": "敵用浴衣コルディSR:Lv1 連続連射で打ち上げられた花火が、ランダムな敵4体に攻撃力×200%の物理攻撃を行う。「テンション上がってきた！」さらに祭りの雰囲気が気分を高潮させ、自身が付帯しているバフの個数が1以上の場合、物理攻撃のダメージが1.5倍になる。/ Lv2 さらにHP割合が最も低い味方のHPをこのスキルの総与ダメージ×30%回復する。/ Lv3 物理攻撃のダメージが攻撃力×300%になる。/ Lv4 このスキルの対象がランダムな敵5体になる。",
+    "NameKey": "[ActiveSkillName72002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          550472002001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          550472002001,
+          550472002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          550472002301,
+          550472002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          550472002401,
+          550472002202
+        ]
+      }
+    ],
+    "RootActiveSkillId": 72002
   },
   {
     "Id": 980000001,
