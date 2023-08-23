@@ -1848,6 +1848,18 @@
     "ErrorMessageType": "ErrorMessageType.DialogWithError"
   },
   {
+    "Id": 200211,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
+    "Id": 200212,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+  },
+  {
     "Id": 200500,
     "IsIgnore": null,
     "Memo": null,
@@ -3627,7 +3639,7 @@
     "Id": 900133,
     "IsIgnore": null,
     "Memo": null,
-    "ErrorMessageType": "ErrorMessageType.DialogWithError"
+    "ErrorMessageType": "ErrorMessageType.Toast"
   },
   {
     "Id": 900134,

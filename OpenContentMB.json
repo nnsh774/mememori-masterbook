@@ -825,6 +825,21 @@
     "ToastKey": "[OpenContentToast121]"
   },
   {
+    "Id": 160,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ(17-4)",
+    "OpenContentType": "OpenContentType.QuestClear",
+    "TutorialId": 0,
+    "OpenContentValue": 424,
+    "DescriptionKey": null,
+    "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
+    "OpenCommandType": "OpenCommandType.GachaStarsGuidance",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": null
+  },
+  {
     "Id": 200,
     "IsIgnore": null,
     "Memo": "友達招待",

@@ -922,10 +922,11 @@
     "StartTimeFixJST": "2023-08-14 16:30:00",
     "Id": 25,
     "IsIgnore": null,
-    "Memo": "新規＋フィアー・レア復刻仮入れ（0814切替用）",
+    "Memo": "浴衣コルディ＋フィアー・レア復刻（0814切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
-    "OrderNumber": 21,
+    "OrderNumber": 22,
     "CharacterIdList": [
+      72,
       60,
       55,
       5,
@@ -952,8 +953,143 @@
       46
     ],
     "NewCharacterIdList": [
+      72,
       60,
       55
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-08-31 14:29:59",
+    "StartTimeFixJST": "2023-08-22 14:30:00",
+    "Id": 26,
+    "IsIgnore": null,
+    "Memo": "浴衣コルディ＋フィアー・オフィーリア復刻（0822切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 23,
+    "CharacterIdList": [
+      72,
+      60,
+      49,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      72,
+      60,
+      49
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-09-04 14:29:59",
+    "StartTimeFixJST": "2023-08-31 17:30:00",
+    "Id": 27,
+    "IsIgnore": null,
+    "Memo": "新規＋フィアー・オフィーリア復刻（0831切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 24,
+    "CharacterIdList": [
+      60,
+      49,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      60,
+      49
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-09-07 14:29:59",
+    "StartTimeFixJST": "2023-09-04 14:30:00",
+    "Id": 28,
+    "IsIgnore": null,
+    "Memo": "新規＋オフィーリア復刻（0904切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 25,
+    "CharacterIdList": [
+      49,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      49
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-08-29 14:29:59",
+    "StartTimeFixJST": "2023-08-14 16:30:00",
+    "Id": 10000,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ_ベル・フォルティナ",
+    "GachaSelectListType": "GachaSelectListType.StarsGuidance",
+    "OrderNumber": 1,
+    "CharacterIdList": [
+      19,
+      42
+    ],
+    "NewCharacterIdList": [
+      19,
+      42
     ]
   }
 ]

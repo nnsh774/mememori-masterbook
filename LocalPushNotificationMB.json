@@ -25,7 +25,7 @@
     "TitleKey": "[LocalPushNotificationTitleKey2]",
     "MessageKey": "[LocalPushNotificationMessageKey2]",
     "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
-    "SendTime": "12:35:00"
+    "SendTime": "12:30:00"
   },
   {
     "EndTime": "2100-12-31 23:59:59",
@@ -39,7 +39,7 @@
     "TitleKey": "[LocalPushNotificationTitleKey3]",
     "MessageKey": "[LocalPushNotificationMessageKey3]",
     "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
-    "SendTime": "19:35:00"
+    "SendTime": "19:30:00"
   },
   {
     "EndTime": "2100-12-31 23:59:59",
@@ -56,31 +56,31 @@
     "SendTime": "20:45:00"
   },
   {
-    "EndTime": "2023-05-08 03:59:59",
-    "StartTime": "2023-04-28 04:00:00",
+    "EndTime": "2023-08-24 03:59:59",
+    "StartTime": "2023-08-14 04:00:00",
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "LocalNotificationType": "LocalNotificationType.LocalRaidRewardIncrease",
+    "LocalNotificationType": "LocalNotificationType.LocalRaid",
     "GroupId": 2,
     "Priority": 2,
     "TitleKey": "[LocalPushNotificationTitleKey5]",
     "MessageKey": "[LocalPushNotificationMessageKey5]",
     "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
-    "SendTime": "12:35:00"
+    "SendTime": "12:30:00"
   },
   {
-    "EndTime": "2023-05-08 03:59:59",
-    "StartTime": "2023-04-28 04:00:00",
+    "EndTime": "2023-08-24 03:59:59",
+    "StartTime": "2023-08-14 04:00:00",
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "LocalNotificationType": "LocalNotificationType.LocalRaidRewardIncrease",
+    "LocalNotificationType": "LocalNotificationType.LocalRaid",
     "GroupId": 2,
     "Priority": 2,
     "TitleKey": "[LocalPushNotificationTitleKey6]",
     "MessageKey": "[LocalPushNotificationMessageKey6]",
     "LocalNotificationSendType": "LocalNotificationSendType.TimeSpecified",
-    "SendTime": "19:35:00"
+    "SendTime": "19:30:00"
   }
 ]

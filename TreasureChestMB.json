@@ -1937,6 +1937,27 @@
   {
     "EndTime": null,
     "StartTime": null,
+    "Id": 94,
+    "IsIgnore": null,
+    "Memo": "夏夜の小箱",
+    "NameKey": "[TreasureChestName94]",
+    "SecondaryFrameType": "SecondaryFrameType.None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      97
+    ],
+    "DisplayNameKey": "[TreasureChestDisplayName94]",
+    "DescriptionKey": "[TreasureChestDescription94]",
+    "IconId": 120,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "TreasureChestLotteryType": "TreasureChestLotteryType.Random",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0
+  },
+  {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

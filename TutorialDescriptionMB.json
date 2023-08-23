@@ -552,6 +552,30 @@
     "ImageCharacterId": 44
   },
   {
+    "Id": 2002,
+    "IsIgnore": null,
+    "Memo": "神殿_イベント_浴衣コルディ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText39]",
+        "ImageId": 37
+      }
+    ],
+    "HelpId": 4210,
+    "ImagePositionFormatType": "ImagePositionFormatType.LocalRaidEvent",
+    "ImageItem1": {
+      "ItemType": "ItemType.EventExchangePlaceItem",
+      "ItemId": 8,
+      "ItemCount": 0
+    },
+    "ImageItem2": {
+      "ItemType": "ItemType.TreasureChest",
+      "ItemId": 28,
+      "ItemCount": 0
+    },
+    "ImageCharacterId": 72
+  },
+  {
     "Id": 3001,
     "IsIgnore": null,
     "Memo": "時空の洞窟_イベント_アーティ",
