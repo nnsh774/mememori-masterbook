@@ -3934,5 +3934,37 @@
         "ItemCount": 10000
       }
     ]
+  },
+  {
+    "Id": 247,
+    "IsIgnore": null,
+    "Memo": "アームストロングガチャチケット",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.GachaTicket",
+    "ItemId": 500,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.GachaTicket",
+        "ItemId": 2,
+        "ItemCount": 1
+      }
+    ]
+  },
+  {
+    "Id": 248,
+    "IsIgnore": null,
+    "Memo": "戦友のドッグタグ",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "ItemId": 9,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 10000
+      }
+    ]
   }
 ]

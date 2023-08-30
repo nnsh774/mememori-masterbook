@@ -1632,5 +1632,43 @@
     "DescriptionKey": "[ItemDescription87]",
     "ItemRarityFlags": "ItemRarityFlags.SSR",
     "SortOrder": 0
+  },
+  {
+    "EndTime": "2023-09-15 14:29:59",
+    "StartTime": "2023-08-31 00:00:00",
+    "Id": 88,
+    "IsIgnore": null,
+    "Memo": "アームストロングガチャチケット",
+    "ItemType": "ItemType.GachaTicket",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 59,
+    "SecondaryFrameType": "SecondaryFrameType.CenteredCharacterIcon",
+    "SecondaryFrameNum": 50,
+    "ItemId": 500,
+    "NameKey": "[ItemName88]",
+    "DisplayName": "[ItemDisplayName88]",
+    "DescriptionKey": "[ItemDescription88]",
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "SortOrder": 0
+  },
+  {
+    "EndTime": "2023-09-13 03:59:59",
+    "StartTime": "2023-08-31 00:00:00",
+    "Id": 89,
+    "IsIgnore": null,
+    "Memo": "戦友のドッグタグ",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "MaxItemCount": 0,
+    "IconId": 122,
+    "TransferSpotId": 22,
+    "SecondaryFrameType": "SecondaryFrameType.None",
+    "SecondaryFrameNum": 0,
+    "ItemId": 9,
+    "NameKey": "[ItemName89]",
+    "DisplayName": "[ItemDisplayName89]",
+    "DescriptionKey": "[ItemDescription89]",
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "SortOrder": 0
   }
 ]
