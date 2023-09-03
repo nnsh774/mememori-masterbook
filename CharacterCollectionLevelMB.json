@@ -3562,5 +3562,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2501,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 20.0
+      }
+    ],
+    "BattleParameterChangeInfos": [],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2502,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2503,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2504,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2505,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 45.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 71.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2506,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 72.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2507,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 55.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 73.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

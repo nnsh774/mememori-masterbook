@@ -357,15 +357,8 @@
         "OrderNumber": 1,
         "PassiveSubSetSkillInfos": [
           {
-            "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamage",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
-            "SubSetSkillId": 6004001
-          },
-          {
-            "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamageSelf",
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.InstantDeathDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 6004001
@@ -1426,7 +1419,7 @@
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 17004001
+            "SubSetSkillId": 17004002
           }
         ]
       },
@@ -1449,7 +1442,7 @@
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 17004201
+            "SubSetSkillId": 17004202
           }
         ]
       },
@@ -1472,7 +1465,7 @@
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 17004301
+            "SubSetSkillId": 17004302
           }
         ]
       }
@@ -5126,7 +5119,7 @@
   {
     "Id": 50003,
     "IsIgnore": null,
-    "Memo": "アームストロングSR:Lv1 平和を欲するならば、戦いの準備を。自身のクリティカルダメージが20%増加する（解除不可）。/ Lv2 \\nさらにバトル開始時2ターンの間自身と自身以外のスピードが最も高い味方のクリティカル率を20％増加させる。/ Lv3 \\nクリティカルダメージとクリティカル率の増加量がそれぞれ40%になる。",
+    "Memo": "アームストロングSR:Lv1 平和を欲するならば、戦いの準備を。自身のクリティカルダメージが20%増加する（解除不可）。/ Lv2 \\nさらにターン開始時2ターンの間自身と自身以外のスピードが最も高い味方のクリティカル率を20％増加させる。このスキルは4ターンに1回発動する。/ Lv3 \\nクリティカルダメージとクリティカル率の増加量がそれぞれ40%になる。",
     "NameKey": "[PassiveSkillName50003]",
     "PassiveSkillInfos": [
       {
@@ -5163,15 +5156,22 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 50003202
           },
           {
-            "PassiveGroupId": 0,
+            "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 50003203
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 4,
+            "SubSetSkillId": 50003204
           }
         ]
       },
@@ -5193,15 +5193,22 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 50003302
           },
           {
-            "PassiveGroupId": 0,
+            "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 50003303
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 4,
+            "SubSetSkillId": 50003304
           }
         ]
       }
@@ -5210,7 +5217,7 @@
   {
     "Id": 50004,
     "IsIgnore": null,
-    "Memo": "アームストロングSR:Lv1 巧みな用兵こそ北部最強と言われた部隊の神髄。自身が攻撃を受けたとき、ダメージを30%遮断する。（遮断された後のダメージ量に対して、他のダメージ軽減（『被ダメージ減少』等）が計算される）自身が攻撃して、クリティカルヒットした場合、遮断の効果が2％減少する。クリティカルヒットした回数1回につき減少量が2％大きくなる（最小10%まで）。/ Lv2 \\nさらに毎ターン開始時、前のターンに自身が攻撃して、クリティカルヒットした場合、自身の攻撃力が2％増加する（解除不可）。クリティカルヒットした回数1回につき増加量が2％大きくなる（最大20%まで）。/ Lv3\\nダメージを40%遮断する。クリティカルヒットした回数1回につき減少する遮断の効果が2％（最小20％まで）、増加する攻撃力が3％になる（最大30％まで）。/ ExLv2\\n弾性防御を強化する。ダメージを50%遮断する。クリティカルヒットした回数1回につき減少する遮断の効果が2％（最小30％まで）、増加する攻撃力が4％になる（最大40％まで）。",
+    "Memo": "アームストロングSR:Lv1 巧みな用兵こそ北部最強と言われた部隊の神髄。自身が攻撃を受けたとき、ダメージを30%遮断する。（遮断された後のダメージ量に対して、他のダメージ軽減（『被ダメージ減少』等）が計算される）自身が攻撃して、クリティカルヒットした場合、遮断の効果が2％減少する。クリティカルヒットした回数1回につき減少量が2％大きくなる（最小10%まで）。/ Lv2 \\nさらに毎ターン開始時、前のターンに自身が攻撃して、クリティカルヒットした場合、自身の攻撃力が2％増加する（解除不可）。クリティカルヒットした回数1回につき増加量が2％大きくなる（最大20%まで）。/ Lv3\\nダメージを50%遮断する。クリティカルヒットした回数1回につき減少する遮断の効果が2％（最小30％まで）、増加する攻撃力が3％になる（最大30％まで）。/ ExLv2\\n弾性防御を強化する。ダメージを60%遮断する。クリティカルヒットした回数1回につき減少する遮断の効果が2％（最小40％まで）、増加する攻撃力が4％になる（最大40％まで）。",
     "NameKey": "[PassiveSkillName50004]",
     "PassiveSkillInfos": [
       {
@@ -10438,7 +10445,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550400001001
@@ -10763,15 +10770,8 @@
         "OrderNumber": 1,
         "PassiveSubSetSkillInfos": [
           {
-            "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamage",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
-            "SubSetSkillId": 550406004001
-          },
-          {
-            "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.CheckReceiveDamageSelf",
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.InstantDeathDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 550406004001

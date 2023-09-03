@@ -598,5 +598,29 @@
       "ItemCount": 0
     },
     "ImageCharacterId": 0
+  },
+  {
+    "Id": 3002,
+    "IsIgnore": null,
+    "Memo": "時空の洞窟_イベント_アームストロング",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText36]",
+        "ImageId": 36
+      }
+    ],
+    "HelpId": 4010,
+    "ImagePositionFormatType": "ImagePositionFormatType.DungeonBattleEvent",
+    "ImageItem1": {
+      "ItemType": "ItemType.EventExchangePlaceItem",
+      "ItemId": 9,
+      "ItemCount": 0
+    },
+    "ImageItem2": {
+      "ItemType": "ItemType.GachaTicket",
+      "ItemId": 500,
+      "ItemCount": 0
+    },
+    "ImageCharacterId": 0
   }
 ]
