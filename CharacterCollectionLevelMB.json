@@ -3717,5 +3717,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2601,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 100.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2602,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2603,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2604,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2605,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 210.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 71.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2606,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 220.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 72.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2607,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 230.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 73.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
