@@ -3866,5 +3866,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2701,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2702,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2703,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2704,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2705,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 550.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1100.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2706,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1200.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2707,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1300.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

@@ -6642,6 +6642,132 @@
     "RarityFlags": "CharacterRarityFlags.LR"
   },
   {
+    "Id": 377,
+    "IsIgnore": null,
+    "Memo": "ステラ1",
+    "CharacterId": 57,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5701]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 378,
+    "IsIgnore": null,
+    "Memo": "ステラ2",
+    "CharacterId": 57,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5702]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 379,
+    "IsIgnore": null,
+    "Memo": "ステラ3",
+    "CharacterId": 57,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5703]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 380,
+    "IsIgnore": null,
+    "Memo": "ステラ4",
+    "CharacterId": 57,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5704]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 381,
+    "IsIgnore": null,
+    "Memo": "ステラ5",
+    "CharacterId": 57,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5705]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 382,
+    "IsIgnore": null,
+    "Memo": "ステラ6",
+    "CharacterId": 57,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5706]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 383,
+    "IsIgnore": null,
+    "Memo": "ステラ7",
+    "CharacterId": 57,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText5707]",
+    "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
     "Id": 384,
     "IsIgnore": null,
     "Memo": "アーティ1",

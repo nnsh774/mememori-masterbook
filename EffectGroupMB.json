@@ -10258,6 +10258,358 @@
     "EffectGroupInfoList": []
   },
   {
+    "Id": 5700100102,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700100102]",
+    "DescriptionKey": "[EffectGroupDescription5700100102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700140102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700100102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 5700140102,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700140102]",
+    "DescriptionKey": "[EffectGroupDescription5700140102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700140102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700100102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 5700300101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×400％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName5700300101]",
+    "DescriptionKey": "[EffectGroupDescription5700300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5700320101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×400％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName5700320101]",
+    "DescriptionKey": "[EffectGroupDescription5700320101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5700330101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×800％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName5700330101]",
+    "DescriptionKey": "[EffectGroupDescription5700330101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5700400201,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700400201]",
+    "DescriptionKey": "[EffectGroupDescription5700400201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700430201,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5700400201,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5700400301,
+    "IsIgnore": null,
+    "Memo": "*[印]",
+    "NameKey": "[EffectGroupName5700400301]",
+    "DescriptionKey": "[EffectGroupDescription5700400301]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5700400302,
+    "IsIgnore": null,
+    "Memo": "*『防御力増加』のターン数が1減少",
+    "NameKey": "[EffectGroupName5700400302]",
+    "DescriptionKey": "[EffectGroupDescription5700400302]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5700400303,
+    "IsIgnore": null,
+    "Memo": "防御力が25%増加する。",
+    "NameKey": "[EffectGroupName5700400303]",
+    "DescriptionKey": "[EffectGroupDescription5700400303]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700420303,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700400303,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 5700400304,
+    "IsIgnore": null,
+    "Memo": "*[印解除]",
+    "NameKey": "[EffectGroupName5700400304]",
+    "DescriptionKey": "[EffectGroupDescription5700400304]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5700420301,
+    "IsIgnore": null,
+    "Memo": "*[印]",
+    "NameKey": "[EffectGroupName5700420301]",
+    "DescriptionKey": "[EffectGroupDescription5700420301]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5700420302,
+    "IsIgnore": null,
+    "Memo": "*『防御力増加』のターン数が1減少",
+    "NameKey": "[EffectGroupName5700420302]",
+    "DescriptionKey": "[EffectGroupDescription5700420302]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5700420303,
+    "IsIgnore": null,
+    "Memo": "防御力が50%増加する。",
+    "NameKey": "[EffectGroupName5700420303]",
+    "DescriptionKey": "[EffectGroupDescription5700420303]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700420303,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700400303,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 5700420304,
+    "IsIgnore": null,
+    "Memo": "*[印解除]",
+    "NameKey": "[EffectGroupName5700420304]",
+    "DescriptionKey": "[EffectGroupDescription5700420304]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5700430201,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700430201]",
+    "DescriptionKey": "[EffectGroupDescription5700430201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700430201,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5700400201,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5700440201,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700440201]",
+    "DescriptionKey": "[EffectGroupDescription5700440201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5700430201,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5700400201,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5700500101,
+    "IsIgnore": null,
+    "Memo": "スピードが25%増加する（解除不可）。",
+    "NameKey": null,
+    "DescriptionKey": "[EffectGroupDescription5700500101]",
+    "IconType": "EffectGroupIconType.ExclusiveWeapon",
+    "IconId": 1,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
     "Id": 5800100101,
     "IsIgnore": null,
     "Memo": "魔法防御力が20％減少し、被ダメージが10％増加する。",
@@ -24599,6 +24951,358 @@
     "IconId": 55004,
     "CasterIconType": "EffectGroupIconType.Character",
     "CasterIconId": 55,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700100102,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700100102]",
+    "DescriptionKey": "[EffectGroupDescription5700100102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700140102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700100102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55045700140102,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700140102]",
+    "DescriptionKey": "[EffectGroupDescription5700140102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700140102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700100102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55045700300101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×400％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName5700300101]",
+    "DescriptionKey": "[EffectGroupDescription5700300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045700320101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×400％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName5700320101]",
+    "DescriptionKey": "[EffectGroupDescription5700320101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045700330101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×800％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName5700330101]",
+    "DescriptionKey": "[EffectGroupDescription5700330101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045700400201,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700400201]",
+    "DescriptionKey": "[EffectGroupDescription5700400201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700430201,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045700400201,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045700400301,
+    "IsIgnore": null,
+    "Memo": "*[印]",
+    "NameKey": "[EffectGroupName5700400301]",
+    "DescriptionKey": "[EffectGroupDescription5700400301]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700400302,
+    "IsIgnore": null,
+    "Memo": "*『防御力増加』のターン数が1減少",
+    "NameKey": "[EffectGroupName5700400302]",
+    "DescriptionKey": "[EffectGroupDescription5700400302]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700400303,
+    "IsIgnore": null,
+    "Memo": "防御力が25%増加する。",
+    "NameKey": "[EffectGroupName5700400303]",
+    "DescriptionKey": "[EffectGroupDescription5700400303]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700420303,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700400303,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55045700400304,
+    "IsIgnore": null,
+    "Memo": "*[印解除]",
+    "NameKey": "[EffectGroupName5700400304]",
+    "DescriptionKey": "[EffectGroupDescription5700400304]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700420301,
+    "IsIgnore": null,
+    "Memo": "*[印]",
+    "NameKey": "[EffectGroupName5700420301]",
+    "DescriptionKey": "[EffectGroupDescription5700420301]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700420302,
+    "IsIgnore": null,
+    "Memo": "*『防御力増加』のターン数が1減少",
+    "NameKey": "[EffectGroupName5700420302]",
+    "DescriptionKey": "[EffectGroupDescription5700420302]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700420303,
+    "IsIgnore": null,
+    "Memo": "防御力が50%増加する。",
+    "NameKey": "[EffectGroupName5700420303]",
+    "DescriptionKey": "[EffectGroupDescription5700420303]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700420303,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700400303,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55045700420304,
+    "IsIgnore": null,
+    "Memo": "*[印解除]",
+    "NameKey": "[EffectGroupName5700420304]",
+    "DescriptionKey": "[EffectGroupDescription5700420304]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045700430201,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700430201]",
+    "DescriptionKey": "[EffectGroupDescription5700430201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700430201,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045700400201,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045700440201,
+    "IsIgnore": null,
+    "Memo": "[沈黙] スキルが使用不能になる。",
+    "NameKey": "[EffectGroupName5700440201]",
+    "DescriptionKey": "[EffectGroupDescription5700440201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 57004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045700430201,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045700400201,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045700500101,
+    "IsIgnore": null,
+    "Memo": "スピードが25%増加する（解除不可）。",
+    "NameKey": null,
+    "DescriptionKey": "[EffectGroupDescription5700500101]",
+    "IconType": "EffectGroupIconType.ExclusiveWeapon",
+    "IconId": 1,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 57,
     "IsHide": false,
     "IsTurnHide": false,
     "EffectGroupInfoList": []

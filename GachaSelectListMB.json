@@ -1120,13 +1120,14 @@
   },
   {
     "EndTimeFixJST": "2023-09-21 14:29:59",
-    "StartTimeFixJST": "2023-09-15 14:30:00",
+    "StartTimeFixJST": "2023-09-15 16:30:00",
     "Id": 30,
     "IsIgnore": null,
-    "Memo": "ソーニャ復刻・仮(0915切替用)",
+    "Memo": "ステラ＋ソーニャ復刻（0915切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
-    "OrderNumber": 27,
+    "OrderNumber": 28,
     "CharacterIdList": [
+      57,
       9,
       5,
       6,
@@ -1152,7 +1153,45 @@
       46
     ],
     "NewCharacterIdList": [
+      57,
       9
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-09-29 14:29:59",
+    "StartTimeFixJST": "2023-09-21 14:30:00",
+    "Id": 31,
+    "IsIgnore": null,
+    "Memo": "ステラ＋復刻仮入れ（0921切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 29,
+    "CharacterIdList": [
+      57,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      57
     ]
   },
   {

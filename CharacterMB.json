@@ -2839,6 +2839,59 @@
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-09-15 15:00:00",
+    "Id": 57,
+    "IsIgnore": null,
+    "Memo": "ステラ",
+    "NameKey": "[CharacterName57]",
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      57001,
+      57002
+    ],
+    "PassiveSkillIds": [
+      57003,
+      57004,
+      57005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
+    "CharacterType": "CharacterType.Normal",
+    "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Warrior",
+    "RarityFlags": "CharacterRarityFlags.SR",
+    "InitialBattleParameter": {
+      "AttackPower": -3,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 11,
+      "DefensePenetration": 0,
+      "HP": 3,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": -1,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 2698
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 78,
+      "Health": 97,
+      "Intelligence": 83,
+      "Muscle": 88
+    },
+    "BaseParameterGrossCoefficient": 346
+  },
+  {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
     "StartTimeFixJST": "2023-05-31 15:00:00",
     "Id": 58,
     "IsIgnore": null,
@@ -2995,7 +3048,7 @@
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00",
+    "StartTimeFixJST": "2023-06-30 15:00:00",
     "Id": 70,
     "IsIgnore": null,
     "Memo": "水着サブリナ",
@@ -3047,7 +3100,7 @@
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2020-01-01 00:00:00",
+    "StartTimeFixJST": "2023-07-13 15:00:00",
     "Id": 71,
     "IsIgnore": null,
     "Memo": "水着モーザ",

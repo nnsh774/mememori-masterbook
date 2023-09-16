@@ -5896,5 +5896,138 @@
         "Value": 500.0
       }
     ]
+  },
+  {
+    "Id": 271,
+    "IsIgnore": null,
+    "Memo": "ステラSSR180",
+    "CharacterId": 57,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200.0
+      }
+    ]
+  },
+  {
+    "Id": 272,
+    "IsIgnore": null,
+    "Memo": "ステラSSR200",
+    "CharacterId": 57,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600.0
+      }
+    ]
+  },
+  {
+    "Id": 273,
+    "IsIgnore": null,
+    "Memo": "ステラSSR220",
+    "CharacterId": 57,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700.0
+      }
+    ]
+  },
+  {
+    "Id": 274,
+    "IsIgnore": null,
+    "Memo": "ステラSSR240",
+    "CharacterId": 57,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800.0
+      }
+    ]
+  },
+  {
+    "Id": 275,
+    "IsIgnore": null,
+    "Memo": "ステラUR",
+    "CharacterId": 57,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900.0
+      }
+    ]
+  },
+  {
+    "Id": 276,
+    "IsIgnore": null,
+    "Memo": "ステラLR",
+    "CharacterId": 57,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Muscle",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800.0
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000.0
+      }
+    ]
   }
 ]

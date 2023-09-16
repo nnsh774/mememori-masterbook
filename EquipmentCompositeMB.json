@@ -1153,5 +1153,20 @@
       }
     ],
     "ItemRarityFlags": "ItemRarityFlags.SSR"
+  },
+  {
+    "Id": 78,
+    "IsIgnore": null,
+    "Memo": "ステラ剣",
+    "EquipmentId": 570910180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 75000
+      }
+    ],
+    "ItemRarityFlags": "ItemRarityFlags.SSR"
   }
 ]
