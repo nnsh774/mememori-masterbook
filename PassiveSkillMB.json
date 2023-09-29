@@ -6171,7 +6171,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 57005001
@@ -16442,7 +16442,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550457005001

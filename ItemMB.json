@@ -1670,5 +1670,24 @@
     "DescriptionKey": "[ItemDescription89]",
     "ItemRarityFlags": "ItemRarityFlags.SR",
     "SortOrder": 0
+  },
+  {
+    "EndTime": "2023-10-12 03:59:59",
+    "StartTime": "2023-09-29 00:00:00",
+    "Id": 90,
+    "IsIgnore": null,
+    "Memo": "塔の鍵",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "MaxItemCount": 0,
+    "IconId": 123,
+    "TransferSpotId": 23,
+    "SecondaryFrameType": "SecondaryFrameType.None",
+    "SecondaryFrameNum": 0,
+    "ItemId": 10,
+    "NameKey": "[ItemName90]",
+    "DisplayName": "[ItemDisplayName90]",
+    "DescriptionKey": "[ItemDescription90]",
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "SortOrder": 0
   }
 ]

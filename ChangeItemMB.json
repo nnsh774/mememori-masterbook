@@ -3966,5 +3966,21 @@
         "ItemCount": 10000
       }
     ]
+  },
+  {
+    "Id": 249,
+    "IsIgnore": null,
+    "Memo": "塔の鍵",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "ItemId": 10,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 10000
+      }
+    ]
   }
 ]
