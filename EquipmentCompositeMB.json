@@ -1168,5 +1168,20 @@
       }
     ],
     "ItemRarityFlags": "ItemRarityFlags.SSR"
+  },
+  {
+    "Id": 79,
+    "IsIgnore": null,
+    "Memo": "プリシラ魔導書",
+    "EquipmentId": 620930180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 75000
+      }
+    ],
+    "ItemRarityFlags": "ItemRarityFlags.SSR"
   }
 ]

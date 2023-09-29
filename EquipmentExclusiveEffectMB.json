@@ -6029,5 +6029,134 @@
         "Value": 1000.0
       }
     ]
+  },
+  {
+    "Id": 277,
+    "IsIgnore": null,
+    "Memo": "プリシラSSR180",
+    "CharacterId": 62,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200.0
+      }
+    ]
+  },
+  {
+    "Id": 278,
+    "IsIgnore": null,
+    "Memo": "プリシラSSR200",
+    "CharacterId": 62,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600.0
+      }
+    ]
+  },
+  {
+    "Id": 279,
+    "IsIgnore": null,
+    "Memo": "プリシラSSR220",
+    "CharacterId": 62,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      }
+    ]
+  },
+  {
+    "Id": 280,
+    "IsIgnore": null,
+    "Memo": "プリシラSSR240",
+    "CharacterId": 62,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      }
+    ]
+  },
+  {
+    "Id": 281,
+    "IsIgnore": null,
+    "Memo": "プリシラUR",
+    "CharacterId": 62,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2000.0
+      }
+    ]
+  },
+  {
+    "Id": 282,
+    "IsIgnore": null,
+    "Memo": "プリシラLR",
+    "CharacterId": 62,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2200.0
+      }
+    ]
   }
 ]
