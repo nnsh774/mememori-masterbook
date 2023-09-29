@@ -738,14 +738,14 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 9004002
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 9004201
@@ -761,14 +761,14 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 9004002
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 9004301
@@ -5044,7 +5044,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 49004001
@@ -5060,7 +5060,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 49004201
@@ -6379,7 +6379,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 60003001
@@ -6395,7 +6395,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 60003201
@@ -6411,7 +6411,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 60003301
@@ -6427,7 +6427,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 60003401
@@ -6552,6 +6552,167 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 60004402
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 62003,
+    "IsIgnore": null,
+    "Memo": "プリシラSR:Lv1 きっと助けにきてくれるって信じてた――自身の最大HPが25%、魔法防御力が50％増加する（解除不可）。/ Lv2 さらに自身のクリティカル率が20%増加する（解除不可）。/ Lv3 最大HPの増加量が50%、魔法防御力の増加量が100%、クリティカル率の増加量が40%になる。",
+    "NameKey": "[PassiveSkillName62003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription620031]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription620032]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription620033]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 62004,
+    "IsIgnore": null,
+    "Memo": "プリシラSR:Lv1 孤独に耐え続けた心が自身を守る力となる――バトル開始時3ターンの間自身の防御力が50%増加する（解除不可）。自身がアクティブスキルで弱体効果を受けたとき、自身が付与した『防御力増加』のターン数を1ターン消費し、自身の全ての弱体効果のターン数が2ターン減少する。/ Lv2 自身がアクティブスキルで弱体効果を受けて、『防御力増加』のターン数を消費したとき、さらにHP割合が最も低い味方のHPを自身の攻撃力×50％回復するようになる。/ Lv3 『防御力増加』のターン数が5ターンになる。",
+    "NameKey": "[PassiveSkillName62004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription620041]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004002
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription620042]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004204
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription620043]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004204
           }
         ]
       }
@@ -8211,7 +8372,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000045001
@@ -8235,7 +8396,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000046001
@@ -8259,7 +8420,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000047001
@@ -8307,7 +8468,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000049001
@@ -8331,7 +8492,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000050001
@@ -8355,7 +8516,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000051001
@@ -8595,7 +8756,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000061001
@@ -8619,7 +8780,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000062001
@@ -8643,7 +8804,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000063001
@@ -9027,7 +9188,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000079001
@@ -9051,7 +9212,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000080001
@@ -9075,7 +9236,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 500000081001
@@ -9867,6 +10028,68 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 550230007001
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550262004,
+    "IsIgnore": null,
+    "Memo": "ギルドレイドプリシラ4",
+    "NameKey": "",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 62004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 62004204
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550262005,
+    "IsIgnore": null,
+    "Memo": "ギルドレイドプリシラ5　狂暴",
+    "NameKey": "",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550262005001
           }
         ]
       }
@@ -16823,6 +17046,167 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550460004402
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550462003,
+    "IsIgnore": null,
+    "Memo": "敵用プリシラSR:Lv1 きっと助けにきてくれるって信じてた――自身の最大HPが25%、魔法防御力が50％増加する（解除不可）。/ Lv2 さらに自身のクリティカル率が20%増加する（解除不可）。/ Lv3 最大HPの増加量が50%、魔法防御力の増加量が100%、クリティカル率の増加量が40%になる。",
+    "NameKey": "[PassiveSkillName62003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550462003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550462003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550462003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550462004,
+    "IsIgnore": null,
+    "Memo": "敵用プリシラSR:Lv1 孤独に耐え続けた心が自身を守る力となる――バトル開始時3ターンの間自身の防御力が50%増加する（解除不可）。自身がアクティブスキルで弱体効果を受けたとき、自身が付与した『防御力増加』のターン数を1ターン消費し、自身の全ての弱体効果のターン数が2ターン減少する。/ Lv2 自身がアクティブスキルで弱体効果を受けて、『防御力増加』のターン数を消費したとき、さらにHP割合が最も低い味方のHPを自身の攻撃力×50％回復するようになる。/ Lv3 『防御力増加』のターン数が5ターンになる。",
+    "NameKey": "[PassiveSkillName62004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550462004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004002
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550462004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004204
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550462004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550462004204
           }
         ]
       }
