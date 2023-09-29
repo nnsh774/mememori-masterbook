@@ -25152,6 +25152,454 @@
     "SortOrder": 99
   },
   {
+    "Id": 6202,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6202]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 6203,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6203]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 6204,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6204]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 6205,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6205]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 6206,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6206]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 6207,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6207]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 6208,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6208]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 6209,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6209]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 6210,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6210]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 6211,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6211]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 6212,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6212]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 6213,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6213]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 6214,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6214]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 6215,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6215]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 6216,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6216]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 6217,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6217]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 6218,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6218]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 6219,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6219]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 6220,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6220]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 6221,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6221]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 6290,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6290]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 6291,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6291]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 6292,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6292]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 6293,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6293]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 6296,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 6297,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 6298,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 6299,
+    "IsIgnore": null,
+    "Memo": "プリシラ",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
     "Id": 6702,
     "IsIgnore": null,
     "Memo": "リシェス",

@@ -1201,10 +1201,11 @@
     "StartTimeFixJST": "2023-09-29 14:30:00",
     "Id": 32,
     "IsIgnore": null,
-    "Memo": "シフォン復刻・新規仮データ(0929切替用)",
+    "Memo": "プリシラ＋シフォン復刻(0929切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
     "OrderNumber": 30,
     "CharacterIdList": [
+      62,
       54,
       5,
       6,
@@ -1230,7 +1231,45 @@
       46
     ],
     "NewCharacterIdList": [
+      62,
       54
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-10-18 14:29:59",
+    "StartTimeFixJST": "2023-10-05 14:30:00",
+    "Id": 33,
+    "IsIgnore": null,
+    "Memo": "プリシラ＋復刻仮入れ（1005切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 31,
+    "CharacterIdList": [
+      62,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      62
     ]
   },
   {

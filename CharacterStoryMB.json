@@ -7020,6 +7020,132 @@
     "RarityFlags": "CharacterRarityFlags.LR"
   },
   {
+    "Id": 412,
+    "IsIgnore": null,
+    "Memo": "プリシラ1",
+    "CharacterId": 62,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6201]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 413,
+    "IsIgnore": null,
+    "Memo": "プリシラ2",
+    "CharacterId": 62,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6202]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 414,
+    "IsIgnore": null,
+    "Memo": "プリシラ3",
+    "CharacterId": 62,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6203]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 415,
+    "IsIgnore": null,
+    "Memo": "プリシラ4",
+    "CharacterId": 62,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6204]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 416,
+    "IsIgnore": null,
+    "Memo": "プリシラ5",
+    "CharacterId": 62,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6205]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 417,
+    "IsIgnore": null,
+    "Memo": "プリシラ6",
+    "CharacterId": 62,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6206]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 418,
+    "IsIgnore": null,
+    "Memo": "プリシラ7",
+    "CharacterId": 62,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6207]",
+    "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
     "Id": 447,
     "IsIgnore": null,
     "Memo": "リシェス1",

@@ -4015,5 +4015,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2801,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 20.0
+      }
+    ],
+    "BattleParameterChangeInfos": [],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2802,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 15.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2803,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 15.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2804,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 15.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2805,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 41.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 16.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2806,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 42.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 17.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2807,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 43.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 18.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

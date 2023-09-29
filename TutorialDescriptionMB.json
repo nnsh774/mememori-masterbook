@@ -622,5 +622,29 @@
       "ItemCount": 0
     },
     "ImageCharacterId": 0
+  },
+  {
+    "Id": 4001,
+    "IsIgnore": null,
+    "Memo": "ギルドレイド_イベント",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText40]",
+        "ImageId": 39
+      }
+    ],
+    "HelpId": 5010,
+    "ImagePositionFormatType": "ImagePositionFormatType.GuildRaidEvent",
+    "ImageItem1": {
+      "ItemType": "ItemType.EventExchangePlaceItem",
+      "ItemId": 10,
+      "ItemCount": 0
+    },
+    "ImageItem2": {
+      "ItemType": "ItemType.TreasureChest",
+      "ItemId": 28,
+      "ItemCount": 0
+    },
+    "ImageCharacterId": 62
   }
 ]
