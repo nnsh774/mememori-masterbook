@@ -1240,11 +1240,12 @@
     "StartTimeFixJST": "2023-10-05 14:30:00",
     "Id": 33,
     "IsIgnore": null,
-    "Memo": "プリシラ＋復刻仮入れ（1005切替用）",
+    "Memo": "プリシラ＋ルサールカ復刻（1005切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
     "OrderNumber": 31,
     "CharacterIdList": [
       62,
+      44,
       5,
       6,
       7,
@@ -1269,7 +1270,45 @@
       46
     ],
     "NewCharacterIdList": [
-      62
+      62,
+      44
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-10-24 14:29:59",
+    "StartTimeFixJST": "2023-10-18 14:30:00",
+    "Id": 34,
+    "IsIgnore": null,
+    "Memo": "ルサールカ復刻・新規仮データ(1018切替用)",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 32,
+    "CharacterIdList": [
+      44,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      44
     ]
   },
   {
