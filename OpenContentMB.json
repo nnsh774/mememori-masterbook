@@ -840,6 +840,21 @@
     "ToastKey": null
   },
   {
+    "Id": 180,
+    "IsIgnore": null,
+    "Memo": "楽曲再生(10/16～18特別仕様)",
+    "OpenContentType": "OpenContentType.QuestClear",
+    "TutorialId": 0,
+    "OpenContentValue": 99999,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": 180,
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": "[MusicPlayerTransitionProhibitedMessage]"
+  },
+  {
     "Id": 200,
     "IsIgnore": null,
     "Memo": "友達招待",
