@@ -2267,7 +2267,7 @@
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
-    "StartTimeFixJST": "2100-12-31 15:30:00",
+    "StartTimeFixJST": "2023-10-18 15:00:00",
     "Id": 45,
     "IsIgnore": null,
     "Memo": "【聖槍の魔女】エルフリンデ",
@@ -2277,7 +2277,10 @@
       45001,
       45002
     ],
-    "PassiveSkillIds": [],
+    "PassiveSkillIds": [
+      45003,
+      45004
+    ],
     "RequireFragmentCount": 60,
     "ItemRarityFlags": "ItemRarityFlags.SR",
     "Name2Key": "[CharacterSubName45]",
@@ -2286,9 +2289,9 @@
     "JobFlags": "JobFlags.Warrior",
     "RarityFlags": "CharacterRarityFlags.SR",
     "InitialBattleParameter": {
-      "AttackPower": 0,
+      "AttackPower": 3,
       "Avoidance": 0,
-      "Critical": 0,
+      "Critical": -5,
       "CriticalDamageEnhance": 0,
       "CriticalResist": 0,
       "DamageEnhance": 0,
@@ -2296,7 +2299,7 @@
       "DebuffHit": 0,
       "DebuffResist": 0,
       "Defense": 10,
-      "DefensePenetration": 0,
+      "DefensePenetration": 2,
       "HP": 0,
       "Hit": 0,
       "HpDrain": 0,
@@ -2304,15 +2307,15 @@
       "MagicDamageRelax": 0,
       "PhysicalCriticalDamageRelax": 0,
       "PhysicalDamageRelax": 0,
-      "Speed": 3026
+      "Speed": 3049
     },
     "BaseParameterCoefficient": {
-      "Energy": 83,
-      "Health": 69,
-      "Intelligence": 86,
-      "Muscle": 100
+      "Energy": 85,
+      "Health": 63,
+      "Intelligence": 85,
+      "Muscle": 104
     },
-    "BaseParameterGrossCoefficient": 338
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
