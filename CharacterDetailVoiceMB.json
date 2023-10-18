@@ -17088,6 +17088,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 4180,
+    "IsIgnore": null,
+    "Memo": "ナターシャ",
+    "CharacterId": 41,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 12,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
+  },
+  {
     "Id": 4190,
     "IsIgnore": null,
     "Memo": "ナターシャ",
@@ -17566,6 +17582,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 4280,
+    "IsIgnore": null,
+    "Memo": "フォルティナ",
+    "CharacterId": 42,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 280,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
   },
   {
     "Id": 4290,
@@ -18048,6 +18080,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 4380,
+    "IsIgnore": null,
+    "Memo": "ケルベロス",
+    "CharacterId": 43,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 448,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
+  },
+  {
     "Id": 4390,
     "IsIgnore": null,
     "Memo": "ケルベロス",
@@ -18526,6 +18574,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 4480,
+    "IsIgnore": null,
+    "Memo": "ルサールカ",
+    "CharacterId": 44,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 532,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
   },
   {
     "Id": 4490,
@@ -19008,6 +19072,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 4580,
+    "IsIgnore": null,
+    "Memo": "エルフリンデ",
+    "CharacterId": 45,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 700,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
+  },
+  {
     "Id": 4590,
     "IsIgnore": null,
     "Memo": "エルフリンデ",
@@ -19486,6 +19566,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 4680,
+    "IsIgnore": null,
+    "Memo": "ルナリンド",
+    "CharacterId": 46,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 56,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
   },
   {
     "Id": 4690,
@@ -19968,6 +20064,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 4780,
+    "IsIgnore": null,
+    "Memo": "ヴァルリーデ",
+    "CharacterId": 47,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 112,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
+  },
+  {
     "Id": 4790,
     "IsIgnore": null,
     "Memo": "ヴァルリーデ",
@@ -20446,6 +20558,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 4880,
+    "IsIgnore": null,
+    "Memo": "Ａ．Ａ．",
+    "CharacterId": 48,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 196,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
   },
   {
     "Id": 4890,
@@ -20928,6 +21056,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 4980,
+    "IsIgnore": null,
+    "Memo": "オフィーリア",
+    "CharacterId": 49,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 364,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
+  },
+  {
     "Id": 4990,
     "IsIgnore": null,
     "Memo": "オフィーリア",
@@ -21406,6 +21550,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 5080,
+    "IsIgnore": null,
+    "Memo": "アームストロング",
+    "CharacterId": 50,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 616,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
   },
   {
     "Id": 5090,

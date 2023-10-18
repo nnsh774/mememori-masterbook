@@ -4170,5 +4170,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2901,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 300.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2902,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2903,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 2904,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2905,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 510.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1050.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2906,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 520.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1100.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 2907,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.HpDrain",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 530.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1150.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

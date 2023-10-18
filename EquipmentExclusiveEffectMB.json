@@ -3670,7 +3670,7 @@
         "Value": 1300.0
       },
       {
-        "BattleParameterType": "BattleParameterType.Hit",
+        "BattleParameterType": "BattleParameterType.Critical",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
         "Value": 600.0
       }
@@ -3681,13 +3681,7 @@
     "IsIgnore": null,
     "Memo": "エルフリンデSSR220",
     "CharacterId": 45,
-    "BaseParameterChangeInfoList": [
-      {
-        "BaseParameterType": "BaseParameterType.Health",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 650.0
-      }
-    ],
+    "BaseParameterChangeInfoList": [],
     "BattleParameterChangeInfoList": [
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
@@ -3695,9 +3689,14 @@
         "Value": 1400.0
       },
       {
-        "BattleParameterType": "BattleParameterType.Hit",
+        "BattleParameterType": "BattleParameterType.Critical",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
         "Value": 700.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 5500.0
       }
     ]
   },
@@ -3706,13 +3705,7 @@
     "IsIgnore": null,
     "Memo": "エルフリンデSSR240",
     "CharacterId": 45,
-    "BaseParameterChangeInfoList": [
-      {
-        "BaseParameterType": "BaseParameterType.Health",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 700.0
-      }
-    ],
+    "BaseParameterChangeInfoList": [],
     "BattleParameterChangeInfoList": [
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
@@ -3720,9 +3713,14 @@
         "Value": 1500.0
       },
       {
-        "BattleParameterType": "BattleParameterType.Hit",
+        "BattleParameterType": "BattleParameterType.Critical",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
         "Value": 800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 6000.0
       }
     ]
   },
@@ -3731,13 +3729,7 @@
     "IsIgnore": null,
     "Memo": "エルフリンデUR",
     "CharacterId": 45,
-    "BaseParameterChangeInfoList": [
-      {
-        "BaseParameterType": "BaseParameterType.Health",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 750.0
-      }
-    ],
+    "BaseParameterChangeInfoList": [],
     "BattleParameterChangeInfoList": [
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
@@ -3745,9 +3737,14 @@
         "Value": 1600.0
       },
       {
-        "BattleParameterType": "BattleParameterType.Hit",
+        "BattleParameterType": "BattleParameterType.Critical",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
         "Value": 900.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 6500.0
       }
     ]
   },
@@ -3756,13 +3753,7 @@
     "IsIgnore": null,
     "Memo": "エルフリンデLR",
     "CharacterId": 45,
-    "BaseParameterChangeInfoList": [
-      {
-        "BaseParameterType": "BaseParameterType.Health",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 800.0
-      }
-    ],
+    "BaseParameterChangeInfoList": [],
     "BattleParameterChangeInfoList": [
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
@@ -3770,9 +3761,14 @@
         "Value": 1800.0
       },
       {
-        "BattleParameterType": "BattleParameterType.Hit",
+        "BattleParameterType": "BattleParameterType.Critical",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
         "Value": 1000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 7000.0
       }
     ]
   },
