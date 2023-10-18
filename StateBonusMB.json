@@ -198,5 +198,44 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 11,
+    "IsIgnore": null,
+    "Memo": null,
+    "StateBonusNameTextKey": null,
+    "ItemIconInfo": null,
+    "StateBonusNumberTextKey": null,
+    "IsActiveWeeklyBonus": true,
+    "DungeonCoinBonusPercent": 15,
+    "GuildCoinBonusPercent": 15,
+    "TotalActivityMedalRewardBonusList": [
+      {
+        "TotalActivityMedalRewardId": 3,
+        "BonusRewardList": [
+          {
+            "Item": {
+              "ItemType": "ItemType.QuestQuickTicket",
+              "ItemId": 7,
+              "ItemCount": 1
+            },
+            "RarityFlags": "CharacterRarityFlags.None"
+          }
+        ]
+      },
+      {
+        "TotalActivityMedalRewardId": 5,
+        "BonusRewardList": [
+          {
+            "Item": {
+              "ItemType": "ItemType.QuestQuickTicket",
+              "ItemId": 12,
+              "ItemCount": 1
+            },
+            "RarityFlags": "CharacterRarityFlags.None"
+          }
+        ]
+      }
+    ]
   }
 ]
