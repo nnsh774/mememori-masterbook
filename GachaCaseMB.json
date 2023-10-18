@@ -1152,8 +1152,26 @@
     "GachaResetType": "GachaResetType.None"
   },
   {
-    "EndTimeFixJST": "2023-08-29 14:29:59",
-    "StartTimeFixJST": "2023-08-14 16:30:00",
+    "EndTimeFixJST": "2023-11-08 14:29:59",
+    "StartTimeFixJST": "2023-10-18 15:00:00",
+    "Id": 65,
+    "IsIgnore": null,
+    "Memo": "エルフリンデ新キャラガチャ 10/18 17:30 ~ 11/8 14:29 ",
+    "GachaCaseUiId": 65,
+    "GachaCaseFlags": "GachaCaseFlags.ShowCeilingCount",
+    "GachaLimitDayFromCreatePlayer": 0,
+    "GachaCategoryType": "GachaCategoryType.Character",
+    "DisplayOrder": 19565,
+    "GachaGroupType": "GachaGroupType.None",
+    "ElementType": "ElementType.None",
+    "GachaRelicType": "GachaRelicType.None",
+    "GachaDestinyType": "GachaDestinyType.None",
+    "GachaSelectListType": "GachaSelectListType.Default",
+    "GachaResetType": "GachaResetType.None"
+  },
+  {
+    "EndTimeFixJST": "2023-10-31 14:29:59",
+    "StartTimeFixJST": "2023-10-18 15:00:00",
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ（4属性）",
@@ -1170,8 +1188,8 @@
     "GachaResetType": "GachaResetType.None"
   },
   {
-    "EndTimeFixJST": "2023-08-29 14:29:59",
-    "StartTimeFixJST": "2023-08-14 16:30:00",
+    "EndTimeFixJST": "2023-10-31 14:29:59",
+    "StartTimeFixJST": "2023-10-18 15:00:00",
     "Id": 20000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ（天冥）",

@@ -450,13 +450,13 @@
     "IsPickup": false
   },
   {
-    "EndTimeFixJST": "2023-10-05 14:29:59",
-    "StartTimeFixJST": "2023-09-21 14:30:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2100-12-31 23:59:59",
     "Id": 51,
     "IsIgnore": null,
     "Memo": "シフォン",
     "CharacterId": 54,
-    "IsPickup": true
+    "IsPickup": false
   },
   {
     "EndTimeFixJST": "2023-10-24 14:29:59",
@@ -555,6 +555,15 @@
     "IsIgnore": null,
     "Memo": "プリシラ",
     "CharacterId": 62,
+    "IsPickup": true
+  },
+  {
+    "EndTimeFixJST": "2023-11-08 14:29:59",
+    "StartTimeFixJST": "2023-10-18 14:30:00",
+    "Id": 63,
+    "IsIgnore": null,
+    "Memo": "エルフリンデ",
+    "CharacterId": 45,
     "IsPickup": true
   }
 ]
