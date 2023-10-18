@@ -11066,7 +11066,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550402003001
           }
         ]
@@ -11082,7 +11082,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550402003201
           }
         ]
@@ -11106,7 +11106,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550403003001
           }
         ]
@@ -11122,7 +11122,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550403003201
           }
         ]
@@ -11146,14 +11146,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550404003001
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550404003001
           }
         ]
@@ -11169,14 +11169,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550404003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550404003201
           }
         ]
@@ -11314,6 +11314,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550406003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550406003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550406003001
           }
         ]
       },
@@ -11330,6 +11344,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550406003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550406003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550406003201
           }
         ]
       },
@@ -11343,6 +11371,20 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550406003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550406003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550406003301
@@ -11424,14 +11466,14 @@
             "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.AllyReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 2,
+            "SkillMaxCoolTime": 1,
             "SubSetSkillId": 550407003001
           },
           {
             "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "PassiveTrigger": "PassiveTrigger.TargetAttack",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 2,
+            "SkillMaxCoolTime": 1,
             "SubSetSkillId": 550407003001
           }
         ]
@@ -11447,14 +11489,14 @@
             "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.AllyReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 2,
+            "SkillMaxCoolTime": 1,
             "SubSetSkillId": 550407003201
           },
           {
             "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "PassiveTrigger": "PassiveTrigger.TargetAttack",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 2,
+            "SkillMaxCoolTime": 1,
             "SubSetSkillId": 550407003201
           }
         ]
@@ -11470,14 +11512,14 @@
             "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.AllyReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 2,
+            "SkillMaxCoolTime": 1,
             "SubSetSkillId": 550407003301
           },
           {
             "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "PassiveTrigger": "PassiveTrigger.TargetAttack",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 2,
+            "SkillMaxCoolTime": 1,
             "SubSetSkillId": 550407003301
           }
         ]
@@ -11501,7 +11543,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550407004001
           }
         ]
@@ -11517,7 +11559,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550407004201
           }
         ]
@@ -11533,7 +11575,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550407004301
           }
         ]
@@ -11613,7 +11655,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550408004001
           }
         ]
@@ -11629,7 +11671,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550408004201
           }
         ]
@@ -11645,7 +11687,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550408004301
           }
         ]
@@ -11669,7 +11711,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550409003001
           }
         ]
@@ -11685,7 +11727,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550409003201
           }
         ]
@@ -11701,7 +11743,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550409003301
           }
         ]
@@ -11726,14 +11768,14 @@
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550409004001
+            "SubSetSkillId": 550409004002
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550409004002
+            "SubSetSkillId": 550409004001
           }
         ]
       },
@@ -11746,17 +11788,17 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550409004201
+            "SubSetSkillId": 550409004002
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550409004202
+            "SubSetSkillId": 550409004201
           }
         ]
       },
@@ -11769,17 +11811,17 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550409004301
+            "SubSetSkillId": 550409004002
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550409004302
+            "SubSetSkillId": 550409004301
           }
         ]
       }
@@ -11802,14 +11844,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410003001
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410003002
           }
         ]
@@ -11825,14 +11867,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410003202
           }
         ]
@@ -11848,14 +11890,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410003301
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410003302
           }
         ]
@@ -11879,7 +11921,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410004001
           }
         ]
@@ -11895,7 +11937,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410004201
           }
         ]
@@ -11911,7 +11953,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550410004301
           }
         ]
@@ -11935,7 +11977,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550412003001
           }
         ]
@@ -11951,7 +11993,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550412003201
           }
         ]
@@ -11975,7 +12017,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550413003001
           }
         ]
@@ -11991,7 +12033,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550413003201
           }
         ]
@@ -12015,7 +12057,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550414003001
           }
         ]
@@ -12031,7 +12073,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550414003201
           }
         ]
@@ -12054,7 +12096,7 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 1,
+            "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550415003001
           }
@@ -12070,7 +12112,7 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 1,
+            "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550415003201
           }
@@ -12086,7 +12128,7 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 1,
+            "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550415003301
           }
@@ -12169,6 +12211,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550416003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550416003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550416003002
           }
         ]
       },
@@ -12185,6 +12241,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550416003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550416003202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550416003202
           }
         ]
       },
@@ -12201,6 +12271,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550416003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550416003302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550416003302
           }
         ]
       }
@@ -12223,7 +12307,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550416004001
           }
         ]
@@ -12239,7 +12323,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550416004201
           }
         ]
@@ -12255,7 +12339,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550416004301
           }
         ]
@@ -12284,6 +12368,13 @@
           },
           {
             "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550417003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
@@ -12307,6 +12398,13 @@
           },
           {
             "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550417003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
@@ -12330,17 +12428,17 @@
           },
           {
             "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550417003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 550417003302
-          },
-          {
-            "PassiveGroupId": 1,
-            "PassiveTrigger": "PassiveTrigger.SelfRecovery",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
-            "SubSetSkillId": 550417003303
           }
         ]
       }
@@ -12363,15 +12461,15 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550417004001
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
-            "SubSetSkillId": 550417004001
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550417004002
           }
         ]
       },
@@ -12386,15 +12484,15 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550417004201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
-            "SubSetSkillId": 550417004201
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550417004202
           }
         ]
       },
@@ -12409,15 +12507,15 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550417004301
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
-            "SubSetSkillId": 550417004301
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550417004302
           }
         ]
       }
@@ -12440,7 +12538,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550418003001
           }
         ]
@@ -12456,7 +12554,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550418003201
           }
         ]
@@ -12472,7 +12570,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550418003301
           }
         ]
@@ -12494,6 +12592,20 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004002
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
@@ -12502,6 +12614,20 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550418004002
@@ -12517,6 +12643,20 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004202
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
@@ -12525,6 +12665,20 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550418004202
@@ -12540,6 +12694,20 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004302
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
@@ -12548,6 +12716,20 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550418004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550418004302
@@ -12573,7 +12755,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550419003001
           }
         ]
@@ -12589,7 +12771,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550419003201
           }
         ]
@@ -12605,7 +12787,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550419003301
           }
         ]
@@ -12699,14 +12881,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420003001
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420003002
           }
         ]
@@ -12722,14 +12904,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420003202
           }
         ]
@@ -12745,14 +12927,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420003301
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420003302
           }
         ]
@@ -12776,12 +12958,19 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420004001
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550420004002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyDead",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550420004002
@@ -12799,12 +12988,19 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420004201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550420004202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyDead",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550420004202
@@ -12822,12 +13018,19 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550420004301
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550420004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyDead",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550420004302
@@ -12851,6 +13054,13 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 1,
+            "SubSetSkillId": 550422003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 1,
@@ -12872,6 +13082,13 @@
         "EquipmentRarityFlags": "EquipmentRarityFlags.None",
         "OrderNumber": 2,
         "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 1,
+            "SubSetSkillId": 550422003201
+          },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
@@ -12907,7 +13124,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550423003001
           }
         ]
@@ -12923,7 +13140,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550423003201
           }
         ]
@@ -12947,7 +13164,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550424003001
           }
         ]
@@ -12963,7 +13180,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550424003201
           }
         ]
@@ -13043,7 +13260,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550425004001
           }
         ]
@@ -13059,7 +13276,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550425004201
           }
         ]
@@ -13075,7 +13292,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550425004301
           }
         ]
@@ -13100,14 +13317,14 @@
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550426003001
+            "SubSetSkillId": 550426003000
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550426003002
+            "SubSetSkillId": 550426003001
           }
         ]
       },
@@ -13123,14 +13340,14 @@
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550426003201
+            "SubSetSkillId": 550426003000
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550426003202
+            "SubSetSkillId": 550426003201
           }
         ]
       },
@@ -13170,11 +13387,25 @@
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550426004001
+            "SubSetSkillId": 550426004000
           },
           {
             "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550426004001
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550426004000
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550426004001
@@ -13193,11 +13424,25 @@
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550426004201
+            "SubSetSkillId": 550426004000
           },
           {
             "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550426004201
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550426004000
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550426004201
@@ -13214,6 +13459,13 @@
           {
             "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550426004301
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550426004301
@@ -13239,7 +13491,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550427003001
           }
         ]
@@ -13255,7 +13507,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550427003201
           }
         ]
@@ -13271,7 +13523,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550427003301
           }
         ]
@@ -13351,7 +13603,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550428003001
           }
         ]
@@ -13367,7 +13619,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550428003201
           }
         ]
@@ -13383,7 +13635,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550428003301
           }
         ]
@@ -13463,7 +13715,21 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 3,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550429003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550429003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550429003001
           }
         ]
@@ -13479,7 +13745,21 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 3,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550429003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550429003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550429003201
           }
         ]
@@ -13495,7 +13775,21 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 3,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550429003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550429003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550429003301
           }
         ]
@@ -13519,7 +13813,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550429004001
           }
         ]
@@ -13535,7 +13829,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550429004201
           }
         ]
@@ -13551,7 +13845,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550429004301
           }
         ]
@@ -13664,13 +13958,6 @@
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550430004201
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550430004301
           }
         ]
@@ -13750,7 +14037,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550432003001
           }
         ]
@@ -13766,7 +14053,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550432003201
           }
         ]
@@ -13790,7 +14077,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550433003001
           }
         ]
@@ -13806,7 +14093,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550433003201
           }
         ]
@@ -13935,13 +14222,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550435004002
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550435004003
           }
         ]
       },
@@ -13965,13 +14245,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550435004202
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550435004203
           }
         ]
       },
@@ -13995,13 +14268,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550435004302
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 550435004303
           }
         ]
       }
@@ -14213,7 +14479,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550437004001
           }
         ]
@@ -14229,7 +14495,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550437004201
           }
         ]
@@ -14245,7 +14511,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550437004301
           }
         ]
@@ -14269,7 +14535,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550438003001
           }
         ]
@@ -14285,7 +14551,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550438003201
           }
         ]
@@ -14301,7 +14567,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550438003301
           }
         ]
@@ -14382,6 +14648,13 @@
             "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550439003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550439003001
           },
           {
@@ -14405,6 +14678,13 @@
             "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550439003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550439003201
           },
           {
@@ -14423,6 +14703,13 @@
         "EquipmentRarityFlags": "EquipmentRarityFlags.None",
         "OrderNumber": 3,
         "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550439003002
+          },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
@@ -14458,7 +14745,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550439004001
           }
         ]
@@ -14474,7 +14761,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550439004201
           }
         ]
@@ -14490,7 +14777,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550439004301
           }
         ]
@@ -14591,7 +14878,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550440004001
           }
         ]
@@ -14607,7 +14894,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550440004201
           }
         ]
@@ -14623,14 +14910,14 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550440004301
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550440004302
           }
         ]
@@ -14829,7 +15116,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550442004001
           }
         ]
@@ -14845,7 +15132,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550442004201
           }
         ]
@@ -14861,7 +15148,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550442004301
           }
         ]
@@ -14885,7 +15172,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 3,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550443003001
           }
         ]
@@ -14901,7 +15188,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 3,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550443003201
           }
         ]
@@ -14917,7 +15204,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 3,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550443003301
           }
         ]
@@ -14941,7 +15228,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550443004001
           }
         ]
@@ -14957,7 +15244,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550443004201
           }
         ]
@@ -14973,7 +15260,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550443004301
           }
         ]
@@ -15002,6 +15289,13 @@
           },
           {
             "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550444003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
@@ -15025,6 +15319,13 @@
           },
           {
             "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550444003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
@@ -15048,13 +15349,20 @@
           },
           {
             "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550444003001
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
             "SubSetSkillId": 550444003302
           },
           {
-            "PassiveGroupId": 1,
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.SelfRecovery",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 9999,
@@ -15389,6 +15697,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550446003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550446003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550446003002
           }
         ]
       },
@@ -15405,6 +15727,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550446003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550446003202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550446003202
           }
         ]
       },
@@ -15421,6 +15757,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550446003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SelfDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550446003302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.SpecialDamageDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550446003302
           }
         ]
       }
@@ -15443,7 +15793,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550446004001
           }
         ]
@@ -15459,7 +15809,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550446004201
           }
         ]
@@ -15475,7 +15825,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550446004301
           }
         ]
@@ -15501,6 +15851,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550447003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550447003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550447003001
           }
         ]
       },
@@ -15517,6 +15881,20 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550447003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550447003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550447003201
           }
         ]
       },
@@ -15530,6 +15908,20 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550447003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550447003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveHeal",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550447003301
@@ -15838,7 +16230,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550449004001
@@ -15854,7 +16246,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550449004201
@@ -15950,15 +16342,22 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550450003202
           },
           {
-            "PassiveGroupId": 0,
+            "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550450003203
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 4,
+            "SubSetSkillId": 550450003204
           }
         ]
       },
@@ -15980,15 +16379,22 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550450003302
           },
           {
-            "PassiveGroupId": 0,
+            "PassiveGroupId": 1,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
+            "SkillMaxCoolTime": 4,
             "SubSetSkillId": 550450003303
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 4,
+            "SubSetSkillId": 550450003304
           }
         ]
       }
@@ -16197,7 +16603,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550451004001
           }
         ]
@@ -16213,7 +16619,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550451004201
           }
         ]
@@ -16229,7 +16635,7 @@
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.TurnStart",
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 9999,
+            "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550451004301
           }
         ]
@@ -16279,13 +16685,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550452003001
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 550452003002
           }
         ]
       },
@@ -16318,13 +16717,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550452003301
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 550452003302
           }
         ]
       }
@@ -17063,6 +17455,13 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550458004003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 31,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550458004003
           }
         ]
       },
@@ -17090,6 +17489,13 @@
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550458004003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 31,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550458004003
@@ -17123,6 +17529,13 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550458004003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 31,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550458004003
           }
         ]
       },
@@ -17153,6 +17566,13 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550458004003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 31,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550458004003
           }
         ]
       }
@@ -17173,7 +17593,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550460003001
@@ -17189,7 +17609,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550460003201
@@ -17205,7 +17625,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550460003301
@@ -17221,7 +17641,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550460003401
