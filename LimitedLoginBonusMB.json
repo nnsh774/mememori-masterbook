@@ -49,5 +49,22 @@
     "TitleTextKey": "[LimitedLoginBonusTitle3]",
     "AppealTextKey": "[LimitedLoginBonusAppeal1]",
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal1]"
+  },
+  {
+    "EndTime": "2023-11-16 03:59:59",
+    "StartTime": "2023-10-18 04:00:00",
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "2023_1周年ログインボーナス",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "RewardListId": 4,
+    "CharacterImageId": 45,
+    "RewardBackgroundImageId": 5,
+    "SpecialRewardBackgroundImageId": 5,
+    "TitleTextKey": "[LimitedLoginBonusTitle4]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]"
   }
 ]

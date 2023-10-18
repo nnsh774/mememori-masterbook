@@ -8185,6 +8185,231 @@
     "EffectGroupInfoList": []
   },
   {
+    "Id": 4500100101,
+    "IsIgnore": null,
+    "Memo": "命中率が50%増加する。",
+    "NameKey": "[EffectGroupName4500100101]",
+    "DescriptionKey": "[EffectGroupDescription4500100101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500300101,
+    "IsIgnore": null,
+    "Memo": "防御力と物理防御力と魔法防御力が5%増加する（最大10回まで）（解除不可）。",
+    "NameKey": "[EffectGroupName4500300101]",
+    "DescriptionKey": "[EffectGroupDescription4500300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 4500330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 4500300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 4500300102,
+    "IsIgnore": null,
+    "Memo": "*スタック数が1増加",
+    "NameKey": "[EffectGroupName4500300102]",
+    "DescriptionKey": "[EffectGroupDescription4500300102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500300201,
+    "IsIgnore": null,
+    "Memo": "*スタック数が2増加",
+    "NameKey": "[EffectGroupName4500300201]",
+    "DescriptionKey": "[EffectGroupDescription4500300201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500320102,
+    "IsIgnore": null,
+    "Memo": "*スタック数が3増加",
+    "NameKey": "[EffectGroupName4500320102]",
+    "DescriptionKey": "[EffectGroupDescription4500320102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500320201,
+    "IsIgnore": null,
+    "Memo": "*スタック数が4増加",
+    "NameKey": "[EffectGroupName4500320201]",
+    "DescriptionKey": "[EffectGroupDescription4500320201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500330101,
+    "IsIgnore": null,
+    "Memo": "防御力と物理防御力と魔法防御力が10%増加する（最大10回まで）（解除不可）。",
+    "NameKey": "[EffectGroupName4500330101]",
+    "DescriptionKey": "[EffectGroupDescription4500330101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 4500330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 4500300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 4500330102,
+    "IsIgnore": null,
+    "Memo": "*スタック数が3増加",
+    "NameKey": "[EffectGroupName4500330102]",
+    "DescriptionKey": "[EffectGroupDescription4500330102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500330201,
+    "IsIgnore": null,
+    "Memo": "*スタック数が4増加",
+    "NameKey": "[EffectGroupName4500330201]",
+    "DescriptionKey": "[EffectGroupDescription4500330201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 4500400101,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%増加する。",
+    "NameKey": "[EffectGroupName4500400101]",
+    "DescriptionKey": "[EffectGroupDescription4500400101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 4500430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 4500420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 4500400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 4500420101,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%増加する。",
+    "NameKey": "[EffectGroupName4500420101]",
+    "DescriptionKey": "[EffectGroupDescription4500420101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 4500430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 4500420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 4500400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 4500430101,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が30%増加する。",
+    "NameKey": "[EffectGroupName4500430101]",
+    "DescriptionKey": "[EffectGroupDescription4500430101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 4500430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 4500420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 4500400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
     "Id": 4600100102,
     "IsIgnore": null,
     "Memo": "【雪幻の魔女】ルナリンドSR　アイスコフィン : [沈黙] スキルが使用不能になる。",
@@ -23199,6 +23424,231 @@
     "IsHide": false,
     "IsTurnHide": false,
     "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500100101,
+    "IsIgnore": null,
+    "Memo": "命中率が50%増加する。",
+    "NameKey": "[EffectGroupName4500100101]",
+    "DescriptionKey": "[EffectGroupDescription4500100101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500300101,
+    "IsIgnore": null,
+    "Memo": "防御力と物理防御力と魔法防御力が5%増加する（最大10回まで）（解除不可）。",
+    "NameKey": "[EffectGroupName4500300101]",
+    "DescriptionKey": "[EffectGroupDescription4500300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55044500330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55044500300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55044500300102,
+    "IsIgnore": null,
+    "Memo": "*スタック数が1増加",
+    "NameKey": "[EffectGroupName4500300102]",
+    "DescriptionKey": "[EffectGroupDescription4500300102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500300201,
+    "IsIgnore": null,
+    "Memo": "*スタック数が2増加",
+    "NameKey": "[EffectGroupName4500300201]",
+    "DescriptionKey": "[EffectGroupDescription4500300201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500320102,
+    "IsIgnore": null,
+    "Memo": "*スタック数が3増加",
+    "NameKey": "[EffectGroupName4500320102]",
+    "DescriptionKey": "[EffectGroupDescription4500320102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500320201,
+    "IsIgnore": null,
+    "Memo": "*スタック数が4増加",
+    "NameKey": "[EffectGroupName4500320201]",
+    "DescriptionKey": "[EffectGroupDescription4500320201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500330101,
+    "IsIgnore": null,
+    "Memo": "防御力と物理防御力と魔法防御力が10%増加する（最大10回まで）（解除不可）。",
+    "NameKey": "[EffectGroupName4500330101]",
+    "DescriptionKey": "[EffectGroupDescription4500330101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55044500330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55044500300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55044500330102,
+    "IsIgnore": null,
+    "Memo": "*スタック数が3増加",
+    "NameKey": "[EffectGroupName4500330102]",
+    "DescriptionKey": "[EffectGroupDescription4500330102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500330201,
+    "IsIgnore": null,
+    "Memo": "*スタック数が4増加",
+    "NameKey": "[EffectGroupName4500330201]",
+    "DescriptionKey": "[EffectGroupDescription4500330201]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55044500400101,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%増加する。",
+    "NameKey": "[EffectGroupName4500400101]",
+    "DescriptionKey": "[EffectGroupDescription4500400101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55044500430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55044500420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55044500400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55044500420101,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%増加する。",
+    "NameKey": "[EffectGroupName4500420101]",
+    "DescriptionKey": "[EffectGroupDescription4500420101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55044500430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55044500420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55044500400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55044500430101,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が30%増加する。",
+    "NameKey": "[EffectGroupName4500430101]",
+    "DescriptionKey": "[EffectGroupDescription4500430101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 45004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 45,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55044500430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55044500420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55044500400101,
+        "OrderNumber": 3
+      }
+    ]
   },
   {
     "Id": 55044600100102,

@@ -348,5 +348,165 @@
         "ItemCount": 1000
       }
     }
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "2023_一周年ログインボーナス",
+    "DailyRewardList": [
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 1,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 2,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.TreasureChestKey",
+          "ItemId": 1,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 3,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 4,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.QuestQuickTicket",
+          "ItemId": 14,
+          "ItemCount": 2
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 5,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 6,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.TreasureChestKey",
+          "ItemId": 2,
+          "ItemCount": 5
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 7,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 8,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.QuestQuickTicket",
+          "ItemId": 15,
+          "ItemCount": 1
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 9,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 10,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.TreasureChestKey",
+          "ItemId": 3,
+          "ItemCount": 5
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 11,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 10
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 12,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.CharacterTrainingMaterial",
+          "ItemId": 2,
+          "ItemCount": 1500
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 13,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 15
+        }
+      },
+      {
+        "Item": null,
+        "RarityFlags": "CharacterRarityFlags.None",
+        "Date": 14,
+        "DailyRewardItem": {
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 2,
+          "ItemCount": 15
+        }
+      }
+    ],
+    "ExistEveryDayReward": false,
+    "EveryDayRewardItem": null,
+    "ExistSpecialReward": true,
+    "SpecialRewardItem": {
+      "Item": null,
+      "RarityFlags": "CharacterRarityFlags.None",
+      "Date": 14,
+      "SpecialRewardItem": {
+        "ItemType": "ItemType.CharacterTrainingMaterial",
+        "ItemId": 2,
+        "ItemCount": 2000
+      }
+    }
   }
 ]
