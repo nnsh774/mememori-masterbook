@@ -1218,5 +1218,35 @@
     ],
     "TutorialDescriptionId": 0,
     "IsDisplayed": true
+  },
+  {
+    "Id": 5600,
+    "IsIgnore": null,
+    "Memo": "パネルミッション",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5600]",
+        "MainText": "[HelpMainText5600]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 27,
+    "IsDisplayed": true
+  },
+  {
+    "Id": 5700,
+    "IsIgnore": null,
+    "Memo": "楽曲再生",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5700]",
+        "MainText": "[HelpMainText5700]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "IsDisplayed": true
   }
 ]

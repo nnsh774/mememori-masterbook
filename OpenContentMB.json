@@ -842,17 +842,17 @@
   {
     "Id": 180,
     "IsIgnore": null,
-    "Memo": "楽曲再生(10/16～18特別仕様)",
+    "Memo": "楽曲再生",
     "OpenContentType": "OpenContentType.QuestClear",
     "TutorialId": 0,
-    "OpenContentValue": 99999,
+    "OpenContentValue": 64,
     "DescriptionKey": null,
     "AssetPath": null,
     "OpenCommandType": "OpenCommandType.MusicPlayer",
     "IsActiveGuide": false,
     "GuideOrderNumber": 0,
     "GuideDescriptionKey": null,
-    "ToastKey": "[MusicPlayerTransitionProhibitedMessage]"
+    "ToastKey": "[OpenContentToast180]"
   },
   {
     "Id": 200,

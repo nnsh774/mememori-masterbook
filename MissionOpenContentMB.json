@@ -348,5 +348,12 @@
     "Memo": null,
     "AchievementType": "MissionAchievementType.DungeonBattleNewCharacter",
     "OpenCommandType": "OpenCommandType.DungeonBattle"
+  },
+  {
+    "Id": 51,
+    "IsIgnore": null,
+    "Memo": null,
+    "AchievementType": "MissionAchievementType.MusicPlayerTransitionCount",
+    "OpenCommandType": "OpenCommandType.MusicPlayer"
   }
 ]
