@@ -1689,5 +1689,24 @@
     "DescriptionKey": "[ItemDescription90]",
     "ItemRarityFlags": "ItemRarityFlags.SR",
     "SortOrder": 0
+  },
+  {
+    "EndTime": "2023-11-08 14:29:59",
+    "StartTime": "2023-10-18 00:00:00",
+    "Id": 105,
+    "IsIgnore": null,
+    "Memo": "エルフリンデガチャチケット",
+    "ItemType": "ItemType.GachaTicket",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 65,
+    "SecondaryFrameType": "SecondaryFrameType.CenteredCharacterIcon",
+    "SecondaryFrameNum": 45,
+    "ItemId": 450,
+    "NameKey": "[ItemName105]",
+    "DisplayName": "[ItemDisplayName105]",
+    "DescriptionKey": "[ItemDescription105]",
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "SortOrder": 0
   }
 ]
