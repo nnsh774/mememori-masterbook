@@ -4319,5 +4319,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3001,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3002,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3003,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3004,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3005,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 550.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 210.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3006,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 220.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3007,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 230.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
