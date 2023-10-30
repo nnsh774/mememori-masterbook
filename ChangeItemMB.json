@@ -3998,5 +3998,37 @@
         "ItemCount": 1
       }
     ]
+  },
+  {
+    "Id": 251,
+    "IsIgnore": null,
+    "Memo": "イリアガチャチケット",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.GachaTicket",
+    "ItemId": 610,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.GachaTicket",
+        "ItemId": 2,
+        "ItemCount": 1
+      }
+    ]
+  },
+  {
+    "Id": 252,
+    "IsIgnore": null,
+    "Memo": "禁断の果実",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "ItemId": 11,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 10000
+      }
+    ]
   }
 ]
