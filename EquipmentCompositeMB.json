@@ -1183,5 +1183,20 @@
       }
     ],
     "ItemRarityFlags": "ItemRarityFlags.SSR"
+  },
+  {
+    "Id": 81,
+    "IsIgnore": null,
+    "Memo": "神呪イリア剣",
+    "EquipmentId": 610910180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 75000
+      }
+    ],
+    "ItemRarityFlags": "ItemRarityFlags.SSR"
   }
 ]
