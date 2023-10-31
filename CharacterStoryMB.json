@@ -7020,6 +7020,132 @@
     "RarityFlags": "CharacterRarityFlags.LR"
   },
   {
+    "Id": 405,
+    "IsIgnore": null,
+    "Memo": "神呪イリア1",
+    "CharacterId": 61,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6101]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 406,
+    "IsIgnore": null,
+    "Memo": "神呪イリア2",
+    "CharacterId": 61,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6102]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 407,
+    "IsIgnore": null,
+    "Memo": "神呪イリア3",
+    "CharacterId": 61,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6103]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 408,
+    "IsIgnore": null,
+    "Memo": "神呪イリア4",
+    "CharacterId": 61,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6104]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 409,
+    "IsIgnore": null,
+    "Memo": "神呪イリア5",
+    "CharacterId": 61,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6105]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 410,
+    "IsIgnore": null,
+    "Memo": "神呪イリア6",
+    "CharacterId": 61,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6106]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 411,
+    "IsIgnore": null,
+    "Memo": "神呪イリア7",
+    "CharacterId": 61,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6107]",
+    "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
     "Id": 412,
     "IsIgnore": null,
     "Memo": "プリシラ1",

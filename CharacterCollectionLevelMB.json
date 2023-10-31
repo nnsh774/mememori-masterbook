@@ -4468,5 +4468,124 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3101,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 100.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3102,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 200.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3103,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 205.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3104,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 210.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3105,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 215.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3106,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 220.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3107,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DefensePenetration",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 225.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
