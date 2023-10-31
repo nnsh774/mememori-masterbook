@@ -20,5 +20,319 @@
       }
     ],
     "StartTimeFixJST": "2100-01-01 00:00:00"
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "イリア",
+    "CharacterDetailVoiceId": 222,
+    "CharacterId": 2,
+    "RecitationSettingDatasJP": [
+      {
+        "SongLyricsStartTime": 0.0,
+        "SongLyricsKey": "[SongLyricsJP201]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 24.0,
+        "SongLyricsKey": "[SongLyricsJP202]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 37.0,
+        "SongLyricsKey": "[SongLyricsJP203]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 60.0,
+        "SongLyricsKey": "[SongLyricsJP204]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 84.0,
+        "SongLyricsKey": "[SongLyricsJP205]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 105.0,
+        "SongLyricsKey": "[SongLyricsJP206]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 117.0,
+        "SongLyricsKey": "[SongLyricsJP207]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 140.0,
+        "SongLyricsKey": "[SongLyricsJP208]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 164.0,
+        "SongLyricsKey": "[SongLyricsJP209]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 188.0,
+        "SongLyricsKey": "[SongLyricsJP210]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 195.0,
+        "SongLyricsKey": "[SongLyricsJP211]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 211.0,
+        "SongLyricsKey": "[SongLyricsJP212]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 235.0,
+        "SongLyricsKey": "[SongLyricsJP213]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 282.0,
+        "SongLyricsKey": "[SongLyricsJP214]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 294.0,
+        "SongLyricsKey": "[SongLyricsJP215]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 311.0,
+        "SongLyricsKey": "[SongLyricsJP216]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      }
+    ],
+    "RecitationSettingDatasUS": [
+      {
+        "SongLyricsStartTime": 0.0,
+        "SongLyricsKey": "[SongLyricsUS201]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 24.0,
+        "SongLyricsKey": "[SongLyricsUS202]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 37.0,
+        "SongLyricsKey": "[SongLyricsUS203]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 60.0,
+        "SongLyricsKey": "[SongLyricsUS204]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 84.0,
+        "SongLyricsKey": "[SongLyricsUS205]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 105.0,
+        "SongLyricsKey": "[SongLyricsUS206]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 117.0,
+        "SongLyricsKey": "[SongLyricsUS207]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 140.0,
+        "SongLyricsKey": "[SongLyricsUS208]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 164.0,
+        "SongLyricsKey": "[SongLyricsUS209]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 188.0,
+        "SongLyricsKey": "[SongLyricsUS210]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 195.0,
+        "SongLyricsKey": "[SongLyricsUS211]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 211.0,
+        "SongLyricsKey": "[SongLyricsUS212]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 235.0,
+        "SongLyricsKey": "[SongLyricsUS213]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 282.0,
+        "SongLyricsKey": "[SongLyricsUS214]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 294.0,
+        "SongLyricsKey": "[SongLyricsUS215]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 311.0,
+        "SongLyricsKey": "[SongLyricsUS216]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      }
+    ],
+    "StartTimeFixJST": "2023-10-31 15:00:00"
+  },
+  {
+    "Id": 41,
+    "IsIgnore": null,
+    "Memo": "ナターシャ",
+    "CharacterDetailVoiceId": 4122,
+    "CharacterId": 41,
+    "RecitationSettingDatasJP": [
+      {
+        "SongLyricsStartTime": 0.0,
+        "SongLyricsKey": "[SongLyricsJP4101]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 9.0,
+        "SongLyricsKey": "[SongLyricsJP4102]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 26.0,
+        "SongLyricsKey": "[SongLyricsJP4103]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 35.0,
+        "SongLyricsKey": "[SongLyricsJP4104]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 45.0,
+        "SongLyricsKey": "[SongLyricsJP4105]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 63.0,
+        "SongLyricsKey": "[SongLyricsJP4106]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 81.0,
+        "SongLyricsKey": "[SongLyricsJP4107]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 100.0,
+        "SongLyricsKey": "[SongLyricsJP4108]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 118.0,
+        "SongLyricsKey": "[SongLyricsJP4109]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 139.0,
+        "SongLyricsKey": "[SongLyricsJP4110]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 157.0,
+        "SongLyricsKey": "[SongLyricsJP4111]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 163.0,
+        "SongLyricsKey": "[SongLyricsJP4112]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 166.0,
+        "SongLyricsKey": "[SongLyricsJP4113]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      }
+    ],
+    "RecitationSettingDatasUS": [
+      {
+        "SongLyricsStartTime": 0.0,
+        "SongLyricsKey": "[SongLyricsUS4101]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 9.0,
+        "SongLyricsKey": "[SongLyricsUS4102]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 26.0,
+        "SongLyricsKey": "[SongLyricsUS4103]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 35.0,
+        "SongLyricsKey": "[SongLyricsUS4104]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 45.0,
+        "SongLyricsKey": "[SongLyricsUS4105]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 63.0,
+        "SongLyricsKey": "[SongLyricsUS4106]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 81.0,
+        "SongLyricsKey": "[SongLyricsUS4107]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 100.0,
+        "SongLyricsKey": "[SongLyricsUS4108]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 118.0,
+        "SongLyricsKey": "[SongLyricsUS4109]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 139.0,
+        "SongLyricsKey": "[SongLyricsUS4110]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      },
+      {
+        "SongLyricsStartTime": 157.0,
+        "SongLyricsKey": "[SongLyricsUS4111]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 163.0,
+        "SongLyricsKey": "[SongLyricsUS4112]",
+        "RecitationTextType": "RecitationTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 166.0,
+        "SongLyricsKey": "[SongLyricsUS4113]",
+        "RecitationTextType": "RecitationTextType.Recitation"
+      }
+    ],
+    "StartTimeFixJST": "2023-10-31 15:00:00"
   }
 ]

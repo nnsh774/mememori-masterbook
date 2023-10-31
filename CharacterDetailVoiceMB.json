@@ -544,6 +544,22 @@
     "SortOrder": 20
   },
   {
+    "Id": 222,
+    "IsIgnore": null,
+    "Memo": "イリア",
+    "CharacterId": 2,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Recitation",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Recitation",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
+  },
+  {
     "Id": 290,
     "IsIgnore": null,
     "Memo": "イリア",
@@ -17086,6 +17102,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 4122,
+    "IsIgnore": null,
+    "Memo": "ナターシャ",
+    "CharacterId": 41,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Recitation",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Recitation",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
   },
   {
     "Id": 4180,
