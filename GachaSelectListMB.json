@@ -1437,10 +1437,11 @@
     "StartTimeFixJST": "2023-11-15 14:30:00",
     "Id": 38,
     "IsIgnore": null,
-    "Memo": "シヴィ復刻②＋新規次キャラ仮入れ①（1115切替用）",
+    "Memo": "シヴィ復刻②＋フェーネ①（1115切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
     "OrderNumber": 36,
     "CharacterIdList": [
+      68,
       52,
       5,
       6,
@@ -1466,7 +1467,45 @@
       46
     ],
     "NewCharacterIdList": [
+      68,
       52
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-11-30 14:29:59",
+    "StartTimeFixJST": "2023-11-22 14:30:00",
+    "Id": 39,
+    "IsIgnore": null,
+    "Memo": "フェーネ②＋新規次キャラ仮入れ①（1122切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 37,
+    "CharacterIdList": [
+      68,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      68
     ]
   },
   {

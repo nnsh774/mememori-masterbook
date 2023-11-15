@@ -7398,6 +7398,132 @@
     "RarityFlags": "CharacterRarityFlags.LR"
   },
   {
+    "Id": 454,
+    "IsIgnore": null,
+    "Memo": "フェーネ1",
+    "CharacterId": 68,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6801]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 455,
+    "IsIgnore": null,
+    "Memo": "フェーネ2",
+    "CharacterId": 68,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6802]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 456,
+    "IsIgnore": null,
+    "Memo": "フェーネ3",
+    "CharacterId": 68,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6803]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 457,
+    "IsIgnore": null,
+    "Memo": "フェーネ4",
+    "CharacterId": 68,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6804]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 458,
+    "IsIgnore": null,
+    "Memo": "フェーネ5",
+    "CharacterId": 68,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6805]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 459,
+    "IsIgnore": null,
+    "Memo": "フェーネ6",
+    "CharacterId": 68,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6806]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 460,
+    "IsIgnore": null,
+    "Memo": "フェーネ7",
+    "CharacterId": 68,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText6807]",
+    "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
     "Id": 468,
     "IsIgnore": null,
     "Memo": "水着サブリナ",

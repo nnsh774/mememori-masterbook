@@ -3156,6 +3156,59 @@
   },
   {
     "EndTimeFixJST": "2100-12-31 23:59:59",
+    "StartTimeFixJST": "2023-11-15 15:00:00",
+    "Id": 68,
+    "IsIgnore": null,
+    "Memo": "フェーネ",
+    "NameKey": "[CharacterName68]",
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      68001,
+      68002
+    ],
+    "PassiveSkillIds": [
+      68003,
+      68004,
+      68005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "Name2Key": null,
+    "CharacterType": "CharacterType.Normal",
+    "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
+    "InitialBattleParameter": {
+      "AttackPower": 0,
+      "Avoidance": 0,
+      "Critical": 2,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": -1,
+      "DebuffResist": 0,
+      "Defense": 8,
+      "DefensePenetration": 0,
+      "HP": -1,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 2853
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 105,
+      "Health": 68,
+      "Intelligence": 85,
+      "Muscle": 85
+    },
+    "BaseParameterGrossCoefficient": 343
+  },
+  {
+    "EndTimeFixJST": "2100-12-31 23:59:59",
     "StartTimeFixJST": "2023-06-30 15:00:00",
     "Id": 70,
     "IsIgnore": null,
