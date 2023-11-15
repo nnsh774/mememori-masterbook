@@ -4587,5 +4587,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3201,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3202,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalResist",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3203,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalResist",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3204,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalResist",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3205,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalResist",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 31.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3206,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 80.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalResist",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 32.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3207,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 85.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.CriticalResist",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 33.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

@@ -1198,5 +1198,20 @@
       }
     ],
     "ItemRarityFlags": "ItemRarityFlags.SSR"
+  },
+  {
+    "Id": 82,
+    "IsIgnore": null,
+    "Memo": "フェーネ銃",
+    "EquipmentId": 680920180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 75000
+      }
+    ],
+    "ItemRarityFlags": "ItemRarityFlags.SSR"
   }
 ]
