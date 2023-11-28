@@ -4736,5 +4736,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3301,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 100.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3302,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3303,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3304,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3305,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 210.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1050.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3306,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 220.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1100.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3307,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 230.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1150.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

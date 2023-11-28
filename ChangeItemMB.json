@@ -4030,5 +4030,21 @@
         "ItemCount": 10000
       }
     ]
+  },
+  {
+    "Id": 253,
+    "IsIgnore": null,
+    "Memo": "運命の赤い糸",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "ItemId": 12,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 10000
+      }
+    ]
   }
 ]

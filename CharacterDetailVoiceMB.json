@@ -550,11 +550,11 @@
     "CharacterId": 2,
     "UnlockedVoiceButtonTextKey": null,
     "SubtitleKey": null,
-    "CharacterVoiceCategory": "CharacterVoiceCategory.Recitation",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Monologue",
     "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
     "UnlockQuestId": 0,
     "Path": {
-      "TimelineType": "TimelineType.Recitation",
+      "TimelineType": "TimelineType.Monologue",
       "TimelineId": 1
     },
     "SortOrder": 0
@@ -17110,11 +17110,11 @@
     "CharacterId": 41,
     "UnlockedVoiceButtonTextKey": null,
     "SubtitleKey": null,
-    "CharacterVoiceCategory": "CharacterVoiceCategory.Recitation",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Monologue",
     "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
     "UnlockQuestId": 0,
     "Path": {
-      "TimelineType": "TimelineType.Recitation",
+      "TimelineType": "TimelineType.Monologue",
       "TimelineId": 1
     },
     "SortOrder": 0

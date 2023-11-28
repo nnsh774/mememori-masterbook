@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": "エラー回避用データ",
+    "AchieveTargetDescriptionKey": "Test",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 999999999999,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 10
+      }
+    ]
+  }
+]
