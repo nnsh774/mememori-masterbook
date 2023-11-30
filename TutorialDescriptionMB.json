@@ -664,6 +664,30 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 3003,
+    "IsIgnore": null,
+    "Memo": "時空の洞窟_イベント_聖夜アモール",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText36]",
+        "ImageId": 36
+      }
+    ],
+    "HelpId": 4010,
+    "ImagePositionFormatType": "ImagePositionFormatType.DungeonBattleEvent",
+    "ImageItem1": {
+      "ItemType": "ItemType.EventExchangePlaceItem",
+      "ItemId": 12,
+      "ItemCount": 0
+    },
+    "ImageItem2": {
+      "ItemType": "ItemType.TreasureChest",
+      "ItemId": 28,
+      "ItemCount": 0
+    },
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 4001,
     "IsIgnore": null,
     "Memo": "ギルドレイド_イベント",
