@@ -4885,5 +4885,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3401,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3402,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3403,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3404,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3405,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 31.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3406,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 32.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 80.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3407,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 33.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 85.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

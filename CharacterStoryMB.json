@@ -7900,5 +7900,131 @@
     ],
     "TextKey": "[CharacterStoryText7207]",
     "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
+    "Id": 489,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール1",
+    "CharacterId": 73,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7301]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 490,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール2",
+    "CharacterId": 73,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7302]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 491,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール3",
+    "CharacterId": 73,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7303]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 492,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール4",
+    "CharacterId": 73,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7304]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 493,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール5",
+    "CharacterId": 73,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7305]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 494,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール6",
+    "CharacterId": 73,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7306]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 495,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール7",
+    "CharacterId": 73,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ],
+    "TextKey": "[CharacterStoryText7307]",
+    "RarityFlags": "CharacterRarityFlags.LR"
   }
 ]

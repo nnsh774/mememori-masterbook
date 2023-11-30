@@ -28478,5 +28478,453 @@
       "TimelineId": 4
     },
     "SortOrder": 99
+  },
+  {
+    "Id": 7302,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7302]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 7303,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7303]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 7304,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7304]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 7305,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7305]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 7306,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7306]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 7307,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7307]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 7308,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7308]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 7309,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7309]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 7310,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7310]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 7311,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7311]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 7312,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7312]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 7313,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7313]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 7314,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7314]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 7315,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7315]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 7316,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7316]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 7317,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7317]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 7318,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7318]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 7319,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7319]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 7320,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7320]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 7321,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7321]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 7390,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7390]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 7391,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7391]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 7392,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7392]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 7393,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7393]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 7396,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 7397,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 7398,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 7399,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール",
+    "CharacterId": 73,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
   }
 ]
