@@ -870,6 +870,21 @@
     "ToastKey": "[OpenContentToast200]"
   },
   {
+    "Id": 220,
+    "IsIgnore": null,
+    "Memo": "ランキング到達報酬",
+    "OpenContentType": "OpenContentType.QuestClear",
+    "TutorialId": 0,
+    "OpenContentValue": 76,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "OpenCommandType.AchieveRanking",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": "[OpenContentToast220]"
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",

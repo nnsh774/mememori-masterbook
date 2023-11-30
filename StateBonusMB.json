@@ -26,11 +26,11 @@
   {
     "Id": 3,
     "IsIgnore": null,
-    "Memo": null,
-    "StateBonusNameTextKey": null,
+    "Memo": "3か国目クリア時　曜日ボーナス解放",
+    "StateBonusNameTextKey": "[StateBonusName1]",
     "ItemIconInfo": null,
     "StateBonusNumberTextKey": null,
-    "IsActiveWeeklyBonus": false,
+    "IsActiveWeeklyBonus": true,
     "DungeonCoinBonusPercent": 0,
     "GuildCoinBonusPercent": 0,
     "TotalActivityMedalRewardBonusList": []
@@ -39,7 +39,7 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "StateBonusNameTextKey": "[StateBonusName1]",
+    "StateBonusNameTextKey": null,
     "ItemIconInfo": null,
     "StateBonusNumberTextKey": null,
     "IsActiveWeeklyBonus": true,
@@ -50,19 +50,7 @@
   {
     "Id": 5,
     "IsIgnore": null,
-    "Memo": null,
-    "StateBonusNameTextKey": null,
-    "ItemIconInfo": null,
-    "StateBonusNumberTextKey": null,
-    "IsActiveWeeklyBonus": true,
-    "DungeonCoinBonusPercent": 0,
-    "GuildCoinBonusPercent": 0,
-    "TotalActivityMedalRewardBonusList": []
-  },
-  {
-    "Id": 6,
-    "IsIgnore": null,
-    "Memo": null,
+    "Memo": "5か国目クリア時　時空コインボーナス",
     "StateBonusNameTextKey": "[StateBonusName2]",
     "ItemIconInfo": {
       "ItemId": 13,
@@ -75,9 +63,9 @@
     "TotalActivityMedalRewardBonusList": []
   },
   {
-    "Id": 7,
+    "Id": 6,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "6か国目クリア時　ギルドコインボーナス",
     "StateBonusNameTextKey": "[StateBonusName3]",
     "ItemIconInfo": {
       "ItemId": 12,
@@ -90,9 +78,9 @@
     "TotalActivityMedalRewardBonusList": []
   },
   {
-    "Id": 8,
+    "Id": 7,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "7か国目クリア時　デイリー経験珠2時間分追加",
     "StateBonusNameTextKey": "[StateBonusName4]",
     "ItemIconInfo": {
       "ItemId": 7,
@@ -119,14 +107,53 @@
     ]
   },
   {
-    "Id": 9,
+    "Id": 8,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "8か国目クリア時　デイリー潜在宝珠2時間分追加",
     "StateBonusNameTextKey": "[StateBonusName5]",
     "ItemIconInfo": {
       "ItemId": 12,
       "ItemType": "ItemType.QuestQuickTicket"
     },
+    "StateBonusNumberTextKey": null,
+    "IsActiveWeeklyBonus": true,
+    "DungeonCoinBonusPercent": 15,
+    "GuildCoinBonusPercent": 15,
+    "TotalActivityMedalRewardBonusList": [
+      {
+        "TotalActivityMedalRewardId": 3,
+        "BonusRewardList": [
+          {
+            "Item": {
+              "ItemType": "ItemType.QuestQuickTicket",
+              "ItemId": 7,
+              "ItemCount": 1
+            },
+            "RarityFlags": "CharacterRarityFlags.None"
+          }
+        ]
+      },
+      {
+        "TotalActivityMedalRewardId": 5,
+        "BonusRewardList": [
+          {
+            "Item": {
+              "ItemType": "ItemType.QuestQuickTicket",
+              "ItemId": 12,
+              "ItemCount": 1
+            },
+            "RarityFlags": "CharacterRarityFlags.None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": null,
+    "StateBonusNameTextKey": null,
+    "ItemIconInfo": null,
     "StateBonusNumberTextKey": null,
     "IsActiveWeeklyBonus": true,
     "DungeonCoinBonusPercent": 15,

@@ -2,15 +2,3165 @@
   {
     "Id": 1,
     "IsIgnore": null,
-    "Memo": "エラー回避用データ",
-    "AchieveTargetDescriptionKey": "Test",
+    "Memo": "戦闘力500000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey1]",
     "RankingDataType": "RankingDataType.PlayerBattlePower",
-    "RequireValue": 999999999999,
+    "RequireValue": 500000,
     "RewardItemList": [
       {
         "ItemType": "ItemType.CurrencyFree",
         "ItemId": 1,
-        "ItemCount": 10
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "戦闘力1000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey2]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "戦闘力1500000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey3]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1500000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "戦闘力3000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey4]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 3000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "戦闘力4500000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey5]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 4500000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "戦闘力7000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey6]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 7000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "戦闘力10000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey7]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 10000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "戦闘力15000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey8]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 15000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "戦闘力20000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey9]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 20000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "IsIgnore": null,
+    "Memo": "戦闘力30000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey10]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 30000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "IsIgnore": null,
+    "Memo": "戦闘力40000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey11]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 40000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "IsIgnore": null,
+    "Memo": "戦闘力50000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey12]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 50000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "IsIgnore": null,
+    "Memo": "戦闘力100000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey13]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 100000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "IsIgnore": null,
+    "Memo": "戦闘力150000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey14]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 150000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "IsIgnore": null,
+    "Memo": "戦闘力200000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey15]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 200000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "IsIgnore": null,
+    "Memo": "戦闘力250000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey16]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 250000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "IsIgnore": null,
+    "Memo": "戦闘力300000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey17]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 300000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "IsIgnore": null,
+    "Memo": "戦闘力350000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey18]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 350000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "IsIgnore": null,
+    "Memo": "戦闘力400000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey19]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 400000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "IsIgnore": null,
+    "Memo": "戦闘力450000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey20]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 450000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "IsIgnore": null,
+    "Memo": "戦闘力500000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey21]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 500000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "IsIgnore": null,
+    "Memo": "戦闘力550000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey22]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 550000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "IsIgnore": null,
+    "Memo": "戦闘力600000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey23]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 600000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "IsIgnore": null,
+    "Memo": "戦闘力650000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey24]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 650000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "IsIgnore": null,
+    "Memo": "戦闘力700000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey25]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 700000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "IsIgnore": null,
+    "Memo": "戦闘力750000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey26]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 750000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "IsIgnore": null,
+    "Memo": "戦闘力800000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey27]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 800000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "IsIgnore": null,
+    "Memo": "戦闘力850000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey28]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 850000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "IsIgnore": null,
+    "Memo": "戦闘力900000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey29]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 900000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "IsIgnore": null,
+    "Memo": "戦闘力950000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey30]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 950000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "IsIgnore": null,
+    "Memo": "戦闘力1000000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey31]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1000000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "IsIgnore": null,
+    "Memo": "戦闘力1050000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey32]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1050000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "IsIgnore": null,
+    "Memo": "戦闘力1100000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey33]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1100000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "IsIgnore": null,
+    "Memo": "戦闘力1150000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey34]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1150000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "IsIgnore": null,
+    "Memo": "戦闘力1200000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey35]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1200000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 36,
+    "IsIgnore": null,
+    "Memo": "戦闘力1250000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey36]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1250000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "IsIgnore": null,
+    "Memo": "戦闘力1300000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey37]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1300000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 38,
+    "IsIgnore": null,
+    "Memo": "戦闘力1350000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey38]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1350000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "IsIgnore": null,
+    "Memo": "戦闘力1400000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey39]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1400000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "IsIgnore": null,
+    "Memo": "戦闘力1450000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey40]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1450000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 41,
+    "IsIgnore": null,
+    "Memo": "戦闘力1500000000到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey41]",
+    "RankingDataType": "RankingDataType.PlayerBattlePower",
+    "RequireValue": 1500000000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク25到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey42]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 25,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク50到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey43]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 50,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク75到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey44]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 75,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク100到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey45]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク125到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey46]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 125,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク150到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey47]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク175到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey48]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 175,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク200到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey49]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク225到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey50]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 225,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 51,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク250到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey51]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 250,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 52,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク275到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey52]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 275,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 53,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク300到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey53]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 300,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 54,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク325到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey54]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 325,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 55,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク350到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey55]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 350,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 56,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク375到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey56]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 375,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 57,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク400到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey57]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 400,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 58,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク425到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey58]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 425,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 59,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク450到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey59]",
+    "RankingDataType": "RankingDataType.PlayerRank",
+    "RequireValue": 450,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 60,
+    "IsIgnore": null,
+    "Memo": "メインクエスト5-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey60]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 112,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 61,
+    "IsIgnore": null,
+    "Memo": "メインクエスト6-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey61]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 140,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 62,
+    "IsIgnore": null,
+    "Memo": "メインクエスト7-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey62]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 168,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 63,
+    "IsIgnore": null,
+    "Memo": "メインクエスト8-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey63]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 196,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 64,
+    "IsIgnore": null,
+    "Memo": "メインクエスト9-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey64]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 224,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 65,
+    "IsIgnore": null,
+    "Memo": "メインクエスト10-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey65]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 252,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 66,
+    "IsIgnore": null,
+    "Memo": "メインクエスト11-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey66]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 280,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 67,
+    "IsIgnore": null,
+    "Memo": "メインクエスト12-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey67]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 308,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 68,
+    "IsIgnore": null,
+    "Memo": "メインクエスト13-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey68]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 336,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 69,
+    "IsIgnore": null,
+    "Memo": "メインクエスト14-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey69]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 364,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 70,
+    "IsIgnore": null,
+    "Memo": "メインクエスト15-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey70]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 392,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 71,
+    "IsIgnore": null,
+    "Memo": "メインクエスト16-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey71]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 420,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 72,
+    "IsIgnore": null,
+    "Memo": "メインクエスト17-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey72]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 448,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 73,
+    "IsIgnore": null,
+    "Memo": "メインクエスト18-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey73]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 476,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 74,
+    "IsIgnore": null,
+    "Memo": "メインクエスト19-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey74]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 504,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 75,
+    "IsIgnore": null,
+    "Memo": "メインクエスト20-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey75]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 532,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 76,
+    "IsIgnore": null,
+    "Memo": "メインクエスト21-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey76]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 560,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 77,
+    "IsIgnore": null,
+    "Memo": "メインクエスト22-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey77]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 588,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 78,
+    "IsIgnore": null,
+    "Memo": "メインクエスト23-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey78]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 616,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 79,
+    "IsIgnore": null,
+    "Memo": "メインクエスト24-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey79]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 644,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 80,
+    "IsIgnore": null,
+    "Memo": "メインクエスト25-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey80]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 672,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 81,
+    "IsIgnore": null,
+    "Memo": "メインクエスト26-28クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey81]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 700,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "IsIgnore": null,
+    "Memo": "メインクエスト27-40クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey82]",
+    "RankingDataType": "RankingDataType.PlayerMainQuest",
+    "RequireValue": 740,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 83,
+    "IsIgnore": null,
+    "Memo": "無窮の塔100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey83]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 84,
+    "IsIgnore": null,
+    "Memo": "無窮の塔125階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey84]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 125,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "IsIgnore": null,
+    "Memo": "無窮の塔150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey85]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 86,
+    "IsIgnore": null,
+    "Memo": "無窮の塔175階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey86]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 175,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "IsIgnore": null,
+    "Memo": "無窮の塔200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey87]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 88,
+    "IsIgnore": null,
+    "Memo": "無窮の塔225階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey88]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 225,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 89,
+    "IsIgnore": null,
+    "Memo": "無窮の塔250階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey89]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 250,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 90,
+    "IsIgnore": null,
+    "Memo": "無窮の塔275階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey90]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 275,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 91,
+    "IsIgnore": null,
+    "Memo": "無窮の塔300階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey91]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 300,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 92,
+    "IsIgnore": null,
+    "Memo": "無窮の塔325階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey92]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 325,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 93,
+    "IsIgnore": null,
+    "Memo": "無窮の塔350階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey93]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 350,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 94,
+    "IsIgnore": null,
+    "Memo": "無窮の塔375階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey94]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 375,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 95,
+    "IsIgnore": null,
+    "Memo": "無窮の塔400階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey95]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 400,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 96,
+    "IsIgnore": null,
+    "Memo": "無窮の塔425階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey96]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 425,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 97,
+    "IsIgnore": null,
+    "Memo": "無窮の塔450階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey97]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 450,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 98,
+    "IsIgnore": null,
+    "Memo": "無窮の塔475階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey98]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 475,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 99,
+    "IsIgnore": null,
+    "Memo": "無窮の塔500階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey99]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 500,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 100,
+    "IsIgnore": null,
+    "Memo": "無窮の塔525階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey100]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 525,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 101,
+    "IsIgnore": null,
+    "Memo": "無窮の塔550階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey101]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 550,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 102,
+    "IsIgnore": null,
+    "Memo": "無窮の塔575階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey102]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 575,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 103,
+    "IsIgnore": null,
+    "Memo": "無窮の塔600階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey103]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 600,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 104,
+    "IsIgnore": null,
+    "Memo": "無窮の塔625階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey104]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 625,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 105,
+    "IsIgnore": null,
+    "Memo": "無窮の塔650階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey105]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 650,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 106,
+    "IsIgnore": null,
+    "Memo": "無窮の塔675階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey106]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 675,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 107,
+    "IsIgnore": null,
+    "Memo": "無窮の塔700階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey107]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 700,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 108,
+    "IsIgnore": null,
+    "Memo": "無窮の塔725階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey108]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 725,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 109,
+    "IsIgnore": null,
+    "Memo": "無窮の塔750階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey109]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 750,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 110,
+    "IsIgnore": null,
+    "Memo": "無窮の塔775階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey110]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 775,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 111,
+    "IsIgnore": null,
+    "Memo": "無窮の塔800階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey111]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 800,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 112,
+    "IsIgnore": null,
+    "Memo": "無窮の塔825階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey112]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 825,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 113,
+    "IsIgnore": null,
+    "Memo": "無窮の塔850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey113]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 850,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 114,
+    "IsIgnore": null,
+    "Memo": "無窮の塔875階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey114]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 875,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 115,
+    "IsIgnore": null,
+    "Memo": "無窮の塔900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey115]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 900,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 116,
+    "IsIgnore": null,
+    "Memo": "無窮の塔925階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey116]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 925,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 117,
+    "IsIgnore": null,
+    "Memo": "無窮の塔950階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey117]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 950,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 118,
+    "IsIgnore": null,
+    "Memo": "無窮の塔975階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey118]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 975,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 119,
+    "IsIgnore": null,
+    "Memo": "無窮の塔1000階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey119]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 1000,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 120,
+    "IsIgnore": null,
+    "Memo": "無窮の塔1050階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey120]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 1050,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 121,
+    "IsIgnore": null,
+    "Memo": "無窮の塔1100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey121]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 1100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 122,
+    "IsIgnore": null,
+    "Memo": "無窮の塔1150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey122]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 1150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 123,
+    "IsIgnore": null,
+    "Memo": "無窮の塔1200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey123]",
+    "RankingDataType": "RankingDataType.PlayerTower",
+    "RequireValue": 1200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 124,
+    "IsIgnore": null,
+    "Memo": "藍の塔25階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey124]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 25,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "IsIgnore": null,
+    "Memo": "藍の塔50階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey125]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 50,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "IsIgnore": null,
+    "Memo": "藍の塔75階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey126]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 75,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "IsIgnore": null,
+    "Memo": "藍の塔100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey127]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 128,
+    "IsIgnore": null,
+    "Memo": "藍の塔125階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey128]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 125,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 129,
+    "IsIgnore": null,
+    "Memo": "藍の塔150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey129]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 130,
+    "IsIgnore": null,
+    "Memo": "藍の塔175階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey130]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 175,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 131,
+    "IsIgnore": null,
+    "Memo": "藍の塔200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey131]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 132,
+    "IsIgnore": null,
+    "Memo": "藍の塔225階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey132]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 225,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "藍の塔250階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey133]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 250,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 134,
+    "IsIgnore": null,
+    "Memo": "藍の塔275階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey134]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 275,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 135,
+    "IsIgnore": null,
+    "Memo": "藍の塔300階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey135]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 300,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 136,
+    "IsIgnore": null,
+    "Memo": "藍の塔325階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey136]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 325,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 137,
+    "IsIgnore": null,
+    "Memo": "藍の塔350階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey137]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 350,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 138,
+    "IsIgnore": null,
+    "Memo": "藍の塔375階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey138]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 375,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 139,
+    "IsIgnore": null,
+    "Memo": "藍の塔400階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey139]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 400,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 140,
+    "IsIgnore": null,
+    "Memo": "藍の塔425階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey140]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 425,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 141,
+    "IsIgnore": null,
+    "Memo": "藍の塔450階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey141]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 450,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 142,
+    "IsIgnore": null,
+    "Memo": "藍の塔475階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey142]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 475,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 143,
+    "IsIgnore": null,
+    "Memo": "藍の塔500階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey143]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 500,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 144,
+    "IsIgnore": null,
+    "Memo": "藍の塔550階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey144]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 550,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 145,
+    "IsIgnore": null,
+    "Memo": "藍の塔600階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey145]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 600,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 146,
+    "IsIgnore": null,
+    "Memo": "紅の塔25階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey146]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 25,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 147,
+    "IsIgnore": null,
+    "Memo": "紅の塔50階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey147]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 50,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 148,
+    "IsIgnore": null,
+    "Memo": "紅の塔75階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey148]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 75,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 149,
+    "IsIgnore": null,
+    "Memo": "紅の塔100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey149]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "IsIgnore": null,
+    "Memo": "紅の塔125階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey150]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 125,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 151,
+    "IsIgnore": null,
+    "Memo": "紅の塔150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey151]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 152,
+    "IsIgnore": null,
+    "Memo": "紅の塔175階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey152]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 175,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 153,
+    "IsIgnore": null,
+    "Memo": "紅の塔200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey153]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 154,
+    "IsIgnore": null,
+    "Memo": "紅の塔225階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey154]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 225,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 155,
+    "IsIgnore": null,
+    "Memo": "紅の塔250階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey155]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 250,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 156,
+    "IsIgnore": null,
+    "Memo": "紅の塔275階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey156]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 275,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 157,
+    "IsIgnore": null,
+    "Memo": "紅の塔300階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey157]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 300,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 158,
+    "IsIgnore": null,
+    "Memo": "紅の塔325階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey158]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 325,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 159,
+    "IsIgnore": null,
+    "Memo": "紅の塔350階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey159]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 350,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 160,
+    "IsIgnore": null,
+    "Memo": "紅の塔375階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey160]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 375,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 161,
+    "IsIgnore": null,
+    "Memo": "紅の塔400階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey161]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 400,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 162,
+    "IsIgnore": null,
+    "Memo": "紅の塔425階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey162]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 425,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 163,
+    "IsIgnore": null,
+    "Memo": "紅の塔450階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey163]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 450,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 164,
+    "IsIgnore": null,
+    "Memo": "紅の塔475階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey164]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 475,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 165,
+    "IsIgnore": null,
+    "Memo": "紅の塔500階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey165]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 500,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 166,
+    "IsIgnore": null,
+    "Memo": "紅の塔550階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey166]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 550,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 167,
+    "IsIgnore": null,
+    "Memo": "紅の塔600階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey167]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 600,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "IsIgnore": null,
+    "Memo": "翠の塔25階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey168]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 25,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 169,
+    "IsIgnore": null,
+    "Memo": "翠の塔50階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey169]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 50,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 170,
+    "IsIgnore": null,
+    "Memo": "翠の塔75階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey170]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 75,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 171,
+    "IsIgnore": null,
+    "Memo": "翠の塔100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey171]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 172,
+    "IsIgnore": null,
+    "Memo": "翠の塔125階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey172]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 125,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 173,
+    "IsIgnore": null,
+    "Memo": "翠の塔150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey173]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 174,
+    "IsIgnore": null,
+    "Memo": "翠の塔175階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey174]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 175,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 175,
+    "IsIgnore": null,
+    "Memo": "翠の塔200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey175]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 176,
+    "IsIgnore": null,
+    "Memo": "翠の塔225階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey176]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 225,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 177,
+    "IsIgnore": null,
+    "Memo": "翠の塔250階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey177]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 250,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 178,
+    "IsIgnore": null,
+    "Memo": "翠の塔275階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey178]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 275,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 179,
+    "IsIgnore": null,
+    "Memo": "翠の塔300階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey179]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 300,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 180,
+    "IsIgnore": null,
+    "Memo": "翠の塔325階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey180]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 325,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 181,
+    "IsIgnore": null,
+    "Memo": "翠の塔350階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey181]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 350,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 182,
+    "IsIgnore": null,
+    "Memo": "翠の塔375階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey182]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 375,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 183,
+    "IsIgnore": null,
+    "Memo": "翠の塔400階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey183]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 400,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 184,
+    "IsIgnore": null,
+    "Memo": "翠の塔425階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey184]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 425,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 185,
+    "IsIgnore": null,
+    "Memo": "翠の塔450階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey185]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 450,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 186,
+    "IsIgnore": null,
+    "Memo": "翠の塔475階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey186]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 475,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 187,
+    "IsIgnore": null,
+    "Memo": "翠の塔500階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey187]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 500,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 188,
+    "IsIgnore": null,
+    "Memo": "翠の塔550階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey188]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 550,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 189,
+    "IsIgnore": null,
+    "Memo": "翠の塔600階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey189]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 600,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 190,
+    "IsIgnore": null,
+    "Memo": "黄の塔25階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey190]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 25,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 191,
+    "IsIgnore": null,
+    "Memo": "黄の塔50階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey191]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 50,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 192,
+    "IsIgnore": null,
+    "Memo": "黄の塔75階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey192]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 75,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 193,
+    "IsIgnore": null,
+    "Memo": "黄の塔100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey193]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 100,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 194,
+    "IsIgnore": null,
+    "Memo": "黄の塔125階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey194]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 125,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 195,
+    "IsIgnore": null,
+    "Memo": "黄の塔150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey195]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 150,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 196,
+    "IsIgnore": null,
+    "Memo": "黄の塔175階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey196]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 175,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 197,
+    "IsIgnore": null,
+    "Memo": "黄の塔200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey197]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 200,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 198,
+    "IsIgnore": null,
+    "Memo": "黄の塔225階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey198]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 225,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 199,
+    "IsIgnore": null,
+    "Memo": "黄の塔250階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey199]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 250,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 200,
+    "IsIgnore": null,
+    "Memo": "黄の塔275階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey200]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 275,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 201,
+    "IsIgnore": null,
+    "Memo": "黄の塔300階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey201]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 300,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 202,
+    "IsIgnore": null,
+    "Memo": "黄の塔325階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey202]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 325,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "IsIgnore": null,
+    "Memo": "黄の塔350階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey203]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 350,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "IsIgnore": null,
+    "Memo": "黄の塔375階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey204]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 375,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "IsIgnore": null,
+    "Memo": "黄の塔400階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey205]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 400,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 206,
+    "IsIgnore": null,
+    "Memo": "黄の塔425階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey206]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 425,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 207,
+    "IsIgnore": null,
+    "Memo": "黄の塔450階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey207]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 450,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 208,
+    "IsIgnore": null,
+    "Memo": "黄の塔475階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey208]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 475,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 209,
+    "IsIgnore": null,
+    "Memo": "黄の塔500階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey209]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 500,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 210,
+    "IsIgnore": null,
+    "Memo": "黄の塔550階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey210]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 550,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
+      }
+    ]
+  },
+  {
+    "Id": 211,
+    "IsIgnore": null,
+    "Memo": "黄の塔600階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey211]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 600,
+    "RewardItemList": [
+      {
+        "ItemType": "ItemType.CurrencyFree",
+        "ItemId": 1,
+        "ItemCount": 20
       }
     ]
   }
