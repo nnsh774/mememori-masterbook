@@ -2544,5 +2544,24 @@
     "DescriptionKey": "[ItemDescription135]",
     "ItemRarityFlags": "ItemRarityFlags.SR",
     "SortOrder": 0
+  },
+  {
+    "EndTime": null,
+    "StartTime": null,
+    "Id": 137,
+    "IsIgnore": null,
+    "Memo": "タイトルパネル_聖夜",
+    "ItemType": "ItemType.PanelGetJudgmentItem",
+    "MaxItemCount": 0,
+    "IconId": 126,
+    "TransferSpotId": 0,
+    "SecondaryFrameType": "SecondaryFrameType.None",
+    "SecondaryFrameNum": 0,
+    "ItemId": 20011,
+    "NameKey": "[ItemName137]",
+    "DisplayName": "[ItemDisplayName137]",
+    "DescriptionKey": "[ItemDescription137]",
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "SortOrder": 0
   }
 ]

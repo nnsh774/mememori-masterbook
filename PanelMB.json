@@ -214,5 +214,23 @@
     "GroupTitleKey": null,
     "ScenarioTitleKey": null,
     "ScenarioTextKey": null
+  },
+  {
+    "Id": 20011,
+    "IsIgnore": null,
+    "Memo": "タイトル_聖夜",
+    "StartTime": "2100-01-01 04:00:00",
+    "PanelGetJudgmentItemId": 20011,
+    "IsFree": false,
+    "ConsumeUnlockItemCount": 1,
+    "ConsumeCurrencyCount": 100,
+    "TabType": "PanelTabType.Title",
+    "PanelImageId": 20011,
+    "PanelMovieId": 20011,
+    "SortOrder": 11,
+    "EventGroupId": 0,
+    "GroupTitleKey": null,
+    "ScenarioTitleKey": null,
+    "ScenarioTextKey": null
   }
 ]
