@@ -2518,5 +2518,110 @@
         "ItemCount": 2400
       }
     ]
+  },
+  {
+    "Id": 129,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 1,
+    "UpperLimitRanking": 3,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 300
+      }
+    ]
+  },
+  {
+    "Id": 130,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 4,
+    "UpperLimitRanking": 10,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 280
+      }
+    ]
+  },
+  {
+    "Id": 131,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 11,
+    "UpperLimitRanking": 20,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 260
+      }
+    ]
+  },
+  {
+    "Id": 132,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 21,
+    "UpperLimitRanking": 50,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 240
+      }
+    ]
+  },
+  {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 51,
+    "UpperLimitRanking": 100,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 220
+      }
+    ]
+  },
+  {
+    "Id": 134,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 101,
+    "UpperLimitRanking": 150,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 200
+      }
+    ]
+  },
+  {
+    "Id": 135,
+    "IsIgnore": null,
+    "Memo": "",
+    "PvpRankingRewardType": "PvpRankingRewardType.LegendLeagueIconRankingReward",
+    "LowerLimitRanking": 151,
+    "UpperLimitRanking": 10000,
+    "RewardList": [
+      {
+        "ItemType": "ItemType.IconFragment",
+        "ItemId": 1,
+        "ItemCount": 180
+      }
+    ]
   }
 ]
