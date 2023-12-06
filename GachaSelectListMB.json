@@ -1554,11 +1554,12 @@
     "StartTimeFixJST": "2023-12-07 14:30:00",
     "Id": 41,
     "IsIgnore": null,
-    "Memo": "聖夜アモール②＋新規次キャラ仮入れ①（1207切替用）",
+    "Memo": "聖夜アモール②＋アーティ復刻①（1207切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
     "OrderNumber": 39,
     "CharacterIdList": [
       73,
+      58,
       5,
       6,
       7,
@@ -1583,7 +1584,45 @@
       46
     ],
     "NewCharacterIdList": [
-      73
+      73,
+      58
+    ]
+  },
+  {
+    "EndTimeFixJST": "2023-12-20 14:29:59",
+    "StartTimeFixJST": "2023-12-13 14:30:00",
+    "Id": 42,
+    "IsIgnore": null,
+    "Memo": "アーティ復刻②＋新規次キャラ仮入れ①（1213切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "OrderNumber": 40,
+    "CharacterIdList": [
+      58,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      58
     ]
   },
   {
