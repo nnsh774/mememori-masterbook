@@ -251,5 +251,27 @@
       "NumberInfo2": 0,
       "StringInfo": null
     }
+  },
+  {
+    "Id": 24,
+    "IsIgnore": null,
+    "Memo": "年末年始",
+    "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
+      "NumberInfo1": 240,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
+    "Id": 25,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "TransferSpotType.Notice",
+      "NumberInfo1": 250,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
   }
 ]

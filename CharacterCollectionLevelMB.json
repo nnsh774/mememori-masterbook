@@ -5040,5 +5040,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3501,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 100.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3502,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3503,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3504,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3505,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 31.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 510.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3506,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 32.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 520.0
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3507,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 33.0
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 530.0
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
