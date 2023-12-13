@@ -693,7 +693,7 @@
     "Memo": "ギルドレイド_イベント",
     "PageInfo": [
       {
-        "MainTextKey": "[TutorialDescriptionMainText40]",
+        "MainTextKey": "[TutorialDescriptionMainText39]",
         "ImageId": 39
       }
     ],
@@ -701,7 +701,7 @@
     "ImagePositionFormatType": "ImagePositionFormatType.GuildRaidEvent",
     "ImageItem1": {
       "ItemType": "ItemType.EventExchangePlaceItem",
-      "ItemId": 10,
+      "ItemId": 13,
       "ItemCount": 0
     },
     "ImageItem2": {
@@ -709,6 +709,6 @@
       "ItemId": 28,
       "ItemCount": 0
     },
-    "ImageCharacterId": 62
+    "ImageCharacterId": 74
   }
 ]
