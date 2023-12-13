@@ -542,6 +542,101 @@
             "ItemCount": 360
           }
         ]
+      },
+      {
+        "DamageBarCount": 26,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 380
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 27,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 400
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 28,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 1004082,
+          "DivisionCoefficient": 3141026
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 420
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 29,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 1600000,
+          "DivisionCoefficient": 12500000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 440
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 30,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 1600000,
+          "DivisionCoefficient": 12500000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 460
+          }
+        ]
       }
     ],
     "GuildDamageBarRewards": [
@@ -932,6 +1027,81 @@
             "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 3,
             "ItemCount": 900
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 26,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1180000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 950
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 27,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1190000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1000
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 28,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1200000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1025
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 29,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1210000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1050
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 30,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1220000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1075
           }
         ]
       }
@@ -1482,6 +1652,101 @@
             "ItemCount": 360
           }
         ]
+      },
+      {
+        "DamageBarCount": 26,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 380
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 27,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 400
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 28,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 1004082,
+          "DivisionCoefficient": 3141026
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 420
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 29,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 1600000,
+          "DivisionCoefficient": 12500000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 440
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 30,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 1600000,
+          "DivisionCoefficient": 12500000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 460
+          }
+        ]
       }
     ],
     "GuildDamageBarRewards": [
@@ -1872,6 +2137,81 @@
             "ItemType": "ItemType.ExchangePlaceItem",
             "ItemId": 3,
             "ItemCount": 900
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 26,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1180000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 950
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 27,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1190000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1000
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 28,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1200000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1025
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 29,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1210000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1050
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 30,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1220000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1075
           }
         ]
       }
@@ -5373,6 +5713,1316 @@
       },
       {
         "GoalDamage": 10000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1500
+          }
+        ]
+      }
+    ],
+    "HideWorldDamage": 500000000001
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "202312聖夜トロポン",
+    "GuildRaidBossId": 6,
+    "GuildExpPerChallenge": 50,
+    "LotteryRewardId": 6,
+    "QuestClearEquipmentLvList": [
+      {
+        "EquipmentLv": 10,
+        "QuestClearValue": 0
+      },
+      {
+        "EquipmentLv": 20,
+        "QuestClearValue": 11
+      },
+      {
+        "EquipmentLv": 40,
+        "QuestClearValue": 37
+      },
+      {
+        "EquipmentLv": 60,
+        "QuestClearValue": 76
+      },
+      {
+        "EquipmentLv": 80,
+        "QuestClearValue": 115
+      },
+      {
+        "EquipmentLv": 100,
+        "QuestClearValue": 154
+      },
+      {
+        "EquipmentLv": 120,
+        "QuestClearValue": 192
+      },
+      {
+        "EquipmentLv": 140,
+        "QuestClearValue": 231
+      },
+      {
+        "EquipmentLv": 160,
+        "QuestClearValue": 270
+      },
+      {
+        "EquipmentLv": 180,
+        "QuestClearValue": 309
+      }
+    ],
+    "NormalDamageBarRewards": [
+      {
+        "DamageBarCount": 0,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 2500,
+          "DivisionCoefficient": 1
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 1
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 1,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 2500,
+          "DivisionCoefficient": 4
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 1
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 2,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 2500,
+          "DivisionCoefficient": 4
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 2
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 3,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 12500,
+          "DivisionCoefficient": 20
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 3
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 4,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 12500,
+          "DivisionCoefficient": 20
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 4
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 5,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 12500,
+          "DivisionCoefficient": 20
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 5
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 6,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 12500,
+          "DivisionCoefficient": 20
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 6
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 7,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 46875,
+          "DivisionCoefficient": 64
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 7
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 8,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 46875,
+          "DivisionCoefficient": 64
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 8
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 9,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 9
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 10,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 11
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 11,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 12
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 12,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 14
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 13,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 15
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 14,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 18
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 15,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 117152,
+          "DivisionCoefficient": 653
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 22
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 16,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 444444,
+          "DivisionCoefficient": 4500
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 27
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 17,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 444444,
+          "DivisionCoefficient": 4500
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 28
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 18,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 444444,
+          "DivisionCoefficient": 4500
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 34
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 19,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 444444,
+          "DivisionCoefficient": 4500
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 35
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 20,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 444444,
+          "DivisionCoefficient": 4500
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 39
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 21,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 40
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 22,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 41
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 23,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 42
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 24,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 43
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 25,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 44
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 26,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 45
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 27,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 45
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 28,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 46
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 29,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 46
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 30,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 47
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 31,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 47
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 32,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 48
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 33,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 48
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 34,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 49
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 35,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 49
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 36,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 37,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 38,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 51
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 39,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 51
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 40,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 52
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 41,
+        "NormalRewardGoldCoefficientInfo": {
+          "AdditiveCoefficient": 998947,
+          "DivisionCoefficient": 2375000
+        },
+        "NormalRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 52
+          }
+        ]
+      }
+    ],
+    "GuildDamageBarRewards": [
+      {
+        "DamageBarCount": 0,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 25000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 25
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 1,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 50000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 2,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 100000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 75
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 3,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 150000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 100
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 4,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 200000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 125
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 5,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 250000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 150
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 6,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 300000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 175
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 7,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 350000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 200
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 8,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 400000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 225
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 9,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 450000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 250
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 10,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 500000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 275
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 11,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 550000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 300
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 12,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 600000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 325
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 13,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 650000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 350
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 14,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 700000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 375
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 15,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 750000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 400
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 16,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 800000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 450
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 17,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 850000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 500
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 18,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 900000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 550
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 19,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 950000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 600
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 20,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1000000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 650
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 21,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1050000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 700
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 22,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1100000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 750
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 23,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1150000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 800
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 24,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1160000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 850
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 25,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1170000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 900
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 26,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1180000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 950
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 27,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1190000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1000
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 28,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1200000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1025
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 29,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1210000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1050
+          }
+        ]
+      },
+      {
+        "DamageBarCount": 30,
+        "GuildRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1220000
+          },
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1075
+          }
+        ]
+      }
+    ],
+    "WorldDamageBarRewards": [
+      {
+        "GoalDamage": 50000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.TreasureChest",
+            "ItemId": 27,
+            "ItemCount": 60
+          }
+        ]
+      },
+      {
+        "GoalDamage": 100000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.TreasureChest",
+            "ItemId": 27,
+            "ItemCount": 120
+          }
+        ]
+      },
+      {
+        "GoalDamage": 150000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.TreasureChest",
+            "ItemId": 27,
+            "ItemCount": 120
+          }
+        ]
+      },
+      {
+        "GoalDamage": 200000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.TreasureChest",
+            "ItemId": 28,
+            "ItemCount": 30
+          }
+        ]
+      },
+      {
+        "GoalDamage": 250000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.TreasureChest",
+            "ItemId": 28,
+            "ItemCount": 30
+          }
+        ]
+      },
+      {
+        "GoalDamage": 300000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "GoalDamage": 350000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "GoalDamage": 400000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "GoalDamage": 450000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 50
+          }
+        ]
+      },
+      {
+        "GoalDamage": 500000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.EventExchangePlaceItem",
+            "ItemId": 13,
+            "ItemCount": 100
+          }
+        ]
+      },
+      {
+        "GoalDamage": 1000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemId": 14,
+            "ItemCount": 2
+          }
+        ]
+      },
+      {
+        "GoalDamage": 2500000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 4,
+            "ItemCount": 100
+          }
+        ]
+      },
+      {
+        "GoalDamage": 5000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 1000000
+          }
+        ]
+      },
+      {
+        "GoalDamage": 7500000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.TreasureChestKey",
+            "ItemId": 1,
+            "ItemCount": 15
+          }
+        ]
+      },
+      {
+        "GoalDamage": 10000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 2000000
+          }
+        ]
+      },
+      {
+        "GoalDamage": 20000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 2,
+            "ItemCount": 20000
+          }
+        ]
+      },
+      {
+        "GoalDamage": 50000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 3000000
+          }
+        ]
+      },
+      {
+        "GoalDamage": 100000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemId": 3,
+            "ItemCount": 1000
+          }
+        ]
+      },
+      {
+        "GoalDamage": 150000000000000,
+        "WorldRewardItems": [
+          {
+            "ItemType": "ItemType.Gold",
+            "ItemId": 1,
+            "ItemCount": 4000000
+          }
+        ]
+      },
+      {
+        "GoalDamage": 200000000000000,
         "WorldRewardItems": [
           {
             "ItemType": "ItemType.ExchangePlaceItem",

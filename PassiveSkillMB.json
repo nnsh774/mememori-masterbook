@@ -10700,6 +10700,30 @@
     ]
   },
   {
+    "Id": 550200005,
+    "IsIgnore": null,
+    "Memo": "ギルドレイドイベント　狂暴",
+    "NameKey": null,
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550200005001
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 550230001,
     "IsIgnore": null,
     "Memo": "ギルドレイド解放ルーク:毎ターン、累計被ダメージに応じて与ダメージ基準値が増加する。このバフは解除できない。",
@@ -10964,6 +10988,30 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 550262005001
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550274003,
+    "IsIgnore": null,
+    "Memo": "ギルドレイド聖夜トロポン1",
+    "NameKey": "[PassiveSkillName74003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription740033]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 74003301
           }
         ]
       }

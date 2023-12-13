@@ -15891,13 +15891,13 @@
   {
     "Id": 55010900100101,
     "IsIgnore": null,
-    "Memo": "弱体効果耐性増 : 弱体効果耐性が100％増加する。",
+    "Memo": "狂暴：毎ターン、累計被ダメージに応じて与ダメージ基準値が増加する。このバフは解除できない。",
     "NameKey": "[EffectGroupName55010900100101]",
     "DescriptionKey": "[EffectGroupDescription55010900100101]",
     "IconType": "EffectGroupIconType.Character",
     "IconId": 550000002,
-    "CasterIconType": "EffectGroupIconType.Character",
-    "CasterIconId": 9,
+    "CasterIconType": "EffectGroupIconType.None",
+    "CasterIconId": 0,
     "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": []
@@ -15927,6 +15927,20 @@
     "CasterIconType": "EffectGroupIconType.Character",
     "CasterIconId": 9,
     "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55020000500101,
+    "IsIgnore": null,
+    "Memo": "狂暴：毎ターン、累計被ダメージに応じて与ダメージ基準値が増加する。このバフは解除できない。",
+    "NameKey": "[EffectGroupName55023000600101]",
+    "DescriptionKey": "[EffectGroupDescription55023000600101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 550000002,
+    "CasterIconType": "EffectGroupIconType.None",
+    "CasterIconId": 0,
+    "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": []
   },
@@ -16084,13 +16098,13 @@
   {
     "Id": 55023000600101,
     "IsIgnore": null,
-    "Memo": "毎ターン、累計被ダメージに応じて与ダメージ基準値が増加する。このバフは解除できない。",
+    "Memo": "狂暴：毎ターン、累計被ダメージに応じて与ダメージ基準値が増加する。このバフは解除できない。",
     "NameKey": "[EffectGroupName55023000600101]",
     "DescriptionKey": "[EffectGroupDescription55023000600101]",
     "IconType": "EffectGroupIconType.Character",
     "IconId": 550000002,
-    "CasterIconType": "EffectGroupIconType.Character",
-    "CasterIconId": 30,
+    "CasterIconType": "EffectGroupIconType.None",
+    "CasterIconId": 0,
     "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": []
@@ -16141,6 +16155,62 @@
         "OrderNumber": 1
       }
     ]
+  },
+  {
+    "Id": 55027400100101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が5%減少する。",
+    "NameKey": "[EffectGroupName7400100101]",
+    "DescriptionKey": "[EffectGroupDescription55027400100101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 74001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 74,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55027400100102,
+    "IsIgnore": null,
+    "Memo": "このスキルで吸収した分だけ攻撃力が増加する。",
+    "NameKey": "[EffectGroupName7400100102]",
+    "DescriptionKey": "[EffectGroupDescription7400100102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 74001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 74,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55027400100103,
+    "IsIgnore": null,
+    "Memo": "防御力が5%減少する。",
+    "NameKey": "[EffectGroupName7400100101]",
+    "DescriptionKey": "[EffectGroupDescription55023000600101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 74001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 74,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55027400100104,
+    "IsIgnore": null,
+    "Memo": "このスキルで吸収した分だけ防御力が増加する。",
+    "NameKey": "[EffectGroupName7400100104]",
+    "DescriptionKey": "[EffectGroupDescription7400100104]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 74001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 74,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
   },
   {
     "Id": 55034000400101,
