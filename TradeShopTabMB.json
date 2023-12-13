@@ -4350,5 +4350,178 @@
     "TabNameKey": "[TradeShopTabName22]",
     "SortOrder": 11,
     "IsHide": false
+  },
+  {
+    "EndTime": "2023-12-26 03:59:59",
+    "StartTime": "2023-12-13 04:00:00",
+    "Id": 26,
+    "IsIgnore": null,
+    "Memo": "20231213聖夜トロポン_イベント",
+    "IsHideNotOpen": false,
+    "TradeShopType": "TradeShopType.Fix",
+    "AutoUpdateType": "TradeShopAutoUpdateType.None",
+    "AutoUpdateTimes": [
+      0
+    ],
+    "IsManualUpdate": false,
+    "ManualUpdateCurrencyCount": 0,
+    "ForceResetTimeFixJST": null,
+    "ConsumeItemInfos": [
+      {
+        "ItemId": 13,
+        "ItemType": "ItemType.EventExchangePlaceItem"
+      }
+    ],
+    "TradeShopItemCount": 0,
+    "OpenCommandType": "OpenCommandType.ShopEventExchange",
+    "IconId": 27,
+    "DecorationId": 4,
+    "DecorationSpecialId": 1,
+    "DecorationColor": "#99b8a6FF",
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "idID": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "arEG": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 1,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6000000238418579,
+        "BannerOutlineColor": "#112c26FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      }
+    },
+    "TabNameKey": "[TradeShopTabName20]",
+    "SortOrder": 11,
+    "IsHide": false
   }
 ]
