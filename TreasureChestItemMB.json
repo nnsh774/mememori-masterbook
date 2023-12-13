@@ -2349,6 +2349,74 @@
     "FixItemList": []
   },
   {
+    "Id": 98,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv510",
+    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "SacredTreasureType.None",
+        "SelectItem": {
+          "ItemType": "ItemType.EquipmentSetMaterial",
+          "ItemId": 10510,
+          "ItemCount": 1
+        }
+      },
+      {
+        "SacredTreasureType": "SacredTreasureType.None",
+        "SelectItem": {
+          "ItemType": "ItemType.EquipmentSetMaterial",
+          "ItemId": 20510,
+          "ItemCount": 1
+        }
+      },
+      {
+        "SacredTreasureType": "SacredTreasureType.None",
+        "SelectItem": {
+          "ItemType": "ItemType.EquipmentSetMaterial",
+          "ItemId": 30510,
+          "ItemCount": 1
+        }
+      }
+    ],
+    "FixItemList": []
+  },
+  {
+    "Id": 99,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv520",
+    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "SacredTreasureType.None",
+        "SelectItem": {
+          "ItemType": "ItemType.EquipmentSetMaterial",
+          "ItemId": 10520,
+          "ItemCount": 1
+        }
+      },
+      {
+        "SacredTreasureType": "SacredTreasureType.None",
+        "SelectItem": {
+          "ItemType": "ItemType.EquipmentSetMaterial",
+          "ItemId": 20520,
+          "ItemCount": 1
+        }
+      },
+      {
+        "SacredTreasureType": "SacredTreasureType.None",
+        "SelectItem": {
+          "ItemType": "ItemType.EquipmentSetMaterial",
+          "ItemId": 30520,
+          "ItemCount": 1
+        }
+      }
+    ],
+    "FixItemList": []
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
