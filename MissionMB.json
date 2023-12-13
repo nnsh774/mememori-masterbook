@@ -15199,7 +15199,7 @@
   },
   {
     "EndTime": "2100-01-01 00:00:00",
-    "StartTime": "2100-01-01 00:00:00",
+    "StartTime": "2023-12-13 15:00:00",
     "Id": 508,
     "IsIgnore": null,
     "Memo": "メイン_メインクエスト28章をクリアする",
@@ -15209,9 +15209,9 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.TreasureChest",
-          "ItemId": 25,
-          "ItemCount": 2
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 4,
+          "ItemCount": 10
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -15225,7 +15225,7 @@
   },
   {
     "EndTime": "2100-01-01 00:00:00",
-    "StartTime": "2100-01-01 00:00:00",
+    "StartTime": "2023-12-13 15:00:00",
     "Id": 509,
     "IsIgnore": null,
     "Memo": "メイン_メインクエスト29章をクリアする",
@@ -15235,9 +15235,9 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.TreasureChest",
-          "ItemId": 25,
-          "ItemCount": 2
+          "ItemType": "ItemType.GachaTicket",
+          "ItemId": 4,
+          "ItemCount": 10
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -37722,5 +37722,525 @@
     "TransitionDestination": "MissionTransitionDestinationType.TowerBattle",
     "AchievementType": "MissionAchievementType.TowerBattleMaxClearFloor",
     "RequireValue": 1200
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1242,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-4をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1242]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 744
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1243,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-8をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1243]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 748
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1244,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-12をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1244]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 752
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1245,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-16をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1245]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 756
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1246,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-20をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 300
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1246]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 760
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1247,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-24をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1247]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 764
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1248,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-28をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1248]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 768
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1249,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-32をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1249]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 772
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1250,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-36をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1250]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 776
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1251,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト28-40をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 300
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1251]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 780
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1252,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-4をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1252]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 784
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1253,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-8をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1253]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 788
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1254,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-12をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1254]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 792
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1255,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-16をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1255]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 796
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1256,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-20をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 300
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1256]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 800
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1257,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-24をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1257]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 804
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1258,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-29をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1258]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 808
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1259,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-32をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1259]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 812
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1260,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-36をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 150
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1260]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 816
+  },
+  {
+    "EndTime": "2100-01-01 00:00:00",
+    "StartTime": "2020-01-01 00:00:00",
+    "Id": 1261,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト29-40をクリアする",
+    "MissionType": "MissionType.Main",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemType": "ItemType.CurrencyFree",
+          "ItemId": 1,
+          "ItemCount": 300
+        },
+        "RarityFlags": "CharacterRarityFlags.None"
+      }
+    ],
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1261]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionTransitionDestinationType.AutoBattle",
+    "AchievementType": "MissionAchievementType.AutoBattleMaxClearQuest",
+    "RequireValue": 820
   }
 ]
