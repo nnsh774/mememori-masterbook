@@ -2152,6 +2152,13 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 25003000
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.AllyDead",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
@@ -2168,6 +2175,13 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 25003200
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.AllyDead",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
@@ -2182,6 +2196,13 @@
         "EquipmentRarityFlags": "EquipmentRarityFlags.None",
         "OrderNumber": 3,
         "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 25003300
+          },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "PassiveTrigger.AllyDead",

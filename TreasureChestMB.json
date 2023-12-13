@@ -1958,6 +1958,48 @@
   {
     "EndTime": null,
     "StartTime": null,
+    "Id": 95,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv510",
+    "NameKey": "[TreasureChestName67]",
+    "SecondaryFrameType": "SecondaryFrameType.Level",
+    "SecondaryFrameNum": 510,
+    "TreasureChestItemIdList": [
+      98
+    ],
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "TreasureChestLotteryType": "TreasureChestLotteryType.SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0
+  },
+  {
+    "EndTime": null,
+    "StartTime": null,
+    "Id": 96,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv520",
+    "NameKey": "[TreasureChestName67]",
+    "SecondaryFrameType": "SecondaryFrameType.Level",
+    "SecondaryFrameNum": 520,
+    "TreasureChestItemIdList": [
+      99
+    ],
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "TreasureChestLotteryType": "TreasureChestLotteryType.SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0
+  },
+  {
+    "EndTime": null,
+    "StartTime": null,
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
