@@ -9,12 +9,12 @@
       {
         "BattleParameterType": "BattleParameterType.Hp",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 1000.0
+        "Value": 1000
       },
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 1000.0
+        "Value": 1000
       }
     ]
   },
@@ -28,12 +28,12 @@
       {
         "BattleParameterType": "BattleParameterType.Hp",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 1500.0
+        "Value": 1500
       },
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 1500.0
+        "Value": 1500
       }
     ]
   },
@@ -47,12 +47,12 @@
       {
         "BattleParameterType": "BattleParameterType.Hp",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 2000.0
+        "Value": 2000
       },
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 1500.0
+        "Value": 1500
       }
     ]
   },
@@ -66,12 +66,12 @@
       {
         "BattleParameterType": "BattleParameterType.Hp",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 2500.0
+        "Value": 2500
       },
       {
         "BattleParameterType": "BattleParameterType.AttackPower",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 2500.0
+        "Value": 2500
       }
     ]
   },
@@ -85,7 +85,7 @@
       {
         "BattleParameterType": "BattleParameterType.Defense",
         "ChangeParameterType": "ChangeParameterType.AdditionPercent",
-        "Value": 2500.0
+        "Value": 2500
       }
     ]
   },
@@ -99,7 +99,7 @@
       {
         "BattleParameterType": "BattleParameterType.HpDrain",
         "ChangeParameterType": "ChangeParameterType.Addition",
-        "Value": 500.0
+        "Value": 500
       }
     ]
   },
@@ -113,7 +113,7 @@
       {
         "BattleParameterType": "BattleParameterType.DefensePenetration",
         "ChangeParameterType": "ChangeParameterType.Addition",
-        "Value": 1000.0
+        "Value": 1000
       }
     ]
   },
@@ -127,7 +127,7 @@
       {
         "BattleParameterType": "BattleParameterType.DamageReflect",
         "ChangeParameterType": "ChangeParameterType.Addition",
-        "Value": 1000.0
+        "Value": 1000
       }
     ]
   },
@@ -141,7 +141,7 @@
       {
         "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
         "ChangeParameterType": "ChangeParameterType.Addition",
-        "Value": 3000.0
+        "Value": 3000
       }
     ]
   }

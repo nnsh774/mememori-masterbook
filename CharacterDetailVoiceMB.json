@@ -28926,5 +28926,453 @@
       "TimelineId": 4
     },
     "SortOrder": 99
+  },
+  {
+    "Id": 7402,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7402]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 7403,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7403]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 7404,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7404]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 7405,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7405]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 7406,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7406]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 7407,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7407]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 7408,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7408]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 7409,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7409]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 7410,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7410]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 7411,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7411]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 7412,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7412]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 7413,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7413]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 7414,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7414]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 7415,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7415]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 7416,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7416]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 7417,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7417]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 7418,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7418]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 7419,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7419]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 7420,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7420]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 7421,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7421]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 7490,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7490]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 7491,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7491]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 7492,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7492]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 7493,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7493]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 7496,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 7497,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 7498,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 7499,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン",
+    "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
   }
 ]

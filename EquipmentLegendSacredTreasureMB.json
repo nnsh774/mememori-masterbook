@@ -5,12 +5,12 @@
     "Memo": null,
     "Lv": 0,
     "RequiredTotalExp": 0,
-    "WeaponAttackPowerPercent": 0.0,
-    "SubHitPercent": 0.0,
-    "GauntletCriticalDamagePercent": 0.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 0.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 0.0,
-    "ShoesHpDrainPercent": 0.0
+    "WeaponAttackPowerPercent": 0,
+    "SubHitPercent": 0,
+    "GauntletCriticalDamagePercent": 0,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 0,
+    "ArmorMagicCriticalDamageRelaxPercent": 0,
+    "ShoesHpDrainPercent": 0
   },
   {
     "Id": 2,
@@ -18,12 +18,12 @@
     "Memo": null,
     "Lv": 1,
     "RequiredTotalExp": 1,
-    "WeaponAttackPowerPercent": 150.0,
-    "SubHitPercent": 75.0,
-    "GauntletCriticalDamagePercent": 150.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 150.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 150.0,
-    "ShoesHpDrainPercent": 50.0
+    "WeaponAttackPowerPercent": 150,
+    "SubHitPercent": 75,
+    "GauntletCriticalDamagePercent": 150,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 150,
+    "ArmorMagicCriticalDamageRelaxPercent": 150,
+    "ShoesHpDrainPercent": 50
   },
   {
     "Id": 3,
@@ -31,12 +31,12 @@
     "Memo": null,
     "Lv": 2,
     "RequiredTotalExp": 2,
-    "WeaponAttackPowerPercent": 300.0,
-    "SubHitPercent": 150.0,
-    "GauntletCriticalDamagePercent": 300.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 300.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 300.0,
-    "ShoesHpDrainPercent": 100.0
+    "WeaponAttackPowerPercent": 300,
+    "SubHitPercent": 150,
+    "GauntletCriticalDamagePercent": 300,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 300,
+    "ArmorMagicCriticalDamageRelaxPercent": 300,
+    "ShoesHpDrainPercent": 100
   },
   {
     "Id": 4,
@@ -44,12 +44,12 @@
     "Memo": null,
     "Lv": 3,
     "RequiredTotalExp": 4,
-    "WeaponAttackPowerPercent": 450.0,
-    "SubHitPercent": 225.0,
-    "GauntletCriticalDamagePercent": 450.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 450.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 450.0,
-    "ShoesHpDrainPercent": 150.0
+    "WeaponAttackPowerPercent": 450,
+    "SubHitPercent": 225,
+    "GauntletCriticalDamagePercent": 450,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 450,
+    "ArmorMagicCriticalDamageRelaxPercent": 450,
+    "ShoesHpDrainPercent": 150
   },
   {
     "Id": 5,
@@ -57,12 +57,12 @@
     "Memo": null,
     "Lv": 4,
     "RequiredTotalExp": 7,
-    "WeaponAttackPowerPercent": 600.0,
-    "SubHitPercent": 300.0,
-    "GauntletCriticalDamagePercent": 600.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 600.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 600.0,
-    "ShoesHpDrainPercent": 200.0
+    "WeaponAttackPowerPercent": 600,
+    "SubHitPercent": 300,
+    "GauntletCriticalDamagePercent": 600,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 600,
+    "ArmorMagicCriticalDamageRelaxPercent": 600,
+    "ShoesHpDrainPercent": 200
   },
   {
     "Id": 6,
@@ -70,12 +70,12 @@
     "Memo": null,
     "Lv": 5,
     "RequiredTotalExp": 11,
-    "WeaponAttackPowerPercent": 750.0,
-    "SubHitPercent": 375.0,
-    "GauntletCriticalDamagePercent": 750.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 750.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 750.0,
-    "ShoesHpDrainPercent": 250.0
+    "WeaponAttackPowerPercent": 750,
+    "SubHitPercent": 375,
+    "GauntletCriticalDamagePercent": 750,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 750,
+    "ArmorMagicCriticalDamageRelaxPercent": 750,
+    "ShoesHpDrainPercent": 250
   },
   {
     "Id": 7,
@@ -83,12 +83,12 @@
     "Memo": null,
     "Lv": 6,
     "RequiredTotalExp": 16,
-    "WeaponAttackPowerPercent": 900.0,
-    "SubHitPercent": 450.0,
-    "GauntletCriticalDamagePercent": 900.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 900.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 900.0,
-    "ShoesHpDrainPercent": 300.0
+    "WeaponAttackPowerPercent": 900,
+    "SubHitPercent": 450,
+    "GauntletCriticalDamagePercent": 900,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 900,
+    "ArmorMagicCriticalDamageRelaxPercent": 900,
+    "ShoesHpDrainPercent": 300
   },
   {
     "Id": 8,
@@ -96,12 +96,12 @@
     "Memo": null,
     "Lv": 7,
     "RequiredTotalExp": 22,
-    "WeaponAttackPowerPercent": 1050.0,
-    "SubHitPercent": 525.0,
-    "GauntletCriticalDamagePercent": 1050.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1050.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1050.0,
-    "ShoesHpDrainPercent": 350.0
+    "WeaponAttackPowerPercent": 1050,
+    "SubHitPercent": 525,
+    "GauntletCriticalDamagePercent": 1050,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1050,
+    "ArmorMagicCriticalDamageRelaxPercent": 1050,
+    "ShoesHpDrainPercent": 350
   },
   {
     "Id": 9,
@@ -109,12 +109,12 @@
     "Memo": null,
     "Lv": 8,
     "RequiredTotalExp": 29,
-    "WeaponAttackPowerPercent": 1200.0,
-    "SubHitPercent": 600.0,
-    "GauntletCriticalDamagePercent": 1200.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1200.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1200.0,
-    "ShoesHpDrainPercent": 400.0
+    "WeaponAttackPowerPercent": 1200,
+    "SubHitPercent": 600,
+    "GauntletCriticalDamagePercent": 1200,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1200,
+    "ArmorMagicCriticalDamageRelaxPercent": 1200,
+    "ShoesHpDrainPercent": 400
   },
   {
     "Id": 10,
@@ -122,12 +122,12 @@
     "Memo": null,
     "Lv": 9,
     "RequiredTotalExp": 37,
-    "WeaponAttackPowerPercent": 1350.0,
-    "SubHitPercent": 675.0,
-    "GauntletCriticalDamagePercent": 1350.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1350.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1350.0,
-    "ShoesHpDrainPercent": 450.0
+    "WeaponAttackPowerPercent": 1350,
+    "SubHitPercent": 675,
+    "GauntletCriticalDamagePercent": 1350,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1350,
+    "ArmorMagicCriticalDamageRelaxPercent": 1350,
+    "ShoesHpDrainPercent": 450
   },
   {
     "Id": 11,
@@ -135,12 +135,12 @@
     "Memo": null,
     "Lv": 10,
     "RequiredTotalExp": 46,
-    "WeaponAttackPowerPercent": 1500.0,
-    "SubHitPercent": 750.0,
-    "GauntletCriticalDamagePercent": 1500.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1500.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1500.0,
-    "ShoesHpDrainPercent": 500.0
+    "WeaponAttackPowerPercent": 1500,
+    "SubHitPercent": 750,
+    "GauntletCriticalDamagePercent": 1500,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1500,
+    "ArmorMagicCriticalDamageRelaxPercent": 1500,
+    "ShoesHpDrainPercent": 500
   },
   {
     "Id": 12,
@@ -148,12 +148,12 @@
     "Memo": null,
     "Lv": 11,
     "RequiredTotalExp": 56,
-    "WeaponAttackPowerPercent": 1650.0,
-    "SubHitPercent": 825.0,
-    "GauntletCriticalDamagePercent": 1650.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1650.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1650.0,
-    "ShoesHpDrainPercent": 550.0
+    "WeaponAttackPowerPercent": 1650,
+    "SubHitPercent": 825,
+    "GauntletCriticalDamagePercent": 1650,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1650,
+    "ArmorMagicCriticalDamageRelaxPercent": 1650,
+    "ShoesHpDrainPercent": 550
   },
   {
     "Id": 13,
@@ -161,12 +161,12 @@
     "Memo": null,
     "Lv": 12,
     "RequiredTotalExp": 67,
-    "WeaponAttackPowerPercent": 1800.0,
-    "SubHitPercent": 900.0,
-    "GauntletCriticalDamagePercent": 1800.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1800.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1800.0,
-    "ShoesHpDrainPercent": 600.0
+    "WeaponAttackPowerPercent": 1800,
+    "SubHitPercent": 900,
+    "GauntletCriticalDamagePercent": 1800,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1800,
+    "ArmorMagicCriticalDamageRelaxPercent": 1800,
+    "ShoesHpDrainPercent": 600
   },
   {
     "Id": 14,
@@ -174,12 +174,12 @@
     "Memo": null,
     "Lv": 13,
     "RequiredTotalExp": 79,
-    "WeaponAttackPowerPercent": 1950.0,
-    "SubHitPercent": 975.0,
-    "GauntletCriticalDamagePercent": 1950.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 1950.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 1950.0,
-    "ShoesHpDrainPercent": 650.0
+    "WeaponAttackPowerPercent": 1950,
+    "SubHitPercent": 975,
+    "GauntletCriticalDamagePercent": 1950,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 1950,
+    "ArmorMagicCriticalDamageRelaxPercent": 1950,
+    "ShoesHpDrainPercent": 650
   },
   {
     "Id": 15,
@@ -187,12 +187,12 @@
     "Memo": null,
     "Lv": 14,
     "RequiredTotalExp": 92,
-    "WeaponAttackPowerPercent": 2100.0,
-    "SubHitPercent": 1050.0,
-    "GauntletCriticalDamagePercent": 2100.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 2100.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 2100.0,
-    "ShoesHpDrainPercent": 700.0
+    "WeaponAttackPowerPercent": 2100,
+    "SubHitPercent": 1050,
+    "GauntletCriticalDamagePercent": 2100,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 2100,
+    "ArmorMagicCriticalDamageRelaxPercent": 2100,
+    "ShoesHpDrainPercent": 700
   },
   {
     "Id": 16,
@@ -200,12 +200,12 @@
     "Memo": null,
     "Lv": 15,
     "RequiredTotalExp": 106,
-    "WeaponAttackPowerPercent": 2250.0,
-    "SubHitPercent": 1125.0,
-    "GauntletCriticalDamagePercent": 2250.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 2250.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 2250.0,
-    "ShoesHpDrainPercent": 750.0
+    "WeaponAttackPowerPercent": 2250,
+    "SubHitPercent": 1125,
+    "GauntletCriticalDamagePercent": 2250,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 2250,
+    "ArmorMagicCriticalDamageRelaxPercent": 2250,
+    "ShoesHpDrainPercent": 750
   },
   {
     "Id": 17,
@@ -213,12 +213,12 @@
     "Memo": null,
     "Lv": 16,
     "RequiredTotalExp": 121,
-    "WeaponAttackPowerPercent": 2400.0,
-    "SubHitPercent": 1200.0,
-    "GauntletCriticalDamagePercent": 2400.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 2400.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 2400.0,
-    "ShoesHpDrainPercent": 800.0
+    "WeaponAttackPowerPercent": 2400,
+    "SubHitPercent": 1200,
+    "GauntletCriticalDamagePercent": 2400,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 2400,
+    "ArmorMagicCriticalDamageRelaxPercent": 2400,
+    "ShoesHpDrainPercent": 800
   },
   {
     "Id": 18,
@@ -226,12 +226,12 @@
     "Memo": null,
     "Lv": 17,
     "RequiredTotalExp": 137,
-    "WeaponAttackPowerPercent": 2550.0,
-    "SubHitPercent": 1275.0,
-    "GauntletCriticalDamagePercent": 2550.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 2550.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 2550.0,
-    "ShoesHpDrainPercent": 850.0
+    "WeaponAttackPowerPercent": 2550,
+    "SubHitPercent": 1275,
+    "GauntletCriticalDamagePercent": 2550,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 2550,
+    "ArmorMagicCriticalDamageRelaxPercent": 2550,
+    "ShoesHpDrainPercent": 850
   },
   {
     "Id": 19,
@@ -239,12 +239,12 @@
     "Memo": null,
     "Lv": 18,
     "RequiredTotalExp": 154,
-    "WeaponAttackPowerPercent": 2700.0,
-    "SubHitPercent": 1350.0,
-    "GauntletCriticalDamagePercent": 2700.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 2700.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 2700.0,
-    "ShoesHpDrainPercent": 900.0
+    "WeaponAttackPowerPercent": 2700,
+    "SubHitPercent": 1350,
+    "GauntletCriticalDamagePercent": 2700,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 2700,
+    "ArmorMagicCriticalDamageRelaxPercent": 2700,
+    "ShoesHpDrainPercent": 900
   },
   {
     "Id": 20,
@@ -252,12 +252,12 @@
     "Memo": null,
     "Lv": 19,
     "RequiredTotalExp": 172,
-    "WeaponAttackPowerPercent": 2850.0,
-    "SubHitPercent": 1425.0,
-    "GauntletCriticalDamagePercent": 2850.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 2850.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 2850.0,
-    "ShoesHpDrainPercent": 950.0
+    "WeaponAttackPowerPercent": 2850,
+    "SubHitPercent": 1425,
+    "GauntletCriticalDamagePercent": 2850,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 2850,
+    "ArmorMagicCriticalDamageRelaxPercent": 2850,
+    "ShoesHpDrainPercent": 950
   },
   {
     "Id": 21,
@@ -265,12 +265,12 @@
     "Memo": null,
     "Lv": 20,
     "RequiredTotalExp": 191,
-    "WeaponAttackPowerPercent": 3000.0,
-    "SubHitPercent": 1500.0,
-    "GauntletCriticalDamagePercent": 3000.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3000.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3000.0,
-    "ShoesHpDrainPercent": 1000.0
+    "WeaponAttackPowerPercent": 3000,
+    "SubHitPercent": 1500,
+    "GauntletCriticalDamagePercent": 3000,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3000,
+    "ArmorMagicCriticalDamageRelaxPercent": 3000,
+    "ShoesHpDrainPercent": 1000
   },
   {
     "Id": 22,
@@ -278,12 +278,12 @@
     "Memo": null,
     "Lv": 21,
     "RequiredTotalExp": 211,
-    "WeaponAttackPowerPercent": 3150.0,
-    "SubHitPercent": 1575.0,
-    "GauntletCriticalDamagePercent": 3150.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3150.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3150.0,
-    "ShoesHpDrainPercent": 1050.0
+    "WeaponAttackPowerPercent": 3150,
+    "SubHitPercent": 1575,
+    "GauntletCriticalDamagePercent": 3150,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3150,
+    "ArmorMagicCriticalDamageRelaxPercent": 3150,
+    "ShoesHpDrainPercent": 1050
   },
   {
     "Id": 23,
@@ -291,12 +291,12 @@
     "Memo": null,
     "Lv": 22,
     "RequiredTotalExp": 232,
-    "WeaponAttackPowerPercent": 3300.0,
-    "SubHitPercent": 1650.0,
-    "GauntletCriticalDamagePercent": 3300.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3300.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3300.0,
-    "ShoesHpDrainPercent": 1100.0
+    "WeaponAttackPowerPercent": 3300,
+    "SubHitPercent": 1650,
+    "GauntletCriticalDamagePercent": 3300,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3300,
+    "ArmorMagicCriticalDamageRelaxPercent": 3300,
+    "ShoesHpDrainPercent": 1100
   },
   {
     "Id": 24,
@@ -304,12 +304,12 @@
     "Memo": null,
     "Lv": 23,
     "RequiredTotalExp": 254,
-    "WeaponAttackPowerPercent": 3450.0,
-    "SubHitPercent": 1725.0,
-    "GauntletCriticalDamagePercent": 3450.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3450.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3450.0,
-    "ShoesHpDrainPercent": 1150.0
+    "WeaponAttackPowerPercent": 3450,
+    "SubHitPercent": 1725,
+    "GauntletCriticalDamagePercent": 3450,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3450,
+    "ArmorMagicCriticalDamageRelaxPercent": 3450,
+    "ShoesHpDrainPercent": 1150
   },
   {
     "Id": 25,
@@ -317,12 +317,12 @@
     "Memo": null,
     "Lv": 24,
     "RequiredTotalExp": 277,
-    "WeaponAttackPowerPercent": 3600.0,
-    "SubHitPercent": 1800.0,
-    "GauntletCriticalDamagePercent": 3600.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3600.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3600.0,
-    "ShoesHpDrainPercent": 1200.0
+    "WeaponAttackPowerPercent": 3600,
+    "SubHitPercent": 1800,
+    "GauntletCriticalDamagePercent": 3600,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3600,
+    "ArmorMagicCriticalDamageRelaxPercent": 3600,
+    "ShoesHpDrainPercent": 1200
   },
   {
     "Id": 26,
@@ -330,12 +330,12 @@
     "Memo": null,
     "Lv": 25,
     "RequiredTotalExp": 301,
-    "WeaponAttackPowerPercent": 3750.0,
-    "SubHitPercent": 1875.0,
-    "GauntletCriticalDamagePercent": 3750.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3750.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3750.0,
-    "ShoesHpDrainPercent": 1250.0
+    "WeaponAttackPowerPercent": 3750,
+    "SubHitPercent": 1875,
+    "GauntletCriticalDamagePercent": 3750,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3750,
+    "ArmorMagicCriticalDamageRelaxPercent": 3750,
+    "ShoesHpDrainPercent": 1250
   },
   {
     "Id": 27,
@@ -343,12 +343,12 @@
     "Memo": null,
     "Lv": 26,
     "RequiredTotalExp": 326,
-    "WeaponAttackPowerPercent": 3900.0,
-    "SubHitPercent": 1950.0,
-    "GauntletCriticalDamagePercent": 3900.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 3900.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 3900.0,
-    "ShoesHpDrainPercent": 1300.0
+    "WeaponAttackPowerPercent": 3900,
+    "SubHitPercent": 1950,
+    "GauntletCriticalDamagePercent": 3900,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 3900,
+    "ArmorMagicCriticalDamageRelaxPercent": 3900,
+    "ShoesHpDrainPercent": 1300
   },
   {
     "Id": 28,
@@ -356,12 +356,12 @@
     "Memo": null,
     "Lv": 27,
     "RequiredTotalExp": 352,
-    "WeaponAttackPowerPercent": 4050.0,
-    "SubHitPercent": 2025.0,
-    "GauntletCriticalDamagePercent": 4050.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4050.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4050.0,
-    "ShoesHpDrainPercent": 1350.0
+    "WeaponAttackPowerPercent": 4050,
+    "SubHitPercent": 2025,
+    "GauntletCriticalDamagePercent": 4050,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4050,
+    "ArmorMagicCriticalDamageRelaxPercent": 4050,
+    "ShoesHpDrainPercent": 1350
   },
   {
     "Id": 29,
@@ -369,12 +369,12 @@
     "Memo": null,
     "Lv": 28,
     "RequiredTotalExp": 379,
-    "WeaponAttackPowerPercent": 4200.0,
-    "SubHitPercent": 2100.0,
-    "GauntletCriticalDamagePercent": 4200.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4200.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4200.0,
-    "ShoesHpDrainPercent": 1400.0
+    "WeaponAttackPowerPercent": 4200,
+    "SubHitPercent": 2100,
+    "GauntletCriticalDamagePercent": 4200,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4200,
+    "ArmorMagicCriticalDamageRelaxPercent": 4200,
+    "ShoesHpDrainPercent": 1400
   },
   {
     "Id": 30,
@@ -382,12 +382,12 @@
     "Memo": null,
     "Lv": 29,
     "RequiredTotalExp": 407,
-    "WeaponAttackPowerPercent": 4350.0,
-    "SubHitPercent": 2175.0,
-    "GauntletCriticalDamagePercent": 4350.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4350.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4350.0,
-    "ShoesHpDrainPercent": 1450.0
+    "WeaponAttackPowerPercent": 4350,
+    "SubHitPercent": 2175,
+    "GauntletCriticalDamagePercent": 4350,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4350,
+    "ArmorMagicCriticalDamageRelaxPercent": 4350,
+    "ShoesHpDrainPercent": 1450
   },
   {
     "Id": 31,
@@ -395,12 +395,12 @@
     "Memo": null,
     "Lv": 30,
     "RequiredTotalExp": 436,
-    "WeaponAttackPowerPercent": 4500.0,
-    "SubHitPercent": 2250.0,
-    "GauntletCriticalDamagePercent": 4500.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4500.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4500.0,
-    "ShoesHpDrainPercent": 1500.0
+    "WeaponAttackPowerPercent": 4500,
+    "SubHitPercent": 2250,
+    "GauntletCriticalDamagePercent": 4500,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4500,
+    "ArmorMagicCriticalDamageRelaxPercent": 4500,
+    "ShoesHpDrainPercent": 1500
   },
   {
     "Id": 32,
@@ -408,12 +408,12 @@
     "Memo": null,
     "Lv": 31,
     "RequiredTotalExp": 466,
-    "WeaponAttackPowerPercent": 4650.0,
-    "SubHitPercent": 2325.0,
-    "GauntletCriticalDamagePercent": 4650.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4650.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4650.0,
-    "ShoesHpDrainPercent": 1550.0
+    "WeaponAttackPowerPercent": 4650,
+    "SubHitPercent": 2325,
+    "GauntletCriticalDamagePercent": 4650,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4650,
+    "ArmorMagicCriticalDamageRelaxPercent": 4650,
+    "ShoesHpDrainPercent": 1550
   },
   {
     "Id": 33,
@@ -421,12 +421,12 @@
     "Memo": null,
     "Lv": 32,
     "RequiredTotalExp": 497,
-    "WeaponAttackPowerPercent": 4800.0,
-    "SubHitPercent": 2400.0,
-    "GauntletCriticalDamagePercent": 4800.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4800.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4800.0,
-    "ShoesHpDrainPercent": 1600.0
+    "WeaponAttackPowerPercent": 4800,
+    "SubHitPercent": 2400,
+    "GauntletCriticalDamagePercent": 4800,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4800,
+    "ArmorMagicCriticalDamageRelaxPercent": 4800,
+    "ShoesHpDrainPercent": 1600
   },
   {
     "Id": 34,
@@ -434,12 +434,12 @@
     "Memo": null,
     "Lv": 33,
     "RequiredTotalExp": 529,
-    "WeaponAttackPowerPercent": 4950.0,
-    "SubHitPercent": 2475.0,
-    "GauntletCriticalDamagePercent": 4950.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 4950.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 4950.0,
-    "ShoesHpDrainPercent": 1650.0
+    "WeaponAttackPowerPercent": 4950,
+    "SubHitPercent": 2475,
+    "GauntletCriticalDamagePercent": 4950,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 4950,
+    "ArmorMagicCriticalDamageRelaxPercent": 4950,
+    "ShoesHpDrainPercent": 1650
   },
   {
     "Id": 35,
@@ -447,12 +447,12 @@
     "Memo": null,
     "Lv": 34,
     "RequiredTotalExp": 562,
-    "WeaponAttackPowerPercent": 5100.0,
-    "SubHitPercent": 2550.0,
-    "GauntletCriticalDamagePercent": 5100.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 5100.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 5100.0,
-    "ShoesHpDrainPercent": 1700.0
+    "WeaponAttackPowerPercent": 5100,
+    "SubHitPercent": 2550,
+    "GauntletCriticalDamagePercent": 5100,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 5100,
+    "ArmorMagicCriticalDamageRelaxPercent": 5100,
+    "ShoesHpDrainPercent": 1700
   },
   {
     "Id": 36,
@@ -460,12 +460,12 @@
     "Memo": null,
     "Lv": 35,
     "RequiredTotalExp": 596,
-    "WeaponAttackPowerPercent": 5250.0,
-    "SubHitPercent": 2625.0,
-    "GauntletCriticalDamagePercent": 5250.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 5250.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 5250.0,
-    "ShoesHpDrainPercent": 1750.0
+    "WeaponAttackPowerPercent": 5250,
+    "SubHitPercent": 2625,
+    "GauntletCriticalDamagePercent": 5250,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 5250,
+    "ArmorMagicCriticalDamageRelaxPercent": 5250,
+    "ShoesHpDrainPercent": 1750
   },
   {
     "Id": 37,
@@ -473,12 +473,12 @@
     "Memo": null,
     "Lv": 36,
     "RequiredTotalExp": 631,
-    "WeaponAttackPowerPercent": 5400.0,
-    "SubHitPercent": 2700.0,
-    "GauntletCriticalDamagePercent": 5400.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 5400.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 5400.0,
-    "ShoesHpDrainPercent": 1800.0
+    "WeaponAttackPowerPercent": 5400,
+    "SubHitPercent": 2700,
+    "GauntletCriticalDamagePercent": 5400,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 5400,
+    "ArmorMagicCriticalDamageRelaxPercent": 5400,
+    "ShoesHpDrainPercent": 1800
   },
   {
     "Id": 38,
@@ -486,12 +486,12 @@
     "Memo": null,
     "Lv": 37,
     "RequiredTotalExp": 667,
-    "WeaponAttackPowerPercent": 5550.0,
-    "SubHitPercent": 2775.0,
-    "GauntletCriticalDamagePercent": 5550.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 5550.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 5550.0,
-    "ShoesHpDrainPercent": 1850.0
+    "WeaponAttackPowerPercent": 5550,
+    "SubHitPercent": 2775,
+    "GauntletCriticalDamagePercent": 5550,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 5550,
+    "ArmorMagicCriticalDamageRelaxPercent": 5550,
+    "ShoesHpDrainPercent": 1850
   },
   {
     "Id": 39,
@@ -499,12 +499,12 @@
     "Memo": null,
     "Lv": 38,
     "RequiredTotalExp": 704,
-    "WeaponAttackPowerPercent": 5700.0,
-    "SubHitPercent": 2850.0,
-    "GauntletCriticalDamagePercent": 5700.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 5700.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 5700.0,
-    "ShoesHpDrainPercent": 1900.0
+    "WeaponAttackPowerPercent": 5700,
+    "SubHitPercent": 2850,
+    "GauntletCriticalDamagePercent": 5700,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 5700,
+    "ArmorMagicCriticalDamageRelaxPercent": 5700,
+    "ShoesHpDrainPercent": 1900
   },
   {
     "Id": 40,
@@ -512,12 +512,12 @@
     "Memo": null,
     "Lv": 39,
     "RequiredTotalExp": 742,
-    "WeaponAttackPowerPercent": 5850.0,
-    "SubHitPercent": 2925.0,
-    "GauntletCriticalDamagePercent": 5850.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 5850.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 5850.0,
-    "ShoesHpDrainPercent": 1950.0
+    "WeaponAttackPowerPercent": 5850,
+    "SubHitPercent": 2925,
+    "GauntletCriticalDamagePercent": 5850,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 5850,
+    "ArmorMagicCriticalDamageRelaxPercent": 5850,
+    "ShoesHpDrainPercent": 1950
   },
   {
     "Id": 41,
@@ -525,11 +525,11 @@
     "Memo": null,
     "Lv": 40,
     "RequiredTotalExp": 781,
-    "WeaponAttackPowerPercent": 6000.0,
-    "SubHitPercent": 3000.0,
-    "GauntletCriticalDamagePercent": 6000.0,
-    "HelmetPhysicalCriticalDamageRelaxPercent": 6000.0,
-    "ArmorMagicCriticalDamageRelaxPercent": 6000.0,
-    "ShoesHpDrainPercent": 2000.0
+    "WeaponAttackPowerPercent": 6000,
+    "SubHitPercent": 3000,
+    "GauntletCriticalDamagePercent": 6000,
+    "HelmetPhysicalCriticalDamageRelaxPercent": 6000,
+    "ArmorMagicCriticalDamageRelaxPercent": 6000,
+    "ShoesHpDrainPercent": 2000
   }
 ]

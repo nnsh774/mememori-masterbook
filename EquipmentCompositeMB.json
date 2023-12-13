@@ -1228,5 +1228,20 @@
       }
     ],
     "ItemRarityFlags": "ItemRarityFlags.SSR"
+  },
+  {
+    "Id": 84,
+    "IsIgnore": null,
+    "Memo": "聖夜トロポン魔導書",
+    "EquipmentId": 740930180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemType": "ItemType.Gold",
+        "ItemId": 1,
+        "ItemCount": 75000
+      }
+    ],
+    "ItemRarityFlags": "ItemRarityFlags.SSR"
   }
 ]
