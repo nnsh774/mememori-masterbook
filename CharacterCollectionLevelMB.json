@@ -5195,5 +5195,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3601,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3602,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3603,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3604,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3605,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 41
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1050
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3606,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 42
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1100
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3607,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 43
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.MagicCriticalDamageRelax",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1150
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
