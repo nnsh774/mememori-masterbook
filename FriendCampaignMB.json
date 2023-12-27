@@ -1,23 +1,23 @@
 [
   {
-    "CharacterImageId": 34,
-    "CharacterImageSize": 640,
-    "CharacterImageX": -17,
-    "CharacterImageY": 0,
-    "EndTime": "2023-09-01 03:59:59",
-    "StartTime": "2023-06-30 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "友達招待キャンペーン（07/31~08/31）",
+    "StartTime": "2023-06-30 00:00:00",
     "CodeLimitCount": 20,
     "RewardItemList": [
       {
-        "ItemType": "ItemType.CurrencyFree",
+        "ItemCount": 500,
         "ItemId": 1,
-        "ItemCount": 500
+        "ItemType": "ItemType.CurrencyFree"
       }
     ],
+    "EndTime": "2023-09-01 03:59:59",
     "CodeExpirationPeriod": 24,
+    "CharacterImageId": 34,
+    "CharacterImageX": -17,
+    "CharacterImageY": 0,
+    "CharacterImageSize": 640,
     "FriendMissionIdList": [
       1,
       2,

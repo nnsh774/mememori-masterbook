@@ -12022,6 +12022,147 @@
     "EffectGroupInfoList": []
   },
   {
+    "Id": 6600120102,
+    "IsIgnore": null,
+    "Memo": "攻撃力が10%減少する。",
+    "NameKey": "[EffectGroupName6600120102]",
+    "DescriptionKey": "[EffectGroupDescription6600120102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 6600300101,
+    "IsIgnore": null,
+    "Memo": "[結界] 最大HP×20%を超えた分のダメージを50%遮断する。",
+    "NameKey": "[EffectGroupName6600300101]",
+    "DescriptionKey": "[EffectGroupDescription6600300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 6600340101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 6600300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 6600340101,
+    "IsIgnore": null,
+    "Memo": "[結界] 最大HP×20%を超えた分のダメージを70%遮断する。",
+    "NameKey": "[EffectGroupName6600340101]",
+    "DescriptionKey": "[EffectGroupDescription6600340101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 6600340101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 6600300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 6600400101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName6600400101]",
+    "DescriptionKey": "[EffectGroupDescription6600400101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 6600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 6600420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 6600400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 6600420101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。このスキル発動時の敵の生存数1体につき『シールド』の大きさが自身の攻撃力×50%大きくなる（最大で合計300%まで）。",
+    "NameKey": "[EffectGroupName6600420101]",
+    "DescriptionKey": "[EffectGroupDescription6600420101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 6600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 6600420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 6600400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 6600430101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。このスキル発動時の敵の生存数1体につき『シールド』の大きさが自身の攻撃力×50%大きくなる（最大で合計300%まで）。",
+    "NameKey": "[EffectGroupName6600430101]",
+    "DescriptionKey": "[EffectGroupDescription6600430101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 6600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 6600420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 6600400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
     "Id": 6700100101,
     "IsIgnore": null,
     "Memo": "[シールド]付与者の攻撃力×300％分のダメージを代わりに受ける。",
@@ -29280,6 +29421,147 @@
     "IsHide": true,
     "IsTurnHide": true,
     "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55046600120102,
+    "IsIgnore": null,
+    "Memo": "攻撃力が10%減少する。",
+    "NameKey": "[EffectGroupName6600120102]",
+    "DescriptionKey": "[EffectGroupDescription6600120102]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66001,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55046600300101,
+    "IsIgnore": null,
+    "Memo": "[結界] 最大HP×20%を超えた分のダメージを50%遮断する。",
+    "NameKey": "[EffectGroupName6600300101]",
+    "DescriptionKey": "[EffectGroupDescription6600300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55046600340101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55046600300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55046600340101,
+    "IsIgnore": null,
+    "Memo": "[結界] 最大HP×20%を超えた分のダメージを70%遮断する。",
+    "NameKey": "[EffectGroupName6600340101]",
+    "DescriptionKey": "[EffectGroupDescription6600340101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55046600340101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55046600300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55046600400101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。",
+    "NameKey": "[EffectGroupName6600400101]",
+    "DescriptionKey": "[EffectGroupDescription6600400101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55046600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55046600420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55046600400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55046600420101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。このスキル発動時の敵の生存数1体につき『シールド』の大きさが自身の攻撃力×50%大きくなる（最大で合計300%まで）。",
+    "NameKey": "[EffectGroupName6600420101]",
+    "DescriptionKey": "[EffectGroupDescription6600420101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55046600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55046600420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55046600400101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55046600430101,
+    "IsIgnore": null,
+    "Memo": "[シールド]付与者の攻撃力×50％分のダメージを代わりに受ける（解除不可）。このスキル発動時の敵の生存数1体につき『シールド』の大きさが自身の攻撃力×50%大きくなる（最大で合計300%まで）。",
+    "NameKey": "[EffectGroupName6600430101]",
+    "DescriptionKey": "[EffectGroupDescription6600430101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 66004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 66,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55046600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55046600420101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55046600400101,
+        "OrderNumber": 3
+      }
+    ]
   },
   {
     "Id": 55046700100101,

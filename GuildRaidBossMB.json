@@ -1,7 +1,5 @@
 [
   {
-    "EndTime": "2100-12-31 23:59:59",
-    "StartTime": "2020-01-01 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "ギルドレイド通常ソーニャ",
@@ -318,13 +316,13 @@
     "WorldDamageBarRewardCharacterImageY": 0,
     "WorldDamageBarRewardCharacterImageSize": 0,
     "GuildRaidBossType": "GuildRaidBossType.Normal",
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-12-31 23:59:59",
     "ReleasableGuildFame": 0,
     "EnemyRank": 240,
     "NameKey": "[CharacterName9]"
   },
   {
-    "EndTime": "2100-12-31 23:59:59",
-    "StartTime": "2020-01-01 00:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "ギルドレイド解放ルーク",
@@ -622,13 +620,13 @@
     "WorldDamageBarRewardCharacterImageY": 0,
     "WorldDamageBarRewardCharacterImageSize": 0,
     "GuildRaidBossType": "GuildRaidBossType.Releasable",
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-12-31 23:59:59",
     "ReleasableGuildFame": 10000,
     "EnemyRank": 240,
     "NameKey": "[CharacterName30]"
   },
   {
-    "EndTime": "2023-04-10  03:59:59",
-    "StartTime": "2023-03-31  04:00:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": "202303レア",
@@ -950,13 +948,13 @@
     "WorldDamageBarRewardCharacterImageY": 0,
     "WorldDamageBarRewardCharacterImageSize": 0,
     "GuildRaidBossType": "GuildRaidBossType.Event",
+    "StartTime": "2023-03-31  04:00:00",
+    "EndTime": "2023-04-10  03:59:59",
     "ReleasableGuildFame": 0,
     "EnemyRank": 240,
     "NameKey": "[CharacterName55]"
   },
   {
-    "EndTime": "2023-07-10  03:59:59",
-    "StartTime": "2023-06-30  04:00:00",
     "Id": 4,
     "IsIgnore": null,
     "Memo": "202306水着サブリナ",
@@ -1278,13 +1276,13 @@
     "WorldDamageBarRewardCharacterImageY": 0,
     "WorldDamageBarRewardCharacterImageSize": 0,
     "GuildRaidBossType": "GuildRaidBossType.Event",
+    "StartTime": "2023-06-30  04:00:00",
+    "EndTime": "2023-07-10  03:59:59",
     "ReleasableGuildFame": 0,
     "EnemyRank": 240,
     "NameKey": "[GuildRaidBossName4]"
   },
   {
-    "EndTime": "2023-10-09  03:59:59",
-    "StartTime": "2023-09-29  04:00:00",
     "Id": 5,
     "IsIgnore": null,
     "Memo": "202309プリシラ",
@@ -1605,13 +1603,13 @@
     "WorldDamageBarRewardCharacterImageY": 0,
     "WorldDamageBarRewardCharacterImageSize": 465,
     "GuildRaidBossType": "GuildRaidBossType.Event",
+    "StartTime": "2023-09-29  04:00:00",
+    "EndTime": "2023-10-09  03:59:59",
     "ReleasableGuildFame": 0,
     "EnemyRank": 240,
     "NameKey": "[CharacterName62]"
   },
   {
-    "EndTime": "2023-12-23 03:59:59",
-    "StartTime": "2023-12-13  04:00:00",
     "Id": 6,
     "IsIgnore": null,
     "Memo": "202312聖夜トロポン",
@@ -1932,6 +1930,8 @@
     "WorldDamageBarRewardCharacterImageY": 0,
     "WorldDamageBarRewardCharacterImageSize": 465,
     "GuildRaidBossType": "GuildRaidBossType.Event",
+    "StartTime": "2023-12-13  04:00:00",
+    "EndTime": "2023-12-23 03:59:59",
     "ReleasableGuildFame": 0,
     "EnemyRank": 240,
     "NameKey": "[GuildRaidBossName6]"

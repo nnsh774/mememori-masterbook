@@ -6675,5 +6675,134 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 313,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリスSSR180",
+    "CharacterId": 66,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 314,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリスSSR200",
+    "CharacterId": 66,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 315,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリスSSR220",
+    "CharacterId": 66,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 316,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリスSSR240",
+    "CharacterId": 66,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 317,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリスUR",
+    "CharacterId": 66,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 318,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリスLR",
+    "CharacterId": 66,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

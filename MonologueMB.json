@@ -172,6 +172,163 @@
     "StartTimeFixJST": "2023-10-31 15:00:00"
   },
   {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "アイリス",
+    "CharacterDetailVoiceId": 322,
+    "CharacterId": 3,
+    "MonologueSettingDatasJP": [
+      {
+        "SongLyricsStartTime": 0,
+        "SongLyricsKey": "[SongLyricsJP301]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 11,
+        "SongLyricsKey": "[SongLyricsJP302]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 31,
+        "SongLyricsKey": "[SongLyricsJP303]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 54,
+        "SongLyricsKey": "[SongLyricsJP304]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 75,
+        "SongLyricsKey": "[SongLyricsJP305]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 95.5,
+        "SongLyricsKey": "[SongLyricsJP306]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 105,
+        "SongLyricsKey": "[SongLyricsJP307]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 117,
+        "SongLyricsKey": "[SongLyricsJP308]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 140,
+        "SongLyricsKey": "[SongLyricsJP309]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 150,
+        "SongLyricsKey": "[SongLyricsJP310]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 170,
+        "SongLyricsKey": "[SongLyricsJP311]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 173,
+        "SongLyricsKey": "[SongLyricsJP312]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 194,
+        "SongLyricsKey": "[SongLyricsJP313]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 237,
+        "SongLyricsKey": "[SongLyricsJP314]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      }
+    ],
+    "MonologueSettingDatasUS": [
+      {
+        "SongLyricsStartTime": 0,
+        "SongLyricsKey": "[SongLyricsUS301]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 10.5,
+        "SongLyricsKey": "[SongLyricsUS302]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 21,
+        "SongLyricsKey": "[SongLyricsUS303]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 31.5,
+        "SongLyricsKey": "[SongLyricsUS304]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 54,
+        "SongLyricsKey": "[SongLyricsUS305]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 75,
+        "SongLyricsKey": "[SongLyricsUS306]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 95.5,
+        "SongLyricsKey": "[SongLyricsUS307]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 105,
+        "SongLyricsKey": "[SongLyricsUS308]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 117,
+        "SongLyricsKey": "[SongLyricsUS309]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 140,
+        "SongLyricsKey": "[SongLyricsUS310]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 150,
+        "SongLyricsKey": "[SongLyricsUS311]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 170,
+        "SongLyricsKey": "[SongLyricsUS312]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 173,
+        "SongLyricsKey": "[SongLyricsUS313]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      },
+      {
+        "SongLyricsStartTime": 194,
+        "SongLyricsKey": "[SongLyricsUS314]",
+        "RecitationTextType": "MonologueTextType.SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 237,
+        "SongLyricsKey": "[SongLyricsUS315]",
+        "RecitationTextType": "MonologueTextType.Monologue"
+      }
+    ],
+    "StartTimeFixJST": "2023-12-26 15:00:00"
+  },
+  {
     "Id": 41,
     "IsIgnore": null,
     "Memo": "ナターシャ",

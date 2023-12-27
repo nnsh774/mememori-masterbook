@@ -1,11 +1,11 @@
 [
   {
-    "EndTimeFixJST": "2100-01-01 00:00:00",
-    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Default",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
     "OrderNumber": 0,
     "CharacterIdList": [
       2,
@@ -44,12 +44,12 @@
     "NewCharacterIdList": []
   },
   {
-    "EndTimeFixJST": "2100-01-01 00:00:00",
-    "StartTimeFixJST": "2020-01-01 00:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2020-01-01 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
     "OrderNumber": 0,
     "CharacterIdList": [
       5,
@@ -78,12 +78,12 @@
     "NewCharacterIdList": []
   },
   {
-    "EndTimeFixJST": "2023-03-16 14:29:59",
-    "StartTimeFixJST": "2023-02-28 17:30:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-02-28 17:30:00",
+    "EndTimeFixJST": "2023-03-16 14:29:59",
     "OrderNumber": 1,
     "CharacterIdList": [
       49,
@@ -115,12 +115,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-03-31 14:29:59",
-    "StartTimeFixJST": "2023-03-16 17:30:00",
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-03-16 17:30:00",
+    "EndTimeFixJST": "2023-03-31 14:29:59",
     "OrderNumber": 2,
     "CharacterIdList": [
       53,
@@ -152,12 +152,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-04-07 14:29:59",
-    "StartTimeFixJST": "2023-03-23 17:30:00",
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-03-23 17:30:00",
+    "EndTimeFixJST": "2023-04-07 14:29:59",
     "OrderNumber": 3,
     "CharacterIdList": [
       53,
@@ -191,12 +191,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-04-07 14:29:59",
-    "StartTimeFixJST": "2023-03-31 17:30:00",
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-03-31 17:30:00",
+    "EndTimeFixJST": "2023-04-07 14:29:59",
     "OrderNumber": 4,
     "CharacterIdList": [
       55,
@@ -230,12 +230,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-04-14 14:29:59",
-    "StartTimeFixJST": "2023-04-07 14:30:00",
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-04-07 14:30:00",
+    "EndTimeFixJST": "2023-04-14 14:29:59",
     "OrderNumber": 5,
     "CharacterIdList": [
       55,
@@ -267,12 +267,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-04-28 14:29:59",
-    "StartTimeFixJST": "2023-04-14 17:30:00",
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-04-14 17:30:00",
+    "EndTimeFixJST": "2023-04-28 14:29:59",
     "OrderNumber": 6,
     "CharacterIdList": [
       54,
@@ -304,12 +304,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-04-28 14:29:59",
-    "StartTimeFixJST": "2023-04-21 14:30:00",
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-04-21 14:30:00",
+    "EndTimeFixJST": "2023-04-28 14:29:59",
     "OrderNumber": 7,
     "CharacterIdList": [
       54,
@@ -343,12 +343,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-05-08 14:29:59",
-    "StartTimeFixJST": "2023-04-28 17:30:00",
     "Id": 10,
     "IsIgnore": null,
     "Memo": "ルサールカ・ベル",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-04-28 17:30:00",
+    "EndTimeFixJST": "2023-05-08 14:29:59",
     "OrderNumber": 8,
     "CharacterIdList": [
       44,
@@ -382,12 +382,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-05-15 14:29:59",
-    "StartTimeFixJST": "2023-05-08 14:30:00",
     "Id": 11,
     "IsIgnore": null,
     "Memo": "ルサールカのみ",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-05-08 14:30:00",
+    "EndTimeFixJST": "2023-05-15 14:29:59",
     "OrderNumber": 9,
     "CharacterIdList": [
       44,
@@ -419,12 +419,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-05-31 14:29:59",
-    "StartTimeFixJST": "2023-05-15 16:30:00",
     "Id": 12,
     "IsIgnore": null,
     "Memo": "シヴィのみ",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-05-15 16:30:00",
+    "EndTimeFixJST": "2023-05-31 14:29:59",
     "OrderNumber": 10,
     "CharacterIdList": [
       52,
@@ -456,12 +456,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-05-31 14:29:59",
-    "StartTimeFixJST": "2023-05-22 14:30:00",
     "Id": 13,
     "IsIgnore": null,
     "Memo": "シヴィ・ルーク復刻",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-05-22 14:30:00",
+    "EndTimeFixJST": "2023-05-31 14:29:59",
     "OrderNumber": 11,
     "CharacterIdList": [
       52,
@@ -495,12 +495,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-06-07 14:29:59",
-    "StartTimeFixJST": "2023-05-31 17:30:00",
     "Id": 14,
     "IsIgnore": null,
     "Memo": "アーティ・ルーク復刻(上書き)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-05-31 17:30:00",
+    "EndTimeFixJST": "2023-06-07 14:29:59",
     "OrderNumber": 12,
     "CharacterIdList": [
       58,
@@ -534,12 +534,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-06-14 14:29:59",
-    "StartTimeFixJST": "2023-06-07 14:30:00",
     "Id": 15,
     "IsIgnore": null,
     "Memo": "アーティ",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-06-07 14:30:00",
+    "EndTimeFixJST": "2023-06-14 14:29:59",
     "OrderNumber": 13,
     "CharacterIdList": [
       58,
@@ -571,12 +571,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-06-21 14:29:59",
-    "StartTimeFixJST": "2023-06-14 16:30:00",
     "Id": 16,
     "IsIgnore": null,
     "Memo": "リシェス",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-06-14 16:30:00",
+    "EndTimeFixJST": "2023-06-21 14:29:59",
     "OrderNumber": 14,
     "CharacterIdList": [
       67,
@@ -608,12 +608,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-06-30 14:29:59",
-    "StartTimeFixJST": "2023-06-21 14:30:00",
     "Id": 17,
     "IsIgnore": null,
     "Memo": "リシェス・ウィーラ(0621切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-06-21 14:30:00",
+    "EndTimeFixJST": "2023-06-30 14:29:59",
     "OrderNumber": 15,
     "CharacterIdList": [
       67,
@@ -647,12 +647,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-07-07 14:29:59",
-    "StartTimeFixJST": "2023-06-30 16:30:00",
     "Id": 18,
     "IsIgnore": null,
     "Memo": "水着サブリナ・ウィーラ(0630切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-06-30 16:30:00",
+    "EndTimeFixJST": "2023-07-07 14:29:59",
     "OrderNumber": 16,
     "CharacterIdList": [
       70,
@@ -686,12 +686,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-07-13 14:29:59",
-    "StartTimeFixJST": "2023-07-07 14:30:00",
     "Id": 19,
     "IsIgnore": null,
     "Memo": "水着サブリナ・ヴァルリーデ追加(0707切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-07-07 14:30:00",
+    "EndTimeFixJST": "2023-07-13 14:29:59",
     "OrderNumber": 17,
     "CharacterIdList": [
       70,
@@ -725,12 +725,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-07-24 14:29:59",
-    "StartTimeFixJST": "2023-07-13 17:30:00",
     "Id": 20,
     "IsIgnore": null,
     "Memo": "水着モーザ・ヴァルリーデ(0713切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-07-13 17:30:00",
+    "EndTimeFixJST": "2023-07-24 14:29:59",
     "OrderNumber": 18,
     "CharacterIdList": [
       71,
@@ -764,12 +764,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-07-31 14:29:59",
-    "StartTimeFixJST": "2023-07-24 14:30:00",
     "Id": 21,
     "IsIgnore": null,
     "Memo": "水着モーザ・カロル追加(0724切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-07-24 14:30:00",
+    "EndTimeFixJST": "2023-07-31 14:29:59",
     "OrderNumber": 19,
     "CharacterIdList": [
       71,
@@ -803,12 +803,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-08-07 14:29:59",
-    "StartTimeFixJST": "2023-07-31 17:30:00",
     "Id": 22,
     "IsIgnore": null,
     "Memo": "フィアー・カロル(0731切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-07-31 17:30:00",
+    "EndTimeFixJST": "2023-08-07 14:29:59",
     "OrderNumber": 20,
     "CharacterIdList": [
       60,
@@ -842,12 +842,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-09-04 14:29:59",
-    "StartTimeFixJST": "2023-07-31 17:30:00",
     "Id": 23,
     "IsIgnore": null,
     "Memo": "フィアー（終了期間表示用、実質使用しない）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-07-31 17:30:00",
+    "EndTimeFixJST": "2023-09-04 14:29:59",
     "OrderNumber": 2,
     "CharacterIdList": [
       60,
@@ -879,12 +879,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-08-14 14:29:59",
-    "StartTimeFixJST": "2023-08-07 14:30:00",
     "Id": 24,
     "IsIgnore": null,
     "Memo": "フィアー・レア復刻（0807切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-08-07 14:30:00",
+    "EndTimeFixJST": "2023-08-14 14:29:59",
     "OrderNumber": 21,
     "CharacterIdList": [
       60,
@@ -918,12 +918,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-08-22 14:29:59",
-    "StartTimeFixJST": "2023-08-14 16:30:00",
     "Id": 25,
     "IsIgnore": null,
     "Memo": "浴衣コルディ＋フィアー・レア復刻（0814切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-08-14 16:30:00",
+    "EndTimeFixJST": "2023-08-22 14:29:59",
     "OrderNumber": 22,
     "CharacterIdList": [
       72,
@@ -959,12 +959,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-08-31 14:29:59",
-    "StartTimeFixJST": "2023-08-22 14:30:00",
     "Id": 26,
     "IsIgnore": null,
     "Memo": "浴衣コルディ＋フィアー・オフィーリア復刻（0822切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-08-22 14:30:00",
+    "EndTimeFixJST": "2023-08-31 14:29:59",
     "OrderNumber": 23,
     "CharacterIdList": [
       72,
@@ -1000,12 +1000,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-09-04 14:29:59",
-    "StartTimeFixJST": "2023-08-31 16:30:00",
     "Id": 27,
     "IsIgnore": null,
     "Memo": "アームストロング＋フィアー・オフィーリア復刻（0831切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-08-31 16:30:00",
+    "EndTimeFixJST": "2023-09-04 14:29:59",
     "OrderNumber": 24,
     "CharacterIdList": [
       50,
@@ -1041,12 +1041,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-09-07 14:29:59",
-    "StartTimeFixJST": "2023-09-04 14:30:00",
     "Id": 28,
     "IsIgnore": null,
     "Memo": "アームストロング＋オフィーリア復刻（0904切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-09-04 14:30:00",
+    "EndTimeFixJST": "2023-09-07 14:29:59",
     "OrderNumber": 25,
     "CharacterIdList": [
       50,
@@ -1080,12 +1080,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-09-15 14:29:59",
-    "StartTimeFixJST": "2023-09-07 14:30:00",
     "Id": 29,
     "IsIgnore": null,
     "Memo": "アームストロング＋復刻ソーニャ（0907切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-09-07 14:30:00",
+    "EndTimeFixJST": "2023-09-15 14:29:59",
     "OrderNumber": 26,
     "CharacterIdList": [
       50,
@@ -1119,12 +1119,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-09-21 14:29:59",
-    "StartTimeFixJST": "2023-09-15 16:30:00",
     "Id": 30,
     "IsIgnore": null,
     "Memo": "ステラ＋ソーニャ復刻（0915切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-09-15 16:30:00",
+    "EndTimeFixJST": "2023-09-21 14:29:59",
     "OrderNumber": 28,
     "CharacterIdList": [
       57,
@@ -1158,12 +1158,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-09-29 14:29:59",
-    "StartTimeFixJST": "2023-09-21 14:30:00",
     "Id": 31,
     "IsIgnore": null,
     "Memo": "ステラ＋復刻シフォン（0921切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-09-21 14:30:00",
+    "EndTimeFixJST": "2023-09-29 14:29:59",
     "OrderNumber": 29,
     "CharacterIdList": [
       57,
@@ -1197,12 +1197,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-10-05 14:29:59",
-    "StartTimeFixJST": "2023-09-29 16:30:00",
     "Id": 32,
     "IsIgnore": null,
     "Memo": "プリシラ＋シフォン復刻(0929切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-09-29 16:30:00",
+    "EndTimeFixJST": "2023-10-05 14:29:59",
     "OrderNumber": 30,
     "CharacterIdList": [
       62,
@@ -1236,12 +1236,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-10-18 14:29:59",
-    "StartTimeFixJST": "2023-10-05 14:30:00",
     "Id": 33,
     "IsIgnore": null,
     "Memo": "プリシラ＋ルサールカ復刻（1005切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-10-05 14:30:00",
+    "EndTimeFixJST": "2023-10-18 14:29:59",
     "OrderNumber": 31,
     "CharacterIdList": [
       62,
@@ -1275,12 +1275,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-10-24 14:29:59",
-    "StartTimeFixJST": "2023-10-18 17:30:00",
     "Id": 34,
     "IsIgnore": null,
     "Memo": "エルフリンデ＋ルサールカ復刻(1018切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-10-18 17:30:00",
+    "EndTimeFixJST": "2023-10-24 14:29:59",
     "OrderNumber": 32,
     "CharacterIdList": [
       45,
@@ -1314,12 +1314,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-10-31 14:29:59",
-    "StartTimeFixJST": "2023-10-24 14:30:00",
     "Id": 35,
     "IsIgnore": null,
     "Memo": "エルフリンデ②＋ソフィア復刻①（1024切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-10-24 14:30:00",
+    "EndTimeFixJST": "2023-10-31 14:29:59",
     "OrderNumber": 33,
     "CharacterIdList": [
       45,
@@ -1353,12 +1353,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-11-08 14:29:59",
-    "StartTimeFixJST": "2023-10-31 16:30:00",
     "Id": 36,
     "IsIgnore": null,
     "Memo": "エルフリンデ③＋ソフィア復刻②＋神呪イリア①（1031切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-10-31 16:30:00",
+    "EndTimeFixJST": "2023-11-08 14:29:59",
     "OrderNumber": 34,
     "CharacterIdList": [
       61,
@@ -1394,12 +1394,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-11-15 14:29:59",
-    "StartTimeFixJST": "2023-11-08 14:30:00",
     "Id": 37,
     "IsIgnore": null,
     "Memo": "神呪イリア②＋シヴィ復刻①（1108切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-11-08 14:30:00",
+    "EndTimeFixJST": "2023-11-15 14:29:59",
     "OrderNumber": 35,
     "CharacterIdList": [
       61,
@@ -1433,12 +1433,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-11-22 14:29:59",
-    "StartTimeFixJST": "2023-11-15 17:30:00",
     "Id": 38,
     "IsIgnore": null,
     "Memo": "シヴィ復刻②＋フェーネ①（1115切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-11-15 17:30:00",
+    "EndTimeFixJST": "2023-11-22 14:29:59",
     "OrderNumber": 36,
     "CharacterIdList": [
       68,
@@ -1472,12 +1472,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-11-30 14:29:59",
-    "StartTimeFixJST": "2023-11-22 14:30:00",
     "Id": 39,
     "IsIgnore": null,
     "Memo": "フェーネ②＋ケルベロス復刻①（1122切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-11-22 14:30:00",
+    "EndTimeFixJST": "2023-11-30 14:29:59",
     "OrderNumber": 37,
     "CharacterIdList": [
       68,
@@ -1511,12 +1511,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-12-07 14:29:59",
-    "StartTimeFixJST": "2023-11-30 14:30:00",
     "Id": 40,
     "IsIgnore": null,
     "Memo": "ケルベロス復刻②・聖夜アモールデータ(1130切替用)",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-11-30 14:30:00",
+    "EndTimeFixJST": "2023-12-07 14:29:59",
     "OrderNumber": 38,
     "CharacterIdList": [
       73,
@@ -1550,12 +1550,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-12-13 14:29:59",
-    "StartTimeFixJST": "2023-12-07 14:30:00",
     "Id": 41,
     "IsIgnore": null,
     "Memo": "聖夜アモール②＋アーティ復刻①（1207切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-12-07 14:30:00",
+    "EndTimeFixJST": "2023-12-13 14:29:59",
     "OrderNumber": 39,
     "CharacterIdList": [
       73,
@@ -1589,12 +1589,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-12-20 14:29:59",
-    "StartTimeFixJST": "2023-12-13 16:30:00",
     "Id": 42,
     "IsIgnore": null,
     "Memo": "アーティ復刻②＋聖夜トロポン①（1213切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-12-13 16:30:00",
+    "EndTimeFixJST": "2023-12-20 14:29:59",
     "OrderNumber": 40,
     "CharacterIdList": [
       74,
@@ -1628,12 +1628,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-12-26 14:29:59",
-    "StartTimeFixJST": "2023-12-20 14:30:00",
     "Id": 43,
     "IsIgnore": null,
     "Memo": "聖夜トロポン②＋A.A.復刻①（1220切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-12-20 14:30:00",
+    "EndTimeFixJST": "2023-12-26 14:29:59",
     "OrderNumber": 41,
     "CharacterIdList": [
       74,
@@ -1667,14 +1667,15 @@
     ]
   },
   {
-    "EndTimeFixJST": "2024-01-09 14:29:59",
-    "StartTimeFixJST": "2023-12-26 14:30:00",
     "Id": 44,
     "IsIgnore": null,
-    "Memo": "A.A.復刻②＋新規次キャラ仮入れ①（1226切替用）",
+    "Memo": "A.A.復刻②＋黒鎧アイリス①（1226切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2023-12-26 16:30:00",
+    "EndTimeFixJST": "2024-01-09 14:29:59",
     "OrderNumber": 42,
     "CharacterIdList": [
+      66,
       48,
       5,
       6,
@@ -1700,16 +1701,54 @@
       46
     ],
     "NewCharacterIdList": [
+      66,
       48
     ]
   },
   {
-    "EndTimeFixJST": "2023-08-29 14:29:59",
-    "StartTimeFixJST": "2023-08-14 16:30:00",
+    "Id": 45,
+    "IsIgnore": null,
+    "Memo": "黒鎧アイリス②＋次キャラ仮入れ①（0109切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2024-01-09 14:30:00",
+    "EndTimeFixJST": "2024-01-15 14:29:59",
+    "OrderNumber": 43,
+    "CharacterIdList": [
+      66,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      66
+    ]
+  },
+  {
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ_ベル・フォルティナ",
     "GachaSelectListType": "GachaSelectListType.StarsGuidance",
+    "StartTimeFixJST": "2023-08-14 16:30:00",
+    "EndTimeFixJST": "2023-08-29 14:29:59",
     "OrderNumber": 1,
     "CharacterIdList": [
       19,
@@ -1721,12 +1760,12 @@
     ]
   },
   {
-    "EndTimeFixJST": "2023-10-31 14:29:59",
-    "StartTimeFixJST": "2023-10-18 17:30:00",
     "Id": 10020,
     "IsIgnore": null,
     "Memo": "星の導き2回ガチャ_ルーク・ヴァルリーデ（ 10/18 14:30 ~ 10/31 14:29 ）",
     "GachaSelectListType": "GachaSelectListType.StarsGuidance",
+    "StartTimeFixJST": "2023-10-18 17:30:00",
+    "EndTimeFixJST": "2023-10-31 14:29:59",
     "OrderNumber": 2,
     "CharacterIdList": [
       30,
@@ -1735,6 +1774,23 @@
     "NewCharacterIdList": [
       30,
       47
+    ]
+  },
+  {
+    "Id": 10030,
+    "IsIgnore": null,
+    "Memo": "星の導き3回ガチャ_カロル・ソーニャ（ 12/26 14:30 ~ 01/09 14:29 ）",
+    "GachaSelectListType": "GachaSelectListType.StarsGuidance",
+    "StartTimeFixJST": "2023-12-26 16:30:00",
+    "EndTimeFixJST": "2024-01-09 14:29:59",
+    "OrderNumber": 3,
+    "CharacterIdList": [
+      40,
+      9
+    ],
+    "NewCharacterIdList": [
+      40,
+      9
     ]
   }
 ]

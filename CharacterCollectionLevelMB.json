@@ -5350,5 +5350,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3701,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 500
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3702,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3703,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3704,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3705,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1050
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3706,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1100
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 80
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3707,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 1150
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 85
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

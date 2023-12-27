@@ -885,6 +885,36 @@
     "ToastKey": "[OpenContentToast220]"
   },
   {
+    "Id": 240,
+    "IsIgnore": null,
+    "Memo": "累計貢献メダル宝箱報酬一括受取解放テキスト",
+    "OpenContentType": "OpenContentType.QuestClear",
+    "TutorialId": 0,
+    "OpenContentValue": 252,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "OpenCommandType.ReceiveAllActivityMedalRewardText",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": "[OpenContentToast240]"
+  },
+  {
+    "Id": 241,
+    "IsIgnore": null,
+    "Memo": "累計貢献メダル宝箱報酬一括受取",
+    "OpenContentType": "OpenContentType.QuestClear",
+    "TutorialId": 0,
+    "OpenContentValue": 280,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "OpenCommandType.ReceiveAllActivityMedalReward",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": "[OpenContentToast241]"
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",

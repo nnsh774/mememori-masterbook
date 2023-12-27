@@ -26,16 +26,16 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemCount": 10,
             "ItemId": 4,
-            "ItemCount": 10
+            "ItemType": "ItemType.ExchangePlaceItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 50,
             "ItemId": 1,
-            "ItemCount": 50
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -43,14 +43,14 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 1,
         "ItemId": 1,
-        "ItemCount": 1
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 5000,
         "ItemId": 1,
-        "ItemCount": 5000
+        "ItemType": "ItemType.Gold"
       }
     ],
     "AutoBattlePlayerExpBonus": 0,
@@ -88,26 +88,26 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 1,
             "ItemId": 7,
-            "ItemCount": 1
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemCount": 20,
             "ItemId": 4,
-            "ItemCount": 20
+            "ItemType": "ItemType.ExchangePlaceItem"
           },
           {
-            "ItemType": "ItemType.GachaTicket",
+            "ItemCount": 2,
             "ItemId": 2,
-            "ItemCount": 2
+            "ItemType": "ItemType.GachaTicket"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 150,
             "ItemId": 1,
-            "ItemCount": 150
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -115,14 +115,14 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 1,
         "ItemId": 1,
-        "ItemCount": 1
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 15000,
         "ItemId": 1,
-        "ItemCount": 15000
+        "ItemType": "ItemType.Gold"
       }
     ],
     "AutoBattlePlayerExpBonus": 22,
@@ -160,26 +160,26 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 2,
             "ItemId": 7,
-            "ItemCount": 2
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemCount": 60,
             "ItemId": 4,
-            "ItemCount": 60
+            "ItemType": "ItemType.ExchangePlaceItem"
           },
           {
-            "ItemType": "ItemType.GachaTicket",
+            "ItemCount": 4,
             "ItemId": 2,
-            "ItemCount": 4
+            "ItemType": "ItemType.GachaTicket"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 750,
             "ItemId": 1,
-            "ItemCount": 750
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -187,19 +187,19 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 1,
         "ItemId": 1,
-        "ItemCount": 1
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 25000,
         "ItemId": 1,
-        "ItemCount": 25000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 1,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       }
     ],
     "AutoBattlePlayerExpBonus": 22,
@@ -237,21 +237,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 10,
             "ItemId": 2,
-            "ItemCount": 10
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           },
           {
-            "ItemType": "ItemType.TreasureChest",
+            "ItemCount": 120,
             "ItemId": 28,
-            "ItemCount": 120
+            "ItemType": "ItemType.TreasureChest"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 900,
             "ItemId": 1,
-            "ItemCount": 900
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -259,19 +259,19 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 1,
         "ItemId": 1,
-        "ItemCount": 1
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 40000,
         "ItemId": 1,
-        "ItemCount": 40000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 1,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -309,26 +309,26 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 2,
             "ItemId": 3,
-            "ItemCount": 2
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 2,
             "ItemId": 8,
-            "ItemCount": 2
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemCount": 240,
             "ItemId": 4,
-            "ItemCount": 240
+            "ItemType": "ItemType.ExchangePlaceItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 1000,
             "ItemId": 1,
-            "ItemCount": 1000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -336,19 +336,19 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 2,
         "ItemId": 1,
-        "ItemCount": 2
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 50000,
         "ItemId": 1,
-        "ItemCount": 50000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 2,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -386,26 +386,26 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 1,
             "ItemId": 5,
-            "ItemCount": 1
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 1,
             "ItemId": 10,
-            "ItemCount": 1
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemCount": 240,
             "ItemId": 4,
-            "ItemCount": 240
+            "ItemType": "ItemType.ExchangePlaceItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 1200,
             "ItemId": 1,
-            "ItemCount": 1200
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -413,19 +413,19 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 2,
         "ItemId": 1,
-        "ItemCount": 2
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 75000,
         "ItemId": 1,
-        "ItemCount": 75000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 2,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -463,26 +463,26 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 2,
             "ItemId": 5,
-            "ItemCount": 2
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 2,
             "ItemId": 10,
-            "ItemCount": 2
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.ExchangePlaceItem",
+            "ItemCount": 480,
             "ItemId": 4,
-            "ItemCount": 480
+            "ItemType": "ItemType.ExchangePlaceItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 2400,
             "ItemId": 1,
-            "ItemCount": 2400
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -490,19 +490,19 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 2,
         "ItemId": 1,
-        "ItemCount": 2
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 100000,
         "ItemId": 1,
-        "ItemCount": 100000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 2,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -537,30 +537,30 @@
     "IsLockEquipmentTrainingAvailable": true,
     "ReachRewardItemList": [
       {
-        "ItemType": "ItemType.TreasureChest",
+        "ItemCount": 1,
         "ItemId": 26,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChest"
       }
     ],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 30,
             "ItemId": 2,
-            "ItemCount": 30
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           },
           {
-            "ItemType": "ItemType.TreasureChest",
+            "ItemCount": 240,
             "ItemId": 28,
-            "ItemCount": 240
+            "ItemType": "ItemType.TreasureChest"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 3000,
             "ItemId": 1,
-            "ItemCount": 3000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -568,24 +568,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 2,
         "ItemId": 1,
-        "ItemCount": 2
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 150000,
         "ItemId": 1,
-        "ItemCount": 150000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 50,
         "ItemId": 3,
-        "ItemCount": 50
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -623,21 +623,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 7,
             "ItemId": 13,
-            "ItemCount": 7
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 100,
             "ItemId": 2,
-            "ItemCount": 100
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 3600,
             "ItemId": 1,
-            "ItemCount": 3600
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -645,24 +645,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 2,
         "ItemId": 1,
-        "ItemCount": 2
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 200000,
         "ItemId": 1,
-        "ItemCount": 200000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 100,
         "ItemId": 3,
-        "ItemCount": 100
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -700,21 +700,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 14,
             "ItemId": 13,
-            "ItemCount": 14
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 12000,
             "ItemId": 1,
-            "ItemCount": 12000
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 7000,
             "ItemId": 1,
-            "ItemCount": 7000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -722,24 +722,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 250000,
         "ItemId": 1,
-        "ItemCount": 250000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 150,
         "ItemId": 3,
-        "ItemCount": 150
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -777,21 +777,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 5,
             "ItemId": 15,
-            "ItemCount": 5
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 300,
             "ItemId": 2,
-            "ItemCount": 300
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 10000,
             "ItemId": 1,
-            "ItemCount": 10000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -799,24 +799,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 300000,
         "ItemId": 1,
-        "ItemCount": 300000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 200,
         "ItemId": 3,
-        "ItemCount": 200
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -854,21 +854,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 6,
             "ItemId": 15,
-            "ItemCount": 6
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 24000,
             "ItemId": 1,
-            "ItemCount": 24000
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 12000,
             "ItemId": 1,
-            "ItemCount": 12000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -876,24 +876,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 400000,
         "ItemId": 1,
-        "ItemCount": 400000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 275,
         "ItemId": 3,
-        "ItemCount": 275
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -928,30 +928,30 @@
     "IsLockEquipmentTrainingAvailable": true,
     "ReachRewardItemList": [
       {
-        "ItemType": "ItemType.TreasureChest",
+        "ItemCount": 1,
         "ItemId": 26,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChest"
       }
     ],
     "VipGiftInfoList": [
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 150,
             "ItemId": 2,
-            "ItemCount": 150
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           },
           {
-            "ItemType": "ItemType.TreasureChest",
+            "ItemCount": 480,
             "ItemId": 28,
-            "ItemCount": 480
+            "ItemType": "ItemType.TreasureChest"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 15000,
             "ItemId": 1,
-            "ItemCount": 15000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -959,24 +959,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 500000,
         "ItemId": 1,
-        "ItemCount": 500000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 350,
         "ItemId": 3,
-        "ItemCount": 350
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -1014,21 +1014,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 10,
             "ItemId": 20,
-            "ItemCount": 10
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 600,
             "ItemId": 2,
-            "ItemCount": 600
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 26000,
             "ItemId": 1,
-            "ItemCount": 26000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -1036,24 +1036,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 750000,
         "ItemId": 1,
-        "ItemCount": 750000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 425,
         "ItemId": 3,
-        "ItemCount": 425
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -1091,21 +1091,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 10,
             "ItemId": 20,
-            "ItemCount": 10
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 80000,
             "ItemId": 1,
-            "ItemCount": 80000
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 34000,
             "ItemId": 1,
-            "ItemCount": 34000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -1113,24 +1113,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 1000000,
         "ItemId": 1,
-        "ItemCount": 1000000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 500,
         "ItemId": 3,
-        "ItemCount": 500
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,
@@ -1168,21 +1168,21 @@
       {
         "GetItemList": [
           {
-            "ItemType": "ItemType.QuestQuickTicket",
+            "ItemCount": 10,
             "ItemId": 20,
-            "ItemCount": 10
+            "ItemType": "ItemType.QuestQuickTicket"
           },
           {
-            "ItemType": "ItemType.EquipmentReinforcementItem",
+            "ItemCount": 1200,
             "ItemId": 2,
-            "ItemCount": 1200
+            "ItemType": "ItemType.EquipmentReinforcementItem"
           }
         ],
         "RequiredItemList": [
           {
-            "ItemType": "ItemType.CurrencyFree",
+            "ItemCount": 42000,
             "ItemId": 1,
-            "ItemCount": 42000
+            "ItemType": "ItemType.CurrencyFree"
           }
         ],
         "VipGiftId": 0
@@ -1190,24 +1190,24 @@
     ],
     "DailyRewardItemList": [
       {
-        "ItemType": "ItemType.BossChallengeTicket",
+        "ItemCount": 3,
         "ItemId": 1,
-        "ItemCount": 3
+        "ItemType": "ItemType.BossChallengeTicket"
       },
       {
-        "ItemType": "ItemType.Gold",
+        "ItemCount": 1500000,
         "ItemId": 1,
-        "ItemCount": 1500000
+        "ItemType": "ItemType.Gold"
       },
       {
-        "ItemType": "ItemType.TreasureChestKey",
+        "ItemCount": 1,
         "ItemId": 3,
-        "ItemCount": 1
+        "ItemType": "ItemType.TreasureChestKey"
       },
       {
-        "ItemType": "ItemType.ExchangePlaceItem",
+        "ItemCount": 600,
         "ItemId": 3,
-        "ItemCount": 600
+        "ItemType": "ItemType.ExchangePlaceItem"
       }
     ],
     "AutoBattlePlayerExpBonus": 34,

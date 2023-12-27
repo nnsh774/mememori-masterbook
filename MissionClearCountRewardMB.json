@@ -8,17 +8,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 100,
           "ItemId": 1,
-          "ItemCount": 100
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.EquipmentReinforcementItem",
+          "ItemCount": 100,
           "ItemId": 1,
-          "ItemCount": 100
+          "ItemType": "ItemType.EquipmentReinforcementItem"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -33,17 +33,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 150,
           "ItemId": 1,
-          "ItemCount": 150
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.Character",
+          "ItemCount": 1,
           "ItemId": 5,
-          "ItemCount": 1
+          "ItemType": "ItemType.Character"
         },
         "RarityFlags": "CharacterRarityFlags.SR"
       }
@@ -58,25 +58,25 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 200,
           "ItemId": 1,
-          "ItemCount": 200
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.QuestQuickTicket",
+          "ItemCount": 1,
           "ItemId": 9,
-          "ItemCount": 1
+          "ItemType": "ItemType.QuestQuickTicket"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.QuestQuickTicket",
+          "ItemCount": 1,
           "ItemId": 14,
-          "ItemCount": 1
+          "ItemType": "ItemType.QuestQuickTicket"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -91,17 +91,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 300,
           "ItemId": 1,
-          "ItemCount": 300
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.Character",
+          "ItemCount": 1,
           "ItemId": 5,
-          "ItemCount": 1
+          "ItemType": "ItemType.Character"
         },
         "RarityFlags": "CharacterRarityFlags.SR"
       }
@@ -116,17 +116,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 500,
           "ItemId": 1,
-          "ItemCount": 500
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.TreasureChest",
+          "ItemCount": 1,
           "ItemId": 26,
-          "ItemCount": 1
+          "ItemType": "ItemType.TreasureChest"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -141,17 +141,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 100,
           "ItemId": 1,
-          "ItemCount": 100
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.ExchangePlaceItem",
+          "ItemCount": 500,
           "ItemId": 3,
-          "ItemCount": 500
+          "ItemType": "ItemType.ExchangePlaceItem"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -166,17 +166,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 150,
           "ItemId": 1,
-          "ItemCount": 150
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.GachaTicket",
+          "ItemCount": 10,
           "ItemId": 3,
-          "ItemCount": 10
+          "ItemType": "ItemType.GachaTicket"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -191,17 +191,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 200,
           "ItemId": 1,
-          "ItemCount": 200
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.QuestQuickTicket",
+          "ItemCount": 2,
           "ItemId": 17,
-          "ItemCount": 2
+          "ItemType": "ItemType.QuestQuickTicket"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -216,17 +216,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 300,
           "ItemId": 1,
-          "ItemCount": 300
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.GachaTicket",
+          "ItemCount": 10,
           "ItemId": 3,
-          "ItemCount": 10
+          "ItemType": "ItemType.GachaTicket"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
@@ -241,17 +241,17 @@
     "RewardList": [
       {
         "Item": {
-          "ItemType": "ItemType.CurrencyFree",
+          "ItemCount": 500,
           "ItemId": 1,
-          "ItemCount": 500
+          "ItemType": "ItemType.CurrencyFree"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemType": "ItemType.TreasureChest",
+          "ItemCount": 1,
           "ItemId": 26,
-          "ItemCount": 1
+          "ItemType": "ItemType.TreasureChest"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
