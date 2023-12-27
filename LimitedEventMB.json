@@ -1,42 +1,50 @@
 [
   {
-    "EndTime": "2023-01-04 03:59:59",
-    "StartTime": "2022-12-27 04:00:00",
     "Id": 1,
     "IsIgnore": null,
     "Memo": "塔解放イベント(12/27~01/03)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease"
+    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "StartTime": "2022-12-27 04:00:00",
+    "EndTime": "2023-01-04 03:59:59"
   },
   {
-    "EndTime": "2023-05-21 03:59:59",
-    "StartTime": "2023-05-15 04:00:00",
     "Id": 2,
     "IsIgnore": null,
     "Memo": "塔解放イベント(05/15~05/20)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease"
+    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "StartTime": "2023-05-15 04:00:00",
+    "EndTime": "2023-05-21 03:59:59"
   },
   {
-    "EndTime": "2023-12-05 21:00:00",
-    "StartTime": "2022-01-01 00:00:00",
     "Id": 3,
     "IsIgnore": null,
     "Memo": "特別アイコン未解放期間",
-    "LimitedEventType": "LimitedEventType.LegendLeagueIconReward"
+    "LimitedEventType": "LimitedEventType.LegendLeagueIconReward",
+    "StartTime": "2022-01-01 00:00:00",
+    "EndTime": "2023-12-05 21:00:00"
   },
   {
-    "EndTime": "2023-12-12 00:00:00",
-    "StartTime": "2022-01-01 00:00:00",
     "Id": 4,
     "IsIgnore": null,
     "Memo": "2.4.0_特別アイコン選択ダイアログタブ無し設定",
-    "LimitedEventType": 1000
+    "LimitedEventType": "LimitedEventType.DialogGlobalPvpSpecialPlayerIconListViewControllerOld",
+    "StartTime": "2022-01-01 00:00:00",
+    "EndTime": "2023-12-12 00:00:00"
   },
   {
-    "EndTime": "2100-01-01 00:00:00",
-    "StartTime": "2023-05-31 14:30:00",
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "塔解放イベント(12/26~01/09)",
+    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "StartTime": "2023-12-26 04:00:00",
+    "EndTime": "2024-01-09 03:59:59"
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "メニュー：シリアルコード入力ボタン",
-    "LimitedEventType": "LimitedEventType.SerialCode"
+    "LimitedEventType": "LimitedEventType.SerialCode",
+    "StartTime": "2023-05-31 14:30:00",
+    "EndTime": "2100-01-01 00:00:00"
   }
 ]

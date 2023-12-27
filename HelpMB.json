@@ -1189,6 +1189,11 @@
         "HeadLine": "[HelpHeadLine5201]",
         "MainText": "[HelpMainText5201]",
         "HelpParameterType": "HelpParameterType.None"
+      },
+      {
+        "HeadLine": "[HelpHeadLine5202]",
+        "MainText": "[HelpMainText5202]",
+        "HelpParameterType": "HelpParameterType.None"
       }
     ],
     "TutorialDescriptionId": 15,
@@ -1288,6 +1293,36 @@
       {
         "HeadLine": "[HelpHeadLine401]",
         "MainText": "[HelpMainText401]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "IsDisplayed": true
+  },
+  {
+    "Id": 6000,
+    "IsIgnore": null,
+    "Memo": "ギルドミッション",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine6000]",
+        "MainText": "[HelpMainText6000]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "IsDisplayed": true
+  },
+  {
+    "Id": 6100,
+    "IsIgnore": null,
+    "Memo": "期間限定ログインボーナス",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine6100]",
+        "MainText": "[HelpMainText6100]",
         "HelpParameterType": "HelpParameterType.None"
       }
     ],
