@@ -481,18 +481,18 @@
     "IsIgnore": null,
     "Memo": "アーティ",
     "CharacterId": 58,
-    "IsPickup": true,
-    "StartTimeFixJST": "2023-12-07 14:30:00",
-    "EndTimeFixJST": "2023-12-20 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 55,
     "IsIgnore": null,
     "Memo": "リシェス",
     "CharacterId": 67,
-    "IsPickup": false,
-    "StartTimeFixJST": "2100-12-31 23:59:59",
-    "EndTimeFixJST": "2100-12-31 23:59:59"
+    "IsPickup": true,
+    "StartTimeFixJST": "2024-01-09 14:30:00",
+    "EndTimeFixJST": "2024-01-22 14:29:59"
   },
   {
     "Id": 56,
