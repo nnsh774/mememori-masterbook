@@ -6804,5 +6804,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 319,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルSSR180",
+    "CharacterId": 64,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 550
+      }
+    ],
+    "BattleParameterChangeInfoList": []
+  },
+  {
+    "Id": 320,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルSSR200",
+    "CharacterId": 64,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 321,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルSSR220",
+    "CharacterId": 64,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650
+      },
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 322,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルSSR240",
+    "CharacterId": 64,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 323,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルUR",
+    "CharacterId": 64,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750
+      },
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 324,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルLR",
+    "CharacterId": 64,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

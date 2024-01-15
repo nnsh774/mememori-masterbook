@@ -1747,13 +1747,15 @@
   {
     "Id": 46,
     "IsIgnore": null,
-    "Memo": "リシェス復刻②＋新規次キャラ仮入れ①（0115切替用）",
+    "Memo": "リシェス復刻②＋ギルウィアル①＋ウィーラ復刻①（0115切替用）",
     "GachaSelectListType": "GachaSelectListType.Destiny",
     "StartTimeFixJST": "2024-01-15 14:30:00",
     "EndTimeFixJST": "2024-01-22 14:29:59",
     "OrderNumber": 44,
     "CharacterIdList": [
+      64,
       67,
+      53,
       5,
       6,
       7,
@@ -1778,7 +1780,85 @@
       46
     ],
     "NewCharacterIdList": [
-      67
+      64,
+      67,
+      53
+    ]
+  },
+  {
+    "Id": 47,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル②＋ウィーラ復刻②＋次キャラ仮入れ①（0122切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2024-01-22 14:30:00",
+    "EndTimeFixJST": "2024-01-29 14:29:59",
+    "OrderNumber": 45,
+    "CharacterIdList": [
+      64,
+      53,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      64,
+      53
+    ]
+  },
+  {
+    "Id": 48,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル③＋次キャラ仮入れ②（0129切替用）",
+    "GachaSelectListType": "GachaSelectListType.Destiny",
+    "StartTimeFixJST": "2024-01-29 14:30:00",
+    "EndTimeFixJST": "2024-01-31 14:29:59",
+    "OrderNumber": 46,
+    "CharacterIdList": [
+      64,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      64
     ]
   },
   {

@@ -7272,6 +7272,132 @@
     "RarityFlags": "CharacterRarityFlags.LR"
   },
   {
+    "Id": 426,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル1",
+    "CharacterId": 64,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6401]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 427,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル2",
+    "CharacterId": 64,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6402]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 428,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル3",
+    "CharacterId": 64,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6403]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 429,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル4",
+    "CharacterId": 64,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6404]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 430,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル5",
+    "CharacterId": 64,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6405]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 431,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル6",
+    "CharacterId": 64,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6406]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 432,
+    "IsIgnore": null,
+    "Memo": "ギルウィアル7",
+    "CharacterId": 64,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6407]",
+    "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
     "Id": 440,
     "IsIgnore": null,
     "Memo": "黒鎧アイリス1",
