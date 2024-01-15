@@ -8073,6 +8073,130 @@
     "RootActiveSkillId": 62002
   },
   {
+    "Id": 64001,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルSR:Lv1 魔法で生み出された夕闇が敵を惑わし力を奪う――攻撃力が高い敵2体のバフを1つ解除する。/ Lv2 さらにバフ解除後に対象のHP割合が50%以上の場合、20%の確率で1ターンの間対象に『沈黙』を付与する。/ Lv3 バフ解除後に対象の魔力が自身よりも低い場合、『沈黙』を付与する確率が40%になる。/ Ex1 惑いの夕闇を強化する。『沈黙』を付与する確率が30%、対象の魔力が自身よりも低い場合60%になる。",
+    "NameKey": "[ActiveSkillName64001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 5,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription640011]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          64001001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription640012]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          64001201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription640013]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          64001301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription640014]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.SSR",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          64001401
+        ]
+      }
+    ],
+    "RootActiveSkillId": 64001
+  },
+  {
+    "Id": 64002,
+    "IsIgnore": null,
+    "Memo": "ギルウィアルSR:Lv1 「安らかに眠り給えよ！」星光を放つ魔法が敵に降り注ぐ──ランダムな敵2体に攻撃力×780%の魔法攻撃を行う。/ Lv2 さらに魔法攻撃の後に40%の確率で1ターンの間対象に『沈黙』を付与する。/ Lv3 さらに魔法攻撃の前に自身が弱体効果を付帯している場合、魔法攻撃のダメージが2倍になる。/ Lv4 このスキルの対象がランダムな敵3体になる。/ Ex2 スターダストを強化する。『沈黙』を付与する確率が50%になる。/ Ex3 スターダストを強化する。魔法攻撃のダメージが攻撃力×880%になる。",
+    "NameKey": "[ActiveSkillName64002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 5,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription640021]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          64002001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription640022]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          64002201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription640023]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          64002301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription640024]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          64002401
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription640025]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          64002501
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription640026]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.LR",
+        "OrderNumber": 6,
+        "SubSetSkillIds": [
+          64002601
+        ]
+      }
+    ],
+    "RootActiveSkillId": 64002
+  },
+  {
     "Id": 66001,
     "IsIgnore": null,
     "Memo": "黒鎧アイリスSR:Lv1 「どうせ薄汚い獣同士。醜く殺しあいましょう？」攻撃力が高い敵3体に攻撃力×620%の物理攻撃を行う。/ Lv2 さらに物理攻撃の後、70%の確率で2ターンの間対象の攻撃力を10%減少させる。/ Lv3 物理攻撃のダメージが攻撃力×920%になる。/ Ex1 フェイタルクラッシュを強化する。物理攻撃のダメージが攻撃力×1120%になる。",
@@ -18252,6 +18376,130 @@
       }
     ],
     "RootActiveSkillId": 62002
+  },
+  {
+    "Id": 550464001,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[ActiveSkillName64001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 5,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          550464001001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          550464001201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          550464001301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.SSR",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          550464001401
+        ]
+      }
+    ],
+    "RootActiveSkillId": 64001
+  },
+  {
+    "Id": 550464002,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[ActiveSkillName64002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 5,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          550464002001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          550464002201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          550464002301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          550464002401
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          550464002501
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.LR",
+        "OrderNumber": 6,
+        "SubSetSkillIds": [
+          550464002601
+        ]
+      }
+    ],
+    "RootActiveSkillId": 64002
   },
   {
     "Id": 550466001,
