@@ -4078,5 +4078,21 @@
         "ItemType": "ItemType.Gold"
       }
     ]
+  },
+  {
+    "Id": 256,
+    "IsIgnore": null,
+    "Memo": "継承の秘伝書",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.EventExchangePlaceItem",
+    "ItemId": 15,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      }
+    ]
   }
 ]
