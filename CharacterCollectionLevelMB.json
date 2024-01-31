@@ -5648,5 +5648,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3901,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 100
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3902,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3903,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 3904,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3905,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 31
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 210
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3906,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 32
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 220
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 3907,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 33
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 230
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
