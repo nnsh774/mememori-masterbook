@@ -10567,6 +10567,147 @@
     "EffectGroupInfoList": []
   },
   {
+    "Id": 5600200101,
+    "IsIgnore": null,
+    "Memo": "[気絶] 行動不能になり、回避率が50%減少する。",
+    "NameKey": "[EffectGroupName5600200101]",
+    "DescriptionKey": "[EffectGroupDescription5600200101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56002,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 5600300101,
+    "IsIgnore": null,
+    "Memo": "[決死]攻撃力が40％増加し、毎ターン現在HP×20％のダメージを受ける。",
+    "NameKey": "[EffectGroupName5600300101]",
+    "DescriptionKey": "[EffectGroupDescription5600300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5600330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5600320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5600300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5600320101,
+    "IsIgnore": null,
+    "Memo": "[決死]攻撃力が60％増加し、毎ターン現在HP×20％のダメージを受ける。",
+    "NameKey": "[EffectGroupName5600320101]",
+    "DescriptionKey": "[EffectGroupDescription5600320101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5600330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5600320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5600300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5600330101,
+    "IsIgnore": null,
+    "Memo": "[決死]攻撃力が80％増加し、毎ターン現在HP×20％のダメージを受ける。",
+    "NameKey": "[EffectGroupName5600330101]",
+    "DescriptionKey": "[EffectGroupDescription5600330101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5600330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5600320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 5600300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 5600400101,
+    "IsIgnore": null,
+    "Memo": "*最大HPが30％増加する（解除不可）。",
+    "NameKey": "[EffectGroupName5600400101]",
+    "DescriptionKey": "[EffectGroupDescription5600400101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5600400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 5600430101,
+    "IsIgnore": null,
+    "Memo": "*最大HPが60％増加する（解除不可）。",
+    "NameKey": "[EffectGroupName5600430101]",
+    "DescriptionKey": "[EffectGroupDescription5600430101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 5600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 5600400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
     "Id": 5700100102,
     "IsIgnore": null,
     "Memo": "[沈黙] スキルが使用不能になる。",
@@ -28227,6 +28368,147 @@
     "IsHide": false,
     "IsTurnHide": false,
     "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045600200101,
+    "IsIgnore": null,
+    "Memo": "[気絶] 行動不能になり、回避率が50%減少する。",
+    "NameKey": "[EffectGroupName5600200101]",
+    "DescriptionKey": "[EffectGroupDescription5600200101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56002,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": []
+  },
+  {
+    "Id": 55045600300101,
+    "IsIgnore": null,
+    "Memo": "[決死]攻撃力が40％増加し、毎ターン現在HP×20％のダメージを受ける。",
+    "NameKey": "[EffectGroupName5600300101]",
+    "DescriptionKey": "[EffectGroupDescription5600300101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045600330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045600320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045600300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045600320101,
+    "IsIgnore": null,
+    "Memo": "[決死]攻撃力が60％増加し、毎ターン現在HP×20％のダメージを受ける。",
+    "NameKey": "[EffectGroupName5600320101]",
+    "DescriptionKey": "[EffectGroupDescription5600320101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045600330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045600320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045600300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045600330101,
+    "IsIgnore": null,
+    "Memo": "[決死]攻撃力が80％増加し、毎ターン現在HP×20％のダメージを受ける。",
+    "NameKey": "[EffectGroupName5600330101]",
+    "DescriptionKey": "[EffectGroupDescription5600330101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56003,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045600330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045600320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 55045600300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 55045600400101,
+    "IsIgnore": null,
+    "Memo": "*最大HPが30％増加する（解除不可）。",
+    "NameKey": "[EffectGroupName5600400101]",
+    "DescriptionKey": "[EffectGroupDescription5600400101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045600400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55045600430101,
+    "IsIgnore": null,
+    "Memo": "*最大HPが60％増加する（解除不可）。",
+    "NameKey": "[EffectGroupName5600430101]",
+    "DescriptionKey": "[EffectGroupDescription5600430101]",
+    "IconType": "EffectGroupIconType.Character",
+    "IconId": 56004,
+    "CasterIconType": "EffectGroupIconType.Character",
+    "CasterIconId": 56,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55045600430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55045600400101,
+        "OrderNumber": 2
+      }
+    ]
   },
   {
     "Id": 55045700100102,
