@@ -6938,5 +6938,134 @@
         "Value": 1000.0
       }
     ]
+  },
+  {
+    "Id": 325,
+    "IsIgnore": null,
+    "Memo": "クラウディアSSR180",
+    "CharacterId": 56,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200.0
+      }
+    ]
+  },
+  {
+    "Id": 326,
+    "IsIgnore": null,
+    "Memo": "クラウディアSSR200",
+    "CharacterId": 56,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200.0
+      }
+    ]
+  },
+  {
+    "Id": 327,
+    "IsIgnore": null,
+    "Memo": "クラウディアSSR220",
+    "CharacterId": 56,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 350.0
+      }
+    ]
+  },
+  {
+    "Id": 328,
+    "IsIgnore": null,
+    "Memo": "クラウディアSSR240",
+    "CharacterId": 56,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 400.0
+      }
+    ]
+  },
+  {
+    "Id": 329,
+    "IsIgnore": null,
+    "Memo": "クラウディアUR",
+    "CharacterId": 56,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2000.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 450.0
+      }
+    ]
+  },
+  {
+    "Id": 330,
+    "IsIgnore": null,
+    "Memo": "クラウディアLR",
+    "CharacterId": 56,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2200.0
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 500.0
+      }
+    ]
   }
 ]
