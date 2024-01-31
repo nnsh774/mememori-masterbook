@@ -3193,5 +3193,365 @@
         "ItemType": "ItemType.CurrencyFree"
       }
     ]
+  },
+  {
+    "Id": 214,
+    "IsIgnore": null,
+    "Memo": "藍の塔650階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey214]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 650,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 215,
+    "IsIgnore": null,
+    "Memo": "藍の塔700階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey215]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 700,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 216,
+    "IsIgnore": null,
+    "Memo": "藍の塔750階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey216]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 750,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 217,
+    "IsIgnore": null,
+    "Memo": "藍の塔800階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey217]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 800,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 218,
+    "IsIgnore": null,
+    "Memo": "藍の塔850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey218]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 219,
+    "IsIgnore": null,
+    "Memo": "藍の塔900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey219]",
+    "RankingDataType": "RankingDataType.TowerBlue",
+    "RequireValue": 900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 220,
+    "IsIgnore": null,
+    "Memo": "紅の塔650階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey220]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 650,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 221,
+    "IsIgnore": null,
+    "Memo": "紅の塔700階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey221]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 700,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 222,
+    "IsIgnore": null,
+    "Memo": "紅の塔750階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey222]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 750,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 223,
+    "IsIgnore": null,
+    "Memo": "紅の塔800階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey223]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 800,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 224,
+    "IsIgnore": null,
+    "Memo": "紅の塔850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey224]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 225,
+    "IsIgnore": null,
+    "Memo": "紅の塔900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey225]",
+    "RankingDataType": "RankingDataType.TowerRed",
+    "RequireValue": 900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 226,
+    "IsIgnore": null,
+    "Memo": "翠の塔650階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey226]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 650,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 227,
+    "IsIgnore": null,
+    "Memo": "翠の塔700階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey227]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 700,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 228,
+    "IsIgnore": null,
+    "Memo": "翠の塔750階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey228]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 750,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 229,
+    "IsIgnore": null,
+    "Memo": "翠の塔800階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey229]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 800,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 230,
+    "IsIgnore": null,
+    "Memo": "翠の塔850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey230]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 231,
+    "IsIgnore": null,
+    "Memo": "翠の塔900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey231]",
+    "RankingDataType": "RankingDataType.TowerGreen",
+    "RequireValue": 900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 232,
+    "IsIgnore": null,
+    "Memo": "黄の塔650階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey232]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 650,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 233,
+    "IsIgnore": null,
+    "Memo": "黄の塔700階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey233]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 700,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 234,
+    "IsIgnore": null,
+    "Memo": "黄の塔750階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey234]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 750,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 235,
+    "IsIgnore": null,
+    "Memo": "黄の塔800階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey235]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 800,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 236,
+    "IsIgnore": null,
+    "Memo": "黄の塔850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey236]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 237,
+    "IsIgnore": null,
+    "Memo": "黄の塔900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey237]",
+    "RankingDataType": "RankingDataType.TowerYellow",
+    "RequireValue": 900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ]
   }
 ]
