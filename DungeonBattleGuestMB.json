@@ -427,27 +427,27 @@
     "IsIgnore": null,
     "Memo": "【骸晶の魔女】オフィーリア",
     "CharacterId": 49,
-    "IsPickup": true,
-    "StartTimeFixJST": "2024-01-22 14:30:00",
-    "EndTimeFixJST": "2024-02-07 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 49,
     "IsIgnore": null,
     "Memo": "ウィーラ",
     "CharacterId": 53,
-    "IsPickup": true,
-    "StartTimeFixJST": "2024-01-15 14:30:00",
-    "EndTimeFixJST": "2024-01-29 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 50,
     "IsIgnore": null,
     "Memo": "レア",
     "CharacterId": 55,
-    "IsPickup": false,
-    "StartTimeFixJST": "2100-12-31 23:59:59",
-    "EndTimeFixJST": "2100-12-31 23:59:59"
+    "IsPickup": true,
+    "StartTimeFixJST": "2024-02-15 14:30:00",
+    "EndTimeFixJST": "2024-02-29 14:29:59"
   },
   {
     "Id": 51,
@@ -517,9 +517,9 @@
     "IsIgnore": null,
     "Memo": "フィアー",
     "CharacterId": 60,
-    "IsPickup": false,
-    "StartTimeFixJST": "2100-12-31 23:59:59",
-    "EndTimeFixJST": "2100-12-31 23:59:59"
+    "IsPickup": true,
+    "StartTimeFixJST": "2024-02-07 14:30:00",
+    "EndTimeFixJST": "2024-02-22 14:29:59"
   },
   {
     "Id": 59,
@@ -616,9 +616,9 @@
     "IsIgnore": null,
     "Memo": "ギルウィアル",
     "CharacterId": 64,
-    "IsPickup": true,
-    "StartTimeFixJST": "2024-01-15 14:30:00",
-    "EndTimeFixJST": "2024-01-31 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 70,
@@ -628,5 +628,14 @@
     "IsPickup": true,
     "StartTimeFixJST": "2024-01-31 14:30:00",
     "EndTimeFixJST": "2024-02-15 14:29:59"
+  },
+  {
+    "Id": 71,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "IsPickup": true,
+    "StartTimeFixJST": "2024-02-15 14:30:00",
+    "EndTimeFixJST": "2024-03-08 14:29:59"
   }
 ]

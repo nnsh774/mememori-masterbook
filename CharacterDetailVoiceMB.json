@@ -2304,6 +2304,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 622,
+    "IsIgnore": null,
+    "Memo": "アムレート朗読",
+    "CharacterId": 6,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Monologue",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Monologue",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
+  },
+  {
     "Id": 690,
     "IsIgnore": null,
     "Memo": "アムレート",
@@ -21104,6 +21120,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 4922,
+    "IsIgnore": null,
+    "Memo": "オフィーリア朗読",
+    "CharacterId": 49,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Monologue",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Monologue",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
+  },
+  {
     "Id": 4980,
     "IsIgnore": null,
     "Memo": "オフィーリア",
@@ -26704,6 +26736,502 @@
     "SortOrder": 99
   },
   {
+    "Id": 6302,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6302]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 6303,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6303]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 6304,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6304]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 6305,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6305]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 6306,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6306]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 6307,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6307]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 6308,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6308]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 6309,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6309]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 6310,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6310]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 6311,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6311]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 6312,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6312]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 6313,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6313]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 6314,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6314]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 6315,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6315]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 6316,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6316]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 6317,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6317]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 6318,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6318]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 6319,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6319]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 6320,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6320]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 6321,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6321]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 6380,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText80]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 860,
+    "Path": {
+      "TimelineType": "TimelineType.MyPageQlipha",
+      "TimelineId": 0
+    },
+    "SortOrder": 800
+  },
+  {
+    "Id": 6390,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6390]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 6391,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6391]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 6392,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6392]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 6393,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6393]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 6394,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText25]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6394]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 860,
+    "Path": {
+      "TimelineType": "TimelineType.SkillQlipha",
+      "TimelineId": 1
+    },
+    "SortOrder": 94
+  },
+  {
+    "Id": 6395,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText26]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6395]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.QuestClear",
+    "UnlockQuestId": 860,
+    "Path": {
+      "TimelineType": "TimelineType.SkillQlipha",
+      "TimelineId": 2
+    },
+    "SortOrder": 95
+  },
+  {
+    "Id": 6396,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 6397,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 6398,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 6399,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "CharacterId": 63,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
     "Id": 6402,
     "IsIgnore": null,
     "Memo": "ギルウィアル",
@@ -30724,6 +31252,902 @@
     "IsIgnore": null,
     "Memo": "聖夜トロポン",
     "CharacterId": 74,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
+    "Id": 7602,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7602]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 7603,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7603]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 7604,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7604]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 7605,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7605]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 7606,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7606]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 7607,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7607]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 7608,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7608]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 7609,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7609]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 7610,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7610]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 7611,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7611]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 7612,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7612]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 7613,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7613]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 7614,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7614]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 7615,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7615]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 7616,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7616]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 7617,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7617]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 7618,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7618]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 7619,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7619]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 7620,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7620]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 7621,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7621]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 7690,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7690]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 7691,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7691]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 7692,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7692]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 7693,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7693]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 7696,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 7697,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 7698,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 7699,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
+    "Id": 8402,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8402]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Login",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 8403,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8403]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.ComeBack",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 8404,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8404]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 8405,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8405]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 8406,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8406]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 8407,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8407]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 8408,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8408]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 8409,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8409]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Birthday",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 8410,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8410]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 8411,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8411]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 8412,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8412]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 8413,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8413]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 8414,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8414]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 8415,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8415]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Basic",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 8416,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8416]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 8417,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8417]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 8418,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8418]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 8419,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8419]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 8420,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8420]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 8421,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8421]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.RankUp",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 8490,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8490]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleWin",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 8491,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8491]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.BattleLose",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 8492,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8492]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 8493,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle8493]",
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 8496,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 8497,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 8498,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "CharacterVoiceCategory.Other",
+    "UnlockCondition": "UnlockCharacterDetailVoiceType.None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "TimelineType.Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 8499,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "CharacterId": 84,
     "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
     "SubtitleKey": null,
     "CharacterVoiceCategory": "CharacterVoiceCategory.Other",

@@ -6578,14 +6578,7 @@
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 58004003
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveResonanceDamage",
+            "PassiveTrigger": "PassiveTrigger.NextCheckReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 58004003
@@ -6615,14 +6608,7 @@
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 58004003
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveResonanceDamage",
+            "PassiveTrigger": "PassiveTrigger.NextCheckReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 58004003
@@ -6652,14 +6638,7 @@
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 58004003
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveResonanceDamage",
+            "PassiveTrigger": "PassiveTrigger.NextCheckReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 58004003
@@ -6689,14 +6668,7 @@
           },
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 58004003
-          },
-          {
-            "PassiveGroupId": 0,
-            "PassiveTrigger": "PassiveTrigger.ReceiveResonanceDamage",
+            "PassiveTrigger": "PassiveTrigger.NextCheckReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 58004003
@@ -7339,6 +7311,305 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 62004204
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 63003,
+    "IsIgnore": null,
+    "Memo": "パラデアSR",
+    "NameKey": "[PassiveSkillName63003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[PassiveSkillDescription630031]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[PassiveSkillDescription630032]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyGiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription630033]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyGiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 63004,
+    "IsIgnore": null,
+    "Memo": "パラデアSR",
+    "NameKey": "[PassiveSkillName63004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription630041]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 63004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription630042]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 63004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004204
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004204
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 33,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004206
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription630043]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 63004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 33,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004206
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[PassiveSkillDescription630044]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 63004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 63004402
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 33,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63004206
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 63005,
+    "IsIgnore": null,
+    "Memo": "*",
+    "NameKey": "*",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "*",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 63002000
           }
         ]
       }
@@ -8601,6 +8872,333 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 74004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 76003,
+    "IsIgnore": null,
+    "Memo": "ユニSR",
+    "NameKey": "[PassiveSkillName76003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription760031]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 76003002
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription760032]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 76003202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription760033]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 76003202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[PassiveSkillDescription760034]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76003401
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 76003202
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 76004,
+    "IsIgnore": null,
+    "Memo": "ユニSR",
+    "NameKey": "[PassiveSkillName76004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription760041]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription760042]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription760043]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 76004202
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 84003,
+    "IsIgnore": null,
+    "Memo": "リズSR:Lv1 篝火の帝国、極北の雪国、天涯の地、西の軍事国家、神宿りの森……。数多の旅路の軌跡は、今も鮮やかに――自身の行動開始時、自身が『クリティカル率増加』を付帯している場合、1ターンの間自身の攻撃力が20%増加する（解除不可）。/ Lv2 攻撃力の増加量が30%になる。/ Lv3 攻撃力の増加量が50%になる。",
+    "NameKey": "[PassiveSkillName84003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription840031]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 84003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription840032]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 84003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription840033]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 84003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 84004,
+    "IsIgnore": null,
+    "Memo": "リズSR:Lv1 「どのような困難があろうとも、私は歩みを止めません」ターン開始時、もしくは自身が攻撃を受けたとき、自身のHP割合が75%未満の場合、1ターンの間自身に『再生』を付与する（解除不可）。毎ターン行動開始時に自身のHPを自身の最大HP×7%回復する。このスキルはバトル中1回のみ発動する。/ Lv2 『再生』での回復量が自身の最大HP×25%になる。/ Lv3 『再生』のターン数が2ターンになる。",
+    "NameKey": "[PassiveSkillName84004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription840041]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 84004001
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 84004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription840042]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 84004201
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 84004201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription840043]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 84004301
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 84004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 84005,
+    "IsIgnore": null,
+    "Memo": "リズSR:Lv1 バトル開始時1ターンの間自身のスピードが20%増加する。",
+    "NameKey": "*",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[PassiveSkillDescription840051]",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 84005001
           }
         ]
       }
@@ -19619,6 +20217,305 @@
     ]
   },
   {
+    "Id": 550463003,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[PassiveSkillName63003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyGiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.AllyGiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550463004,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[PassiveSkillName63004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550463004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550463004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004204
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004204
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 33,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004206
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550463004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 33,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004206
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550463004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550463004402
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004203
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004304
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.GiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004205
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 33,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463004206
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550463005,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "*",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550463002000
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 550464003,
     "IsIgnore": null,
     "Memo": null,
@@ -20875,6 +21772,333 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 550474004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550476003,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[PassiveSkillName76003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550476003002
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550476003202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550476003202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476003401
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550476003202
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550476004,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[PassiveSkillName76004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550476004202
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550484003,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[PassiveSkillName84003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550484003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550484003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": 32,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550484003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550484004,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[PassiveSkillName84004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550484004001
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550484004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550484004201
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550484004201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.None",
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550484004301
+          },
+          {
+            "PassiveGroupId": 1,
+            "PassiveTrigger": "PassiveTrigger.ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 550484004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550484005,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "*",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": "EquipmentRarityFlags.UR",
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "PassiveTrigger.TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 550484005001
           }
         ]
       }

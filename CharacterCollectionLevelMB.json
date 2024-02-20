@@ -5803,5 +5803,154 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4001,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 100
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4002,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4003,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4004,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4005,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 210
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 255
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4006,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 220
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 260
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4007,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 230
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DamageEnhance",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 265
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
