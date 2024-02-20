@@ -376,5 +376,32 @@
     "GachaAddCharacterType": "GachaAddCharacterType.New",
     "StartGachaSelectListId": 49,
     "EndGachaSelectListId": 50
+  },
+  {
+    "Id": 43,
+    "IsIgnore": null,
+    "Memo": "フィアー追加",
+    "CharacterId": 60,
+    "GachaAddCharacterType": "GachaAddCharacterType.New",
+    "StartGachaSelectListId": 50,
+    "EndGachaSelectListId": 51
+  },
+  {
+    "Id": 44,
+    "IsIgnore": null,
+    "Memo": "リズ追加",
+    "CharacterId": 84,
+    "GachaAddCharacterType": "GachaAddCharacterType.New",
+    "StartGachaSelectListId": 51,
+    "EndGachaSelectListId": 54
+  },
+  {
+    "Id": 45,
+    "IsIgnore": null,
+    "Memo": "レア追加",
+    "CharacterId": 55,
+    "GachaAddCharacterType": "GachaAddCharacterType.New",
+    "StartGachaSelectListId": 51,
+    "EndGachaSelectListId": 52
   }
 ]

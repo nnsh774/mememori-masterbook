@@ -3088,9 +3088,9 @@
       "HP": 0,
       "Hit": 0,
       "HpDrain": 0,
-      "MagicCriticalDamageRelax": -2,
+      "MagicCriticalDamageRelax": 0,
       "MagicDamageRelax": 0,
-      "PhysicalCriticalDamageRelax": -2,
+      "PhysicalCriticalDamageRelax": 0,
       "PhysicalDamageRelax": 0,
       "Speed": 2703
     },
@@ -3153,6 +3153,59 @@
       "Muscle": 78
     },
     "BaseParameterGrossCoefficient": 335
+  },
+  {
+    "Id": 63,
+    "IsIgnore": null,
+    "Memo": "パラデア",
+    "NameKey": "[CharacterName63]",
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      63001,
+      63002
+    ],
+    "PassiveSkillIds": [
+      63003,
+      63004,
+      63005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "StartTimeFixJST": "2024-03-14 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "Name2Key": "[CharacterSubName63]",
+    "CharacterType": "CharacterType.Qlipha",
+    "ElementType": "ElementType.Dark",
+    "JobFlags": "JobFlags.Sniper",
+    "RarityFlags": "CharacterRarityFlags.SR",
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": 1,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": -3,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3065
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 103,
+      "Health": 64,
+      "Intelligence": 80,
+      "Muscle": 90
+    },
+    "BaseParameterGrossCoefficient": 337
   },
   {
     "Id": 64,
@@ -3622,5 +3675,110 @@
       "Muscle": 89
     },
     "BaseParameterGrossCoefficient": 337
+  },
+  {
+    "Id": 76,
+    "IsIgnore": null,
+    "Memo": "ユニ",
+    "NameKey": "[CharacterName76]",
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      76001,
+      76002
+    ],
+    "PassiveSkillIds": [
+      76003,
+      76004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "StartTimeFixJST": "2024-02-29 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "Name2Key": null,
+    "CharacterType": "CharacterType.Normal",
+    "ElementType": "ElementType.Green",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
+    "InitialBattleParameter": {
+      "AttackPower": -5,
+      "Avoidance": 1,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 10,
+      "DefensePenetration": 0,
+      "HP": -1,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 5,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 2889
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 92,
+      "Intelligence": 90,
+      "Muscle": 80
+    },
+    "BaseParameterGrossCoefficient": 342
+  },
+  {
+    "Id": 84,
+    "IsIgnore": null,
+    "Memo": "リズ",
+    "NameKey": "[CharacterName84]",
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      84001,
+      84002
+    ],
+    "PassiveSkillIds": [
+      84003,
+      84004,
+      84005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "StartTimeFixJST": "2024-2-15 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "Name2Key": null,
+    "CharacterType": "CharacterType.Normal",
+    "ElementType": "ElementType.Blue",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 1,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": -3,
+      "Speed": 2999
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 80,
+      "Health": 65,
+      "Intelligence": 103,
+      "Muscle": 91
+    },
+    "BaseParameterGrossCoefficient": 339
   }
 ]

@@ -4,55 +4,69 @@
     "IsIgnore": null,
     "Memo": "キャラのレベルを上げる",
     "MessageKey": "[TipDescription1]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.None"
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": "BattleType.None"
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "キャラのレアリティを上げる",
     "MessageKey": "[TipDescription2]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.CharacterRankUp",
-    "OpenCommandType": "OpenCommandType.RankUp"
+    "OpenCommandType": "OpenCommandType.RankUp",
+    "BattleType": "BattleType.None"
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "パーティ編成を見直す",
     "MessageKey": "[TipDescription3]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition",
-    "OpenCommandType": "OpenCommandType.None"
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": "BattleType.None"
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "強力な武具を装備する",
     "MessageKey": "[TipDescription4]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.None"
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": "BattleType.None"
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "高レベルなスフィアを装着する",
     "MessageKey": "[TipDescription5]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.SphereSet"
+    "OpenCommandType": "OpenCommandType.SphereSet",
+    "BattleType": "BattleType.None"
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "高速バトルで報酬を獲得する",
     "MessageKey": "[TipDescription6]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.Map",
-    "OpenCommandType": "OpenCommandType.None"
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": "BattleType.None"
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "ミッションで報酬を獲得する",
     "MessageKey": "[TipDescription7]",
+    "IconId": 0,
     "ViewTransitionType": "ViewTransitionType.Mission",
-    "OpenCommandType": "OpenCommandType.Mission"
+    "OpenCommandType": "OpenCommandType.Mission",
+    "BattleType": "BattleType.None"
   }
 ]

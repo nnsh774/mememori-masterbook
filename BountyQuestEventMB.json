@@ -899,5 +899,58 @@
         "ItemType": "ItemType.TreasureChest"
       }
     ]
+  },
+  {
+    "Id": 18,
+    "IsIgnore": null,
+    "Memo": "ソロ報酬2倍（2/10~2/15）",
+    "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
+    "StartTime": "2024-02-10 04:00:00",
+    "EndTime": "2024-02-15 03:59:59",
+    "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "BountyQuestType.Solo"
+      }
+    ],
+    "TargetItemList": [
+      {
+        "ItemId": 1,
+        "ItemType": "ItemType.Gold"
+      },
+      {
+        "ItemId": 2,
+        "ItemType": "ItemType.CharacterTrainingMaterial"
+      },
+      {
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      },
+      {
+        "ItemId": 27,
+        "ItemType": "ItemType.TreasureChest"
+      },
+      {
+        "ItemId": 4,
+        "ItemType": "ItemType.TreasureChest"
+      },
+      {
+        "ItemId": 5,
+        "ItemType": "ItemType.TreasureChest"
+      },
+      {
+        "ItemId": 6,
+        "ItemType": "ItemType.TreasureChest"
+      },
+      {
+        "ItemId": 7,
+        "ItemType": "ItemType.TreasureChest"
+      },
+      {
+        "ItemId": 8,
+        "ItemType": "ItemType.TreasureChest"
+      }
+    ]
   }
 ]
