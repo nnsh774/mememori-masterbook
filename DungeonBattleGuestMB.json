@@ -625,9 +625,9 @@
     "IsIgnore": null,
     "Memo": "クラウディア",
     "CharacterId": 56,
-    "IsPickup": true,
-    "StartTimeFixJST": "2024-01-31 14:30:00",
-    "EndTimeFixJST": "2024-02-15 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 71,
@@ -636,6 +636,15 @@
     "CharacterId": 84,
     "IsPickup": true,
     "StartTimeFixJST": "2024-02-15 14:30:00",
+    "EndTimeFixJST": "2024-03-08 14:29:59"
+  },
+  {
+    "Id": 72,
+    "IsIgnore": null,
+    "Memo": "マチルダ",
+    "CharacterId": 85,
+    "IsPickup": true,
+    "StartTimeFixJST": "2024-02-22 14:30:00",
     "EndTimeFixJST": "2024-03-08 14:29:59"
   }
 ]

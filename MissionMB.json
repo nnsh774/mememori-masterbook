@@ -39434,7 +39434,7 @@
     ],
     "OpeningPeriod": 0,
     "NameKey": "[PanelMissionName1316]",
-    "DescriptionKey": null,
+    "DescriptionKey": "",
     "TransitionDestination": "MissionTransitionDestinationType.DungeonBattle",
     "AchievementType": "MissionAchievementType.DungeonBattleClear3UnitSorcererType",
     "RequireValue": 10,
@@ -39468,7 +39468,7 @@
     ],
     "OpeningPeriod": 0,
     "NameKey": "[PanelMissionName1317]",
-    "DescriptionKey": null,
+    "DescriptionKey": "",
     "TransitionDestination": "MissionTransitionDestinationType.CharacterList",
     "AchievementType": "MissionAchievementType.CharacterAllEquipmentReinforceMaxLevel",
     "RequireValue": 30,
@@ -39502,7 +39502,7 @@
     ],
     "OpeningPeriod": 0,
     "NameKey": "[PanelMissionName1176]",
-    "DescriptionKey": null,
+    "DescriptionKey": "",
     "TransitionDestination": "MissionTransitionDestinationType.MissionDaily",
     "AchievementType": "MissionAchievementType.MissionTotalActivityAtPanelMission",
     "RequireValue": 1000,
@@ -39519,24 +39519,24 @@
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 40,
-          "ItemId": 27,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemCount": 1,
+          "ItemId": 2003,
+          "ItemType": "ItemType.UnlockPanelGridItem"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
-          "ItemId": 2003,
-          "ItemType": "ItemType.UnlockPanelGridItem"
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "ItemType.TreasureChest"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
     ],
     "OpeningPeriod": 0,
     "NameKey": "[PanelMissionName1177]",
-    "DescriptionKey": null,
+    "DescriptionKey": "",
     "TransitionDestination": "MissionTransitionDestinationType.AutoBattleQuick",
     "AchievementType": "MissionAchievementType.AutoBattleQuickCount",
     "RequireValue": 10,
@@ -39570,7 +39570,7 @@
     ],
     "OpeningPeriod": 0,
     "NameKey": "[PanelMissionName1175]",
-    "DescriptionKey": null,
+    "DescriptionKey": "",
     "TransitionDestination": "MissionTransitionDestinationType.None",
     "AchievementType": "MissionAchievementType.Login",
     "RequireValue": 7,
@@ -39587,24 +39587,24 @@
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 30,
-          "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemCount": 1,
+          "ItemId": 2006,
+          "ItemType": "ItemType.UnlockPanelGridItem"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       },
       {
         "Item": {
-          "ItemCount": 1,
-          "ItemId": 2006,
-          "ItemType": "ItemType.UnlockPanelGridItem"
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ItemType.ExchangePlaceItem"
         },
         "RarityFlags": "CharacterRarityFlags.None"
       }
     ],
     "OpeningPeriod": 0,
     "NameKey": "[PanelMissionName1321]",
-    "DescriptionKey": null,
+    "DescriptionKey": "",
     "TransitionDestination": "MissionTransitionDestinationType.LocalRaid",
     "AchievementType": "MissionAchievementType.LocalRaidVictory3UnitRedType",
     "RequireValue": 10,
