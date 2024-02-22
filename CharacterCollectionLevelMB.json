@@ -5952,5 +5952,124 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4101,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4102,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4103,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4104,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 310
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4105,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 320
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4106,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 330
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4107,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DamageReflect",
+        "ChangeParameterType": "ChangeParameterType.Addition",
+        "Value": 340
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

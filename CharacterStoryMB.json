@@ -8656,5 +8656,131 @@
     ],
     "TextKey": "[CharacterStoryText8407]",
     "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
+    "Id": 573,
+    "IsIgnore": null,
+    "Memo": "マチルダ1",
+    "CharacterId": 85,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8501]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 574,
+    "IsIgnore": null,
+    "Memo": "マチルダ2",
+    "CharacterId": 85,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8502]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 575,
+    "IsIgnore": null,
+    "Memo": "マチルダ3",
+    "CharacterId": 85,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8503]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 576,
+    "IsIgnore": null,
+    "Memo": "マチルダ4",
+    "CharacterId": 85,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8504]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 577,
+    "IsIgnore": null,
+    "Memo": "マチルダ5",
+    "CharacterId": 85,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8505]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 578,
+    "IsIgnore": null,
+    "Memo": "マチルダ6",
+    "CharacterId": 85,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8506]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 579,
+    "IsIgnore": null,
+    "Memo": "マチルダ7",
+    "CharacterId": 85,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8507]",
+    "RarityFlags": "CharacterRarityFlags.LR"
   }
 ]

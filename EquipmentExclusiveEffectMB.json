@@ -7201,5 +7201,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 337,
+    "IsIgnore": null,
+    "Memo": "マチルダSSR180",
+    "CharacterId": 85,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 550
+      }
+    ],
+    "BattleParameterChangeInfoList": []
+  },
+  {
+    "Id": 338,
+    "IsIgnore": null,
+    "Memo": "マチルダSSR200",
+    "CharacterId": 85,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 339,
+    "IsIgnore": null,
+    "Memo": "マチルダSSR220",
+    "CharacterId": 85,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 340,
+    "IsIgnore": null,
+    "Memo": "マチルダSSR240",
+    "CharacterId": 85,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 341,
+    "IsIgnore": null,
+    "Memo": "マチルダUR",
+    "CharacterId": 85,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2000
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 342,
+    "IsIgnore": null,
+    "Memo": "マチルダLR",
+    "CharacterId": 85,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Intelligence",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2200
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Hit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

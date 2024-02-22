@@ -3780,5 +3780,57 @@
       "Muscle": 91
     },
     "BaseParameterGrossCoefficient": 339
+  },
+  {
+    "Id": 85,
+    "IsIgnore": null,
+    "Memo": "マチルダ",
+    "NameKey": "[CharacterName85]",
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      85001,
+      85002
+    ],
+    "PassiveSkillIds": [
+      85003,
+      85004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": "ItemRarityFlags.SR",
+    "StartTimeFixJST": "2024-2-22 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59",
+    "Name2Key": null,
+    "CharacterType": "CharacterType.Normal",
+    "ElementType": "ElementType.Red",
+    "JobFlags": "JobFlags.Sorcerer",
+    "RarityFlags": "CharacterRarityFlags.SR",
+    "InitialBattleParameter": {
+      "AttackPower": -3,
+      "Avoidance": 1,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 10,
+      "DefensePenetration": 0,
+      "HP": -3,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 5,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3181
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 67,
+      "Intelligence": 99,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 334
   }
 ]
