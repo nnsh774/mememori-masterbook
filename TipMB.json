@@ -4,7 +4,7 @@
     "IsIgnore": null,
     "Memo": "キャラのレベルを上げる",
     "MessageKey": "[TipDescription1]",
-    "IconId": 0,
+    "IconId": 1,
     "ViewTransitionType": "ViewTransitionType.CharacterTraining",
     "OpenCommandType": "OpenCommandType.None",
     "BattleType": "BattleType.None"
@@ -14,7 +14,7 @@
     "IsIgnore": null,
     "Memo": "キャラのレアリティを上げる",
     "MessageKey": "[TipDescription2]",
-    "IconId": 0,
+    "IconId": 2,
     "ViewTransitionType": "ViewTransitionType.CharacterRankUp",
     "OpenCommandType": "OpenCommandType.RankUp",
     "BattleType": "BattleType.None"
@@ -24,7 +24,7 @@
     "IsIgnore": null,
     "Memo": "パーティ編成を見直す",
     "MessageKey": "[TipDescription3]",
-    "IconId": 0,
+    "IconId": 3,
     "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition",
     "OpenCommandType": "OpenCommandType.None",
     "BattleType": "BattleType.None"
@@ -34,7 +34,7 @@
     "IsIgnore": null,
     "Memo": "強力な武具を装備する",
     "MessageKey": "[TipDescription4]",
-    "IconId": 0,
+    "IconId": 4,
     "ViewTransitionType": "ViewTransitionType.CharacterTraining",
     "OpenCommandType": "OpenCommandType.None",
     "BattleType": "BattleType.None"
@@ -44,7 +44,7 @@
     "IsIgnore": null,
     "Memo": "高レベルなスフィアを装着する",
     "MessageKey": "[TipDescription5]",
-    "IconId": 0,
+    "IconId": 5,
     "ViewTransitionType": "ViewTransitionType.CharacterTraining",
     "OpenCommandType": "OpenCommandType.SphereSet",
     "BattleType": "BattleType.None"
@@ -54,7 +54,7 @@
     "IsIgnore": null,
     "Memo": "高速バトルで報酬を獲得する",
     "MessageKey": "[TipDescription6]",
-    "IconId": 0,
+    "IconId": 6,
     "ViewTransitionType": "ViewTransitionType.Map",
     "OpenCommandType": "OpenCommandType.None",
     "BattleType": "BattleType.None"
@@ -64,9 +64,39 @@
     "IsIgnore": null,
     "Memo": "ミッションで報酬を獲得する",
     "MessageKey": "[TipDescription7]",
-    "IconId": 0,
+    "IconId": 7,
     "ViewTransitionType": "ViewTransitionType.Mission",
     "OpenCommandType": "OpenCommandType.Mission",
     "BattleType": "BattleType.None"
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "ギルドツリーLVを上げる",
+    "MessageKey": "[TipDescription8]",
+    "IconId": 8,
+    "ViewTransitionType": 5,
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": 12
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "キャラのレベルを上げる（バトルツリー用） ",
+    "MessageKey": "[TipDescription1]",
+    "IconId": 1,
+    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": 12
+  },
+  {
+    "Id": 10,
+    "IsIgnore": null,
+    "Memo": "パーティ編成を見直す（バトルツリー用）",
+    "MessageKey": "[TipDescription3]",
+    "IconId": 3,
+    "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition",
+    "OpenCommandType": "OpenCommandType.None",
+    "BattleType": 12
   }
 ]
