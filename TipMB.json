@@ -68,35 +68,5 @@
     "ViewTransitionType": "ViewTransitionType.Mission",
     "OpenCommandType": "OpenCommandType.Mission",
     "BattleType": "BattleType.None"
-  },
-  {
-    "Id": 8,
-    "IsIgnore": null,
-    "Memo": "ギルドツリーLVを上げる",
-    "MessageKey": "[TipDescription8]",
-    "IconId": 8,
-    "ViewTransitionType": 5,
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": 12
-  },
-  {
-    "Id": 9,
-    "IsIgnore": null,
-    "Memo": "キャラのレベルを上げる（バトルツリー用） ",
-    "MessageKey": "[TipDescription1]",
-    "IconId": 1,
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": 12
-  },
-  {
-    "Id": 10,
-    "IsIgnore": null,
-    "Memo": "パーティ編成を見直す（バトルツリー用）",
-    "MessageKey": "[TipDescription3]",
-    "IconId": 3,
-    "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition",
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": 12
   }
 ]
