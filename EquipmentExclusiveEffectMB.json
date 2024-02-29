@@ -7335,5 +7335,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 343,
+    "IsIgnore": null,
+    "Memo": "ユニSSR180",
+    "CharacterId": 76,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 550
+      }
+    ],
+    "BattleParameterChangeInfoList": []
+  },
+  {
+    "Id": 344,
+    "IsIgnore": null,
+    "Memo": "ユニSSR200",
+    "CharacterId": 76,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 345,
+    "IsIgnore": null,
+    "Memo": "ユニSSR220",
+    "CharacterId": 76,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffResist",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 346,
+    "IsIgnore": null,
+    "Memo": "ユニSSR240",
+    "CharacterId": 76,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffResist",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 347,
+    "IsIgnore": null,
+    "Memo": "ユニUR",
+    "CharacterId": 76,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2000
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffResist",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 348,
+    "IsIgnore": null,
+    "Memo": "ユニLR",
+    "CharacterId": 76,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.Hp",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 2200
+      },
+      {
+        "BattleParameterType": "BattleParameterType.DebuffResist",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]
