@@ -6071,5 +6071,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4201,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 7
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4202,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4203,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4204,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4205,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 41
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 16
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4206,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 42
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 17
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4207,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Health",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 43
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.Defense",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 18
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
