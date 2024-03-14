@@ -7469,5 +7469,138 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 349,
+    "IsIgnore": null,
+    "Memo": "パラデアSSR180",
+    "CharacterId": 63,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 350,
+    "IsIgnore": null,
+    "Memo": "パラデアSSR200",
+    "CharacterId": 63,
+    "BaseParameterChangeInfoList": [],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 351,
+    "IsIgnore": null,
+    "Memo": "パラデアSSR220",
+    "CharacterId": 63,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 352,
+    "IsIgnore": null,
+    "Memo": "パラデアSSR240",
+    "CharacterId": 63,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 353,
+    "IsIgnore": null,
+    "Memo": "パラデアUR",
+    "CharacterId": 63,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 354,
+    "IsIgnore": null,
+    "Memo": "パラデアLR",
+    "CharacterId": 63,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "BattleParameterType.AttackPower",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "BattleParameterType.Critical",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]
