@@ -140,6 +140,26 @@
     ]
   },
   {
+    "Id": 208,
+    "IsIgnore": null,
+    "Memo": "キャラ2体_LR+9",
+    "CharacterCount": 2,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "RewardItems": [
+      {
+        "ItemCount": 40,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      },
+      {
+        "ItemCount": 18,
+        "ItemId": 7,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ]
+  },
+  {
     "Id": 301,
     "IsIgnore": null,
     "Memo": "キャラ3体_SR",
@@ -280,6 +300,26 @@
     ]
   },
   {
+    "Id": 308,
+    "IsIgnore": null,
+    "Memo": "キャラ3体_LR+9",
+    "CharacterCount": 3,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "RewardItems": [
+      {
+        "ItemCount": 60,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      },
+      {
+        "ItemCount": 36,
+        "ItemId": 7,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ]
+  },
+  {
     "Id": 401,
     "IsIgnore": null,
     "Memo": "キャラ4体_SR",
@@ -406,6 +446,26 @@
     "CharacterCount": 4,
     "CollectionLevel": 7,
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "RewardItems": [
+      {
+        "ItemCount": 80,
+        "ItemId": 12,
+        "ItemType": "ItemType.QuestQuickTicket"
+      },
+      {
+        "ItemCount": 54,
+        "ItemId": 7,
+        "ItemType": "ItemType.QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 408,
+    "IsIgnore": null,
+    "Memo": "キャラ4体_LR+9",
+    "CharacterCount": 4,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
     "RewardItems": [
       {
         "ItemCount": 80,

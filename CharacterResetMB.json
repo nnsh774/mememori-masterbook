@@ -117,6 +117,15 @@
     "ReturnWitchLetterCount": 180
   },
   {
+    "Id": 114,
+    "IsIgnore": null,
+    "Memo": "通常LR+9",
+    "ElementClassificationType": "ElementClassificationType.DefaultElement",
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "ReturnCharacterCount": 17,
+    "ReturnWitchLetterCount": 180
+  },
+  {
     "Id": 201,
     "IsIgnore": null,
     "Memo": "天冥SSR",
@@ -231,6 +240,15 @@
     "ElementClassificationType": "ElementClassificationType.SpecialElement",
     "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
     "ReturnCharacterCount": 18,
+    "ReturnWitchLetterCount": 0
+  },
+  {
+    "Id": 214,
+    "IsIgnore": null,
+    "Memo": "天冥LR+9",
+    "ElementClassificationType": "ElementClassificationType.SpecialElement",
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "ReturnCharacterCount": 20,
     "ReturnWitchLetterCount": 0
   }
 ]
