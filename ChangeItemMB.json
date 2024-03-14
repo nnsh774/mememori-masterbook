@@ -10510,5 +10510,21 @@
         "ItemType": "ItemType.Gold"
       }
     ]
+  },
+  {
+    "Id": 674,
+    "IsIgnore": null,
+    "Memo": "パルデアガチャチケット",
+    "ChangeItemType": "ChangeItemType.Sell",
+    "ItemType": "ItemType.GachaTicket",
+    "ItemId": 630,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "ItemType.GachaTicket"
+      }
+    ]
   }
 ]

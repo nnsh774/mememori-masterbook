@@ -7398,6 +7398,132 @@
     "RarityFlags": "CharacterRarityFlags.LR"
   },
   {
+    "Id": 419,
+    "IsIgnore": null,
+    "Memo": "パラデア１",
+    "CharacterId": 63,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6301]",
+    "RarityFlags": "CharacterRarityFlags.SR"
+  },
+  {
+    "Id": 420,
+    "IsIgnore": null,
+    "Memo": "パラデア２",
+    "CharacterId": 63,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6302]",
+    "RarityFlags": "CharacterRarityFlags.SRPlus"
+  },
+  {
+    "Id": 421,
+    "IsIgnore": null,
+    "Memo": "パラデア３",
+    "CharacterId": 63,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6303]",
+    "RarityFlags": "CharacterRarityFlags.SSR"
+  },
+  {
+    "Id": 422,
+    "IsIgnore": null,
+    "Memo": "パラデア４",
+    "CharacterId": 63,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6304]",
+    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+  },
+  {
+    "Id": 423,
+    "IsIgnore": null,
+    "Memo": "パラデア５",
+    "CharacterId": 63,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6305]",
+    "RarityFlags": "CharacterRarityFlags.UR"
+  },
+  {
+    "Id": 424,
+    "IsIgnore": null,
+    "Memo": "パラデア６",
+    "CharacterId": 63,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6306]",
+    "RarityFlags": "CharacterRarityFlags.URPlus"
+  },
+  {
+    "Id": 425,
+    "IsIgnore": null,
+    "Memo": "パラデア７",
+    "CharacterId": 63,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "ItemType.CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6307]",
+    "RarityFlags": "CharacterRarityFlags.LR"
+  },
+  {
     "Id": 426,
     "IsIgnore": null,
     "Memo": "ギルウィアル1",

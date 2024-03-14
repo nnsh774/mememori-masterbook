@@ -6226,5 +6226,160 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4401,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "BattleParameterChangeInfos": [],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4402,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4403,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4404,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4405,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 41
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 160
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4406,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 42
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 170
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4407,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "BaseParameterType.Energy",
+        "ChangeParameterType": "ChangeParameterType.CharacterLevelConstantMultiplicationAddition",
+        "Value": 43
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "BattleParameterType.DebuffHit",
+        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "Value": 180
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
