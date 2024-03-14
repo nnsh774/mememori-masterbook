@@ -446,6 +446,11 @@
         "HelpParameterType": "HelpParameterType.None"
       },
       {
+        "HeadLine": "[HelpHeadLine2217]",
+        "MainText": "[HelpMainText2217]",
+        "HelpParameterType": "HelpParameterType.None"
+      },
+      {
         "HeadLine": "[HelpHeadLine2214]",
         "MainText": "[HelpMainText2214]",
         "HelpParameterType": "HelpParameterType.None"
@@ -1163,7 +1168,7 @@
       {
         "HeadLine": "[HelpHeadLine5100]",
         "MainText": "[HelpMainText5100]",
-        "HelpParameterType": 2
+        "HelpParameterType": "HelpParameterType.GuildBattleMinPlacement"
       },
       {
         "HeadLine": "[HelpHeadLine5101]",
@@ -1188,7 +1193,7 @@
       {
         "HeadLine": "[HelpHeadLine5201]",
         "MainText": "[HelpMainText5201]",
-        "HelpParameterType": 3
+        "HelpParameterType": "HelpParameterType.GrandBattleMinPlacement"
       },
       {
         "HeadLine": "[HelpHeadLine5202]",
@@ -1293,6 +1298,51 @@
       {
         "HeadLine": "[HelpHeadLine401]",
         "MainText": "[HelpMainText401]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "IsDisplayed": true
+  },
+  {
+    "Id": 5900,
+    "IsIgnore": null,
+    "Memo": "ギルドツリー",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5900]",
+        "MainText": "[HelpMainText5900]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 28,
+    "IsDisplayed": true
+  },
+  {
+    "Id": 5910,
+    "IsIgnore": null,
+    "Memo": "ギルドツリー - 開花ボーナス強化",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5910]",
+        "MainText": "[HelpMainText5910]",
+        "HelpParameterType": "HelpParameterType.None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "IsDisplayed": true
+  },
+  {
+    "Id": 5920,
+    "IsIgnore": null,
+    "Memo": "ギルドツリー - キャラ登録",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine5920]",
+        "MainText": "[HelpMainText5920]",
         "HelpParameterType": "HelpParameterType.None"
       }
     ],
