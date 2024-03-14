@@ -176,6 +176,17 @@
     "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus8"
   },
   {
+    "Id": 117,
+    "IsIgnore": null,
+    "Memo": "基本LR+8toLR+9",
+    "ElementClassification": "ElementClassificationType.DefaultElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus8",
+    "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
+    "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus9"
+  },
+  {
     "Id": 201,
     "IsIgnore": null,
     "Memo": "特殊SRtoSR+",
@@ -328,5 +339,16 @@
     "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
     "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
     "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus8"
+  },
+  {
+    "Id": 215,
+    "IsIgnore": null,
+    "Memo": "特殊LR+8toLR+9",
+    "ElementClassification": "ElementClassificationType.SpecialElement",
+    "UpType": "RankUpType.SameName",
+    "RankFlags": "CharacterRarityFlags.LRPlus8",
+    "MaterialRankFlags": "CharacterRarityFlags.SRPlus",
+    "MaterialRankSecondFlags": "CharacterRarityFlags.SRPlus",
+    "RankUpResultRarityFlags": "CharacterRarityFlags.LRPlus9"
   }
 ]
