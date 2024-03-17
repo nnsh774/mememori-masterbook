@@ -3,17 +3,17 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "通常_3体",
-    "ConditionType": "ElementBonusConditionType.Default",
-    "Phase": "ElementBonusPhaseType.First",
+    "ConditionType": "Default",
+    "Phase": "First",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.Hp",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 1000
       },
       {
-        "BattleParameterType": "BattleParameterType.AttackPower",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 1000
       }
     ]
@@ -22,17 +22,17 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "通常_3+2体",
-    "ConditionType": "ElementBonusConditionType.Default",
-    "Phase": "ElementBonusPhaseType.Second",
+    "ConditionType": "Default",
+    "Phase": "Second",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.Hp",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 1500
       },
       {
-        "BattleParameterType": "BattleParameterType.AttackPower",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 1500
       }
     ]
@@ -41,17 +41,17 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "通常_4体",
-    "ConditionType": "ElementBonusConditionType.Default",
-    "Phase": "ElementBonusPhaseType.Third",
+    "ConditionType": "Default",
+    "Phase": "Third",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.Hp",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 2000
       },
       {
-        "BattleParameterType": "BattleParameterType.AttackPower",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 1500
       }
     ]
@@ -60,17 +60,17 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": "通常_5体",
-    "ConditionType": "ElementBonusConditionType.Default",
-    "Phase": "ElementBonusPhaseType.Fourth",
+    "ConditionType": "Default",
+    "Phase": "Fourth",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.Hp",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 2500
       },
       {
-        "BattleParameterType": "BattleParameterType.AttackPower",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 2500
       }
     ]
@@ -79,12 +79,12 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": "冥_1体",
-    "ConditionType": "ElementBonusConditionType.Dark",
-    "Phase": "ElementBonusPhaseType.First",
+    "ConditionType": "Dark",
+    "Phase": "First",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.Defense",
-        "ChangeParameterType": "ChangeParameterType.AdditionPercent",
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
         "Value": 2500
       }
     ]
@@ -93,12 +93,12 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": "冥_2体",
-    "ConditionType": "ElementBonusConditionType.Dark",
-    "Phase": "ElementBonusPhaseType.Second",
+    "ConditionType": "Dark",
+    "Phase": "Second",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.HpDrain",
-        "ChangeParameterType": "ChangeParameterType.Addition",
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
         "Value": 500
       }
     ]
@@ -107,12 +107,12 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": "冥_3体",
-    "ConditionType": "ElementBonusConditionType.Dark",
-    "Phase": "ElementBonusPhaseType.Third",
+    "ConditionType": "Dark",
+    "Phase": "Third",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.DefensePenetration",
-        "ChangeParameterType": "ChangeParameterType.Addition",
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
         "Value": 1000
       }
     ]
@@ -121,12 +121,12 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": "冥_4体",
-    "ConditionType": "ElementBonusConditionType.Dark",
-    "Phase": "ElementBonusPhaseType.Fourth",
+    "ConditionType": "Dark",
+    "Phase": "Fourth",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.DamageReflect",
-        "ChangeParameterType": "ChangeParameterType.Addition",
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
         "Value": 1000
       }
     ]
@@ -135,12 +135,12 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": "冥_5体",
-    "ConditionType": "ElementBonusConditionType.Dark",
-    "Phase": "ElementBonusPhaseType.Fifth",
+    "ConditionType": "Dark",
+    "Phase": "Fifth",
     "BattleParameterChangeInfos": [
       {
-        "BattleParameterType": "BattleParameterType.CriticalDamageEnhance",
-        "ChangeParameterType": "ChangeParameterType.Addition",
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
         "Value": 3000
       }
     ]

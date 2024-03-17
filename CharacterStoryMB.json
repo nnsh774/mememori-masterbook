@@ -11,11 +11,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText101]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 2,
@@ -29,11 +29,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText102]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 3,
@@ -47,11 +47,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText103]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 4,
@@ -65,11 +65,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText104]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 5,
@@ -83,11 +83,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText105]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 6,
@@ -101,11 +101,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText106]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 7,
@@ -119,11 +119,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText201]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 8,
@@ -137,11 +137,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText202]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 9,
@@ -155,11 +155,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText203]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 10,
@@ -173,11 +173,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText204]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 11,
@@ -191,11 +191,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText205]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 12,
@@ -209,11 +209,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText206]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 13,
@@ -227,11 +227,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText301]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 14,
@@ -245,11 +245,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText302]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 15,
@@ -263,11 +263,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText303]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 16,
@@ -281,11 +281,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText304]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 17,
@@ -299,11 +299,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText305]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 18,
@@ -317,11 +317,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText306]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 19,
@@ -335,11 +335,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText401]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 20,
@@ -353,11 +353,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText402]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 21,
@@ -371,11 +371,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText403]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 22,
@@ -389,11 +389,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText404]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 23,
@@ -407,11 +407,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText405]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 24,
@@ -425,11 +425,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText406]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 25,
@@ -443,11 +443,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 26,
@@ -461,11 +461,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 27,
@@ -479,11 +479,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 28,
@@ -497,11 +497,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 29,
@@ -515,11 +515,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 30,
@@ -533,11 +533,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 31,
@@ -551,11 +551,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 32,
@@ -569,11 +569,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 33,
@@ -587,11 +587,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 34,
@@ -605,11 +605,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 35,
@@ -623,11 +623,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 36,
@@ -641,11 +641,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 37,
@@ -659,11 +659,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 38,
@@ -677,11 +677,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 39,
@@ -695,11 +695,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 40,
@@ -713,11 +713,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 41,
@@ -731,11 +731,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 42,
@@ -749,11 +749,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 43,
@@ -767,11 +767,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 44,
@@ -785,11 +785,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 45,
@@ -803,11 +803,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 46,
@@ -821,11 +821,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 47,
@@ -839,11 +839,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 48,
@@ -857,11 +857,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 49,
@@ -875,11 +875,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 50,
@@ -893,11 +893,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 51,
@@ -911,11 +911,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 52,
@@ -929,11 +929,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 53,
@@ -947,11 +947,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText901]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 54,
@@ -965,11 +965,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText902]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 55,
@@ -983,11 +983,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText903]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 56,
@@ -1001,11 +1001,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText904]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 57,
@@ -1019,11 +1019,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText905]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 58,
@@ -1037,11 +1037,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText906]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 59,
@@ -1055,11 +1055,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText907]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 60,
@@ -1073,11 +1073,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 61,
@@ -1091,11 +1091,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 62,
@@ -1109,11 +1109,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 63,
@@ -1127,11 +1127,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 64,
@@ -1145,11 +1145,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 65,
@@ -1163,11 +1163,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 66,
@@ -1181,11 +1181,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 67,
@@ -1199,11 +1199,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1101]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 68,
@@ -1217,11 +1217,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1102]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 69,
@@ -1235,11 +1235,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1103]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 70,
@@ -1253,11 +1253,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1104]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 71,
@@ -1271,11 +1271,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1105]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 72,
@@ -1289,11 +1289,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1106]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 73,
@@ -1307,11 +1307,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1201]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 74,
@@ -1325,11 +1325,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1202]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 75,
@@ -1343,11 +1343,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1203]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 76,
@@ -1361,11 +1361,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1204]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 77,
@@ -1379,11 +1379,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1205]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 78,
@@ -1397,11 +1397,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1206]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 79,
@@ -1415,11 +1415,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1301]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 80,
@@ -1433,11 +1433,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1302]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 81,
@@ -1451,11 +1451,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1303]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 82,
@@ -1469,11 +1469,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1304]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 83,
@@ -1487,11 +1487,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1305]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 84,
@@ -1505,11 +1505,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1306]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 85,
@@ -1523,11 +1523,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1401]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 86,
@@ -1541,11 +1541,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1402]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 87,
@@ -1559,11 +1559,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1403]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 88,
@@ -1577,11 +1577,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1404]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 89,
@@ -1595,11 +1595,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1405]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 90,
@@ -1613,11 +1613,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1406]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 91,
@@ -1631,11 +1631,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 92,
@@ -1649,11 +1649,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 93,
@@ -1667,11 +1667,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 94,
@@ -1685,11 +1685,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 95,
@@ -1703,11 +1703,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 96,
@@ -1721,11 +1721,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 97,
@@ -1739,11 +1739,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 98,
@@ -1757,11 +1757,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 99,
@@ -1775,11 +1775,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 100,
@@ -1793,11 +1793,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 101,
@@ -1811,11 +1811,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 102,
@@ -1829,11 +1829,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 103,
@@ -1847,11 +1847,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 104,
@@ -1865,11 +1865,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 105,
@@ -1883,11 +1883,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 106,
@@ -1901,11 +1901,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 107,
@@ -1919,11 +1919,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 108,
@@ -1937,11 +1937,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 109,
@@ -1955,11 +1955,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 110,
@@ -1973,11 +1973,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 111,
@@ -1991,11 +1991,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 112,
@@ -2009,11 +2009,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 113,
@@ -2027,11 +2027,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 114,
@@ -2045,11 +2045,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 115,
@@ -2063,11 +2063,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 116,
@@ -2081,11 +2081,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 117,
@@ -2099,11 +2099,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 118,
@@ -2117,11 +2117,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 119,
@@ -2135,11 +2135,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1901]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 120,
@@ -2153,11 +2153,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1902]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 121,
@@ -2171,11 +2171,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1903]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 122,
@@ -2189,11 +2189,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1904]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 123,
@@ -2207,11 +2207,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1905]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 124,
@@ -2225,11 +2225,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1906]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 125,
@@ -2243,11 +2243,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText1907]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 126,
@@ -2261,11 +2261,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 127,
@@ -2279,11 +2279,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 128,
@@ -2297,11 +2297,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 129,
@@ -2315,11 +2315,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 130,
@@ -2333,11 +2333,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 131,
@@ -2351,11 +2351,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 132,
@@ -2369,11 +2369,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 133,
@@ -2387,11 +2387,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2101]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 134,
@@ -2405,11 +2405,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2102]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 135,
@@ -2423,11 +2423,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2103]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 136,
@@ -2441,11 +2441,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2104]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 137,
@@ -2459,11 +2459,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2105]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 138,
@@ -2477,11 +2477,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2106]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 139,
@@ -2495,11 +2495,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2201]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 140,
@@ -2513,11 +2513,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2202]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 141,
@@ -2531,11 +2531,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2203]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 142,
@@ -2549,11 +2549,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2204]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 143,
@@ -2567,11 +2567,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2205]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 144,
@@ -2585,11 +2585,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2206]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 145,
@@ -2603,11 +2603,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2301]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 146,
@@ -2621,11 +2621,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2302]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 147,
@@ -2639,11 +2639,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2303]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 148,
@@ -2657,11 +2657,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2304]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 149,
@@ -2675,11 +2675,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2305]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 150,
@@ -2693,11 +2693,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2306]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 151,
@@ -2711,11 +2711,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2401]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 152,
@@ -2729,11 +2729,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2402]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 153,
@@ -2747,11 +2747,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2403]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 154,
@@ -2765,11 +2765,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2404]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 155,
@@ -2783,11 +2783,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2405]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 156,
@@ -2801,11 +2801,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2406]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 157,
@@ -2819,11 +2819,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 158,
@@ -2837,11 +2837,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 159,
@@ -2855,11 +2855,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 160,
@@ -2873,11 +2873,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 161,
@@ -2891,11 +2891,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 162,
@@ -2909,11 +2909,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 163,
@@ -2927,11 +2927,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 164,
@@ -2945,11 +2945,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 165,
@@ -2963,11 +2963,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 166,
@@ -2981,11 +2981,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 167,
@@ -2999,11 +2999,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 168,
@@ -3017,11 +3017,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 169,
@@ -3035,11 +3035,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 170,
@@ -3053,11 +3053,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 171,
@@ -3071,11 +3071,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 172,
@@ -3089,11 +3089,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 173,
@@ -3107,11 +3107,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 174,
@@ -3125,11 +3125,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 175,
@@ -3143,11 +3143,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 176,
@@ -3161,11 +3161,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 177,
@@ -3179,11 +3179,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 178,
@@ -3197,11 +3197,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 179,
@@ -3215,11 +3215,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 180,
@@ -3233,11 +3233,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 181,
@@ -3251,11 +3251,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 182,
@@ -3269,11 +3269,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 183,
@@ -3287,11 +3287,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 184,
@@ -3305,11 +3305,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 185,
@@ -3323,11 +3323,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2901]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 186,
@@ -3341,11 +3341,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2902]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 187,
@@ -3359,11 +3359,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2903]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 188,
@@ -3377,11 +3377,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2904]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 189,
@@ -3395,11 +3395,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2905]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 190,
@@ -3413,11 +3413,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2906]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 191,
@@ -3431,11 +3431,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText2907]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 192,
@@ -3449,11 +3449,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 193,
@@ -3467,11 +3467,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 194,
@@ -3485,11 +3485,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 195,
@@ -3503,11 +3503,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 196,
@@ -3521,11 +3521,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 197,
@@ -3539,11 +3539,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 198,
@@ -3557,11 +3557,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 199,
@@ -3575,11 +3575,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3101]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 200,
@@ -3593,11 +3593,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3102]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 201,
@@ -3611,11 +3611,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3103]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 202,
@@ -3629,11 +3629,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3104]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 203,
@@ -3647,11 +3647,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3105]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 204,
@@ -3665,11 +3665,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3106]",
-    "RarityFlags": "CharacterRarityFlags.N"
+    "RarityFlags": 1
   },
   {
     "Id": 205,
@@ -3683,11 +3683,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3201]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 206,
@@ -3701,11 +3701,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3202]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 207,
@@ -3719,11 +3719,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3203]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 208,
@@ -3737,11 +3737,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3204]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 209,
@@ -3755,11 +3755,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3205]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 210,
@@ -3773,11 +3773,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3206]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 211,
@@ -3791,11 +3791,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3301]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 212,
@@ -3809,11 +3809,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3302]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 213,
@@ -3827,11 +3827,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3303]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 214,
@@ -3845,11 +3845,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3304]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 215,
@@ -3863,11 +3863,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3305]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 216,
@@ -3881,11 +3881,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3306]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 217,
@@ -3899,11 +3899,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3401]",
-    "RarityFlags": "CharacterRarityFlags.R"
+    "RarityFlags": 2
   },
   {
     "Id": 218,
@@ -3917,11 +3917,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3402]",
-    "RarityFlags": "CharacterRarityFlags.RPlus"
+    "RarityFlags": 4
   },
   {
     "Id": 219,
@@ -3935,11 +3935,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3403]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 220,
@@ -3953,11 +3953,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3404]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 221,
@@ -3971,11 +3971,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3405]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 222,
@@ -3989,11 +3989,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3406]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 223,
@@ -4007,11 +4007,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 224,
@@ -4025,11 +4025,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 225,
@@ -4043,11 +4043,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 226,
@@ -4061,11 +4061,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 227,
@@ -4079,11 +4079,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 228,
@@ -4097,11 +4097,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 229,
@@ -4115,11 +4115,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 230,
@@ -4133,11 +4133,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 231,
@@ -4151,11 +4151,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 232,
@@ -4169,11 +4169,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 233,
@@ -4187,11 +4187,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 234,
@@ -4205,11 +4205,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 235,
@@ -4223,11 +4223,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 236,
@@ -4241,11 +4241,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 237,
@@ -4259,11 +4259,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 238,
@@ -4277,11 +4277,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 239,
@@ -4295,11 +4295,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 240,
@@ -4313,11 +4313,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 241,
@@ -4331,11 +4331,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 242,
@@ -4349,11 +4349,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 243,
@@ -4367,11 +4367,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 244,
@@ -4385,11 +4385,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 245,
@@ -4403,11 +4403,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 246,
@@ -4421,11 +4421,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 247,
@@ -4439,11 +4439,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 248,
@@ -4457,11 +4457,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 249,
@@ -4475,11 +4475,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 250,
@@ -4493,11 +4493,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 251,
@@ -4511,11 +4511,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3901]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 252,
@@ -4529,11 +4529,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3902]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 253,
@@ -4547,11 +4547,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3903]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 254,
@@ -4565,11 +4565,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3904]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 255,
@@ -4583,11 +4583,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3905]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 256,
@@ -4601,11 +4601,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3906]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 257,
@@ -4619,11 +4619,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText3907]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 258,
@@ -4637,11 +4637,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 259,
@@ -4655,11 +4655,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 260,
@@ -4673,11 +4673,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 261,
@@ -4691,11 +4691,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 262,
@@ -4709,11 +4709,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 263,
@@ -4727,11 +4727,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 264,
@@ -4745,11 +4745,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 265,
@@ -4763,11 +4763,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4101]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 266,
@@ -4781,11 +4781,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4102]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 267,
@@ -4799,11 +4799,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4103]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 268,
@@ -4817,11 +4817,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4104]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 269,
@@ -4835,11 +4835,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4105]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 270,
@@ -4853,11 +4853,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4106]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 271,
@@ -4871,11 +4871,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4107]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 272,
@@ -4889,11 +4889,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4201]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 273,
@@ -4907,11 +4907,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4202]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 274,
@@ -4925,11 +4925,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4203]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 275,
@@ -4943,11 +4943,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4204]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 276,
@@ -4961,11 +4961,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4205]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 277,
@@ -4979,11 +4979,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4206]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 278,
@@ -4997,11 +4997,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4207]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 279,
@@ -5015,11 +5015,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4301]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 280,
@@ -5033,11 +5033,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4302]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 281,
@@ -5051,11 +5051,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4303]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 282,
@@ -5069,11 +5069,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4304]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 283,
@@ -5087,11 +5087,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4305]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 284,
@@ -5105,11 +5105,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4306]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 285,
@@ -5123,11 +5123,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4307]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 286,
@@ -5141,11 +5141,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4401]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 287,
@@ -5159,11 +5159,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4402]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 288,
@@ -5177,11 +5177,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4403]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 289,
@@ -5195,11 +5195,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4404]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 290,
@@ -5213,11 +5213,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4405]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 291,
@@ -5231,11 +5231,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4406]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 292,
@@ -5249,11 +5249,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4407]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 293,
@@ -5267,11 +5267,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 294,
@@ -5285,11 +5285,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 295,
@@ -5303,11 +5303,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 296,
@@ -5321,11 +5321,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 297,
@@ -5339,11 +5339,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 298,
@@ -5357,11 +5357,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 299,
@@ -5375,11 +5375,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 300,
@@ -5393,11 +5393,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 301,
@@ -5411,11 +5411,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 302,
@@ -5429,11 +5429,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 303,
@@ -5447,11 +5447,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 304,
@@ -5465,11 +5465,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 305,
@@ -5483,11 +5483,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 306,
@@ -5501,11 +5501,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 307,
@@ -5519,11 +5519,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 308,
@@ -5537,11 +5537,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 309,
@@ -5555,11 +5555,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 310,
@@ -5573,11 +5573,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 311,
@@ -5591,11 +5591,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 312,
@@ -5609,11 +5609,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 313,
@@ -5627,11 +5627,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 314,
@@ -5645,11 +5645,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 315,
@@ -5663,11 +5663,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 316,
@@ -5681,11 +5681,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 317,
@@ -5699,11 +5699,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 318,
@@ -5717,11 +5717,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 319,
@@ -5735,11 +5735,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 320,
@@ -5753,11 +5753,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 321,
@@ -5771,11 +5771,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4901]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 322,
@@ -5789,11 +5789,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4902]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 323,
@@ -5807,11 +5807,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4903]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 324,
@@ -5825,11 +5825,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4904]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 325,
@@ -5843,11 +5843,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4905]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 326,
@@ -5861,11 +5861,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4906]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 327,
@@ -5879,11 +5879,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText4907]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 328,
@@ -5897,11 +5897,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 329,
@@ -5915,11 +5915,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 330,
@@ -5933,11 +5933,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 331,
@@ -5951,11 +5951,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 332,
@@ -5969,11 +5969,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 333,
@@ -5987,11 +5987,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 334,
@@ -6005,11 +6005,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 335,
@@ -6023,11 +6023,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5101]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 336,
@@ -6041,11 +6041,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5102]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 337,
@@ -6059,11 +6059,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5103]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 338,
@@ -6077,11 +6077,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5104]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 339,
@@ -6095,11 +6095,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5105]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 340,
@@ -6113,11 +6113,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5106]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 341,
@@ -6131,11 +6131,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5107]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 342,
@@ -6149,11 +6149,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5201]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 343,
@@ -6167,11 +6167,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5202]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 344,
@@ -6185,11 +6185,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5203]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 345,
@@ -6203,11 +6203,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5204]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 346,
@@ -6221,11 +6221,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5205]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 347,
@@ -6239,11 +6239,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5206]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 348,
@@ -6257,11 +6257,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5207]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 349,
@@ -6275,11 +6275,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5301]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 350,
@@ -6293,11 +6293,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5302]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 351,
@@ -6311,11 +6311,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5303]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 352,
@@ -6329,11 +6329,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5304]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 353,
@@ -6347,11 +6347,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5305]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 354,
@@ -6365,11 +6365,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5306]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 355,
@@ -6383,11 +6383,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5307]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 356,
@@ -6401,11 +6401,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5401]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 357,
@@ -6419,11 +6419,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5402]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 358,
@@ -6437,11 +6437,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5403]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 359,
@@ -6455,11 +6455,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5404]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 360,
@@ -6473,11 +6473,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5405]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 361,
@@ -6491,11 +6491,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5406]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 362,
@@ -6509,11 +6509,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5407]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 363,
@@ -6527,11 +6527,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 364,
@@ -6545,11 +6545,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 365,
@@ -6563,11 +6563,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 366,
@@ -6581,11 +6581,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 367,
@@ -6599,11 +6599,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 368,
@@ -6617,11 +6617,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 369,
@@ -6635,11 +6635,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 370,
@@ -6653,11 +6653,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 371,
@@ -6671,11 +6671,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 372,
@@ -6689,11 +6689,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 373,
@@ -6707,11 +6707,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 374,
@@ -6725,11 +6725,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 375,
@@ -6743,11 +6743,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 376,
@@ -6761,11 +6761,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 377,
@@ -6779,11 +6779,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 378,
@@ -6797,11 +6797,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 379,
@@ -6815,11 +6815,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 380,
@@ -6833,11 +6833,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 381,
@@ -6851,11 +6851,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 382,
@@ -6869,11 +6869,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 383,
@@ -6887,11 +6887,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 384,
@@ -6905,11 +6905,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 385,
@@ -6923,11 +6923,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 386,
@@ -6941,11 +6941,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 387,
@@ -6959,11 +6959,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 388,
@@ -6977,11 +6977,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 389,
@@ -6995,11 +6995,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 390,
@@ -7013,11 +7013,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText5807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 398,
@@ -7031,11 +7031,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 399,
@@ -7049,11 +7049,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 400,
@@ -7067,11 +7067,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 401,
@@ -7085,11 +7085,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 402,
@@ -7103,11 +7103,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 403,
@@ -7121,11 +7121,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 404,
@@ -7139,11 +7139,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 405,
@@ -7157,11 +7157,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6101]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 406,
@@ -7175,11 +7175,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6102]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 407,
@@ -7193,11 +7193,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6103]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 408,
@@ -7211,11 +7211,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6104]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 409,
@@ -7229,11 +7229,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6105]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 410,
@@ -7247,11 +7247,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6106]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 411,
@@ -7265,11 +7265,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6107]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 412,
@@ -7283,11 +7283,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6201]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 413,
@@ -7301,11 +7301,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6202]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 414,
@@ -7319,11 +7319,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6203]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 415,
@@ -7337,11 +7337,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6204]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 416,
@@ -7355,11 +7355,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6205]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 417,
@@ -7373,11 +7373,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6206]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 418,
@@ -7391,11 +7391,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6207]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 419,
@@ -7409,11 +7409,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6301]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 420,
@@ -7427,11 +7427,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6302]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 421,
@@ -7445,11 +7445,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6303]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 422,
@@ -7463,11 +7463,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6304]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 423,
@@ -7481,11 +7481,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6305]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 424,
@@ -7499,11 +7499,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6306]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 425,
@@ -7517,11 +7517,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6307]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 426,
@@ -7535,11 +7535,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6401]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 427,
@@ -7553,11 +7553,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6402]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 428,
@@ -7571,11 +7571,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6403]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 429,
@@ -7589,11 +7589,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6404]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 430,
@@ -7607,11 +7607,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6405]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 431,
@@ -7625,11 +7625,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6406]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 432,
@@ -7643,11 +7643,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6407]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 440,
@@ -7661,11 +7661,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 441,
@@ -7679,11 +7679,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 442,
@@ -7697,11 +7697,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 443,
@@ -7715,11 +7715,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 444,
@@ -7733,11 +7733,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 445,
@@ -7751,11 +7751,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 446,
@@ -7769,11 +7769,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 447,
@@ -7787,11 +7787,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6701]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 448,
@@ -7805,11 +7805,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6702]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 449,
@@ -7823,11 +7823,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6703]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 450,
@@ -7841,11 +7841,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6704]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 451,
@@ -7859,11 +7859,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6705]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 452,
@@ -7877,11 +7877,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6706]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 453,
@@ -7895,11 +7895,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6707]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 454,
@@ -7913,11 +7913,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6801]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 455,
@@ -7931,11 +7931,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6802]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 456,
@@ -7949,11 +7949,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6803]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 457,
@@ -7967,11 +7967,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6804]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 458,
@@ -7985,11 +7985,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6805]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 459,
@@ -8003,11 +8003,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6806]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 460,
@@ -8021,11 +8021,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText6807]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 468,
@@ -8039,11 +8039,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7001]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 469,
@@ -8057,11 +8057,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7002]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 470,
@@ -8075,11 +8075,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7003]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 471,
@@ -8093,11 +8093,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7004]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 472,
@@ -8111,11 +8111,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7005]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 473,
@@ -8129,11 +8129,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7006]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 474,
@@ -8147,11 +8147,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7007]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 475,
@@ -8165,11 +8165,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7101]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 476,
@@ -8183,11 +8183,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7102]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 477,
@@ -8201,11 +8201,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7103]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 478,
@@ -8219,11 +8219,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7104]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 479,
@@ -8237,11 +8237,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7105]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 480,
@@ -8255,11 +8255,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7106]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 481,
@@ -8273,11 +8273,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7107]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 482,
@@ -8291,11 +8291,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7201]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 483,
@@ -8309,11 +8309,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7202]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 484,
@@ -8327,11 +8327,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7203]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 485,
@@ -8345,11 +8345,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7204]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 486,
@@ -8363,11 +8363,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7205]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 487,
@@ -8381,11 +8381,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7206]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 488,
@@ -8399,11 +8399,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7207]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 489,
@@ -8417,11 +8417,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7301]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 490,
@@ -8435,11 +8435,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7302]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 491,
@@ -8453,11 +8453,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7303]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 492,
@@ -8471,11 +8471,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7304]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 493,
@@ -8489,11 +8489,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7305]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 494,
@@ -8507,11 +8507,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7306]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 495,
@@ -8525,11 +8525,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7307]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 496,
@@ -8543,11 +8543,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7401]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 497,
@@ -8561,11 +8561,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7402]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 498,
@@ -8579,11 +8579,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7403]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 499,
@@ -8597,11 +8597,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7404]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 500,
@@ -8615,11 +8615,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7405]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 501,
@@ -8633,11 +8633,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7406]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 502,
@@ -8651,11 +8651,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7407]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 510,
@@ -8669,11 +8669,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7601]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 511,
@@ -8687,11 +8687,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7602]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 512,
@@ -8705,11 +8705,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7603]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 513,
@@ -8723,11 +8723,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7604]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 514,
@@ -8741,11 +8741,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7605]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 515,
@@ -8759,11 +8759,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7606]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 516,
@@ -8777,11 +8777,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText7607]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 566,
@@ -8795,11 +8795,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8401]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 567,
@@ -8813,11 +8813,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8402]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 568,
@@ -8831,11 +8831,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8403]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 569,
@@ -8849,11 +8849,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8404]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 570,
@@ -8867,11 +8867,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8405]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 571,
@@ -8885,11 +8885,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8406]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 572,
@@ -8903,11 +8903,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8407]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   },
   {
     "Id": 573,
@@ -8921,11 +8921,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8501]",
-    "RarityFlags": "CharacterRarityFlags.SR"
+    "RarityFlags": 8
   },
   {
     "Id": 574,
@@ -8939,11 +8939,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8502]",
-    "RarityFlags": "CharacterRarityFlags.SRPlus"
+    "RarityFlags": 16
   },
   {
     "Id": 575,
@@ -8957,11 +8957,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8503]",
-    "RarityFlags": "CharacterRarityFlags.SSR"
+    "RarityFlags": 32
   },
   {
     "Id": 576,
@@ -8975,11 +8975,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8504]",
-    "RarityFlags": "CharacterRarityFlags.SSRPlus"
+    "RarityFlags": 64
   },
   {
     "Id": 577,
@@ -8993,11 +8993,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8505]",
-    "RarityFlags": "CharacterRarityFlags.UR"
+    "RarityFlags": 128
   },
   {
     "Id": 578,
@@ -9011,11 +9011,11 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8506]",
-    "RarityFlags": "CharacterRarityFlags.URPlus"
+    "RarityFlags": 256
   },
   {
     "Id": 579,
@@ -9029,10 +9029,10 @@
       {
         "ItemCount": 20,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       }
     ],
     "TextKey": "[CharacterStoryText8507]",
-    "RarityFlags": "CharacterRarityFlags.LR"
+    "RarityFlags": 512
   }
 ]

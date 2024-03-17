@@ -8,82 +8,82 @@
       {
         "BingoRewardInfoList": [
           {
-            "BingoType": "BingoType.UpperRow",
+            "BingoType": "UpperRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 1,
                 "ItemId": 12,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterRow",
+            "BingoType": "CenterRow",
             "RewardItemList": [
               {
                 "ItemCount": 2,
                 "ItemId": 14,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LowerRow",
+            "BingoType": "LowerRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 20,
                 "ItemId": 27,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LeftColumn",
+            "BingoType": "LeftColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 2,
-                "ItemType": "ItemType.GachaTicket"
+                "ItemType": "GachaTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterColumn",
+            "BingoType": "CenterColumn",
             "RewardItemList": [
               {
                 "ItemCount": 20,
                 "ItemId": 1,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.RightColumn",
+            "BingoType": "RightColumn",
             "RewardItemList": [
               {
                 "ItemCount": 10,
                 "ItemId": 2,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           }
@@ -107,77 +107,77 @@
       {
         "BingoRewardInfoList": [
           {
-            "BingoType": "BingoType.UpperRow",
+            "BingoType": "UpperRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 1,
                 "ItemId": 12,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterRow",
+            "BingoType": "CenterRow",
             "RewardItemList": [
               {
                 "ItemCount": 2,
                 "ItemId": 14,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LowerRow",
+            "BingoType": "LowerRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 20,
                 "ItemId": 27,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LeftColumn",
+            "BingoType": "LeftColumn",
             "RewardItemList": [
               {
                 "ItemCount": 10,
                 "ItemId": 6,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterColumn",
+            "BingoType": "CenterColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 2,
-                "ItemType": "ItemType.GachaTicket"
+                "ItemType": "GachaTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.RightColumn",
+            "BingoType": "RightColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 3,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           }
@@ -199,7 +199,7 @@
         "Y": 0
       }
     ],
-    "StartEndTimeZoneType": "StartEndTimeZoneType.JstStartJstEnd",
+    "StartEndTimeZoneType": "JstStartJstEnd",
     "StartTime": "2023-10-18 15:00:00",
     "EndTime": "2023-11-15 14:29:59",
     "ForceStartTime": "2023-11-12 4:00:00",
@@ -214,82 +214,82 @@
       {
         "BingoRewardInfoList": [
           {
-            "BingoType": "BingoType.UpperRow",
+            "BingoType": "UpperRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 1,
                 "ItemId": 12,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterRow",
+            "BingoType": "CenterRow",
             "RewardItemList": [
               {
                 "ItemCount": 2,
                 "ItemId": 14,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LowerRow",
+            "BingoType": "LowerRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 20,
                 "ItemId": 27,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LeftColumn",
+            "BingoType": "LeftColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 2,
-                "ItemType": "ItemType.GachaTicket"
+                "ItemType": "GachaTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterColumn",
+            "BingoType": "CenterColumn",
             "RewardItemList": [
               {
                 "ItemCount": 20,
                 "ItemId": 1,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.RightColumn",
+            "BingoType": "RightColumn",
             "RewardItemList": [
               {
                 "ItemCount": 10,
                 "ItemId": 2,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           }
@@ -313,77 +313,77 @@
       {
         "BingoRewardInfoList": [
           {
-            "BingoType": "BingoType.UpperRow",
+            "BingoType": "UpperRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 1,
                 "ItemId": 12,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterRow",
+            "BingoType": "CenterRow",
             "RewardItemList": [
               {
                 "ItemCount": 2,
                 "ItemId": 14,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LowerRow",
+            "BingoType": "LowerRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 20,
                 "ItemId": 27,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LeftColumn",
+            "BingoType": "LeftColumn",
             "RewardItemList": [
               {
                 "ItemCount": 10,
                 "ItemId": 6,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterColumn",
+            "BingoType": "CenterColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 2,
-                "ItemType": "ItemType.GachaTicket"
+                "ItemType": "GachaTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.RightColumn",
+            "BingoType": "RightColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 3,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           }
@@ -405,7 +405,7 @@
         "Y": 0
       }
     ],
-    "StartEndTimeZoneType": "StartEndTimeZoneType.LocalStartLocalEnd",
+    "StartEndTimeZoneType": "LocalStartLocalEnd",
     "StartTime": "2024-01-01 04:00:00",
     "EndTime": "2024-01-29 03:59:59",
     "ForceStartTime": "2024-01-26 4:00:00",
@@ -420,82 +420,82 @@
       {
         "BingoRewardInfoList": [
           {
-            "BingoType": "BingoType.UpperRow",
+            "BingoType": "UpperRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 1,
                 "ItemId": 12,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterRow",
+            "BingoType": "CenterRow",
             "RewardItemList": [
               {
                 "ItemCount": 2,
                 "ItemId": 14,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LowerRow",
+            "BingoType": "LowerRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 20,
                 "ItemId": 27,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LeftColumn",
+            "BingoType": "LeftColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 2,
-                "ItemType": "ItemType.GachaTicket"
+                "ItemType": "GachaTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterColumn",
+            "BingoType": "CenterColumn",
             "RewardItemList": [
               {
                 "ItemCount": 20,
                 "ItemId": 1,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.RightColumn",
+            "BingoType": "RightColumn",
             "RewardItemList": [
               {
                 "ItemCount": 10,
                 "ItemId": 2,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           }
@@ -519,77 +519,77 @@
       {
         "BingoRewardInfoList": [
           {
-            "BingoType": "BingoType.UpperRow",
+            "BingoType": "UpperRow",
             "RewardItemList": [
               {
                 "ItemCount": 2,
                 "ItemId": 14,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterRow",
+            "BingoType": "CenterRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 1,
                 "ItemId": 12,
-                "ItemType": "ItemType.QuestQuickTicket"
+                "ItemType": "QuestQuickTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LowerRow",
+            "BingoType": "LowerRow",
             "RewardItemList": [
               {
                 "ItemCount": 300,
                 "ItemId": 1,
-                "ItemType": "ItemType.CurrencyFree"
+                "ItemType": "CurrencyFree"
               },
               {
                 "ItemCount": 20,
                 "ItemId": 27,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.LeftColumn",
+            "BingoType": "LeftColumn",
             "RewardItemList": [
               {
                 "ItemCount": 10,
                 "ItemId": 6,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           },
           {
-            "BingoType": "BingoType.CenterColumn",
+            "BingoType": "CenterColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 2,
-                "ItemType": "ItemType.GachaTicket"
+                "ItemType": "GachaTicket"
               }
             ]
           },
           {
-            "BingoType": "BingoType.RightColumn",
+            "BingoType": "RightColumn",
             "RewardItemList": [
               {
                 "ItemCount": 5,
                 "ItemId": 3,
-                "ItemType": "ItemType.TreasureChestKey"
+                "ItemType": "TreasureChestKey"
               },
               {
                 "ItemCount": 10,
                 "ItemId": 28,
-                "ItemType": "ItemType.TreasureChest"
+                "ItemType": "TreasureChest"
               }
             ]
           }
@@ -611,7 +611,7 @@
         "Y": 0
       }
     ],
-    "StartEndTimeZoneType": "StartEndTimeZoneType.LocalStartLocalEnd",
+    "StartEndTimeZoneType": "LocalStartLocalEnd",
     "StartTime": "2024-02-15 04:00:00",
     "EndTime": "2024-03-14 03:59:59",
     "ForceStartTime": "2024-03-11 04:00:00",

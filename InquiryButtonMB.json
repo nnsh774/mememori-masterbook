@@ -4,76 +4,76 @@
     "IsIgnore": null,
     "Memo": "ご質問ボタン　　　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey1]",
-    "ButtonType": "InquiryButtonType.Mail",
+    "ButtonType": "Mail",
     "MailSubjectKey": "[MailSubject1]",
     "MailBodyKey": "[MailBody1]",
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "不具合関連ボタン　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey2]",
-    "ButtonType": "InquiryButtonType.Mail",
+    "ButtonType": "Mail",
     "MailSubjectKey": "[MailSubject2]",
     "MailBodyKey": "[MailBody2]",
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "通報ボタン　　　　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey3]",
-    "ButtonType": "InquiryButtonType.Mail",
+    "ButtonType": "Mail",
     "MailSubjectKey": "[MailSubject3]",
     "MailBodyKey": "[MailBody3]",
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "データ引き継ぎボタン　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey4]",
-    "ButtonType": "InquiryButtonType.Mail",
+    "ButtonType": "Mail",
     "MailSubjectKey": "[MailSubject4]",
     "MailBodyKey": "[MailBody4]",
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "購入・決済ボタン　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey5]",
-    "ButtonType": "InquiryButtonType.Mail",
+    "ButtonType": "Mail",
     "MailSubjectKey": "[MailSubject5]",
     "MailBodyKey": "[MailBody5]",
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "ご意見・ご要望ボタン　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey6]",
-    "ButtonType": "InquiryButtonType.Mail",
+    "ButtonType": "Mail",
     "MailSubjectKey": "[MailSubject6]",
     "MailBodyKey": "[MailBody6]",
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
     "ButtonTextKey": "[MenuAccountDeleteButton]",
-    "ButtonType": "InquiryButtonType.AccountDelete",
+    "ButtonType": "AccountDelete",
     "MailSubjectKey": null,
     "MailBodyKey": null,
     "TransferUrl": null,
-    "TimeServerIds": []
+    "TimeServerIds": null
   }
 ]

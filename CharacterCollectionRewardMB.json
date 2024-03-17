@@ -5,17 +5,17 @@
     "Memo": "キャラ2体_SR",
     "CharacterCount": 2,
     "CollectionLevel": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "CharacterRarityFlags": 8,
     "RewardItems": [
       {
         "ItemCount": 4,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 1,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -25,17 +25,17 @@
     "Memo": "キャラ2体_UR",
     "CharacterCount": 2,
     "CollectionLevel": 2,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "CharacterRarityFlags": 128,
     "RewardItems": [
       {
         "ItemCount": 8,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 4,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -45,17 +45,17 @@
     "Memo": "キャラ2体_LR",
     "CharacterCount": 2,
     "CollectionLevel": 3,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "CharacterRarityFlags": 512,
     "RewardItems": [
       {
         "ItemCount": 16,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 8,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -65,17 +65,17 @@
     "Memo": "キャラ2体_LR+5",
     "CharacterCount": 2,
     "CollectionLevel": 4,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "CharacterRarityFlags": 16384,
     "RewardItems": [
       {
         "ItemCount": 40,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 18,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -85,17 +85,17 @@
     "Memo": "キャラ2体_LR+6",
     "CharacterCount": 2,
     "CollectionLevel": 5,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "CharacterRarityFlags": 32768,
     "RewardItems": [
       {
         "ItemCount": 40,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 18,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -105,17 +105,17 @@
     "Memo": "キャラ2体_LR+7",
     "CharacterCount": 2,
     "CollectionLevel": 6,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "CharacterRarityFlags": 65536,
     "RewardItems": [
       {
         "ItemCount": 40,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 18,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -125,17 +125,17 @@
     "Memo": "キャラ2体_LR+8",
     "CharacterCount": 2,
     "CollectionLevel": 7,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "CharacterRarityFlags": 131072,
     "RewardItems": [
       {
         "ItemCount": 40,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 18,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -145,17 +145,17 @@
     "Memo": "キャラ2体_LR+9",
     "CharacterCount": 2,
     "CollectionLevel": 8,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "CharacterRarityFlags": 262144,
     "RewardItems": [
       {
         "ItemCount": 40,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 18,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -165,17 +165,17 @@
     "Memo": "キャラ3体_SR",
     "CharacterCount": 3,
     "CollectionLevel": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "CharacterRarityFlags": 8,
     "RewardItems": [
       {
         "ItemCount": 6,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 2,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -185,17 +185,17 @@
     "Memo": "キャラ3体_UR",
     "CharacterCount": 3,
     "CollectionLevel": 2,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "CharacterRarityFlags": 128,
     "RewardItems": [
       {
         "ItemCount": 12,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 8,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -205,17 +205,17 @@
     "Memo": "キャラ3体_LR",
     "CharacterCount": 3,
     "CollectionLevel": 3,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "CharacterRarityFlags": 512,
     "RewardItems": [
       {
         "ItemCount": 24,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 16,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -225,17 +225,17 @@
     "Memo": "キャラ3体_LR+5",
     "CharacterCount": 3,
     "CollectionLevel": 4,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "CharacterRarityFlags": 16384,
     "RewardItems": [
       {
         "ItemCount": 60,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 36,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -245,17 +245,17 @@
     "Memo": "キャラ3体_LR+6",
     "CharacterCount": 3,
     "CollectionLevel": 5,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "CharacterRarityFlags": 32768,
     "RewardItems": [
       {
         "ItemCount": 60,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 36,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -265,17 +265,17 @@
     "Memo": "キャラ3体_LR+7",
     "CharacterCount": 3,
     "CollectionLevel": 6,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "CharacterRarityFlags": 65536,
     "RewardItems": [
       {
         "ItemCount": 60,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 36,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -285,17 +285,17 @@
     "Memo": "キャラ3体_LR+8",
     "CharacterCount": 3,
     "CollectionLevel": 7,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "CharacterRarityFlags": 131072,
     "RewardItems": [
       {
         "ItemCount": 60,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 36,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -305,17 +305,17 @@
     "Memo": "キャラ3体_LR+9",
     "CharacterCount": 3,
     "CollectionLevel": 8,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "CharacterRarityFlags": 262144,
     "RewardItems": [
       {
         "ItemCount": 60,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 36,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -325,17 +325,17 @@
     "Memo": "キャラ4体_SR",
     "CharacterCount": 4,
     "CollectionLevel": 1,
-    "CharacterRarityFlags": "CharacterRarityFlags.SR",
+    "CharacterRarityFlags": 8,
     "RewardItems": [
       {
         "ItemCount": 8,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 3,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -345,17 +345,17 @@
     "Memo": "キャラ4体_UR",
     "CharacterCount": 4,
     "CollectionLevel": 2,
-    "CharacterRarityFlags": "CharacterRarityFlags.UR",
+    "CharacterRarityFlags": 128,
     "RewardItems": [
       {
         "ItemCount": 16,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 12,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -365,17 +365,17 @@
     "Memo": "キャラ4体_LR",
     "CharacterCount": 4,
     "CollectionLevel": 3,
-    "CharacterRarityFlags": "CharacterRarityFlags.LR",
+    "CharacterRarityFlags": 512,
     "RewardItems": [
       {
         "ItemCount": 32,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 24,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -385,17 +385,17 @@
     "Memo": "キャラ4体_LR+5",
     "CharacterCount": 4,
     "CollectionLevel": 4,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus5",
+    "CharacterRarityFlags": 16384,
     "RewardItems": [
       {
         "ItemCount": 80,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 54,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -405,17 +405,17 @@
     "Memo": "キャラ4体_LR+6",
     "CharacterCount": 4,
     "CollectionLevel": 5,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus6",
+    "CharacterRarityFlags": 32768,
     "RewardItems": [
       {
         "ItemCount": 80,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 54,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -425,17 +425,17 @@
     "Memo": "キャラ4体_LR+7",
     "CharacterCount": 4,
     "CollectionLevel": 6,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus7",
+    "CharacterRarityFlags": 65536,
     "RewardItems": [
       {
         "ItemCount": 80,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 54,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -445,17 +445,17 @@
     "Memo": "キャラ4体_LR+8",
     "CharacterCount": 4,
     "CollectionLevel": 7,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus8",
+    "CharacterRarityFlags": 131072,
     "RewardItems": [
       {
         "ItemCount": 80,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 54,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   },
@@ -465,17 +465,17 @@
     "Memo": "キャラ4体_LR+9",
     "CharacterCount": 4,
     "CollectionLevel": 8,
-    "CharacterRarityFlags": "CharacterRarityFlags.LRPlus9",
+    "CharacterRarityFlags": 262144,
     "RewardItems": [
       {
         "ItemCount": 80,
         "ItemId": 12,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       },
       {
         "ItemCount": 54,
         "ItemId": 7,
-        "ItemType": "ItemType.QuestQuickTicket"
+        "ItemType": "QuestQuickTicket"
       }
     ]
   }

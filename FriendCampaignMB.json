@@ -4,14 +4,6 @@
     "IsIgnore": null,
     "Memo": "友達招待キャンペーン（07/31~08/31）",
     "StartTime": "2023-06-30 00:00:00",
-    "CodeLimitCount": 20,
-    "RewardItemList": [
-      {
-        "ItemCount": 500,
-        "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
-      }
-    ],
     "EndTime": "2023-09-01 03:59:59",
     "CodeExpirationPeriod": 24,
     "CharacterImageId": 34,
@@ -40,6 +32,14 @@
       19,
       20
     ],
-    "Title": "[FriendCampaignKey1]"
+    "Title": "[FriendCampaignKey1]",
+    "CodeLimitCount": 20,
+    "RewardItemList": [
+      {
+        "ItemCount": 500,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]

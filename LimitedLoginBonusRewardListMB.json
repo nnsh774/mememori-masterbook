@@ -9,99 +9,99 @@
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 2,
         "DailyRewardItem": {
           "ItemCount": 1,
           "ItemId": 15,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 3,
         "DailyRewardItem": {
           "ItemCount": 50,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 4,
         "DailyRewardItem": {
           "ItemCount": 240,
           "ItemId": 27,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 5,
         "DailyRewardItem": {
           "ItemCount": 20,
           "ItemId": 1,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 6,
         "DailyRewardItem": {
           "ItemCount": 1,
           "ItemId": 15,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 7,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 8,
         "DailyRewardItem": {
           "ItemCount": 5000000,
           "ItemId": 1,
-          "ItemType": "ItemType.Gold"
+          "ItemType": "Gold"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 9,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 3,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 10,
         "DailyRewardItem": {
           "ItemCount": 3,
           "ItemId": 1,
-          "ItemType": "ItemType.MatchlessSacredTreasureExpItem"
+          "ItemType": "MatchlessSacredTreasureExpItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 11,
         "DailyRewardItem": {
           "ItemCount": 50,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ],
     "ExistEveryDayReward": false,
@@ -112,9 +112,9 @@
       "SpecialRewardItem": {
         "ItemCount": 1000,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       },
-      "RarityFlags": "CharacterRarityFlags.None"
+      "RarityFlags": 0
     }
   },
   {
@@ -127,63 +127,63 @@
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 2,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 3,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 4,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 5,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 6,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 7,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ],
     "ExistEveryDayReward": false,
@@ -194,9 +194,9 @@
       "SpecialRewardItem": {
         "ItemCount": 60,
         "ItemId": 28,
-        "ItemType": "ItemType.TreasureChest"
+        "ItemType": "TreasureChest"
       },
-      "RarityFlags": "CharacterRarityFlags.None"
+      "RarityFlags": 0
     }
   },
   {
@@ -209,99 +209,99 @@
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 2,
         "DailyRewardItem": {
           "ItemCount": 20,
           "ItemId": 1,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 3,
         "DailyRewardItem": {
           "ItemCount": 200,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 4,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemType": "BossChallengeTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 5,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 6,
         "DailyRewardItem": {
           "ItemCount": 50,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 7,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemType": "TowerBattleTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 8,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 3,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 9,
         "DailyRewardItem": {
           "ItemCount": 50,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 10,
         "DailyRewardItem": {
           "ItemCount": 1,
           "ItemId": 15,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 11,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ],
     "ExistEveryDayReward": false,
@@ -312,9 +312,9 @@
       "SpecialRewardItem": {
         "ItemCount": 1000,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       },
-      "RarityFlags": "CharacterRarityFlags.None"
+      "RarityFlags": 0
     }
   },
   {
@@ -327,126 +327,126 @@
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 2,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 1,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 3,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 4,
         "DailyRewardItem": {
           "ItemCount": 2,
           "ItemId": 14,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 5,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 6,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 7,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 8,
         "DailyRewardItem": {
           "ItemCount": 1,
           "ItemId": 15,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 9,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 10,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 3,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 11,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 12,
         "DailyRewardItem": {
           "ItemCount": 1500,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 13,
         "DailyRewardItem": {
           "ItemCount": 15,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 14,
         "DailyRewardItem": {
           "ItemCount": 15,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ],
     "ExistEveryDayReward": false,
@@ -457,9 +457,9 @@
       "SpecialRewardItem": {
         "ItemCount": 2000,
         "ItemId": 2,
-        "ItemType": "ItemType.CharacterTrainingMaterial"
+        "ItemType": "CharacterTrainingMaterial"
       },
-      "RarityFlags": "CharacterRarityFlags.None"
+      "RarityFlags": 0
     }
   },
   {
@@ -472,126 +472,126 @@
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 2,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 1,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 3,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 4,
         "DailyRewardItem": {
           "ItemCount": 2,
           "ItemId": 14,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 5,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 6,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 2,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 7,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 8,
         "DailyRewardItem": {
           "ItemCount": 1,
           "ItemId": 15,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 9,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 10,
         "DailyRewardItem": {
           "ItemCount": 5,
           "ItemId": 3,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 11,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 12,
         "DailyRewardItem": {
           "ItemCount": 1500,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 13,
         "DailyRewardItem": {
           "ItemCount": 10,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Date": 14,
         "DailyRewardItem": {
           "ItemCount": 2000,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ],
     "ExistEveryDayReward": false,
@@ -602,9 +602,9 @@
       "SpecialRewardItem": {
         "ItemCount": 1000,
         "ItemId": 1,
-        "ItemType": "ItemType.CurrencyFree"
+        "ItemType": "CurrencyFree"
       },
-      "RarityFlags": "CharacterRarityFlags.None"
+      "RarityFlags": 0
     }
   }
 ]

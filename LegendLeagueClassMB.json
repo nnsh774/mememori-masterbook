@@ -3,7 +3,7 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "ClassType": "LegendLeagueClassType.Chevalier",
+    "ClassType": "Chevalier",
     "ClassNameKey": "[LegendLeagueClassName1]",
     "RequiredPoint": 0,
     "RequiredMinimumRank": 0
@@ -12,7 +12,7 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
-    "ClassType": "LegendLeagueClassType.Paladin",
+    "ClassType": "Paladin",
     "ClassNameKey": "[LegendLeagueClassName2]",
     "RequiredPoint": 1050,
     "RequiredMinimumRank": 0
@@ -21,7 +21,7 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
-    "ClassType": "LegendLeagueClassType.Duke",
+    "ClassType": "Duke",
     "ClassNameKey": "[LegendLeagueClassName3]",
     "RequiredPoint": 1400,
     "RequiredMinimumRank": 0
@@ -30,7 +30,7 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "ClassType": "LegendLeagueClassType.Royal",
+    "ClassType": "Royal",
     "ClassNameKey": "[LegendLeagueClassName4]",
     "RequiredPoint": 1600,
     "RequiredMinimumRank": 30
@@ -39,7 +39,7 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "ClassType": "LegendLeagueClassType.Legend",
+    "ClassType": "Legend",
     "ClassNameKey": "[LegendLeagueClassName5]",
     "RequiredPoint": 1800,
     "RequiredMinimumRank": 10
@@ -48,7 +48,7 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "ClassType": "LegendLeagueClassType.WorldRuler",
+    "ClassType": "WorldRuler",
     "ClassNameKey": "[LegendLeagueClassName6]",
     "RequiredPoint": 2200,
     "RequiredMinimumRank": 1

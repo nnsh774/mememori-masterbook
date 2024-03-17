@@ -9,7 +9,7 @@
     "IsActiveWeeklyBonus": false,
     "DungeonCoinBonusPercent": 0,
     "GuildCoinBonusPercent": 0,
-    "TotalActivityMedalRewardBonusList": []
+    "TotalActivityMedalRewardBonusList": null
   },
   {
     "Id": 2,
@@ -21,7 +21,7 @@
     "IsActiveWeeklyBonus": false,
     "DungeonCoinBonusPercent": 0,
     "GuildCoinBonusPercent": 0,
-    "TotalActivityMedalRewardBonusList": []
+    "TotalActivityMedalRewardBonusList": null
   },
   {
     "Id": 3,
@@ -33,7 +33,7 @@
     "IsActiveWeeklyBonus": true,
     "DungeonCoinBonusPercent": 0,
     "GuildCoinBonusPercent": 0,
-    "TotalActivityMedalRewardBonusList": []
+    "TotalActivityMedalRewardBonusList": null
   },
   {
     "Id": 4,
@@ -45,7 +45,7 @@
     "IsActiveWeeklyBonus": true,
     "DungeonCoinBonusPercent": 0,
     "GuildCoinBonusPercent": 0,
-    "TotalActivityMedalRewardBonusList": []
+    "TotalActivityMedalRewardBonusList": null
   },
   {
     "Id": 5,
@@ -54,13 +54,13 @@
     "StateBonusNameTextKey": "[StateBonusName2]",
     "ItemIconInfo": {
       "ItemId": 13,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemType": "ExchangePlaceItem"
     },
     "StateBonusNumberTextKey": "[StateBonusNumber1]",
     "IsActiveWeeklyBonus": true,
     "DungeonCoinBonusPercent": 15,
     "GuildCoinBonusPercent": 0,
-    "TotalActivityMedalRewardBonusList": []
+    "TotalActivityMedalRewardBonusList": null
   },
   {
     "Id": 6,
@@ -69,13 +69,13 @@
     "StateBonusNameTextKey": "[StateBonusName3]",
     "ItemIconInfo": {
       "ItemId": 12,
-      "ItemType": "ItemType.ExchangePlaceItem"
+      "ItemType": "ExchangePlaceItem"
     },
     "StateBonusNumberTextKey": "[StateBonusNumber2]",
     "IsActiveWeeklyBonus": true,
     "DungeonCoinBonusPercent": 15,
     "GuildCoinBonusPercent": 15,
-    "TotalActivityMedalRewardBonusList": []
+    "TotalActivityMedalRewardBonusList": null
   },
   {
     "Id": 7,
@@ -84,7 +84,7 @@
     "StateBonusNameTextKey": "[StateBonusName4]",
     "ItemIconInfo": {
       "ItemId": 7,
-      "ItemType": "ItemType.QuestQuickTicket"
+      "ItemType": "QuestQuickTicket"
     },
     "StateBonusNumberTextKey": null,
     "IsActiveWeeklyBonus": true,
@@ -98,9 +98,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 7,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       }
@@ -113,7 +113,7 @@
     "StateBonusNameTextKey": "[StateBonusName5]",
     "ItemIconInfo": {
       "ItemId": 12,
-      "ItemType": "ItemType.QuestQuickTicket"
+      "ItemType": "QuestQuickTicket"
     },
     "StateBonusNumberTextKey": null,
     "IsActiveWeeklyBonus": true,
@@ -127,9 +127,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 7,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       },
@@ -140,9 +140,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 12,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       }
@@ -166,9 +166,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 7,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       },
@@ -179,9 +179,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 12,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       }
@@ -205,9 +205,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 7,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       },
@@ -218,9 +218,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 12,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       }
@@ -244,9 +244,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 7,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       },
@@ -257,9 +257,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 12,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       }
@@ -283,9 +283,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 7,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       },
@@ -296,9 +296,9 @@
             "Item": {
               "ItemCount": 1,
               "ItemId": 12,
-              "ItemType": "ItemType.QuestQuickTicket"
+              "ItemType": "QuestQuickTicket"
             },
-            "RarityFlags": "CharacterRarityFlags.None"
+            "RarityFlags": 0
           }
         ]
       }

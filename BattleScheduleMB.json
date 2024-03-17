@@ -3,7 +3,7 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 476,
     "StartTimeFixJST": "2000-01-01 00:00:00"
   },
@@ -11,7 +11,7 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerInfinite",
+    "BattleScheduleType": "TowerInfinite",
     "MaxQuestId": 400,
     "StartTimeFixJST": "2000-01-01 00:00:00"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerBlue",
+    "BattleScheduleType": "TowerBlue",
     "MaxQuestId": 20250,
     "StartTimeFixJST": "2000-01-01 00:00:00"
   },
@@ -27,7 +27,7 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerRed",
+    "BattleScheduleType": "TowerRed",
     "MaxQuestId": 30250,
     "StartTimeFixJST": "2000-01-01 00:00:00"
   },
@@ -35,7 +35,7 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerGreen",
+    "BattleScheduleType": "TowerGreen",
     "MaxQuestId": 40250,
     "StartTimeFixJST": "2000-01-01 00:00:00"
   },
@@ -43,7 +43,7 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerYellow",
+    "BattleScheduleType": "TowerYellow",
     "MaxQuestId": 50250,
     "StartTimeFixJST": "2000-01-01 00:00:00"
   },
@@ -51,7 +51,7 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 504,
     "StartTimeFixJST": "2022-12-08 15:30:00"
   },
@@ -59,7 +59,7 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 532,
     "StartTimeFixJST": "2022-12-08 15:30:00"
   },
@@ -67,7 +67,7 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerInfinite",
+    "BattleScheduleType": "TowerInfinite",
     "MaxQuestId": 500,
     "StartTimeFixJST": "2022-12-28 15:30:00"
   },
@@ -75,7 +75,7 @@
     "Id": 10,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.TowerInfinite",
+    "BattleScheduleType": "TowerInfinite",
     "MaxQuestId": 900,
     "StartTimeFixJST": "2023-01-17 15:00:00"
   },
@@ -83,7 +83,7 @@
     "Id": 11,
     "IsIgnore": null,
     "Memo": null,
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 588,
     "StartTimeFixJST": "2023-03-16 15:00:00"
   },
@@ -91,7 +91,7 @@
     "Id": 12,
     "IsIgnore": null,
     "Memo": "藍の塔ステージ追加（251~600）",
-    "BattleScheduleType": "BattleScheduleType.TowerBlue",
+    "BattleScheduleType": "TowerBlue",
     "MaxQuestId": 20600,
     "StartTimeFixJST": "2023-05-15 15:00:00"
   },
@@ -99,7 +99,7 @@
     "Id": 13,
     "IsIgnore": null,
     "Memo": "紅の塔ステージ追加（251~600）",
-    "BattleScheduleType": "BattleScheduleType.TowerRed",
+    "BattleScheduleType": "TowerRed",
     "MaxQuestId": 30600,
     "StartTimeFixJST": "2023-05-15 15:00:00"
   },
@@ -107,7 +107,7 @@
     "Id": 14,
     "IsIgnore": null,
     "Memo": "翠の塔ステージ追加（251~600）",
-    "BattleScheduleType": "BattleScheduleType.TowerGreen",
+    "BattleScheduleType": "TowerGreen",
     "MaxQuestId": 40600,
     "StartTimeFixJST": "2023-05-15 15:00:00"
   },
@@ -115,7 +115,7 @@
     "Id": 15,
     "IsIgnore": null,
     "Memo": "黄の塔ステージ追加（251~600）",
-    "BattleScheduleType": "BattleScheduleType.TowerYellow",
+    "BattleScheduleType": "TowerYellow",
     "MaxQuestId": 50600,
     "StartTimeFixJST": "2023-05-15 15:00:00"
   },
@@ -123,7 +123,7 @@
     "Id": 16,
     "IsIgnore": null,
     "Memo": "メインクエスト23～24章追加（589~644）",
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 644,
     "StartTimeFixJST": "2023-06-28 15:00:00"
   },
@@ -131,7 +131,7 @@
     "Id": 17,
     "IsIgnore": null,
     "Memo": "メインクエスト25章追加（645~672）",
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 672,
     "StartTimeFixJST": "2023-09-15 15:00:00"
   },
@@ -139,7 +139,7 @@
     "Id": 18,
     "IsIgnore": null,
     "Memo": "メインクエスト26~27章追加（673~740）",
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 740,
     "StartTimeFixJST": "2023-10-18 15:00:00"
   },
@@ -147,7 +147,7 @@
     "Id": 19,
     "IsIgnore": null,
     "Memo": "無窮の塔ステージ追加（901~1200）",
-    "BattleScheduleType": "BattleScheduleType.TowerInfinite",
+    "BattleScheduleType": "TowerInfinite",
     "MaxQuestId": 1200,
     "StartTimeFixJST": "2023-11-15 15:00:00"
   },
@@ -155,7 +155,7 @@
     "Id": 20,
     "IsIgnore": null,
     "Memo": "メインクエスト28~29章追加（741~820）",
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 820,
     "StartTimeFixJST": "2023-12-13 15:00:00"
   },
@@ -163,7 +163,7 @@
     "Id": 21,
     "IsIgnore": null,
     "Memo": "藍の塔ステージ追加（601~900）",
-    "BattleScheduleType": "BattleScheduleType.TowerBlue",
+    "BattleScheduleType": "TowerBlue",
     "MaxQuestId": 20900,
     "StartTimeFixJST": "2024-01-31 15:00:00"
   },
@@ -171,7 +171,7 @@
     "Id": 22,
     "IsIgnore": null,
     "Memo": "紅の塔ステージ追加（601~900）",
-    "BattleScheduleType": "BattleScheduleType.TowerRed",
+    "BattleScheduleType": "TowerRed",
     "MaxQuestId": 30900,
     "StartTimeFixJST": "2024-01-31 15:00:00"
   },
@@ -179,7 +179,7 @@
     "Id": 23,
     "IsIgnore": null,
     "Memo": "翠の塔ステージ追加（601~900）",
-    "BattleScheduleType": "BattleScheduleType.TowerGreen",
+    "BattleScheduleType": "TowerGreen",
     "MaxQuestId": 40900,
     "StartTimeFixJST": "2024-01-31 15:00:00"
   },
@@ -187,7 +187,7 @@
     "Id": 24,
     "IsIgnore": null,
     "Memo": "黄の塔ステージ追加（601~900）",
-    "BattleScheduleType": "BattleScheduleType.TowerYellow",
+    "BattleScheduleType": "TowerYellow",
     "MaxQuestId": 50900,
     "StartTimeFixJST": "2024-01-31 15:00:00"
   },
@@ -195,7 +195,7 @@
     "Id": 25,
     "IsIgnore": null,
     "Memo": "メインクエスト30~31章追加（821~900）",
-    "BattleScheduleType": "BattleScheduleType.Quest",
+    "BattleScheduleType": "Quest",
     "MaxQuestId": 900,
     "StartTimeFixJST": "2024-02-15 15:00:00"
   }

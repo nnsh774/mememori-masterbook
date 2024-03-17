@@ -3,7 +3,7 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "塔解放イベント(12/27~01/03)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "LimitedEventType": "ElementTowerAllRelease",
     "StartTime": "2022-12-27 04:00:00",
     "EndTime": "2023-01-04 03:59:59"
   },
@@ -11,7 +11,7 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "塔解放イベント(05/15~05/20)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "LimitedEventType": "ElementTowerAllRelease",
     "StartTime": "2023-05-15 04:00:00",
     "EndTime": "2023-05-21 03:59:59"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "塔解放イベント(12/26~01/09)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "LimitedEventType": "ElementTowerAllRelease",
     "StartTime": "2023-12-26 04:00:00",
     "EndTime": "2024-01-09 03:59:59"
   },
@@ -27,7 +27,7 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": "塔解放イベント(1/31~02/06)",
-    "LimitedEventType": "LimitedEventType.ElementTowerAllRelease",
+    "LimitedEventType": "ElementTowerAllRelease",
     "StartTime": "2024-01-31 04:00:00",
     "EndTime": "2024-02-06 03:59:59"
   },
@@ -35,7 +35,7 @@
     "Id": 999,
     "IsIgnore": null,
     "Memo": "メニュー：シリアルコード入力ボタン",
-    "LimitedEventType": "LimitedEventType.SerialCode",
+    "LimitedEventType": "SerialCode",
     "StartTime": "2023-05-31 14:30:00",
     "EndTime": "2100-01-01 00:00:00"
   },
@@ -43,7 +43,7 @@
     "Id": 9999,
     "IsIgnore": null,
     "Memo": "課金旧システムを使用する",
-    "LimitedEventType": 9999,
+    "LimitedEventType": "InAppPurchaseOldSystem",
     "StartTime": "2024-01-01 04:00:00",
     "EndTime": "2100-01-01 00:00:00"
   }

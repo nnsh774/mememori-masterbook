@@ -6,14 +6,14 @@
     "Rank": 1,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "NInit",
+        "BountyQuestType": "Solo",
         "RequireCount": 0,
         "TotalRequireCount": 0
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.NInit",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.NInit",
+    "OpenBountyQuestMaxRarity": "NInit",
+    "OpenBountyQuestMinRarity": "NInit",
     "QuestLotteryInfoListId": 1
   },
   {
@@ -23,14 +23,14 @@
     "Rank": 2,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.NInit",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "NInit",
+        "BountyQuestType": "Solo",
         "RequireCount": 1,
         "TotalRequireCount": 1
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.N",
+    "OpenBountyQuestMaxRarity": "SR",
+    "OpenBountyQuestMinRarity": "N",
     "QuestLotteryInfoListId": 2
   },
   {
@@ -40,20 +40,20 @@
     "Rank": 3,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.N",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "N",
+        "BountyQuestType": "Solo",
         "RequireCount": 10,
         "TotalRequireCount": 10
       },
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.N",
-        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "N",
+        "BountyQuestType": "Team",
         "RequireCount": 5,
         "TotalRequireCount": 5
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SSR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.N",
+    "OpenBountyQuestMaxRarity": "SSR",
+    "OpenBountyQuestMinRarity": "N",
     "QuestLotteryInfoListId": 3
   },
   {
@@ -63,20 +63,20 @@
     "Rank": 4,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.R",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "R",
+        "BountyQuestType": "Solo",
         "RequireCount": 20,
         "TotalRequireCount": 20
       },
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.R",
-        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "R",
+        "BountyQuestType": "Team",
         "RequireCount": 10,
         "TotalRequireCount": 10
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.SSR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.R",
+    "OpenBountyQuestMaxRarity": "SSR",
+    "OpenBountyQuestMinRarity": "R",
     "QuestLotteryInfoListId": 4
   },
   {
@@ -86,20 +86,20 @@
     "Rank": 5,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SR",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "SR",
+        "BountyQuestType": "Solo",
         "RequireCount": 30,
         "TotalRequireCount": 30
       },
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SR",
-        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "SR",
+        "BountyQuestType": "Team",
         "RequireCount": 10,
         "TotalRequireCount": 10
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.UR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.R",
+    "OpenBountyQuestMaxRarity": "UR",
+    "OpenBountyQuestMinRarity": "R",
     "QuestLotteryInfoListId": 5
   },
   {
@@ -109,20 +109,20 @@
     "Rank": 6,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "SSR",
+        "BountyQuestType": "Solo",
         "RequireCount": 30,
         "TotalRequireCount": 30
       },
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
-        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "SSR",
+        "BountyQuestType": "Team",
         "RequireCount": 10,
         "TotalRequireCount": 10
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.UR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SR",
+    "OpenBountyQuestMaxRarity": "UR",
+    "OpenBountyQuestMinRarity": "SR",
     "QuestLotteryInfoListId": 6
   },
   {
@@ -132,20 +132,20 @@
     "Rank": 7,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "SSR",
+        "BountyQuestType": "Solo",
         "RequireCount": 40,
         "TotalRequireCount": 70
       },
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
-        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "SSR",
+        "BountyQuestType": "Team",
         "RequireCount": 20,
         "TotalRequireCount": 30
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.LR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SR",
+    "OpenBountyQuestMaxRarity": "LR",
+    "OpenBountyQuestMinRarity": "SR",
     "QuestLotteryInfoListId": 7
   },
   {
@@ -155,20 +155,20 @@
     "Rank": 8,
     "BoardRankConditionInfos": [
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
-        "BountyQuestType": "BountyQuestType.Solo",
+        "BountyQuestRarity": "SSR",
+        "BountyQuestType": "Solo",
         "RequireCount": 100,
         "TotalRequireCount": 170
       },
       {
-        "BountyQuestRarity": "BountyQuestRarityFlags.SSR",
-        "BountyQuestType": "BountyQuestType.Team",
+        "BountyQuestRarity": "SSR",
+        "BountyQuestType": "Team",
         "RequireCount": 50,
         "TotalRequireCount": 80
       }
     ],
-    "OpenBountyQuestMaxRarity": "BountyQuestRarityFlags.LR",
-    "OpenBountyQuestMinRarity": "BountyQuestRarityFlags.SSR",
+    "OpenBountyQuestMaxRarity": "LR",
+    "OpenBountyQuestMinRarity": "SSR",
     "QuestLotteryInfoListId": 8
   }
 ]

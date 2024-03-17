@@ -3,17 +3,17 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "ダイヤの袋",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 10,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -21,17 +21,17 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": "ダイヤの箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 30,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -39,17 +39,17 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": "ダイヤの大箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 100,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -57,1543 +57,1543 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.1",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 4,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.2",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 5,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.3",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 6,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.4",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 7,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.5",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 8,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 9,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.6",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 9,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 10,
     "IsIgnore": null,
     "Memo": "未鑑定スフィアLv.7",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 10,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 11,
     "IsIgnore": null,
     "Memo": "ナヘマーの巻物",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 2,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 3,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 5,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 6,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 12,
     "IsIgnore": null,
     "Memo": "ナヘマーの魔書",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 4,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 7,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 8,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 13,
     "IsIgnore": null,
     "Memo": "サンダルフォンの巻物",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 9,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 10,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 11,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 13,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 14,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 14,
     "IsIgnore": null,
     "Memo": "サンダルフォンの魔書",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 12,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 15,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 16,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 15,
     "IsIgnore": null,
     "Memo": "アスタロトの巻物",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 17,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 18,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 19,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 21,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 22,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 16,
     "IsIgnore": null,
     "Memo": "アスタロトの魔書",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 20,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 23,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 15,
           "ItemId": 24,
-          "ItemType": "ItemType.EquipmentFragment"
+          "ItemType": "EquipmentFragment"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 17,
     "IsIgnore": null,
     "Memo": "魔女の手紙（R・愁）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 17,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 18,
     "IsIgnore": null,
     "Memo": "魔女の手紙（R・業）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 18,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 19,
     "IsIgnore": null,
     "Memo": "魔女の手紙（R・心）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 19,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 20,
     "IsIgnore": null,
     "Memo": "魔女の手紙（R・渇）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 20,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 21,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・愁）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 21,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 22,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・業）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 22,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 23,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・心）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 23,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 24,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・渇）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 24,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 25,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・属性選択）_愁",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 25,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 26,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・属性選択）_業",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 26,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 27,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・属性選択）_心",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 27,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 28,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR・属性選択）_渇",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 28,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 29,
     "IsIgnore": null,
     "Memo": "魔女の招待状",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 29,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 30,
     "IsIgnore": null,
     "Memo": "魔女の心片（R）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 30,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 31,
     "IsIgnore": null,
     "Memo": "魔女の心片（SR）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 31,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 32,
     "IsIgnore": null,
     "Memo": "峻厳の壺",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 32,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 33,
     "IsIgnore": null,
     "Memo": "慈悲の壺",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 33,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 34,
     "IsIgnore": null,
     "Memo": "万能の壺",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 34,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 35,
     "IsIgnore": null,
     "Memo": "精霊の大壺",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 35,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 36,
     "IsIgnore": null,
     "Memo": "心魂の大壺",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 36,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 37,
     "IsIgnore": null,
     "Memo": "創造の大壺",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 37,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 38,
     "IsIgnore": null,
     "Memo": "初級封印の宝箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 38,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 39,
     "IsIgnore": null,
     "Memo": "中級封印の宝箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 39,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 40,
     "IsIgnore": null,
     "Memo": "上級封印の宝箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 40,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 41,
     "IsIgnore": null,
     "Memo": "生命樹の宝箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 41,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 42,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv200",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 59,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 43,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv220",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 2,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 31,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 60,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 44,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv240",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 3,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 32,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 61,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 45,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv250",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 4,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 33,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 62,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 46,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv260",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 5,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 34,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 63,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 47,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv270",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 6,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 35,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 64,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 48,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv280",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 7,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 36,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 65,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 49,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv290",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 8,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 37,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 66,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 50,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv300",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 9,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 38,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 67,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 51,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv310",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 39,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 68,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 52,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv320",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 11,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 40,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 69,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 53,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv330",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 12,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 41,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 70,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 54,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv340",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 13,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 42,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 71,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 55,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv350",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 14,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 43,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 72,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 56,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv360",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 15,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 44,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 73,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 57,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv370",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 16,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 45,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 74,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 58,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv380",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 17,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 46,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 75,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 59,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv390",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 18,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 47,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 76,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 60,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv400",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 19,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 48,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 77,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 61,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv410",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 49,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 78,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 62,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv420",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 21,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 50,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 79,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 63,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv430",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 22,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 51,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 80,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 64,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv440",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 23,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 52,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 81,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 65,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv450",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 24,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 53,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 82,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 66,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv460",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 25,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 54,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 83,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 67,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv470",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 26,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 55,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 84,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 68,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv480",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 27,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 56,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 85,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 69,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv490",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 28,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 57,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 86,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 70,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv500",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 29,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 58,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 87,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 71,
     "IsIgnore": null,
     "Memo": "魔装宝箱（Lv20Sメット)",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 388,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Matchless"
+        "SacredTreasureType": "Matchless"
       }
     ]
   },
@@ -1601,33 +1601,33 @@
     "Id": 72,
     "IsIgnore": null,
     "Memo": "魔装宝箱（Lv20S剣、銃、書)",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 377,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Matchless"
+        "SacredTreasureType": "Matchless"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 366,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Matchless"
+        "SacredTreasureType": "Matchless"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 355,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Matchless"
+        "SacredTreasureType": "Matchless"
       }
     ]
   },
@@ -1635,33 +1635,33 @@
     "Id": 73,
     "IsIgnore": null,
     "Memo": "聖装宝箱（Lv20S剣、銃、書)",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 377,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Legend"
+        "SacredTreasureType": "Legend"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 366,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Legend"
+        "SacredTreasureType": "Legend"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 355,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.Legend"
+        "SacredTreasureType": "Legend"
       }
     ]
   },
@@ -1669,33 +1669,33 @@
     "Id": 74,
     "IsIgnore": null,
     "Memo": "神装宝箱（Lv20S剣、銃、書)",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 377,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 366,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 355,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       }
     ]
   },
@@ -1703,73 +1703,73 @@
     "Id": 75,
     "IsIgnore": null,
     "Memo": "神装宝箱（Lv20S全身)",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 377,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 366,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 355,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 388,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 399,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 410,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 421,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 432,
-          "ItemType": "ItemType.Equipment"
+          "ItemType": "Equipment"
         },
-        "SacredTreasureType": "SacredTreasureType.DualStatus"
+        "SacredTreasureType": "DualStatus"
       }
     ]
   },
@@ -1777,25 +1777,25 @@
     "Id": 76,
     "IsIgnore": null,
     "Memo": "スペシャルギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 76,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1000,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 10,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1803,17 +1803,17 @@
     "Id": 77,
     "IsIgnore": null,
     "Memo": "半額ガチャギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 2,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1821,17 +1821,17 @@
     "Id": 78,
     "IsIgnore": null,
     "Memo": "潜在宝珠ギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 300,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1839,25 +1839,25 @@
     "Id": 79,
     "IsIgnore": null,
     "Memo": "武具強化素材ギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 200,
           "ItemId": 2,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemType": "EquipmentReinforcementItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 200,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1865,25 +1865,25 @@
     "Id": 81,
     "IsIgnore": null,
     "Memo": "キャラ「大」強化ギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 3,
           "ItemId": 8,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 1500,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1891,25 +1891,25 @@
     "Id": 82,
     "IsIgnore": null,
     "Memo": "キャラ強化ギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 2,
           "ItemId": 7,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 300,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1917,25 +1917,25 @@
     "Id": 83,
     "IsIgnore": null,
     "Memo": "聖装鋼ギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 48000,
           "ItemId": 3,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 100,
           "ItemId": 2,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemType": "EquipmentReinforcementItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1943,25 +1943,25 @@
     "Id": 84,
     "IsIgnore": null,
     "Memo": "精錬鋼ギフト",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 580000,
           "ItemId": 2,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 100,
           "ItemId": 2,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemType": "EquipmentReinforcementItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1969,25 +1969,25 @@
     "Id": 85,
     "IsIgnore": null,
     "Memo": "ゴールドパック",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 3,
           "ItemId": 5,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 800,
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemType": "EquipmentReinforcementItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -1995,49 +1995,49 @@
     "Id": 86,
     "IsIgnore": null,
     "Memo": "宝箱パック",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 5,
           "ItemId": 35,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 10,
           "ItemId": 36,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 20,
           "ItemId": 37,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 16,
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemType": "BossChallengeTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 11,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2045,49 +2045,49 @@
     "Id": 87,
     "IsIgnore": null,
     "Memo": "鍵パック",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 10,
           "ItemId": 1,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 20,
           "ItemId": 2,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 50,
           "ItemId": 3,
-          "ItemType": "ItemType.TreasureChestKey"
+          "ItemType": "TreasureChestKey"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 16,
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemType": "TowerBattleTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 1,
           "ItemId": 11,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2095,33 +2095,33 @@
     "Id": 88,
     "IsIgnore": null,
     "Memo": "魔女の手紙パック（藍）",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 3,
           "ItemId": 17,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemType": "BossChallengeTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemType": "TowerBattleTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2129,33 +2129,33 @@
     "Id": 89,
     "IsIgnore": null,
     "Memo": "魔女の手紙パック（紅）",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 3,
           "ItemId": 18,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemType": "BossChallengeTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemType": "TowerBattleTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2163,33 +2163,33 @@
     "Id": 90,
     "IsIgnore": null,
     "Memo": "魔女の手紙パック（緑）",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 3,
           "ItemId": 19,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemType": "BossChallengeTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemType": "TowerBattleTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2197,33 +2197,33 @@
     "Id": 91,
     "IsIgnore": null,
     "Memo": "魔女の手紙パック（黄）",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 3,
           "ItemId": 20,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.BossChallengeTicket"
+          "ItemType": "BossChallengeTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 4,
           "ItemId": 1,
-          "ItemType": "ItemType.TowerBattleTicket"
+          "ItemType": "TowerBattleTicket"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2231,554 +2231,554 @@
     "Id": 92,
     "IsIgnore": null,
     "Memo": "運命ガチャ追加報酬",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 2,
           "ItemId": 9,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 2,
           "ItemId": 14,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 93,
     "IsIgnore": null,
     "Memo": "クリスマス宝箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 78,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 94,
     "IsIgnore": null,
     "Memo": "運命の小袋",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 13,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 8,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 3,
           "ItemId": 16,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 95,
     "IsIgnore": null,
     "Memo": "秘密のチケットケース",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 5,
           "ItemId": 3,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 5,
           "ItemId": 7,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 60,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 96,
     "IsIgnore": null,
     "Memo": "幻影の古箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 78,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 97,
     "IsIgnore": null,
     "Memo": "夏夜の古箱",
-    "TreasureChestItemListType": "TreasureChestItemListType.TreasureChestItemList",
+    "TreasureChestItemListType": "TreasureChestItemList",
     "LotteryRewardId": 78,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   },
   {
     "Id": 98,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv510",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10510,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20510,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30510,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 99,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv520",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10520,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20520,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30520,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 100,
     "IsIgnore": null,
     "Memo": "ニューイヤーボックス（2024）",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 13,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 8,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 5,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 101,
     "IsIgnore": null,
     "Memo": "新年のチケットケース（2024）",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 5,
           "ItemId": 3,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 5,
           "ItemId": 1,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 60,
           "ItemId": 4,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 102,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv530",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10530,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20530,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30530,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 103,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv540",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10540,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20540,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30540,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 104,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv550",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10550,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20550,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30550,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 105,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv560",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10560,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20560,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30560,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 106,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv570",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10570,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20570,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30570,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 107,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv580",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10580,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20580,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30580,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 108,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv590",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10590,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20590,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30590,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 109,
     "IsIgnore": null,
     "Memo": "アダマンタイトの原石Lv600",
-    "TreasureChestItemListType": "TreasureChestItemListType.SelectItemList",
+    "TreasureChestItemListType": "SelectItemList",
     "LotteryRewardId": 0,
     "SelectItemList": [
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 10600,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 20600,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       },
       {
-        "SacredTreasureType": "SacredTreasureType.None",
+        "SacredTreasureType": "None",
         "SelectItem": {
           "ItemCount": 1,
           "ItemId": 30600,
-          "ItemType": "ItemType.EquipmentSetMaterial"
+          "ItemType": "EquipmentSetMaterial"
         }
       }
     ],
-    "FixItemList": []
+    "FixItemList": null
   },
   {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
-    "TreasureChestItemListType": "TreasureChestItemListType.None",
+    "TreasureChestItemListType": "None",
     "LotteryRewardId": 0,
-    "SelectItemList": [],
+    "SelectItemList": null,
     "FixItemList": [
       {
         "FixItem": {
           "ItemCount": 50,
           "ItemId": 2,
-          "ItemType": "ItemType.CharacterTrainingMaterial"
+          "ItemType": "CharacterTrainingMaterial"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       },
       {
         "FixItem": {
           "ItemCount": 50,
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemType": "EquipmentReinforcementItem"
         },
-        "SacredTreasureType": "SacredTreasureType.None"
+        "SacredTreasureType": "None"
       }
     ]
   },
@@ -2786,9 +2786,9 @@
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "魔女の手紙（SR）（補填用）",
-    "TreasureChestItemListType": "TreasureChestItemListType.GachaLotteryItemList",
+    "TreasureChestItemListType": "GachaLotteryItemList",
     "LotteryRewardId": 10000,
-    "SelectItemList": [],
-    "FixItemList": []
+    "SelectItemList": null,
+    "FixItemList": null
   }
 ]

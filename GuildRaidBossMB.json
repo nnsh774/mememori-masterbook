@@ -3,11 +3,18 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": "ギルドレイド通常ソーニャ",
-    "UnitIconType": "UnitIconType.Character",
-    "ElementType": "ElementType.Blue",
-    "JobFlags": "JobFlags.Sniper",
+    "UnitIconType": "Character",
+    "UnitIconId": 9,
+    "GuildRaidBossType": "Normal",
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-12-31 23:59:59",
+    "ReleasableGuildFame": 0,
+    "EnemyRank": 240,
+    "NameKey": "[CharacterName9]",
+    "ElementType": "Blue",
+    "JobFlags": 2,
     "BattlePower": 73755,
-    "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
+    "CharacterRarityFlags": 16,
     "BaseParameter": {
       "Energy": 10513,
       "Health": 7227,
@@ -166,7 +173,6 @@
         "DamageBarMaxValue": 5000000000000
       }
     ],
-    "UnitIconId": 9,
     "GuildDamageBar": [
       {
         "DamageBarCount": 1,
@@ -310,27 +316,28 @@
       }
     ],
     "BannerText": "0",
-    "GuildRaidButtonU": 0.3499999940395355,
-    "GuildRaidButtonV": 0.49000000953674316,
+    "GuildRaidButtonU": 0.35,
+    "GuildRaidButtonV": 0.49,
     "WorldDamageBarRewardCharacterImageX": 0,
     "WorldDamageBarRewardCharacterImageY": 0,
-    "WorldDamageBarRewardCharacterImageSize": 0,
-    "GuildRaidBossType": "GuildRaidBossType.Normal",
-    "StartTime": "2020-01-01 00:00:00",
-    "EndTime": "2100-12-31 23:59:59",
-    "ReleasableGuildFame": 0,
-    "EnemyRank": 240,
-    "NameKey": "[CharacterName9]"
+    "WorldDamageBarRewardCharacterImageSize": 0
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "ギルドレイド解放ルーク",
-    "UnitIconType": "UnitIconType.Character",
-    "ElementType": "ElementType.Green",
-    "JobFlags": "JobFlags.Warrior",
+    "UnitIconType": "Character",
+    "UnitIconId": 30,
+    "GuildRaidBossType": "Releasable",
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-12-31 23:59:59",
+    "ReleasableGuildFame": 10000,
+    "EnemyRank": 240,
+    "NameKey": "[CharacterName30]",
+    "ElementType": "Green",
+    "JobFlags": 1,
     "BattlePower": 2657353,
-    "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
+    "CharacterRarityFlags": 16,
     "BaseParameter": {
       "Energy": 14567,
       "Health": 17111,
@@ -490,7 +497,6 @@
         "DamageBarMaxValue": 5000000000000
       }
     ],
-    "UnitIconId": 30,
     "GuildDamageBar": [
       {
         "DamageBarCount": 1,
@@ -618,23 +624,24 @@
     "GuildRaidButtonV": 0,
     "WorldDamageBarRewardCharacterImageX": 0,
     "WorldDamageBarRewardCharacterImageY": 0,
-    "WorldDamageBarRewardCharacterImageSize": 0,
-    "GuildRaidBossType": "GuildRaidBossType.Releasable",
-    "StartTime": "2020-01-01 00:00:00",
-    "EndTime": "2100-12-31 23:59:59",
-    "ReleasableGuildFame": 10000,
-    "EnemyRank": 240,
-    "NameKey": "[CharacterName30]"
+    "WorldDamageBarRewardCharacterImageSize": 0
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "202303レア",
-    "UnitIconType": "UnitIconType.Character",
-    "ElementType": "ElementType.Green",
-    "JobFlags": "JobFlags.Sniper",
+    "UnitIconType": "Character",
+    "UnitIconId": 55,
+    "GuildRaidBossType": "Event",
+    "StartTime": "2023-03-31  04:00:00",
+    "EndTime": "2023-04-10  03:59:59",
+    "ReleasableGuildFame": 0,
+    "EnemyRank": 240,
+    "NameKey": "[CharacterName55]",
+    "ElementType": "Green",
+    "JobFlags": 2,
     "BattlePower": 2668496,
-    "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
+    "CharacterRarityFlags": 16,
     "BaseParameter": {
       "Energy": 18208,
       "Health": 10043,
@@ -838,7 +845,6 @@
         "DamageBarMaxValue": 354000000000
       }
     ],
-    "UnitIconId": 55,
     "GuildDamageBar": [
       {
         "DamageBarCount": 1,
@@ -946,23 +952,24 @@
     "GuildRaidButtonV": 0,
     "WorldDamageBarRewardCharacterImageX": 0,
     "WorldDamageBarRewardCharacterImageY": 0,
-    "WorldDamageBarRewardCharacterImageSize": 0,
-    "GuildRaidBossType": "GuildRaidBossType.Event",
-    "StartTime": "2023-03-31  04:00:00",
-    "EndTime": "2023-04-10  03:59:59",
-    "ReleasableGuildFame": 0,
-    "EnemyRank": 240,
-    "NameKey": "[CharacterName55]"
+    "WorldDamageBarRewardCharacterImageSize": 0
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "202306水着サブリナ",
-    "UnitIconType": "UnitIconType.Character",
-    "ElementType": "ElementType.Green",
-    "JobFlags": "JobFlags.Warrior",
+    "UnitIconType": "Character",
+    "UnitIconId": 70,
+    "GuildRaidBossType": "Event",
+    "StartTime": "2023-06-30  04:00:00",
+    "EndTime": "2023-07-10  03:59:59",
+    "ReleasableGuildFame": 0,
+    "EnemyRank": 240,
+    "NameKey": "[GuildRaidBossName4]",
+    "ElementType": "Green",
+    "JobFlags": 1,
     "BattlePower": 2668393,
-    "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
+    "CharacterRarityFlags": 16,
     "BaseParameter": {
       "Energy": 13891,
       "Health": 13487,
@@ -1166,7 +1173,6 @@
         "DamageBarMaxValue": 354000000000
       }
     ],
-    "UnitIconId": 70,
     "GuildDamageBar": [
       {
         "DamageBarCount": 1,
@@ -1270,27 +1276,28 @@
       }
     ],
     "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-    "GuildRaidButtonU": 0.20000000298023224,
-    "GuildRaidButtonV": 0.5099999904632568,
+    "GuildRaidButtonU": 0.2,
+    "GuildRaidButtonV": 0.51,
     "WorldDamageBarRewardCharacterImageX": 0,
     "WorldDamageBarRewardCharacterImageY": 0,
-    "WorldDamageBarRewardCharacterImageSize": 0,
-    "GuildRaidBossType": "GuildRaidBossType.Event",
-    "StartTime": "2023-06-30  04:00:00",
-    "EndTime": "2023-07-10  03:59:59",
-    "ReleasableGuildFame": 0,
-    "EnemyRank": 240,
-    "NameKey": "[GuildRaidBossName4]"
+    "WorldDamageBarRewardCharacterImageSize": 0
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "202309プリシラ",
-    "UnitIconType": "UnitIconType.Character",
-    "ElementType": "ElementType.Red",
-    "JobFlags": "JobFlags.Sorcerer",
+    "UnitIconType": "Character",
+    "UnitIconId": 62,
+    "GuildRaidBossType": "Event",
+    "StartTime": "2023-09-29  04:00:00",
+    "EndTime": "2023-10-09  03:59:59",
+    "ReleasableGuildFame": 0,
+    "EnemyRank": 240,
+    "NameKey": "[CharacterName62]",
+    "ElementType": "Red",
+    "JobFlags": 4,
     "BattlePower": 2668393,
-    "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
+    "CharacterRarityFlags": 16,
     "BaseParameter": {
       "Energy": 280028,
       "Health": 266920,
@@ -1493,7 +1500,6 @@
         "DamageBarMaxValue": 354000000000
       }
     ],
-    "UnitIconId": 62,
     "GuildDamageBar": [
       {
         "DamageBarCount": 1,
@@ -1597,27 +1603,28 @@
       }
     ],
     "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-    "GuildRaidButtonU": 0.20000000298023224,
-    "GuildRaidButtonV": 0.5099999904632568,
+    "GuildRaidButtonU": 0.2,
+    "GuildRaidButtonV": 0.51,
     "WorldDamageBarRewardCharacterImageX": 0,
     "WorldDamageBarRewardCharacterImageY": 0,
-    "WorldDamageBarRewardCharacterImageSize": 465,
-    "GuildRaidBossType": "GuildRaidBossType.Event",
-    "StartTime": "2023-09-29  04:00:00",
-    "EndTime": "2023-10-09  03:59:59",
-    "ReleasableGuildFame": 0,
-    "EnemyRank": 240,
-    "NameKey": "[CharacterName62]"
+    "WorldDamageBarRewardCharacterImageSize": 465
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "202312聖夜トロポン",
-    "UnitIconType": "UnitIconType.Character",
-    "ElementType": "ElementType.Blue",
-    "JobFlags": "JobFlags.Sorcerer",
+    "UnitIconType": "Character",
+    "UnitIconId": 74,
+    "GuildRaidBossType": "Event",
+    "StartTime": "2023-12-13  04:00:00",
+    "EndTime": "2023-12-23 03:59:59",
+    "ReleasableGuildFame": 0,
+    "EnemyRank": 240,
+    "NameKey": "[GuildRaidBossName6]",
+    "ElementType": "Blue",
+    "JobFlags": 4,
     "BattlePower": 2668393,
-    "CharacterRarityFlags": "CharacterRarityFlags.SRPlus",
+    "CharacterRarityFlags": 16,
     "BaseParameter": {
       "Energy": 277571,
       "Health": 224868,
@@ -1820,7 +1827,6 @@
         "DamageBarMaxValue": 354000000000
       }
     ],
-    "UnitIconId": 74,
     "GuildDamageBar": [
       {
         "DamageBarCount": 1,
@@ -1924,16 +1930,10 @@
       }
     ],
     "BannerText": "[GuildRaidEventRemainingTimeFormat]",
-    "GuildRaidButtonU": 0.20000000298023224,
-    "GuildRaidButtonV": 0.5699999928474426,
+    "GuildRaidButtonU": 0.2,
+    "GuildRaidButtonV": 0.57,
     "WorldDamageBarRewardCharacterImageX": 0,
     "WorldDamageBarRewardCharacterImageY": 0,
-    "WorldDamageBarRewardCharacterImageSize": 465,
-    "GuildRaidBossType": "GuildRaidBossType.Event",
-    "StartTime": "2023-12-13  04:00:00",
-    "EndTime": "2023-12-23 03:59:59",
-    "ReleasableGuildFame": 0,
-    "EnemyRank": 240,
-    "NameKey": "[GuildRaidBossName6]"
+    "WorldDamageBarRewardCharacterImageSize": 465
   }
 ]

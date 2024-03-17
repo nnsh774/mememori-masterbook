@@ -3,24 +3,24 @@
     "Id": 1,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Beginner",
+    "MissionGroupType": "Beginner",
     "RequiredClearCount": 5,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 100,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 100,
           "ItemId": 1,
-          "ItemType": "ItemType.EquipmentReinforcementItem"
+          "ItemType": "EquipmentReinforcementItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -28,24 +28,24 @@
     "Id": 2,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Beginner",
+    "MissionGroupType": "Beginner",
     "RequiredClearCount": 15,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 150,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 1,
           "ItemId": 5,
-          "ItemType": "ItemType.Character"
+          "ItemType": "Character"
         },
-        "RarityFlags": "CharacterRarityFlags.SR"
+        "RarityFlags": 8
       }
     ]
   },
@@ -53,32 +53,32 @@
     "Id": 3,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Beginner",
+    "MissionGroupType": "Beginner",
     "RequiredClearCount": 30,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 200,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 1,
           "ItemId": 9,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 1,
           "ItemId": 14,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -86,24 +86,24 @@
     "Id": 4,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Beginner",
+    "MissionGroupType": "Beginner",
     "RequiredClearCount": 50,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 300,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 1,
           "ItemId": 5,
-          "ItemType": "ItemType.Character"
+          "ItemType": "Character"
         },
-        "RarityFlags": "CharacterRarityFlags.SR"
+        "RarityFlags": 8
       }
     ]
   },
@@ -111,24 +111,24 @@
     "Id": 5,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Beginner",
+    "MissionGroupType": "Beginner",
     "RequiredClearCount": 70,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 500,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 1,
           "ItemId": 26,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -136,24 +136,24 @@
     "Id": 6,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Limited",
+    "MissionGroupType": "Limited",
     "RequiredClearCount": 5,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 100,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 500,
           "ItemId": 3,
-          "ItemType": "ItemType.ExchangePlaceItem"
+          "ItemType": "ExchangePlaceItem"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -161,24 +161,24 @@
     "Id": 7,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Limited",
+    "MissionGroupType": "Limited",
     "RequiredClearCount": 15,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 150,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 10,
           "ItemId": 3,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -186,24 +186,24 @@
     "Id": 8,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Limited",
+    "MissionGroupType": "Limited",
     "RequiredClearCount": 30,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 200,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 2,
           "ItemId": 17,
-          "ItemType": "ItemType.QuestQuickTicket"
+          "ItemType": "QuestQuickTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -211,24 +211,24 @@
     "Id": 9,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Limited",
+    "MissionGroupType": "Limited",
     "RequiredClearCount": 50,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 300,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 10,
           "ItemId": 3,
-          "ItemType": "ItemType.GachaTicket"
+          "ItemType": "GachaTicket"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   },
@@ -236,24 +236,24 @@
     "Id": 10,
     "IsIgnore": null,
     "Memo": null,
-    "MissionGroupType": "MissionGroupType.Limited",
+    "MissionGroupType": "Limited",
     "RequiredClearCount": 70,
     "RewardList": [
       {
         "Item": {
           "ItemCount": 500,
           "ItemId": 1,
-          "ItemType": "ItemType.CurrencyFree"
+          "ItemType": "CurrencyFree"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       },
       {
         "Item": {
           "ItemCount": 1,
           "ItemId": 26,
-          "ItemType": "ItemType.TreasureChest"
+          "ItemType": "TreasureChest"
         },
-        "RarityFlags": "CharacterRarityFlags.None"
+        "RarityFlags": 0
       }
     ]
   }

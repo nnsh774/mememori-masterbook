@@ -5,9 +5,9 @@
     "Memo": "キャラのレベルを上げる",
     "MessageKey": "[TipDescription1]",
     "IconId": 1,
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "CharacterTraining",
+    "OpenCommandType": "None",
+    "BattleType": "None"
   },
   {
     "Id": 2,
@@ -15,9 +15,9 @@
     "Memo": "キャラのレアリティを上げる",
     "MessageKey": "[TipDescription2]",
     "IconId": 2,
-    "ViewTransitionType": "ViewTransitionType.CharacterRankUp",
-    "OpenCommandType": "OpenCommandType.RankUp",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "CharacterRankUp",
+    "OpenCommandType": "RankUp",
+    "BattleType": "None"
   },
   {
     "Id": 3,
@@ -25,9 +25,9 @@
     "Memo": "パーティ編成を見直す",
     "MessageKey": "[TipDescription3]",
     "IconId": 3,
-    "ViewTransitionType": "ViewTransitionType.FormationWithoutTransition",
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "FormationWithoutTransition",
+    "OpenCommandType": "None",
+    "BattleType": "None"
   },
   {
     "Id": 4,
@@ -35,9 +35,9 @@
     "Memo": "強力な武具を装備する",
     "MessageKey": "[TipDescription4]",
     "IconId": 4,
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "CharacterTraining",
+    "OpenCommandType": "None",
+    "BattleType": "None"
   },
   {
     "Id": 5,
@@ -45,9 +45,9 @@
     "Memo": "高レベルなスフィアを装着する",
     "MessageKey": "[TipDescription5]",
     "IconId": 5,
-    "ViewTransitionType": "ViewTransitionType.CharacterTraining",
-    "OpenCommandType": "OpenCommandType.SphereSet",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "CharacterTraining",
+    "OpenCommandType": "SphereSet",
+    "BattleType": "None"
   },
   {
     "Id": 6,
@@ -55,9 +55,9 @@
     "Memo": "高速バトルで報酬を獲得する",
     "MessageKey": "[TipDescription6]",
     "IconId": 6,
-    "ViewTransitionType": "ViewTransitionType.Map",
-    "OpenCommandType": "OpenCommandType.None",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "Map",
+    "OpenCommandType": "None",
+    "BattleType": "None"
   },
   {
     "Id": 7,
@@ -65,8 +65,38 @@
     "Memo": "ミッションで報酬を獲得する",
     "MessageKey": "[TipDescription7]",
     "IconId": 7,
-    "ViewTransitionType": "ViewTransitionType.Mission",
-    "OpenCommandType": "OpenCommandType.Mission",
-    "BattleType": "BattleType.None"
+    "ViewTransitionType": "Mission",
+    "OpenCommandType": "Mission",
+    "BattleType": "None"
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "開花ボーナスのLvを上げる",
+    "MessageKey": "[TipDescription8]",
+    "IconId": 8,
+    "ViewTransitionType": "GuildTowerReinforcement",
+    "OpenCommandType": "None",
+    "BattleType": "GuildTower"
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "キャラのレベルを上げる（ギルドツリー用） ",
+    "MessageKey": "[TipDescription1]",
+    "IconId": 1,
+    "ViewTransitionType": "CharacterTraining",
+    "OpenCommandType": "None",
+    "BattleType": "GuildTower"
+  },
+  {
+    "Id": 10,
+    "IsIgnore": null,
+    "Memo": "パーティ編成を見直す（ギルドツリー用）",
+    "MessageKey": "[TipDescription3]",
+    "IconId": 3,
+    "ViewTransitionType": "FormationWithoutTransition",
+    "OpenCommandType": "None",
+    "BattleType": "GuildTower"
   }
 ]

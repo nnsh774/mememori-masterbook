@@ -5,9 +5,9 @@
     "Memo": "日本",
     "Name": "jp",
     "DifferenceDateTimeFromUtc": "09:00:00",
-    "TimeServerType": "TimeServerType.JP",
-    "DefaultLanguageType": "LanguageType.None",
-    "DefaultVoiceLanguageType": "LanguageType.None",
+    "TimeServerType": "JP",
+    "DefaultLanguageType": "None",
+    "DefaultVoiceLanguageType": "None",
     "DisplayNameKey": "[TimeServerName1]",
     "CountryCodeList": [
       "JP"
@@ -19,9 +19,9 @@
     "Memo": "韓国時間サーバー",
     "Name": "kr",
     "DifferenceDateTimeFromUtc": "09:00:00",
-    "TimeServerType": "TimeServerType.KR",
-    "DefaultLanguageType": "LanguageType.koKR",
-    "DefaultVoiceLanguageType": "LanguageType.jaJP",
+    "TimeServerType": "KR",
+    "DefaultLanguageType": "koKR",
+    "DefaultVoiceLanguageType": "jaJP",
     "DisplayNameKey": "[TimeServerName2]",
     "CountryCodeList": [
       "KR"
@@ -33,9 +33,9 @@
     "Memo": "アジア時間サーバー",
     "Name": "ap",
     "DifferenceDateTimeFromUtc": "08:00:00",
-    "TimeServerType": "TimeServerType.Asia",
-    "DefaultLanguageType": "LanguageType.zhTW",
-    "DefaultVoiceLanguageType": "LanguageType.jaJP",
+    "TimeServerType": "Asia",
+    "DefaultLanguageType": "zhTW",
+    "DefaultVoiceLanguageType": "jaJP",
     "DisplayNameKey": "[TimeServerName3]",
     "CountryCodeList": [
       "TW",
@@ -49,9 +49,9 @@
     "Memo": "アメリカ時間サーバー",
     "Name": "us",
     "DifferenceDateTimeFromUtc": "-07:00:00",
-    "TimeServerType": "TimeServerType.US",
-    "DefaultLanguageType": "LanguageType.enUS",
-    "DefaultVoiceLanguageType": "LanguageType.enUS",
+    "TimeServerType": "US",
+    "DefaultLanguageType": "enUS",
+    "DefaultVoiceLanguageType": "enUS",
     "DisplayNameKey": "[TimeServerName4]",
     "CountryCodeList": [
       "US",
@@ -65,9 +65,9 @@
     "Memo": "ヨーロッパ時間サーバー",
     "Name": "eu",
     "DifferenceDateTimeFromUtc": "01:00:00",
-    "TimeServerType": "TimeServerType.EU",
-    "DefaultLanguageType": "LanguageType.enUS",
-    "DefaultVoiceLanguageType": "LanguageType.enUS",
+    "TimeServerType": "EU",
+    "DefaultLanguageType": "enUS",
+    "DefaultVoiceLanguageType": "enUS",
     "DisplayNameKey": "[TimeServerName5]",
     "CountryCodeList": [
       "IS",
@@ -129,9 +129,9 @@
     "Memo": "グローバル時間サーバー",
     "Name": "gl",
     "DifferenceDateTimeFromUtc": "01:00:00",
-    "TimeServerType": "TimeServerType.Global",
-    "DefaultLanguageType": "LanguageType.enUS",
-    "DefaultVoiceLanguageType": "LanguageType.enUS",
+    "TimeServerType": "Global",
+    "DefaultLanguageType": "enUS",
+    "DefaultVoiceLanguageType": "enUS",
     "DisplayNameKey": "[TimeServerName6]",
     "CountryCodeList": []
   }

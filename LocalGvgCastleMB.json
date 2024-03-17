@@ -4,7 +4,7 @@
     "IsIgnore": null,
     "Memo": "神殿",
     "NameKey": "[LocalGvgCastleName1]",
-    "CastleType": "CastleType.Large",
+    "CastleType": "Large",
     "AdjacentCastleIds": [
       2,
       3,
@@ -15,17 +15,17 @@
       {
         "ItemCount": 1000000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 200,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 3000,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 1
@@ -35,7 +35,7 @@
     "IsIgnore": null,
     "Memo": "教会1",
     "NameKey": "[LocalGvgCastleName2]",
-    "CastleType": "CastleType.Medium",
+    "CastleType": "Medium",
     "AdjacentCastleIds": [
       1,
       6,
@@ -46,17 +46,17 @@
       {
         "ItemCount": 500000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 100,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 1500,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 2
@@ -66,7 +66,7 @@
     "IsIgnore": null,
     "Memo": "教会2",
     "NameKey": "[LocalGvgCastleName3]",
-    "CastleType": "CastleType.Medium",
+    "CastleType": "Medium",
     "AdjacentCastleIds": [
       1,
       10,
@@ -77,17 +77,17 @@
       {
         "ItemCount": 500000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 100,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 1500,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 3
@@ -97,7 +97,7 @@
     "IsIgnore": null,
     "Memo": "教会3",
     "NameKey": "[LocalGvgCastleName4]",
-    "CastleType": "CastleType.Medium",
+    "CastleType": "Medium",
     "AdjacentCastleIds": [
       1,
       15,
@@ -108,17 +108,17 @@
       {
         "ItemCount": 500000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 100,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 1500,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 4
@@ -128,7 +128,7 @@
     "IsIgnore": null,
     "Memo": "教会4",
     "NameKey": "[LocalGvgCastleName5]",
-    "CastleType": "CastleType.Medium",
+    "CastleType": "Medium",
     "AdjacentCastleIds": [
       1,
       6,
@@ -139,17 +139,17 @@
       {
         "ItemCount": 500000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 100,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 1500,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 5
@@ -159,7 +159,7 @@
     "IsIgnore": null,
     "Memo": "城1",
     "NameKey": "[LocalGvgCastleName6]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       2,
       5,
@@ -171,17 +171,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 6
@@ -191,7 +191,7 @@
     "IsIgnore": null,
     "Memo": "城2",
     "NameKey": "[LocalGvgCastleName7]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       6,
       8,
@@ -201,17 +201,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 7
@@ -221,7 +221,7 @@
     "IsIgnore": null,
     "Memo": "城3",
     "NameKey": "[LocalGvgCastleName8]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       2,
       7,
@@ -231,17 +231,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 8
@@ -251,7 +251,7 @@
     "IsIgnore": null,
     "Memo": "城4",
     "NameKey": "[LocalGvgCastleName9]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       8,
       10
@@ -260,17 +260,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 9
@@ -280,7 +280,7 @@
     "IsIgnore": null,
     "Memo": "城5",
     "NameKey": "[LocalGvgCastleName10]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       2,
       3,
@@ -290,17 +290,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 10
@@ -310,7 +310,7 @@
     "IsIgnore": null,
     "Memo": "城6",
     "NameKey": "[LocalGvgCastleName11]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       6,
       7
@@ -319,17 +319,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 11
@@ -339,7 +339,7 @@
     "IsIgnore": null,
     "Memo": "城7",
     "NameKey": "[LocalGvgCastleName12]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       3,
       13,
@@ -349,17 +349,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 12
@@ -369,7 +369,7 @@
     "IsIgnore": null,
     "Memo": "城8",
     "NameKey": "[LocalGvgCastleName13]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       12,
       14
@@ -378,17 +378,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 13
@@ -398,7 +398,7 @@
     "IsIgnore": null,
     "Memo": "城9",
     "NameKey": "[LocalGvgCastleName14]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       12,
       13,
@@ -409,17 +409,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 14
@@ -429,7 +429,7 @@
     "IsIgnore": null,
     "Memo": "城10",
     "NameKey": "[LocalGvgCastleName15]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       3,
       4,
@@ -440,17 +440,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 15
@@ -460,7 +460,7 @@
     "IsIgnore": null,
     "Memo": "城11",
     "NameKey": "[LocalGvgCastleName16]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       4,
       14,
@@ -471,17 +471,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 16
@@ -491,7 +491,7 @@
     "IsIgnore": null,
     "Memo": "城12",
     "NameKey": "[LocalGvgCastleName17]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       16,
       18
@@ -500,17 +500,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 17
@@ -520,7 +520,7 @@
     "IsIgnore": null,
     "Memo": "城13",
     "NameKey": "[LocalGvgCastleName18]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       17,
       19
@@ -529,17 +529,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 18
@@ -549,7 +549,7 @@
     "IsIgnore": null,
     "Memo": "城14",
     "NameKey": "[LocalGvgCastleName19]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       4,
       5,
@@ -559,17 +559,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 19
@@ -579,7 +579,7 @@
     "IsIgnore": null,
     "Memo": "城15",
     "NameKey": "[LocalGvgCastleName20]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       5,
       21
@@ -588,17 +588,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 20
@@ -608,7 +608,7 @@
     "IsIgnore": null,
     "Memo": "城16",
     "NameKey": "[LocalGvgCastleName21]",
-    "CastleType": "CastleType.Small",
+    "CastleType": "Small",
     "AdjacentCastleIds": [
       6,
       20
@@ -617,17 +617,17 @@
       {
         "ItemCount": 150000,
         "ItemId": 1,
-        "ItemType": "ItemType.Gold"
+        "ItemType": "Gold"
       },
       {
         "ItemCount": 40,
         "ItemId": 1,
-        "ItemType": "ItemType.EquipmentReinforcementItem"
+        "ItemType": "EquipmentReinforcementItem"
       },
       {
         "ItemCount": 300,
         "ItemId": 12,
-        "ItemType": "ItemType.ExchangePlaceItem"
+        "ItemType": "ExchangePlaceItem"
       }
     ],
     "LotteryRewardId": 21
