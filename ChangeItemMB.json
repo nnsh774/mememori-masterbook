@@ -10526,5 +10526,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 675,
+    "IsIgnore": null,
+    "Memo": "妹からの手紙",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 16,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
