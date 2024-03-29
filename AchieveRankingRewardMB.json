@@ -3583,5 +3583,95 @@
         "ItemType": "CurrencyFree"
       }
     ]
+  },
+  {
+    "Id": 242,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク475到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey242]",
+    "RankingDataType": "PlayerRank",
+    "RequireValue": 475,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 243,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク500到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey243]",
+    "RankingDataType": "PlayerRank",
+    "RequireValue": 500,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 244,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク525到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey244]",
+    "RankingDataType": "PlayerRank",
+    "RequireValue": 525,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 245,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク550到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey245]",
+    "RankingDataType": "PlayerRank",
+    "RequireValue": 550,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 246,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク575到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey246]",
+    "RankingDataType": "PlayerRank",
+    "RequireValue": 575,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 247,
+    "IsIgnore": null,
+    "Memo": "プレイヤーランク600到達",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey247]",
+    "RankingDataType": "PlayerRank",
+    "RequireValue": 600,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]

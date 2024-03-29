@@ -7147,6 +7147,177 @@
     "CharacterRarityBonus": 1
   },
   {
+    "Id": 4301,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4302,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4303,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4304,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4305,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 160
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 71
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4306,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 170
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 72
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4307,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 180
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 73
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4308,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 190
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 74
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
     "Id": 4401,
     "IsIgnore": null,
     "Memo": "ムスカの解放(パラデア,ルナリンド)",

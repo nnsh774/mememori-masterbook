@@ -7408,6 +7408,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 1822,
+    "IsIgnore": null,
+    "Memo": "リーン朗読",
+    "CharacterId": 18,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
+  },
+  {
     "Id": 1890,
     "IsIgnore": null,
     "Memo": "リーン",
@@ -25392,6 +25408,454 @@
     "SortOrder": 99
   },
   {
+    "Id": 5902,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5902]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 5903,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5903]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 5904,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5904]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 5905,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5905]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 5906,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5906]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 5907,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5907]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 5908,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5908]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 5909,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5909]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 5910,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5910]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 5911,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5911]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 5912,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5912]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 5913,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5913]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 5914,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5914]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 5915,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5915]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 5916,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5916]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 5917,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5917]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 5918,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5918]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 5919,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5919]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 5920,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5920]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 5921,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5921]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 5990,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5990]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 5991,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5991]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 5992,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5992]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 5993,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle5993]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 5996,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 5997,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 5998,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 5999,
+    "IsIgnore": null,
+    "Memo": "エイル",
+    "CharacterId": 59,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
     "Id": 6002,
     "IsIgnore": null,
     "Memo": "フィアー",
@@ -26606,6 +27070,22 @@
       "TimelineId": 21
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 6222,
+    "IsIgnore": null,
+    "Memo": "プリシラ朗読",
+    "CharacterId": 62,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
   },
   {
     "Id": 6290,
