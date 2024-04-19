@@ -3585,6 +3585,36 @@
     ]
   },
   {
+    "Id": 240,
+    "IsIgnore": null,
+    "Memo": "メインクエスト32-40クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey240]",
+    "RankingDataType": "PlayerMainQuest",
+    "RequireValue": 940,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 241,
+    "IsIgnore": null,
+    "Memo": "メインクエスト33-40クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetDescriptionKey241]",
+    "RankingDataType": "PlayerMainQuest",
+    "RequireValue": 980,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
     "Id": 242,
     "IsIgnore": null,
     "Memo": "プレイヤーランク475到達",

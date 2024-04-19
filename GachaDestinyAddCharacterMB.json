@@ -484,5 +484,23 @@
     "GachaAddCharacterType": "New",
     "StartGachaSelectListId": 59,
     "EndGachaSelectListId": 60
+  },
+  {
+    "Id": 55,
+    "IsIgnore": null,
+    "Memo": "モルガナ追加",
+    "CharacterId": 75,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 60,
+    "EndGachaSelectListId": 62
+  },
+  {
+    "Id": 56,
+    "IsIgnore": null,
+    "Memo": "エルフリンデ復刻追加",
+    "CharacterId": 45,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 61,
+    "EndGachaSelectListId": 63
   }
 ]

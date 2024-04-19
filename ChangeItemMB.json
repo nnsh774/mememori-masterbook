@@ -10542,5 +10542,261 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 678,
+    "IsIgnore": null,
+    "Memo": "錬金工房（経験珠 1h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 6,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 1,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 679,
+    "IsIgnore": null,
+    "Memo": "錬金工房（経験珠 2h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 7,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 680,
+    "IsIgnore": null,
+    "Memo": "錬金工房（経験珠 6h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 8,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 3,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 681,
+    "IsIgnore": null,
+    "Memo": "錬金工房（経験珠 8h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 9,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 682,
+    "IsIgnore": null,
+    "Memo": "錬金工房（経験珠 24h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 10,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 5,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 683,
+    "IsIgnore": null,
+    "Memo": "錬金工房（潜在宝珠 1h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 11,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 1,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 684,
+    "IsIgnore": null,
+    "Memo": "錬金工房（潜在宝珠 2h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 12,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 685,
+    "IsIgnore": null,
+    "Memo": "錬金工房（潜在宝珠 6h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 13,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 3,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 686,
+    "IsIgnore": null,
+    "Memo": "錬金工房（潜在宝珠 8h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 14,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 687,
+    "IsIgnore": null,
+    "Memo": "錬金工房（潜在宝珠 24h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 15,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 5,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 688,
+    "IsIgnore": null,
+    "Memo": "錬金工房（育成セット 1h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 16,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 3,
+        "ItemId": 1,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 689,
+    "IsIgnore": null,
+    "Memo": "錬金工房（育成セット 2h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 17,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 3,
+        "ItemId": 2,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 690,
+    "IsIgnore": null,
+    "Memo": "錬金工房（育成セット 6h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 18,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 3,
+        "ItemId": 3,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 691,
+    "IsIgnore": null,
+    "Memo": "錬金工房（育成セット 8h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 19,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 3,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 692,
+    "IsIgnore": null,
+    "Memo": "錬金工房（育成セット 24h）",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "QuestQuickTicket",
+    "ItemId": 20,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 3,
+        "ItemId": 5,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
+  },
+  {
+    "Id": 693,
+    "IsIgnore": null,
+    "Memo": "錬金工房（運命の箱)",
+    "ChangeItemType": "GoldExchange",
+    "ItemType": "TreasureChest",
+    "ItemId": 89,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 2,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ]
   }
 ]

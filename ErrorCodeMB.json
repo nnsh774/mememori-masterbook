@@ -2898,6 +2898,12 @@
     "ErrorMessageType": "DialogWithError"
   },
   {
+    "Id": 262037,
+    "IsIgnore": null,
+    "Memo": "課金処理に失敗しました。<br>しばらくしてからアプリを再起動してください。",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
     "Id": 271000,
     "IsIgnore": null,
     "Memo": null,
@@ -3888,6 +3894,36 @@
     "ErrorMessageType": "DialogWithError"
   },
   {
+    "Id": 431000,
+    "IsIgnore": null,
+    "Memo": "データがありません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 432000,
+    "IsIgnore": null,
+    "Memo": "開催期間外です",
+    "ErrorMessageType": "Dialog"
+  },
+  {
+    "Id": 432001,
+    "IsIgnore": null,
+    "Memo": "リクエストが不正です",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 432002,
+    "IsIgnore": null,
+    "Memo": "データが不正です",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 432003,
+    "IsIgnore": null,
+    "Memo": "本日の残り錬成可能個数を超過しています",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
     "Id": 602004,
     "IsIgnore": null,
     "Memo": null,
@@ -3969,6 +4005,18 @@
     "Id": 602020,
     "IsIgnore": null,
     "Memo": null,
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 602021,
+    "IsIgnore": null,
+    "Memo": "錬金工房が解放されていません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 602022,
+    "IsIgnore": null,
+    "Memo": "不正なリクエストです",
     "ErrorMessageType": "DialogWithError"
   },
   {
@@ -4398,6 +4446,12 @@
     "ErrorMessageType": "DialogWithError"
   },
   {
+    "Id": 900318,
+    "IsIgnore": null,
+    "Memo": "GlobalGvgでキャラクターのキャッシュデータが存在しないためパーティ追加に失敗しました",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
     "Id": 1000000,
     "IsIgnore": null,
     "Memo": null,
@@ -4545,6 +4599,12 @@
     "Id": 1002016,
     "IsIgnore": null,
     "Memo": null,
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 1002017,
+    "IsIgnore": null,
+    "Memo": "キャラクターのキャッシュデータが存在しないためパーティの配置に失敗しました",
     "ErrorMessageType": "DialogWithError"
   },
   {

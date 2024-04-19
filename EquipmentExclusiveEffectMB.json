@@ -7735,5 +7735,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 361,
+    "IsIgnore": null,
+    "Memo": "モルガナSSR180",
+    "CharacterId": 75,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 362,
+    "IsIgnore": null,
+    "Memo": "モルガナSSR200",
+    "CharacterId": 75,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      }
+    ]
+  },
+  {
+    "Id": 363,
+    "IsIgnore": null,
+    "Memo": "モルガナSSR220",
+    "CharacterId": 75,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 364,
+    "IsIgnore": null,
+    "Memo": "モルガナSSR240",
+    "CharacterId": 75,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 365,
+    "IsIgnore": null,
+    "Memo": "モルガナUR",
+    "CharacterId": 75,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 366,
+    "IsIgnore": null,
+    "Memo": "モルガナLR",
+    "CharacterId": 75,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

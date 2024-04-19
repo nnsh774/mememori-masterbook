@@ -807,13 +807,13 @@
     "IsHide": false,
     "IsHideNotOpen": false,
     "TradeShopType": "Normal",
-    "AutoUpdateType": "OneMonth",
+    "AutoUpdateType": "OneWeek",
     "AutoUpdateTimes": [
       0
     ],
     "IsManualUpdate": true,
     "ManualUpdateCurrencyCount": 1000,
-    "ForceResetTimeFixJST": null,
+    "ForceResetTimeFixJST": "2024-04-15 15:30",
     "ConsumeItemInfos": [
       {
         "ItemId": 14,

@@ -6,6 +6,7 @@
     "StartTime": "2023-06-30 00:00:00",
     "EndTime": "2023-09-01 03:59:59",
     "CodeExpirationPeriod": 24,
+    "CodeStartTime": null,
     "CharacterImageId": 34,
     "CharacterImageX": -17,
     "CharacterImageY": 0,
@@ -34,6 +35,50 @@
     ],
     "Title": "[FriendCampaignKey1]",
     "CodeLimitCount": 20,
+    "RewardItemList": [
+      {
+        "ItemCount": 500,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "友達招待キャンペーン（04/15~05/20）",
+    "StartTime": "2024-04-15 00:00:00",
+    "EndTime": "2024-05-20 03:59:59",
+    "CodeExpirationPeriod": 10,
+    "CodeStartTime": "2024-04-05 00:00:00",
+    "CharacterImageId": 34,
+    "CharacterImageX": -17,
+    "CharacterImageY": 0,
+    "CharacterImageSize": 640,
+    "FriendMissionIdList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "Title": "[FriendCampaignKey1]",
+    "CodeLimitCount": 1000000,
     "RewardItemList": [
       {
         "ItemCount": 500,

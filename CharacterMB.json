@@ -3729,6 +3729,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 75,
+    "IsIgnore": null,
+    "Memo": "モルガナ",
+    "NameKey": "[CharacterName75]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Red",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 10,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 1,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": -3,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": -3,
+      "Speed": 2715
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 72,
+      "Intelligence": 103,
+      "Muscle": 92
+    },
+    "BaseParameterGrossCoefficient": 346,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      75001,
+      75002
+    ],
+    "PassiveSkillIds": [
+      75003,
+      75004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2024-04-15 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 76,
     "IsIgnore": null,
     "Memo": "ユニ",

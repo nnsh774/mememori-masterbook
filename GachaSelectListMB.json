@@ -2317,12 +2317,13 @@
   {
     "Id": 60,
     "IsIgnore": null,
-    "Memo": "アームストロング復刻②＋次キャラ仮入れ仮①（0415切替用）",
+    "Memo": "モルガナ①＋アームストロング復刻②（0415切替用）",
     "GachaSelectListType": "Destiny",
-    "StartTimeFixJST": "2024-04-15 14:30:00",
+    "StartTimeFixJST": "2024-04-15 16:30:00",
     "EndTimeFixJST": "2024-04-22 14:29:59",
     "OrderNumber": 60,
     "CharacterIdList": [
+      75,
       50,
       5,
       6,
@@ -2348,7 +2349,123 @@
       46
     ],
     "NewCharacterIdList": [
+      75,
       50
+    ]
+  },
+  {
+    "Id": 61,
+    "IsIgnore": null,
+    "Memo": "モルガナ②＋エルフリンデ復刻①（0422切替用）",
+    "GachaSelectListType": "Destiny",
+    "StartTimeFixJST": "2024-04-22 14:30:00",
+    "EndTimeFixJST": "2024-04-26 14:29:59",
+    "OrderNumber": 61,
+    "CharacterIdList": [
+      75,
+      45,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      75,
+      45
+    ]
+  },
+  {
+    "Id": 62,
+    "IsIgnore": null,
+    "Memo": "モルガナ③＋エルフリンデ復刻②＋次キャラ仮入れ仮①（0426切替用）",
+    "GachaSelectListType": "Destiny",
+    "StartTimeFixJST": "2024-04-26 16:30:00",
+    "EndTimeFixJST": "2024-04-30 14:29:59",
+    "OrderNumber": 62,
+    "CharacterIdList": [
+      75,
+      45,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      75,
+      45
+    ]
+  },
+  {
+    "Id": 63,
+    "IsIgnore": null,
+    "Memo": "エルフリンデ復刻②＋次キャラ仮入れ仮①（0430切替用）",
+    "GachaSelectListType": "Destiny",
+    "StartTimeFixJST": "2024-04-30 16:30:00",
+    "EndTimeFixJST": "2024-05-08 14:29:59",
+    "OrderNumber": 63,
+    "CharacterIdList": [
+      45,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      45
     ]
   },
   {
@@ -2434,6 +2551,23 @@
     "NewCharacterIdList": [
       43,
       51
+    ]
+  },
+  {
+    "Id": 10060,
+    "IsIgnore": null,
+    "Memo": "星の導き6回ガチャ_ヴァルリーデ・ソーニャ（ 4/15 16:30 ~ 5/10 14:29 ）",
+    "GachaSelectListType": "StarsGuidance",
+    "StartTimeFixJST": "2024-04-15 16:30:00",
+    "EndTimeFixJST": "2024-05-10 14:29:59",
+    "OrderNumber": 5,
+    "CharacterIdList": [
+      47,
+      9
+    ],
+    "NewCharacterIdList": [
+      47,
+      9
     ]
   }
 ]
