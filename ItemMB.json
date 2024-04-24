@@ -2924,5 +2924,43 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 157,
+    "IsIgnore": null,
+    "Memo": "天使の落とし物",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 17,
+    "NameKey": "[ItemName157]",
+    "DisplayName": "[ItemDisplayName157]",
+    "DescriptionKey": "[ItemDescription157]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-04-26 04:00:00",
+    "EndTime": "2024-05-09 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 150,
+    "TransferSpotId": 30,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 158,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーガチャチケット",
+    "ItemType": "GachaTicket",
+    "ItemId": 880,
+    "NameKey": "[ItemName158]",
+    "DisplayName": "[ItemDisplayName158]",
+    "DescriptionKey": "[ItemDescription158]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-04-26 04:00:00",
+    "EndTime": "2024-05-20 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 95,
+    "SecondaryFrameType": "CenteredCharacterIcon",
+    "SecondaryFrameNum": 88
   }
 ]
