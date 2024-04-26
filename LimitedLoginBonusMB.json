@@ -88,5 +88,23 @@
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF"
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "2024_1.5周年記念ログインボーナス",
+    "StartTime": "2024-04-26 04:00:00",
+    "EndTime": "2024-05-20 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 6,
+    "CharacterImageId": 88,
+    "RewardBackgroundImageId": 6,
+    "SpecialRewardBackgroundImageId": 6,
+    "TitleTextKey": "[LimitedLoginBonusTitle6]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal4]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF"
   }
 ]

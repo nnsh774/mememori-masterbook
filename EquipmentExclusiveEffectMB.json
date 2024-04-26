@@ -7869,5 +7869,138 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 367,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーSSR180",
+    "CharacterId": 88,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 368,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーSSR200",
+    "CharacterId": 88,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 369,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーSSR220",
+    "CharacterId": 88,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      }
+    ]
+  },
+  {
+    "Id": 370,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーSSR240",
+    "CharacterId": 88,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      }
+    ]
+  },
+  {
+    "Id": 371,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーUR",
+    "CharacterId": 88,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000
+      }
+    ]
+  },
+  {
+    "Id": 372,
+    "IsIgnore": null,
+    "Memo": "使徒ロザリーLR",
+    "CharacterId": 88,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200
+      }
+    ]
   }
 ]

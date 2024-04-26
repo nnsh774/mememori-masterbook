@@ -1058,5 +1058,58 @@
         "ItemType": "TreasureChest"
       }
     ]
+  },
+  {
+    "Id": 21,
+    "IsIgnore": null,
+    "Memo": "ソロ報酬2倍（5/6~5/14）",
+    "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
+    "StartTime": "2024-05-06 04:00:00",
+    "EndTime": "2024-05-14 03:59:59",
+    "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "Solo"
+      }
+    ],
+    "TargetItemList": [
+      {
+        "ItemId": 1,
+        "ItemType": "Gold"
+      },
+      {
+        "ItemId": 2,
+        "ItemType": "CharacterTrainingMaterial"
+      },
+      {
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      },
+      {
+        "ItemId": 27,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 4,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 5,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 6,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 7,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 8,
+        "ItemType": "TreasureChest"
+      }
+    ]
   }
 ]
