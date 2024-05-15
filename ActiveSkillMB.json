@@ -10119,6 +10119,197 @@
     "RootActiveSkillId": 76002
   },
   {
+    "Id": 78001,
+    "IsIgnore": null,
+    "Memo": "アサヒSR:Lv1 「乱れ撃ちであります！」複数の暗器を投げ、ランダムな敵に5回攻撃力×280%の物理攻撃を行う。/ Lv2 さらに物理攻撃が回避された場合、10ターンの間自身の命中率が10%増加する。/ Lv3 さらにこのスキルで敵を戦闘不能にできなかった場合、10ターンの間自身のクリティカル率が10%増加する。/ Ex1 忍法・乱れ刃を強化する。物理攻撃のダメージが攻撃力×380%になる。",
+    "NameKey": "[ActiveSkillName78001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription780011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          78001001,
+          78001003,
+          78001003,
+          78001003,
+          78001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription780012]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          78001001,
+          78001202,
+          78001003,
+          78001202,
+          78001003,
+          78001202,
+          78001003,
+          78001202,
+          78001003,
+          78001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription780013]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          78001001,
+          78001202,
+          78001003,
+          78001202,
+          78001003,
+          78001202,
+          78001003,
+          78001202,
+          78001003,
+          78001202,
+          78001304
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription780014]",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          78001401,
+          78001202,
+          78001403,
+          78001202,
+          78001403,
+          78001202,
+          78001403,
+          78001202,
+          78001403,
+          78001202,
+          78001304
+        ]
+      }
+    ],
+    "RootActiveSkillId": 78001
+  },
+  {
+    "Id": 78002,
+    "IsIgnore": null,
+    "Memo": "アサヒSR:Lv1 「背中がガラ空きであります！」音もなく忍び寄り、影直伝の暗殺術で、攻撃力が最も高い敵に4回攻撃力×340%の物理攻撃を行う。/ Lv2 物理攻撃の回数が5回になる。/ Lv3 さらに自身が風林火山で付与した『攻撃力増加』のスタック数が6以上の場合、このスキルを再発動する（再発動は1回まで）。/ Lv4 さらに自身が風林火山で付与した『攻撃力増加』のスタック数が12以上の場合、再発動の回数が2回までになる。/ Ex3 忍法・日影崩しを強化する。物理攻撃のダメージが攻撃力×380%になる。",
+    "NameKey": "[ActiveSkillName78002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription780021]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          78002001,
+          78002002,
+          78002002,
+          78002002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription780022]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          78002201,
+          78002202,
+          78002202,
+          78002202,
+          78002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription780023]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          78002201,
+          78002202,
+          78002202,
+          78002202,
+          78002202,
+          78002303,
+          78002303,
+          78002303,
+          78002303,
+          78002303
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription780024]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          78002201,
+          78002202,
+          78002202,
+          78002202,
+          78002202,
+          78002303,
+          78002303,
+          78002303,
+          78002303,
+          78002303,
+          78002404,
+          78002404,
+          78002404,
+          78002404,
+          78002404
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription780025]",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          78002501,
+          78002502,
+          78002502,
+          78002502,
+          78002502,
+          78002503,
+          78002503,
+          78002503,
+          78002503,
+          78002503,
+          78002504,
+          78002504,
+          78002504,
+          78002504,
+          78002504
+        ]
+      }
+    ],
+    "RootActiveSkillId": 78002
+  },
+  {
     "Id": 84001,
     "IsIgnore": null,
     "Memo": "リズSR:Lv1 「貫きます」敵の頭上に形成された巨大な氷が、巨星のごとく落ちる――ランダムな敵4体に攻撃力×440%の魔法攻撃を行う。/ Lv2 さらに自身のHP割合が50%以上の場合、魔法攻撃のダメージが1.5倍になる。/ Lv3 魔法攻撃のダメージが攻撃力×540%になる。/ Ex1 グングニルを強化する。グングニルの対象がランダムな敵5体になる。",
@@ -21794,6 +21985,197 @@
       }
     ],
     "RootActiveSkillId": 76002
+  },
+  {
+    "Id": 550478001,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[ActiveSkillName78001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          550478001001,
+          550478001003,
+          550478001003,
+          550478001003,
+          550478001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          550478001001,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001003,
+          550478001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          550478001001,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001003,
+          550478001202,
+          550478001304
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          550478001401,
+          550478001202,
+          550478001403,
+          550478001202,
+          550478001403,
+          550478001202,
+          550478001403,
+          550478001202,
+          550478001403,
+          550478001202,
+          550478001304
+        ]
+      }
+    ],
+    "RootActiveSkillId": 78001
+  },
+  {
+    "Id": 550478002,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[ActiveSkillName78002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          550478002001,
+          550478002002,
+          550478002002,
+          550478002002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          550478002201,
+          550478002202,
+          550478002202,
+          550478002202,
+          550478002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          550478002201,
+          550478002202,
+          550478002202,
+          550478002202,
+          550478002202,
+          550478002303,
+          550478002303,
+          550478002303,
+          550478002303,
+          550478002303
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          550478002201,
+          550478002202,
+          550478002202,
+          550478002202,
+          550478002202,
+          550478002303,
+          550478002303,
+          550478002303,
+          550478002303,
+          550478002303,
+          550478002404,
+          550478002404,
+          550478002404,
+          550478002404,
+          550478002404
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          550478002501,
+          550478002502,
+          550478002502,
+          550478002502,
+          550478002502,
+          550478002503,
+          550478002503,
+          550478002503,
+          550478002503,
+          550478002503,
+          550478002504,
+          550478002504,
+          550478002504,
+          550478002504,
+          550478002504
+        ]
+      }
+    ],
+    "RootActiveSkillId": 78002
   },
   {
     "Id": 550484001,

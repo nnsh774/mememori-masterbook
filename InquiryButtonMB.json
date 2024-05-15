@@ -8,7 +8,8 @@
     "MailSubjectKey": "[MailSubject1]",
     "MailBodyKey": "[MailBody1]",
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": null
   },
   {
     "Id": 2,
@@ -19,7 +20,8 @@
     "MailSubjectKey": "[MailSubject2]",
     "MailBodyKey": "[MailBody2]",
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": null
   },
   {
     "Id": 3,
@@ -30,7 +32,8 @@
     "MailSubjectKey": "[MailSubject3]",
     "MailBodyKey": "[MailBody3]",
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": null
   },
   {
     "Id": 4,
@@ -41,10 +44,31 @@
     "MailSubjectKey": "[MailSubject4]",
     "MailBodyKey": "[MailBody4]",
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
   },
   {
     "Id": 5,
+    "IsIgnore": null,
+    "Memo": "APK用_データ引継ぎボタン",
+    "ButtonTextKey": "[ButtonTextKey4]",
+    "ButtonType": "Mail",
+    "MailSubjectKey": "[MailSubject4]",
+    "MailBodyKey": "[MailBody4Apk]",
+    "TransferUrl": null,
+    "TimeServerIds": null,
+    "DeviceTypes": [
+      7
+    ]
+  },
+  {
+    "Id": 6,
     "IsIgnore": null,
     "Memo": "購入・決済ボタン　　　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey5]",
@@ -52,10 +76,31 @@
     "MailSubjectKey": "[MailSubject5]",
     "MailBodyKey": "[MailBody5]",
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
   },
   {
-    "Id": 6,
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "APK用_購入・決済ボタン",
+    "ButtonTextKey": "[ButtonTextKey5]",
+    "ButtonType": "Mail",
+    "MailSubjectKey": "[MailSubject5]",
+    "MailBodyKey": "[MailBody5Apk]",
+    "TransferUrl": null,
+    "TimeServerIds": null,
+    "DeviceTypes": [
+      7
+    ]
+  },
+  {
+    "Id": 8,
     "IsIgnore": null,
     "Memo": "ご意見・ご要望ボタン　　　：問い合わせダイアログ閉じずに、メーラーを起動する",
     "ButtonTextKey": "[ButtonTextKey6]",
@@ -63,10 +108,11 @@
     "MailSubjectKey": "[MailSubject6]",
     "MailBodyKey": "[MailBody6]",
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": null
   },
   {
-    "Id": 7,
+    "Id": 9,
     "IsIgnore": null,
     "Memo": null,
     "ButtonTextKey": "[MenuAccountDeleteButton]",
@@ -74,6 +120,7 @@
     "MailSubjectKey": null,
     "MailBodyKey": null,
     "TransferUrl": null,
-    "TimeServerIds": null
+    "TimeServerIds": null,
+    "DeviceTypes": null
   }
 ]

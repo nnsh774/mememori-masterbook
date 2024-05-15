@@ -7836,5 +7836,176 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4701,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4702,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1500
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4703,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1500
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4704,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1500
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4705,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1600
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4706,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1700
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4707,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1800
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4708,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 1900
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

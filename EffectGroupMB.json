@@ -15932,6 +15932,150 @@
     ]
   },
   {
+    "Id": 7800120201,
+    "IsIgnore": null,
+    "Memo": "命中率が10%増加する。",
+    "NameKey": "[EffectGroupName7800120201]",
+    "DescriptionKey": "[EffectGroupDescription7800120201]",
+    "IconType": "Character",
+    "IconId": 78001,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800130401,
+    "IsIgnore": null,
+    "Memo": "クリティカル率が10%増加する。",
+    "NameKey": "[EffectGroupName7800130401]",
+    "DescriptionKey": "[EffectGroupDescription7800130401]",
+    "IconType": "Character",
+    "IconId": 78001,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800300101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が5%増加する（最大15回まで）（解除不可）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName7800300101]",
+    "DescriptionKey": "[EffectGroupDescription7800300101]",
+    "IconType": "Character",
+    "IconId": 78003,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800320102,
+    "IsIgnore": null,
+    "Memo": "*『攻撃力増加』のスタック数が1増加する。",
+    "NameKey": "[EffectGroupName7800320102]",
+    "DescriptionKey": "[EffectGroupDescription7800320102]",
+    "IconType": "Character",
+    "IconId": 78003,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800330103,
+    "IsIgnore": null,
+    "Memo": "*『攻撃力増加』のスタック数が1増加する。",
+    "NameKey": "[EffectGroupName7800330103]",
+    "DescriptionKey": "[EffectGroupDescription7800330103]",
+    "IconType": "Character",
+    "IconId": 78003,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800400101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが15%減少する。",
+    "NameKey": "[EffectGroupName7800400101]",
+    "DescriptionKey": "[EffectGroupDescription7800400101]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 7800440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 7800400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 7800420102,
+    "IsIgnore": null,
+    "Memo": "防御力が150%増加し、物理防御力が100%増加する。",
+    "NameKey": "[EffectGroupName7800420102]",
+    "DescriptionKey": "[EffectGroupDescription7800420102]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800430103,
+    "IsIgnore": null,
+    "Memo": "[シールド]攻撃力×800％分のダメージを代わりに受ける。",
+    "NameKey": "[EffectGroupName7800430103]",
+    "DescriptionKey": "[EffectGroupDescription7800430103]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 7800440101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが30%減少する。",
+    "NameKey": "[EffectGroupName7800440101]",
+    "DescriptionKey": "[EffectGroupDescription7800440101]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 7800440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 7800400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
     "Id": 8400200102,
     "IsIgnore": null,
     "Memo": "[気絶] 行動不能になる。",
@@ -35714,6 +35858,150 @@
       },
       {
         "EffectGroupId": 55047600400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55047800120201,
+    "IsIgnore": null,
+    "Memo": "命中率が10%増加する。",
+    "NameKey": "[EffectGroupName7800120201]",
+    "DescriptionKey": "[EffectGroupDescription7800120201]",
+    "IconType": "Character",
+    "IconId": 78001,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800130401,
+    "IsIgnore": null,
+    "Memo": "クリティカル率が10%増加する。",
+    "NameKey": "[EffectGroupName7800130401]",
+    "DescriptionKey": "[EffectGroupDescription7800130401]",
+    "IconType": "Character",
+    "IconId": 78001,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800300101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が5%増加する（最大15回まで）（解除不可）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName7800300101]",
+    "DescriptionKey": "[EffectGroupDescription7800300101]",
+    "IconType": "Character",
+    "IconId": 78003,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800320102,
+    "IsIgnore": null,
+    "Memo": "*『攻撃力増加』のスタック数が1増加する。",
+    "NameKey": "[EffectGroupName7800320102]",
+    "DescriptionKey": "[EffectGroupDescription7800320102]",
+    "IconType": "Character",
+    "IconId": 78003,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800330103,
+    "IsIgnore": null,
+    "Memo": "*『攻撃力増加』のスタック数が1増加する。",
+    "NameKey": "[EffectGroupName7800330103]",
+    "DescriptionKey": "[EffectGroupDescription7800330103]",
+    "IconType": "Character",
+    "IconId": 78003,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800400101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが15%減少する。",
+    "NameKey": "[EffectGroupName7800400101]",
+    "DescriptionKey": "[EffectGroupDescription7800400101]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55047800440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55047800400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 55047800420102,
+    "IsIgnore": null,
+    "Memo": "防御力が150%増加し、物理防御力が100%増加する。",
+    "NameKey": "[EffectGroupName7800420102]",
+    "DescriptionKey": "[EffectGroupDescription7800420102]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800430103,
+    "IsIgnore": null,
+    "Memo": "[シールド]攻撃力×800％分のダメージを代わりに受ける。",
+    "NameKey": "[EffectGroupName7800430103]",
+    "DescriptionKey": "[EffectGroupDescription7800430103]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 55047800440101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが30%減少する。",
+    "NameKey": "[EffectGroupName7800440101]",
+    "DescriptionKey": "[EffectGroupDescription7800440101]",
+    "IconType": "Character",
+    "IconId": 78004,
+    "CasterIconType": "Character",
+    "CasterIconId": 78,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 55047800440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 55047800400101,
         "OrderNumber": 2
       }
     ]

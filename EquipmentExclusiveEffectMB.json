@@ -8002,5 +8002,134 @@
         "Value": 2200
       }
     ]
+  },
+  {
+    "Id": 373,
+    "IsIgnore": null,
+    "Memo": "アサヒSSR180",
+    "CharacterId": 78,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 374,
+    "IsIgnore": null,
+    "Memo": "アサヒSSR200",
+    "CharacterId": 78,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 375,
+    "IsIgnore": null,
+    "Memo": "アサヒSSR220",
+    "CharacterId": 78,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 376,
+    "IsIgnore": null,
+    "Memo": "アサヒSSR240",
+    "CharacterId": 78,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 377,
+    "IsIgnore": null,
+    "Memo": "アサヒUR",
+    "CharacterId": 78,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 378,
+    "IsIgnore": null,
+    "Memo": "アサヒLR",
+    "CharacterId": 78,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]
