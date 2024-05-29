@@ -10830,5 +10830,21 @@
         "ItemType": "QuestQuickTicket"
       }
     ]
+  },
+  {
+    "Id": 694,
+    "IsIgnore": null,
+    "Memo": "肖像画",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 18,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
