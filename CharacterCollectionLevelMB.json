@@ -8007,5 +8007,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4801,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4802,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4803,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4804,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4805,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 16
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4806,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 17
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4807,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 18
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4808,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 60
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 19
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

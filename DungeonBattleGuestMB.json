@@ -472,9 +472,9 @@
     "IsIgnore": null,
     "Memo": "シヴィ",
     "CharacterId": 52,
-    "IsPickup": true,
-    "StartTimeFixJST": "2024-05-08 14:30:00",
-    "EndTimeFixJST": "2024-05-23 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 54,
@@ -700,5 +700,14 @@
     "IsPickup": true,
     "StartTimeFixJST": "2024-05-15 14:30:00",
     "EndTimeFixJST": "2024-05-31 14:29:59"
+  },
+  {
+    "Id": 79,
+    "IsIgnore": null,
+    "Memo": "アレクサンドラ",
+    "CharacterId": 82,
+    "IsPickup": true,
+    "StartTimeFixJST": "2024-05-31 14:30:00",
+    "EndTimeFixJST": "2024-06-14 14:29:59"
   }
 ]

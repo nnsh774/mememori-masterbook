@@ -1782,6 +1782,24 @@
     "GachaLimitDayFromCreatePlayer": 0
   },
   {
+    "Id": 100,
+    "IsIgnore": null,
+    "Memo": "アレクサンドラキャラガチャ 5/31 16:30 ~ 6/14 14:29 ",
+    "GachaCaseUiId": 100,
+    "GachaCategoryType": "Character",
+    "DisplayOrder": 19600,
+    "GachaGroupType": "None",
+    "ElementType": "None",
+    "GachaRelicType": "None",
+    "GachaDestinyType": "None",
+    "GachaSelectListType": "Default",
+    "GachaResetType": "None",
+    "GachaCaseFlags": 1,
+    "StartTimeFixJST": "2024-05-31 16:30:00",
+    "EndTimeFixJST": "2024-06-14 14:29:59",
+    "GachaLimitDayFromCreatePlayer": 0
+  },
+  {
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ（4属性）",
