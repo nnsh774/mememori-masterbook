@@ -2746,7 +2746,7 @@
   {
     "Id": 69,
     "IsIgnore": null,
-    "Memo": "アレクサンドラ②＋次キャラ仮入れ仮①（0607切替用）",
+    "Memo": "アレクサンドラ②＋アーティ復刻①（0607切替用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-06-07 14:30:00",
@@ -2754,6 +2754,7 @@
     "OrderNumber": 69,
     "CharacterIdList": [
       82,
+      58,
       5,
       6,
       7,
@@ -2778,7 +2779,46 @@
       46
     ],
     "NewCharacterIdList": [
-      82
+      82,
+      58
+    ]
+  },
+  {
+    "Id": 70,
+    "IsIgnore": null,
+    "Memo": "アーティ復刻②＋次キャラ仮入れ仮①（0614切替用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-06-14 16:30:00",
+    "EndTimeFixJST": "2024-06-21 14:29:59",
+    "OrderNumber": 68,
+    "CharacterIdList": [
+      58,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      58
     ]
   },
   {
@@ -2905,6 +2945,24 @@
     "NewCharacterIdList": [
       40,
       30
+    ]
+  },
+  {
+    "Id": 10080,
+    "IsIgnore": null,
+    "Memo": "星の導き8回ガチャ_Ａ.Ａ.・ウィーラ（6/07 14:30 ~ 6/28 14:29 ）",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-06-07 14:30:00",
+    "EndTimeFixJST": "2024-06-28 14:29:59",
+    "OrderNumber": 7,
+    "CharacterIdList": [
+      48,
+      53
+    ],
+    "NewCharacterIdList": [
+      48,
+      53
     ]
   }
 ]
