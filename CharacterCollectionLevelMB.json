@@ -8185,5 +8185,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4901,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4902,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4903,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 4904,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4905,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3100
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4906,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4907,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3300
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 4908,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3400
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]
