@@ -3038,5 +3038,43 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 162,
+    "IsIgnore": null,
+    "Memo": "折居人形",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 19,
+    "NameKey": "[ItemName162]",
+    "DisplayName": "[ItemDisplayName162]",
+    "DescriptionKey": "[ItemDescription162]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-06-28 04:00:00",
+    "EndTime": "2024-07-11 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 153,
+    "TransferSpotId": 32,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 163,
+    "IsIgnore": null,
+    "Memo": "カグヤガチャチケット",
+    "ItemType": "GachaTicket",
+    "ItemId": 690,
+    "NameKey": "[ItemName163]",
+    "DisplayName": "[ItemDisplayName163]",
+    "DescriptionKey": "[ItemDescription163]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-06-28 04:00:00",
+    "EndTime": "2024-07-16 14:29:59",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 105,
+    "SecondaryFrameType": "CenteredCharacterIcon",
+    "SecondaryFrameNum": 69
   }
 ]
