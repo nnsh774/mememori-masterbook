@@ -536,6 +536,22 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 29,
+    "IsIgnore": null,
+    "Memo": "神装強化(一括選択機能解放後)",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText32]",
+        "ImageId": 47
+      }
+    ],
+    "HelpId": 2331,
+    "ImagePositionFormatType": "None",
+    "ImageItem1": null,
+    "ImageItem2": null,
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 30,
     "IsIgnore": null,
     "Memo": "ゴールド交換",
@@ -845,7 +861,7 @@
     "ImagePositionFormatType": "GuildRaidEvent",
     "ImageItem1": {
       "ItemCount": 0,
-      "ItemId": 16,
+      "ItemId": 19,
       "ItemType": "EventExchangePlaceItem"
     },
     "ImageItem2": {
@@ -853,6 +869,6 @@
       "ItemId": 28,
       "ItemType": "TreasureChest"
     },
-    "ImageCharacterId": 59
+    "ImageCharacterId": 69
   }
 ]

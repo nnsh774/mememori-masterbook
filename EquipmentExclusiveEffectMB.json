@@ -8389,5 +8389,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 391,
+    "IsIgnore": null,
+    "Memo": "カグヤSSR180",
+    "CharacterId": 69,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 392,
+    "IsIgnore": null,
+    "Memo": "カグヤSSR200",
+    "CharacterId": 69,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      }
+    ]
+  },
+  {
+    "Id": 393,
+    "IsIgnore": null,
+    "Memo": "カグヤSSR220",
+    "CharacterId": 69,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 394,
+    "IsIgnore": null,
+    "Memo": "カグヤSSR240",
+    "CharacterId": 69,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 395,
+    "IsIgnore": null,
+    "Memo": "カグヤUR",
+    "CharacterId": 69,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 396,
+    "IsIgnore": null,
+    "Memo": "カグヤLR",
+    "CharacterId": 69,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

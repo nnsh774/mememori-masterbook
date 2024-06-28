@@ -960,6 +960,21 @@
     "TutorialId": 0
   },
   {
+    "Id": 300,
+    "IsIgnore": null,
+    "Memo": "神装強化（一括選択機能）",
+    "OpenContentType": "QuestClear",
+    "OpenContentValue": 340,
+    "DescriptionKey": "",
+    "AssetPath": "",
+    "OpenCommandType": "BulkEquipmentAscend",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": "",
+    "ToastKey": "",
+    "TutorialId": 0
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",

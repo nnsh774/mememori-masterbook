@@ -2870,13 +2870,14 @@
   {
     "Id": 72,
     "IsIgnore": null,
-    "Memo": "黒鎧アイリス②＋次キャラ仮入れ仮①（0628切替用）",
+    "Memo": "黒鎧アイリス②＋カグヤ①（0628切替用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-06-28 16:30:00",
     "EndTimeFixJST": "2024-07-08 14:29:59",
     "OrderNumber": 72,
     "CharacterIdList": [
+      69,
       66,
       5,
       6,
@@ -2902,7 +2903,46 @@
       46
     ],
     "NewCharacterIdList": [
+      69,
       66
+    ]
+  },
+  {
+    "Id": 73,
+    "IsIgnore": null,
+    "Memo": "カグヤ②＋次キャラ仮入れ仮①（0708切替用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-07-08 14:30:00",
+    "EndTimeFixJST": "2024-07-16 14:29:59",
+    "OrderNumber": 73,
+    "CharacterIdList": [
+      69,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      69
     ]
   },
   {
@@ -3047,6 +3087,24 @@
     "NewCharacterIdList": [
       48,
       53
+    ]
+  },
+  {
+    "Id": 10090,
+    "IsIgnore": null,
+    "Memo": "星の導き9回ガチャ_フォルティナ・ベル（6/28 16:30 ~ 7/23 14:29 ）",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-06-28 16:30:00",
+    "EndTimeFixJST": "2024-07-23 14:29:59",
+    "OrderNumber": 9,
+    "CharacterIdList": [
+      42,
+      19
+    ],
+    "NewCharacterIdList": [
+      42,
+      19
     ]
   }
 ]

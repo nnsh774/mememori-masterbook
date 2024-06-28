@@ -8154,6 +8154,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 461,
+    "IsIgnore": null,
+    "Memo": "カグヤ1",
+    "CharacterId": 69,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6901]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 462,
+    "IsIgnore": null,
+    "Memo": "カグヤ2",
+    "CharacterId": 69,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6902]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 463,
+    "IsIgnore": null,
+    "Memo": "カグヤ3",
+    "CharacterId": 69,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6903]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 464,
+    "IsIgnore": null,
+    "Memo": "カグヤ4",
+    "CharacterId": 69,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6904]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 465,
+    "IsIgnore": null,
+    "Memo": "カグヤ5",
+    "CharacterId": 69,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6905]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 466,
+    "IsIgnore": null,
+    "Memo": "カグヤ6",
+    "CharacterId": 69,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6906]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 467,
+    "IsIgnore": null,
+    "Memo": "カグヤ7",
+    "CharacterId": 69,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6907]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 468,
     "IsIgnore": null,
     "Memo": "水着サブリナ",
