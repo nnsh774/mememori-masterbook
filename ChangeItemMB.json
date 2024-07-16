@@ -10878,5 +10878,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 697,
+    "IsIgnore": null,
+    "Memo": "サマーガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 950,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]

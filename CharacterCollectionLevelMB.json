@@ -8534,5 +8534,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5101,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5102,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5103,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5104,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5105,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3100
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5106,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 80
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5107,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3300
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 85
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5108,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3400
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 90
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

@@ -1267,5 +1267,41 @@
     "CharacterId": 1,
     "VoiceJPFilePath": null,
     "VoiceUSFilePath": null
+  },
+  {
+    "Id": 5700,
+    "IsIgnore": null,
+    "Memo": "他のギルドから勧誘されることもあるよ。<br>勧誘待ちの設定を確認しておこう！",
+    "TextKey": "[TutorialTextBox5700]",
+    "CharacterId": 2,
+    "VoiceJPFilePath": null,
+    "VoiceUSFilePath": null
+  },
+  {
+    "Id": 5701,
+    "IsIgnore": null,
+    "Memo": "ここで勧誘に関する設定を変更できるみたいだね。",
+    "TextKey": "[TutorialTextBox5701]",
+    "CharacterId": 2,
+    "VoiceJPFilePath": null,
+    "VoiceUSFilePath": null
+  },
+  {
+    "Id": 5702,
+    "IsIgnore": null,
+    "Memo": "ギルドレベルや戦闘力の条件を設定しておけば、<br>希望するギルドからの勧誘を受けやすくなるかも！",
+    "TextKey": "[TutorialTextBox5702]",
+    "CharacterId": 2,
+    "VoiceJPFilePath": null,
+    "VoiceUSFilePath": null
+  },
+  {
+    "Id": 5703,
+    "IsIgnore": null,
+    "Memo": "自分のプレイスタイルを設定しておけば、自分に合ったギルドからの勧誘が届きやすくなるから、しっかりと設定しておこう",
+    "TextKey": "[TutorialTextBox5703]",
+    "CharacterId": 2,
+    "VoiceJPFilePath": null,
+    "VoiceUSFilePath": null
   }
 ]

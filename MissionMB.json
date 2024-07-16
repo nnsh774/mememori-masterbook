@@ -42562,5 +42562,365 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1414,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で950階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 950,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1415,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1000階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1416,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1050階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1050,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1417,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1100階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1418,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1150階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1150,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1419,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1200階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1420,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_武具の強化レベルを30にする",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1317]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1421,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_洞窟でスナイパー3人以上で7回勝利",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1421]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClear3UnitSniperType",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1422,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_高速バトルを5回",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1168]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1008,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1423,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ギルドレイドを20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1178]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1424,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1176]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 5,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2005,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1425,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神殿で黄属性3人以上で10回勝利",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1272]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictory3UnitYellowType",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]
