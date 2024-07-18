@@ -3152,5 +3152,24 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 169,
+    "IsIgnore": null,
+    "Memo": "ダイヤ（有償）",
+    "ItemType": "CurrencyPaid",
+    "ItemId": 4,
+    "NameKey": "[ItemName2]",
+    "DisplayName": "[ItemDisplayName2]",
+    "DescriptionKey": "[ItemDescription2]",
+    "ItemRarityFlags": 0,
+    "SortOrder": 0,
+    "StartTime": null,
+    "EndTime": null,
+    "MaxItemCount": 0,
+    "IconId": 9,
+    "TransferSpotId": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
   }
 ]
