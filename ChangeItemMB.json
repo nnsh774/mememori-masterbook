@@ -10894,5 +10894,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 698,
+    "IsIgnore": null,
+    "Memo": "トロピカルドリンク",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 20,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
