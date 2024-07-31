@@ -106,5 +106,23 @@
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF"
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "2024_サマーログインボーナス",
+    "StartTime": "2024-07-31 04:00:00",
+    "EndTime": "2024-08-27 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 7,
+    "CharacterImageId": 96,
+    "RewardBackgroundImageId": 7,
+    "SpecialRewardBackgroundImageId": 7,
+    "TitleTextKey": "[LimitedLoginBonusTitle7]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF"
   }
 ]

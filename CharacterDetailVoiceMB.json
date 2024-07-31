@@ -36398,5 +36398,453 @@
       "TimelineId": 4
     },
     "SortOrder": 99
+  },
+  {
+    "Id": 9602,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9602]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 9603,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9603]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 9604,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9604]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 9605,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9605]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 9606,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9606]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 9607,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9607]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 9608,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9608]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 9609,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9609]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 9610,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9610]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 9611,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9611]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 9612,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9612]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 9613,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9613]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 9614,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9614]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 9615,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9615]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 9616,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9616]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 9617,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9617]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 9618,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9618]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 9619,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9619]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 9620,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9620]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 9621,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9621]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 9690,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9690]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 9691,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9691]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 9692,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9692]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 9693,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle9693]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 9696,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 9697,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 9698,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 9699,
+    "IsIgnore": null,
+    "Memo": "夏アムレート",
+    "CharacterId": 96,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
   }
 ]

@@ -8652,5 +8652,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 403,
+    "IsIgnore": null,
+    "Memo": "夏アムレートSSR180",
+    "CharacterId": 96,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 404,
+    "IsIgnore": null,
+    "Memo": "夏アムレートSSR200",
+    "CharacterId": 96,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      }
+    ]
+  },
+  {
+    "Id": 405,
+    "IsIgnore": null,
+    "Memo": "夏アムレートSSR220",
+    "CharacterId": 96,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 406,
+    "IsIgnore": null,
+    "Memo": "夏アムレートSSR240",
+    "CharacterId": 96,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 407,
+    "IsIgnore": null,
+    "Memo": "夏アムレートUR",
+    "CharacterId": 96,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 408,
+    "IsIgnore": null,
+    "Memo": "夏アムレートLR",
+    "CharacterId": 96,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

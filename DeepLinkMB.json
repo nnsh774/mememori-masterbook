@@ -429,13 +429,46 @@
     }
   },
   {
+    "Id": 40,
+    "IsIgnore": null,
+    "Memo": "夏アムレート新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 400,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
+    "Id": 41,
+    "IsIgnore": null,
+    "Memo": "夏キャンペーン訴求（iOS用)",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 410,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
+    "Id": 42,
+    "IsIgnore": null,
+    "Memo": "夏キャンペーン訴求（Android用)",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 420,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 48,
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1001,
-      "NumberInfo2": 1005,
+      "NumberInfo1": 1027,
+      "NumberInfo2": 0,
       "StringInfo": null
     }
   }

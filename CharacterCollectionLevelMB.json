@@ -8712,5 +8712,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5201,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5202,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5203,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5204,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5205,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 205
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5206,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 210
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5207,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 215
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5208,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 220
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

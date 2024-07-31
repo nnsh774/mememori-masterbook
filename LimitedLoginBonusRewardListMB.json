@@ -751,5 +751,150 @@
       },
       "RarityFlags": 0
     }
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": "2024_サマーログインボーナス",
+    "DailyRewardList": [
+      {
+        "Date": 1,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 2,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 3,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 4,
+        "DailyRewardItem": {
+          "ItemCount": 2,
+          "ItemId": 14,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 5,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 6,
+        "DailyRewardItem": {
+          "ItemCount": 5,
+          "ItemId": 2,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 7,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 8,
+        "DailyRewardItem": {
+          "ItemCount": 1,
+          "ItemId": 15,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 9,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 10,
+        "DailyRewardItem": {
+          "ItemCount": 5,
+          "ItemId": 3,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 11,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 12,
+        "DailyRewardItem": {
+          "ItemCount": 1500,
+          "ItemId": 2,
+          "ItemType": "CharacterTrainingMaterial"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 13,
+        "DailyRewardItem": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Date": 14,
+        "DailyRewardItem": {
+          "ItemCount": 2000,
+          "ItemId": 2,
+          "ItemType": "CharacterTrainingMaterial"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "ExistEveryDayReward": false,
+    "EveryDayRewardItem": null,
+    "ExistSpecialReward": true,
+    "SpecialRewardItem": {
+      "Date": 14,
+      "SpecialRewardItem": {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      },
+      "RarityFlags": 0
+    }
   }
 ]
