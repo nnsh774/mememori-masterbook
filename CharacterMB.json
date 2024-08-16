@@ -3989,6 +3989,59 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 80,
+    "IsIgnore": null,
+    "Memo": "ミラ",
+    "NameKey": "[CharacterName80]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Green",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": -2,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 4,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 1,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3158
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 73,
+      "Intelligence": 102,
+      "Muscle": 79
+    },
+    "BaseParameterGrossCoefficient": 333,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      80001,
+      80002
+    ],
+    "PassiveSkillIds": [
+      80003,
+      80004,
+      80005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2024-08-16 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 82,
     "IsIgnore": null,
     "Memo": "アレクサンドラ",

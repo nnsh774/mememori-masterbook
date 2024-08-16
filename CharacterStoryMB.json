@@ -9414,6 +9414,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 538,
+    "IsIgnore": null,
+    "Memo": "ミラ1",
+    "CharacterId": 80,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8001]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 539,
+    "IsIgnore": null,
+    "Memo": "ミラ2",
+    "CharacterId": 80,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8002]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 540,
+    "IsIgnore": null,
+    "Memo": "ミラ3",
+    "CharacterId": 80,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8003]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 541,
+    "IsIgnore": null,
+    "Memo": "ミラ4",
+    "CharacterId": 80,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8004]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 542,
+    "IsIgnore": null,
+    "Memo": "ミラ5",
+    "CharacterId": 80,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8005]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 543,
+    "IsIgnore": null,
+    "Memo": "ミラ6",
+    "CharacterId": 80,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8006]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 544,
+    "IsIgnore": null,
+    "Memo": "ミラ7",
+    "CharacterId": 80,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8007]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 552,
     "IsIgnore": null,
     "Memo": "アレクサンドラ1",

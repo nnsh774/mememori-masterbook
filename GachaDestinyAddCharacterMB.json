@@ -664,5 +664,23 @@
     "GachaAddCharacterType": "New",
     "StartGachaSelectListId": 77,
     "EndGachaSelectListId": 79
+  },
+  {
+    "Id": 75,
+    "IsIgnore": null,
+    "Memo": "ミラ追加",
+    "CharacterId": 80,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 79,
+    "EndGachaSelectListId": 81
+  },
+  {
+    "Id": 76,
+    "IsIgnore": null,
+    "Memo": "ステラ復刻追加",
+    "CharacterId": 57,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 79,
+    "EndGachaSelectListId": 81
   }
 ]

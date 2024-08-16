@@ -3164,7 +3164,7 @@
   {
     "Id": 79,
     "IsIgnore": null,
-    "Memo": "夏アムレート④＋フィアー復刻③＋次キャラ仮入れ仮①（0816切替用）",
+    "Memo": "夏アムレート④＋ミラ①＋ステラ復刻①（0816切替用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-08-16 16:30:00",
@@ -3172,6 +3172,8 @@
     "OrderNumber": 79,
     "CharacterIdList": [
       96,
+      80,
+      57,
       60,
       5,
       6,
@@ -3198,13 +3200,15 @@
     ],
     "NewCharacterIdList": [
       96,
+      80,
+      57,
       60
     ]
   },
   {
     "Id": 80,
     "IsIgnore": null,
-    "Memo": "夏アムレート⑤＋次キャラ仮入れ仮①（0823切替用）",
+    "Memo": "夏アムレート⑤＋ミラ②＋ステラ復刻②＋次キャラ仮入れ仮①（0823切替用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-08-23 14:30:00",
@@ -3212,6 +3216,8 @@
     "OrderNumber": 80,
     "CharacterIdList": [
       96,
+      80,
+      57,
       5,
       6,
       7,
@@ -3236,7 +3242,49 @@
       46
     ],
     "NewCharacterIdList": [
-      96
+      96,
+      80,
+      57
+    ]
+  },
+  {
+    "Id": 81,
+    "IsIgnore": null,
+    "Memo": "ミラ③＋ステラ復刻③＋次キャラ仮入れ仮①（0828切替用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-08-28 16:30:00",
+    "EndTimeFixJST": "2024-08-30 14:29:59",
+    "OrderNumber": 81,
+    "CharacterIdList": [
+      80,
+      57,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      80,
+      57
     ]
   },
   {
@@ -3417,6 +3465,24 @@
     "NewCharacterIdList": [
       49,
       55
+    ]
+  },
+  {
+    "Id": 10110,
+    "IsIgnore": null,
+    "Memo": "星の導き11回ガチャ_ケルベロス・ソフィア（8/16 16:30 ~ 9/6 14:29 ）",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-08-16 16:30:00",
+    "EndTimeFixJST": "2024-09-06 14:29:59",
+    "OrderNumber": 11,
+    "CharacterIdList": [
+      43,
+      51
+    ],
+    "NewCharacterIdList": [
+      43,
+      51
     ]
   }
 ]

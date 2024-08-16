@@ -42922,5 +42922,577 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1426,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36章をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1426]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattledMaxClearChapter",
+    "RequireValue": 36,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 14,
+          "ItemId": 4,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1427,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37章をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1427]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattledMaxClearChapter",
+    "RequireValue": 37,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 14,
+          "ItemId": 4,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1428,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-6をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1086,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1429,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-12をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1092,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1430,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-18をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1098,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1431,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-24をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1104,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1432,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-30をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1110,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1433,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-36をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1116,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1434,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-42をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1122,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1435,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-48をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1128,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1436,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-54をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1134,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1437,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト36-60をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1140,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1438,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-6をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1146,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1439,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-12をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1152,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1440,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-18をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1158,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1441,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-24をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1164,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1442,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-30をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1170,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1443,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-36をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1176,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1444,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-42をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1182,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1445,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-48をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1188,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1446,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-54をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1194,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1447,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト37-60をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

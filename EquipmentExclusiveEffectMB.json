@@ -8786,5 +8786,134 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 409,
+    "IsIgnore": null,
+    "Memo": "ミラSSR180",
+    "CharacterId": 80,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 410,
+    "IsIgnore": null,
+    "Memo": "ミラSSR200",
+    "CharacterId": 80,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 411,
+    "IsIgnore": null,
+    "Memo": "ミラSSR220",
+    "CharacterId": 80,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      }
+    ]
+  },
+  {
+    "Id": 412,
+    "IsIgnore": null,
+    "Memo": "ミラSSR240",
+    "CharacterId": 80,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      }
+    ]
+  },
+  {
+    "Id": 413,
+    "IsIgnore": null,
+    "Memo": "ミラUR",
+    "CharacterId": 80,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000
+      }
+    ]
+  },
+  {
+    "Id": 414,
+    "IsIgnore": null,
+    "Memo": "ミラLR",
+    "CharacterId": 80,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200
+      }
+    ]
   }
 ]

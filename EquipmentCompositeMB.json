@@ -1483,5 +1483,20 @@
       }
     ],
     "ItemRarityFlags": 128
+  },
+  {
+    "Id": 101,
+    "IsIgnore": null,
+    "Memo": "ミラ魔導書",
+    "EquipmentId": 800930180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemCount": 75000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ],
+    "ItemRarityFlags": 128
   }
 ]
