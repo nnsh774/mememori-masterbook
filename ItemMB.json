@@ -3190,5 +3190,43 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 170,
+    "IsIgnore": null,
+    "Memo": "思い出のハープ",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 21,
+    "NameKey": "[ItemName170]",
+    "DisplayName": "[ItemDisplayName170]",
+    "DescriptionKey": "[ItemDescription170]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-08-30 04:00:00",
+    "EndTime": "2024-09-12 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 157,
+    "TransferSpotId": 34,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 172,
+    "IsIgnore": null,
+    "Memo": "アイネガチャチケット",
+    "ItemType": "GachaTicket",
+    "ItemId": 650,
+    "NameKey": "[ItemName172]",
+    "DisplayName": "[ItemDisplayName172]",
+    "DescriptionKey": "[ItemDescription172]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-08-30 04:00:00",
+    "EndTime": "2024-09-17 14:29:59",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 116,
+    "SecondaryFrameType": "CenteredCharacterIcon",
+    "SecondaryFrameNum": 65
   }
 ]
