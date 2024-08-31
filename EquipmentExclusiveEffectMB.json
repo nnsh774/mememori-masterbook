@@ -8915,5 +8915,139 @@
         "Value": 2200
       }
     ]
+  },
+  {
+    "Id": 415,
+    "IsIgnore": null,
+    "Memo": "アイネSSR180",
+    "CharacterId": 65,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 416,
+    "IsIgnore": null,
+    "Memo": "アイネSSR200",
+    "CharacterId": 65,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      }
+    ]
+  },
+  {
+    "Id": 417,
+    "IsIgnore": null,
+    "Memo": "アイネSSR220",
+    "CharacterId": 65,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 5500
+      }
+    ]
+  },
+  {
+    "Id": 418,
+    "IsIgnore": null,
+    "Memo": "アイネSSR240",
+    "CharacterId": 65,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6000
+      }
+    ]
+  },
+  {
+    "Id": 419,
+    "IsIgnore": null,
+    "Memo": "アイネUR",
+    "CharacterId": 65,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6500
+      }
+    ]
+  },
+  {
+    "Id": 420,
+    "IsIgnore": null,
+    "Memo": "アイネLR",
+    "CharacterId": 65,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 7000
+      }
+    ]
   }
 ]

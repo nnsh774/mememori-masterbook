@@ -5404,5 +5404,159 @@
     "OpenCommandType": "ShopEventExchange",
     "StartTime": "2024-07-31 04:00:00",
     "EndTime": "2024-08-13 03:59:59"
+  },
+  {
+    "Id": 34,
+    "IsIgnore": null,
+    "Memo": "20240830アイネ_イベント",
+    "IconId": 35,
+    "DecorationId": 4,
+    "DecorationSpecialId": 1,
+    "DecorationColor": "#8d9ecaFF",
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 1,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "zhCN": null,
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "idID": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#121628FF",
+        "BannerPositionX": -40,
+        "BannerPositionY": -3,
+        "TitleFontSize": 0
+      }
+    },
+    "TabNameKey": "[TradeShopTabName22]",
+    "SortOrder": 11,
+    "IsHide": false,
+    "IsHideNotOpen": false,
+    "TradeShopType": "Fix",
+    "AutoUpdateType": "None",
+    "AutoUpdateTimes": [
+      0
+    ],
+    "IsManualUpdate": false,
+    "ManualUpdateCurrencyCount": 0,
+    "ForceResetTimeFixJST": null,
+    "ConsumeItemInfos": [
+      {
+        "ItemId": 21,
+        "ItemType": "EventExchangePlaceItem"
+      }
+    ],
+    "TradeShopItemCount": 0,
+    "OpenCommandType": "ShopEventExchange",
+    "StartTime": "2024-08-30 04:00:00",
+    "EndTime": "2024-09-12 03:59:59"
   }
 ]

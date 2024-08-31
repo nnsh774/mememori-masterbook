@@ -9068,5 +9068,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5401,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5402,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5403,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5404,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5405,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 310
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5406,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 320
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5407,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 330
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5408,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 340
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

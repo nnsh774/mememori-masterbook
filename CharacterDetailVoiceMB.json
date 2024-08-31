@@ -28304,6 +28304,454 @@
     "SortOrder": 99
   },
   {
+    "Id": 6502,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6502]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 6503,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6503]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 6504,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6504]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 6505,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6505]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 6506,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6506]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 6507,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6507]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 6508,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6508]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 6509,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6509]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 6510,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6510]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 6511,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6511]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 6512,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6512]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 6513,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6513]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 6514,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6514]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 6515,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6515]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 6516,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6516]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 6517,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6517]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 6518,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6518]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 6519,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6519]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 6520,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6520]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 6521,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6521]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 6590,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6590]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 6591,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6591]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 6592,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6592]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 6593,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle6593]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 6596,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 6597,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 6598,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 6599,
+    "IsIgnore": null,
+    "Memo": "アイネ",
+    "CharacterId": 65,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
     "Id": 6602,
     "IsIgnore": null,
     "Memo": "黒鎧アイリス",

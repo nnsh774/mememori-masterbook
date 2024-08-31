@@ -7776,6 +7776,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 433,
+    "IsIgnore": null,
+    "Memo": "アイネ1",
+    "CharacterId": 65,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6501]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 434,
+    "IsIgnore": null,
+    "Memo": "アイネ2",
+    "CharacterId": 65,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6502]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 435,
+    "IsIgnore": null,
+    "Memo": "アイネ3",
+    "CharacterId": 65,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6503]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 436,
+    "IsIgnore": null,
+    "Memo": "アイネ4",
+    "CharacterId": 65,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6504]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 437,
+    "IsIgnore": null,
+    "Memo": "アイネ5",
+    "CharacterId": 65,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6505]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 438,
+    "IsIgnore": null,
+    "Memo": "アイネ6",
+    "CharacterId": 65,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6506]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 439,
+    "IsIgnore": null,
+    "Memo": "アイネ7",
+    "CharacterId": 65,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText6507]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 440,
     "IsIgnore": null,
     "Memo": "黒鎧アイリス1",

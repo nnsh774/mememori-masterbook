@@ -3294,13 +3294,14 @@
   {
     "Id": 82,
     "IsIgnore": null,
-    "Memo": "アームストロング復刻③＋次キャラ仮入れ仮①（0830切替用）",
+    "Memo": "アームストロング復刻③＋アイネ①（0830切替用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-08-30 16:30:00",
     "EndTimeFixJST": "2024-09-06 14:29:59",
     "OrderNumber": 82,
     "CharacterIdList": [
+      65,
       50,
       5,
       6,
@@ -3326,7 +3327,84 @@
       46
     ],
     "NewCharacterIdList": [
+      65,
       50
+    ]
+  },
+  {
+    "Id": 83,
+    "IsIgnore": null,
+    "Memo": "アイネ②＋次キャラ仮入れ仮①（0906切替用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-09-06 14:30:00",
+    "EndTimeFixJST": "2024-09-12 14:29:59",
+    "OrderNumber": 83,
+    "CharacterIdList": [
+      65,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      65
+    ]
+  },
+  {
+    "Id": 84,
+    "IsIgnore": null,
+    "Memo": "アイネ③＋次キャラ仮入れ仮①（0912切替用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-09-12 17:30:00",
+    "EndTimeFixJST": "2024-09-17 14:29:59",
+    "OrderNumber": 84,
+    "CharacterIdList": [
+      65,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      65
     ]
   },
   {
