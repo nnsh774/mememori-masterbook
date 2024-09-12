@@ -9246,5 +9246,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5501,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5502,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5503,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5504,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5505,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 71
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5506,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 72
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5507,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 73
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5508,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 74
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

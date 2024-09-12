@@ -23600,6 +23600,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 5422,
+    "IsIgnore": null,
+    "Memo": "シフォン朗読",
+    "CharacterId": 54,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
+  },
+  {
     "Id": 5490,
     "IsIgnore": null,
     "Memo": "シフォン",
@@ -33616,6 +33632,22 @@
     "SortOrder": 21
   },
   {
+    "Id": 7622,
+    "IsIgnore": null,
+    "Memo": "ユニ朗読",
+    "CharacterId": 76,
+    "UnlockedVoiceButtonTextKey": null,
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1
+    },
+    "SortOrder": 0
+  },
+  {
     "Id": 7690,
     "IsIgnore": null,
     "Memo": "ユニ",
@@ -34628,6 +34660,454 @@
     "IsIgnore": null,
     "Memo": "アサヒ",
     "CharacterId": 78,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4
+    },
+    "SortOrder": 99
+  },
+  {
+    "Id": 7902,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7902]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 7903,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7903]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 7904,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7904]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 7905,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7905]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 7906,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7906]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 7907,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7907]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 7908,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7908]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 7909,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7909]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 7910,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7910]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 7911,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7911]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 7912,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7912]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 7913,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7913]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 7914,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7914]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 7915,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7915]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 7916,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7916]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 7917,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7917]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 7918,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7918]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 7919,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7919]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 7920,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7920]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 7921,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7921]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 7990,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7990]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 7991,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7991]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 7992,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7992]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 7993,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle7993]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 7996,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2
+    },
+    "SortOrder": 96
+  },
+  {
+    "Id": 7997,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1
+    },
+    "SortOrder": 97
+  },
+  {
+    "Id": 7998,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3
+    },
+    "SortOrder": 98
+  },
+  {
+    "Id": 7999,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "CharacterId": 79,
     "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
     "SubtitleKey": null,
     "CharacterVoiceCategory": "Other",

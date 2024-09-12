@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "デイリーミッション1",
     "MissionGroupType": "Daily",
     "Value": 0,
     "RequiredActivityMedalCount": 20,
@@ -32,23 +32,17 @@
         "RarityFlags": 0
       }
     ],
-    "EventStartTime": "2024-08-30 04:00:00",
-    "EventEndTime": "2024-09-09 03:59:59",
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 5,
-          "ItemId": 21,
-          "ItemType": "EventExchangePlaceItem"
-        },
-        "RarityFlags": 0
-      }
-    ]
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
   },
   {
     "Id": 2,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "デイリーミッション2",
     "MissionGroupType": "Daily",
     "Value": 0,
     "RequiredActivityMedalCount": 40,
@@ -78,6 +72,9 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
@@ -85,7 +82,7 @@
   {
     "Id": 3,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "デイリーミッション3",
     "MissionGroupType": "Daily",
     "Value": 0,
     "RequiredActivityMedalCount": 60,
@@ -115,23 +112,17 @@
         "RarityFlags": 0
       }
     ],
-    "EventStartTime": "2024-08-30 04:00:00",
-    "EventEndTime": "2024-09-09 03:59:59",
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 5,
-          "ItemId": 21,
-          "ItemType": "EventExchangePlaceItem"
-        },
-        "RarityFlags": 0
-      }
-    ]
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
   },
   {
     "Id": 4,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "デイリーミッション4",
     "MissionGroupType": "Daily",
     "Value": 0,
     "RequiredActivityMedalCount": 80,
@@ -153,6 +144,9 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
@@ -160,7 +154,7 @@
   {
     "Id": 5,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "デイリーミッション5",
     "MissionGroupType": "Daily",
     "Value": 0,
     "RequiredActivityMedalCount": 100,
@@ -182,23 +176,17 @@
         "RarityFlags": 0
       }
     ],
-    "EventStartTime": "2024-08-30 04:00:00",
-    "EventEndTime": "2024-09-09 03:59:59",
-    "EventMissionRewardList": [
-      {
-        "EventItem": {
-          "ItemCount": 10,
-          "ItemId": 21,
-          "ItemType": "EventExchangePlaceItem"
-        },
-        "RarityFlags": 0
-      }
-    ]
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
   },
   {
     "Id": 6,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "ウィークリーミッション1",
     "MissionGroupType": "Weekly",
     "Value": 0,
     "RequiredActivityMedalCount": 20,
@@ -228,6 +216,9 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
@@ -235,7 +226,7 @@
   {
     "Id": 7,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "ウィークリーミッション2",
     "MissionGroupType": "Weekly",
     "Value": 0,
     "RequiredActivityMedalCount": 40,
@@ -265,6 +256,9 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
@@ -272,7 +266,7 @@
   {
     "Id": 8,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "ウィークリーミッション3",
     "MissionGroupType": "Weekly",
     "Value": 0,
     "RequiredActivityMedalCount": 60,
@@ -310,6 +304,9 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
@@ -317,7 +314,7 @@
   {
     "Id": 9,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "ウィークリーミッション4",
     "MissionGroupType": "Weekly",
     "Value": 0,
     "RequiredActivityMedalCount": 80,
@@ -347,6 +344,9 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
@@ -354,7 +354,7 @@
   {
     "Id": 10,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "ウィークリーミッション5",
     "MissionGroupType": "Weekly",
     "Value": 0,
     "RequiredActivityMedalCount": 100,
@@ -392,12 +392,15 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
   },
   {
-    "Id": 9901,
+    "Id": 101,
     "IsIgnore": null,
     "Memo": "ギルドミッション1(ギルドLv制限なし)",
     "MissionGroupType": "Guild",
@@ -413,12 +416,15 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
   },
   {
-    "Id": 9902,
+    "Id": 102,
     "IsIgnore": null,
     "Memo": "ギルドミッション2(ギルドLv制限なし)",
     "MissionGroupType": "Guild",
@@ -442,12 +448,15 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
   },
   {
-    "Id": 9903,
+    "Id": 103,
     "IsIgnore": null,
     "Memo": "ギルドミッション3(ギルドLv制限なし)",
     "MissionGroupType": "Guild",
@@ -471,12 +480,15 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
   },
   {
-    "Id": 9904,
+    "Id": 104,
     "IsIgnore": null,
     "Memo": "ギルドミッション4(ギルドLv6以上)",
     "MissionGroupType": "Guild",
@@ -492,12 +504,15 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
   },
   {
-    "Id": 9905,
+    "Id": 105,
     "IsIgnore": null,
     "Memo": "ギルドミッション5(ギルドLv11以上)",
     "MissionGroupType": "Guild",
@@ -521,12 +536,15 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null
   },
   {
-    "Id": 9906,
+    "Id": 106,
     "IsIgnore": null,
     "Memo": "ギルドミッション6(ギルドLv16以上)",
     "MissionGroupType": "Guild",
@@ -542,6 +560,129 @@
         "RarityFlags": 0
       }
     ],
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
+  },
+  {
+    "Id": 1001,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション1_第1回目人気投票",
+    "MissionGroupType": "DailyBonus",
+    "Value": 0,
+    "RequiredActivityMedalCount": 20,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2024-09-17 04:00:00",
+    "EndTime": "2024-10-03 03:59:59",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
+  },
+  {
+    "Id": 1002,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション2_第1回目人気投票",
+    "MissionGroupType": "DailyBonus",
+    "Value": 0,
+    "RequiredActivityMedalCount": 40,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2024-09-17 04:00:00",
+    "EndTime": "2024-10-03 03:59:59",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
+  },
+  {
+    "Id": 1003,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション3_第1回目人気投票",
+    "MissionGroupType": "DailyBonus",
+    "Value": 0,
+    "RequiredActivityMedalCount": 60,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 1,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2024-09-17 04:00:00",
+    "EndTime": "2024-10-03 03:59:59",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
+  },
+  {
+    "Id": 1004,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション4_第1回目人気投票",
+    "MissionGroupType": "DailyBonus",
+    "Value": 0,
+    "RequiredActivityMedalCount": 80,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 1,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2024-09-17 04:00:00",
+    "EndTime": "2024-10-03 03:59:59",
+    "SortOrder": 0,
+    "EventStartTime": null,
+    "EventEndTime": null,
+    "EventMissionRewardList": null
+  },
+  {
+    "Id": 1005,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション5_第1回目人気投票",
+    "MissionGroupType": "DailyBonus",
+    "Value": 0,
+    "RequiredActivityMedalCount": 100,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 1,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2024-09-17 04:00:00",
+    "EndTime": "2024-10-03 03:59:59",
+    "SortOrder": 0,
     "EventStartTime": null,
     "EventEndTime": null,
     "EventMissionRewardList": null

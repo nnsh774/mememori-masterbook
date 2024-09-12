@@ -4041,6 +4041,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 79,
+    "IsIgnore": null,
+    "Memo": "セルリア",
+    "NameKey": "[CharacterName79]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Blue",
+    "JobFlags": 2,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": -3,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 1,
+      "Speed": 2632
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 104,
+      "Health": 74,
+      "Intelligence": 80,
+      "Muscle": 89
+    },
+    "BaseParameterGrossCoefficient": 347,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      79001,
+      79002
+    ],
+    "PassiveSkillIds": [
+      79003,
+      79004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2024-09-12 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 80,
     "IsIgnore": null,
     "Memo": "ミラ",

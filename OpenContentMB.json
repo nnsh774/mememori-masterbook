@@ -975,6 +975,21 @@
     "TutorialId": 0
   },
   {
+    "Id": 360,
+    "IsIgnore": null,
+    "Memo": "人気投票",
+    "OpenContentType": "QuestClear",
+    "OpenContentValue": 64,
+    "DescriptionKey": "",
+    "AssetPath": "",
+    "OpenCommandType": "PopularityVote",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": "",
+    "ToastKey": "[OpenContentToast360]",
+    "TutorialId": 0
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",

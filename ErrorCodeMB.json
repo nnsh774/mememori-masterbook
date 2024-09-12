@@ -3996,6 +3996,72 @@
     "ErrorMessageType": "DialogWithError"
   },
   {
+    "Id": 442000,
+    "IsIgnore": null,
+    "Memo": "人気投票が解放されていません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442001,
+    "IsIgnore": null,
+    "Memo": "投票期間外です",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442002,
+    "IsIgnore": null,
+    "Memo": "投票できないキャラです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442003,
+    "IsIgnore": null,
+    "Memo": "マイリストから解除できません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442004,
+    "IsIgnore": null,
+    "Memo": "マイリストに登録済みです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442005,
+    "IsIgnore": null,
+    "Memo": "マイリストに登録できないキャラです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442006,
+    "IsIgnore": null,
+    "Memo": "投票報酬がありません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442007,
+    "IsIgnore": null,
+    "Memo": "投票数が足りません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442008,
+    "IsIgnore": null,
+    "Memo": "既に受取済みです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442009,
+    "IsIgnore": null,
+    "Memo": "予選結果の公開期間外です",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 442010,
+    "IsIgnore": null,
+    "Memo": "本選結果の公開期間外です",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
     "Id": 602004,
     "IsIgnore": null,
     "Memo": null,

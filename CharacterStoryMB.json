@@ -9540,6 +9540,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 531,
+    "IsIgnore": null,
+    "Memo": "セルリア1",
+    "CharacterId": 79,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7901]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 532,
+    "IsIgnore": null,
+    "Memo": "セルリア2",
+    "CharacterId": 79,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7902]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 533,
+    "IsIgnore": null,
+    "Memo": "セルリア3",
+    "CharacterId": 79,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7903]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 534,
+    "IsIgnore": null,
+    "Memo": "セルリア4",
+    "CharacterId": 79,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7904]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 535,
+    "IsIgnore": null,
+    "Memo": "セルリア5",
+    "CharacterId": 79,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7905]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 536,
+    "IsIgnore": null,
+    "Memo": "セルリア6",
+    "CharacterId": 79,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7906]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 537,
+    "IsIgnore": null,
+    "Memo": "セルリア7",
+    "CharacterId": 79,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText7907]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 538,
     "IsIgnore": null,
     "Memo": "ミラ1",

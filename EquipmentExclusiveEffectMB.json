@@ -9049,5 +9049,134 @@
         "Value": 7000
       }
     ]
+  },
+  {
+    "Id": 421,
+    "IsIgnore": null,
+    "Memo": "セルリアSSR180",
+    "CharacterId": 79,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 422,
+    "IsIgnore": null,
+    "Memo": "セルリアSSR200",
+    "CharacterId": 79,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300
+      }
+    ]
+  },
+  {
+    "Id": 423,
+    "IsIgnore": null,
+    "Memo": "セルリアSSR220",
+    "CharacterId": 79,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600
+      }
+    ]
+  },
+  {
+    "Id": 424,
+    "IsIgnore": null,
+    "Memo": "セルリアSSR240",
+    "CharacterId": 79,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 400
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900
+      }
+    ]
+  },
+  {
+    "Id": 425,
+    "IsIgnore": null,
+    "Memo": "セルリアUR",
+    "CharacterId": 79,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 450
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ]
+  },
+  {
+    "Id": 426,
+    "IsIgnore": null,
+    "Memo": "セルリアLR",
+    "CharacterId": 79,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ]
   }
 ]
