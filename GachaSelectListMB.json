@@ -3460,7 +3460,7 @@
   {
     "Id": 86,
     "IsIgnore": null,
-    "Memo": "セルリア③＋ユニ復刻③＋次キャラ仮入れ仮①（0920切替用）",
+    "Memo": "セルリア③＋ユニ復刻③＋クラウディア復刻①（0920切替用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-09-20 14:30:00",
@@ -3468,6 +3468,7 @@
     "OrderNumber": 86,
     "CharacterIdList": [
       79,
+      56,
       76,
       5,
       6,
@@ -3494,7 +3495,46 @@
     ],
     "NewCharacterIdList": [
       79,
+      56,
       76
+    ]
+  },
+  {
+    "Id": 87,
+    "IsIgnore": null,
+    "Memo": "クラウディア復刻②＋次キャラ仮入れ仮①（0930切替用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-09-30 16:30:00",
+    "EndTimeFixJST": "2024-10-09 14:29:59",
+    "OrderNumber": 87,
+    "CharacterIdList": [
+      56,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      56
     ]
   },
   {
