@@ -10942,5 +10942,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 701,
+    "IsIgnore": null,
+    "Memo": "封印の呪符",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 22,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
