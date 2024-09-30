@@ -2229,6 +2229,216 @@
     "StartTime": null
   },
   {
+    "Id": 108,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv610",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 610,
+    "TreasureChestItemIdList": [
+      111
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 109,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv620",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 620,
+    "TreasureChestItemIdList": [
+      112
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 110,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv630",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 630,
+    "TreasureChestItemIdList": [
+      113
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 111,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv640",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 640,
+    "TreasureChestItemIdList": [
+      114
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 112,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv650",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 650,
+    "TreasureChestItemIdList": [
+      115
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 113,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv660",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 660,
+    "TreasureChestItemIdList": [
+      116
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 114,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv670",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 670,
+    "TreasureChestItemIdList": [
+      117
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 115,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv680",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 680,
+    "TreasureChestItemIdList": [
+      118
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 116,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv690",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 690,
+    "TreasureChestItemIdList": [
+      119
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 117,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv700",
+    "NameKey": "[TreasureChestName67]",
+    "DisplayNameKey": "[TreasureChestDisplayName67]",
+    "DescriptionKey": "[TreasureChestDescription67]",
+    "IconId": 65,
+    "ItemRarityFlags": 64,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "Level",
+    "SecondaryFrameNum": 700,
+    "TreasureChestItemIdList": [
+      120
+    ],
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

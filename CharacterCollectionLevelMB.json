@@ -9424,5 +9424,183 @@
       }
     ],
     "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5601,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5602,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5603,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0
+  },
+  {
+    "Id": 5604,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5605,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5606,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5607,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230
+      }
+    ],
+    "CharacterRarityBonus": 1
+  },
+  {
+    "Id": 5608,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1
   }
 ]

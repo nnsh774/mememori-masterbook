@@ -9792,6 +9792,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 545,
+    "IsIgnore": null,
+    "Memo": "タマ1",
+    "CharacterId": 81,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8101]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 546,
+    "IsIgnore": null,
+    "Memo": "タマ2",
+    "CharacterId": 81,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8102]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 547,
+    "IsIgnore": null,
+    "Memo": "タマ3",
+    "CharacterId": 81,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8103]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 548,
+    "IsIgnore": null,
+    "Memo": "タマ4",
+    "CharacterId": 81,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8104]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 549,
+    "IsIgnore": null,
+    "Memo": "タマ5",
+    "CharacterId": 81,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8105]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 550,
+    "IsIgnore": null,
+    "Memo": "タマ6",
+    "CharacterId": 81,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8106]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 551,
+    "IsIgnore": null,
+    "Memo": "タマ7",
+    "CharacterId": 81,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8107]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 552,
     "IsIgnore": null,
     "Memo": "アレクサンドラ1",
