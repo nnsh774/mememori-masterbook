@@ -15,7 +15,8 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal1]",
     "SpecialRewardLabelTextColor": "#FFFFFFFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#FFFFFFFF"
+    "SpecialRewardCountTextColor": "#FFFFFFFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 2,
@@ -33,7 +34,8 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal2]",
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#473D3BFF"
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 3,
@@ -51,7 +53,8 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal1]",
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#473D3BFF"
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 4,
@@ -69,7 +72,8 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#473D3BFF"
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 5,
@@ -87,7 +91,8 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#473D3BFF"
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 6,
@@ -105,7 +110,8 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal4]",
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#473D3BFF"
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 7,
@@ -123,6 +129,26 @@
     "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
     "SpecialRewardLabelTextColor": "#473D3BFF",
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
-    "SpecialRewardCountTextColor": "#473D3BFF"
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly"
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": "2024_2周年記念ログインボーナス",
+    "StartTime": "2024-10-18 04:00:00",
+    "EndTime": "2024-11-29 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 7,
+    "CharacterImageId": 41,
+    "RewardBackgroundImageId": 8,
+    "SpecialRewardBackgroundImageId": 8,
+    "TitleTextKey": "[LimitedLoginBonusTitle8]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "EventPortalOnly"
   }
 ]

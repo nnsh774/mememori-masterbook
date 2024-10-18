@@ -10296,6 +10296,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 580,
+    "IsIgnore": null,
+    "Memo": "メリア1",
+    "CharacterId": 86,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8601]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 581,
+    "IsIgnore": null,
+    "Memo": "メリア2",
+    "CharacterId": 86,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8602]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 582,
+    "IsIgnore": null,
+    "Memo": "メリア3",
+    "CharacterId": 86,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8603]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 583,
+    "IsIgnore": null,
+    "Memo": "メリア4",
+    "CharacterId": 86,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8604]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 584,
+    "IsIgnore": null,
+    "Memo": "メリア5",
+    "CharacterId": 86,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8605]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 585,
+    "IsIgnore": null,
+    "Memo": "メリア6",
+    "CharacterId": 86,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8606]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 586,
+    "IsIgnore": null,
+    "Memo": "メリア7",
+    "CharacterId": 86,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8607]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 594,
     "IsIgnore": null,
     "Memo": "使徒ロザリー1",

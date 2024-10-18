@@ -9307,5 +9307,138 @@
         "Value": 3500
       }
     ]
+  },
+  {
+    "Id": 433,
+    "IsIgnore": null,
+    "Memo": "メリアSSR180",
+    "CharacterId": 86,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 434,
+    "IsIgnore": null,
+    "Memo": "メリアSSR200",
+    "CharacterId": 86,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5000
+      }
+    ]
+  },
+  {
+    "Id": 435,
+    "IsIgnore": null,
+    "Memo": "メリアSSR220",
+    "CharacterId": 86,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5500
+      }
+    ]
+  },
+  {
+    "Id": 436,
+    "IsIgnore": null,
+    "Memo": "メリアSSR240",
+    "CharacterId": 86,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6000
+      }
+    ]
+  },
+  {
+    "Id": 437,
+    "IsIgnore": null,
+    "Memo": "メリアUR",
+    "CharacterId": 86,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6500
+      }
+    ]
+  },
+  {
+    "Id": 438,
+    "IsIgnore": null,
+    "Memo": "メリアLR",
+    "CharacterId": 86,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 7000
+      }
+    ]
   }
 ]

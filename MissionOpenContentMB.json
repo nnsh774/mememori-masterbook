@@ -355,5 +355,19 @@
     "Memo": null,
     "AchievementType": "MusicPlayerTransitionCount",
     "OpenCommandType": "MusicPlayer"
+  },
+  {
+    "Id": 52,
+    "IsIgnore": null,
+    "Memo": null,
+    "AchievementType": "WeeklyTopicsTransitionCount",
+    "OpenCommandType": "WeeklyTopics"
+  },
+  {
+    "Id": 53,
+    "IsIgnore": null,
+    "Memo": null,
+    "AchievementType": "BuyMusic",
+    "OpenCommandType": "MusicPlayer"
   }
 ]

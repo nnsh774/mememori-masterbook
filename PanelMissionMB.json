@@ -203,7 +203,8 @@
     "StartTime": "2023-10-18 15:00:00",
     "EndTime": "2023-11-15 14:29:59",
     "ForceStartTime": "2023-11-12 4:00:00",
-    "DelayDays": 10
+    "DelayDays": 10,
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 2,
@@ -409,7 +410,8 @@
     "StartTime": "2024-01-01 04:00:00",
     "EndTime": "2024-01-29 03:59:59",
     "ForceStartTime": "2024-01-26 4:00:00",
-    "DelayDays": 10
+    "DelayDays": 10,
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 3,
@@ -615,7 +617,8 @@
     "StartTime": "2024-02-15 04:00:00",
     "EndTime": "2024-03-14 03:59:59",
     "ForceStartTime": "2024-03-11 04:00:00",
-    "DelayDays": 10
+    "DelayDays": 10,
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 4,
@@ -821,7 +824,8 @@
     "StartTime": "2024-04-15 04:00:00",
     "EndTime": "2024-05-20 03:59:59",
     "ForceStartTime": "2024-05-10 04:00:00",
-    "DelayDays": 10
+    "DelayDays": 10,
+    "MypageIconDisplayLocationType": "MypageOnly"
   },
   {
     "Id": 5,
@@ -1077,6 +1081,264 @@
     "StartTime": "2024-07-16 04:00:00",
     "EndTime": "2024-08-27 03:59:59",
     "ForceStartTime": "2024-08-17 04:00:00",
-    "DelayDays": 10
+    "DelayDays": 10,
+    "MypageIconDisplayLocationType": "MypageOnly"
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "202410周年ナターシャ1と2",
+    "CampaignTitleKey": "[PanelMissionTitle6]",
+    "PanelMissionSheetInfoList": [
+      {
+        "BingoRewardInfoList": [
+          {
+            "BingoType": "UpperRow",
+            "RewardItemList": [
+              {
+                "ItemCount": 10,
+                "ItemId": 2,
+                "ItemType": "TreasureChestKey"
+              },
+              {
+                "ItemCount": 10,
+                "ItemId": 28,
+                "ItemType": "TreasureChest"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "CenterRow",
+            "RewardItemList": [
+              {
+                "ItemCount": 5,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "LowerRow",
+            "RewardItemList": [
+              {
+                "ItemCount": 300,
+                "ItemId": 1,
+                "ItemType": "CurrencyFree"
+              },
+              {
+                "ItemCount": 20,
+                "ItemId": 27,
+                "ItemType": "TreasureChest"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "LeftColumn",
+            "RewardItemList": [
+              {
+                "ItemCount": 300,
+                "ItemId": 1,
+                "ItemType": "CurrencyFree"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 12,
+                "ItemType": "QuestQuickTicket"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "CenterColumn",
+            "RewardItemList": [
+              {
+                "ItemCount": 2,
+                "ItemId": 14,
+                "ItemType": "QuestQuickTicket"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "RightColumn",
+            "RewardItemList": [
+              {
+                "ItemCount": 20,
+                "ItemId": 1,
+                "ItemType": "TreasureChestKey"
+              },
+              {
+                "ItemCount": 10,
+                "ItemId": 28,
+                "ItemType": "TreasureChest"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          }
+        ],
+        "MissionIdList": [
+          1165,
+          1503,
+          1345,
+          1346,
+          1347,
+          1504,
+          1171,
+          1505,
+          1173
+        ],
+        "PanelMBId": 10011,
+        "SheetNo": 1,
+        "X": 0,
+        "Y": 0
+      },
+      {
+        "BingoRewardInfoList": [
+          {
+            "BingoType": "UpperRow",
+            "RewardItemList": [
+              {
+                "ItemCount": 5,
+                "ItemId": 3,
+                "ItemType": "TreasureChestKey"
+              },
+              {
+                "ItemCount": 10,
+                "ItemId": 28,
+                "ItemType": "TreasureChest"
+              },
+              {
+                "ItemCount": 2,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "CenterRow",
+            "RewardItemList": [
+              {
+                "ItemCount": 300,
+                "ItemId": 1,
+                "ItemType": "CurrencyFree"
+              },
+              {
+                "ItemCount": 1,
+                "ItemId": 12,
+                "ItemType": "QuestQuickTicket"
+              },
+              {
+                "ItemCount": 2,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "LowerRow",
+            "RewardItemList": [
+              {
+                "ItemCount": 300,
+                "ItemId": 1,
+                "ItemType": "CurrencyFree"
+              },
+              {
+                "ItemCount": 20,
+                "ItemId": 27,
+                "ItemType": "TreasureChest"
+              },
+              {
+                "ItemCount": 2,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "LeftColumn",
+            "RewardItemList": [
+              {
+                "ItemCount": 10,
+                "ItemId": 6,
+                "ItemType": "TreasureChest"
+              },
+              {
+                "ItemCount": 2,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "CenterColumn",
+            "RewardItemList": [
+              {
+                "ItemCount": 10,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          },
+          {
+            "BingoType": "RightColumn",
+            "RewardItemList": [
+              {
+                "ItemCount": 2,
+                "ItemId": 14,
+                "ItemType": "QuestQuickTicket"
+              },
+              {
+                "ItemCount": 2,
+                "ItemId": 2,
+                "ItemType": "GachaTicket"
+              }
+            ]
+          }
+        ],
+        "MissionIdList": [
+          1174,
+          1506,
+          1507,
+          1320,
+          1508,
+          1179,
+          1180,
+          1181,
+          1182
+        ],
+        "PanelMBId": 10012,
+        "SheetNo": 2,
+        "X": 0,
+        "Y": 0
+      }
+    ],
+    "StartEndTimeZoneType": "LocalStartLocalEnd",
+    "StartTime": "2024-10-18 04:00:00",
+    "EndTime": "2024-11-29 03:59:59",
+    "ForceStartTime": "2024-11-19 04:00:00",
+    "DelayDays": 10,
+    "MypageIconDisplayLocationType": "EventPortalOnly"
   }
 ]

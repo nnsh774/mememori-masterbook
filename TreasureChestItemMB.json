@@ -3123,6 +3123,41 @@
     "FixItemList": null
   },
   {
+    "Id": 121,
+    "IsIgnore": null,
+    "Memo": "星虹のチケットケース",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 4,
+          "ItemId": 10,
+          "ItemType": "GachaTicket"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 5,
+          "ItemId": 3,
+          "ItemType": "GachaTicket"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 122,
+    "IsIgnore": null,
+    "Memo": "幸運の宝箱",
+    "TreasureChestItemListType": "TreasureChestItemList",
+    "LotteryRewardId": 81,
+    "SelectItemList": null,
+    "FixItemList": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

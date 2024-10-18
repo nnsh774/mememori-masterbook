@@ -4356,6 +4356,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 86,
+    "IsIgnore": null,
+    "Memo": "【災芽の魔女】メリア",
+    "NameKey": "[CharacterName86]",
+    "Name2Key": "[CharacterSubName86]",
+    "CharacterType": "Qlipha",
+    "ElementType": "Light",
+    "JobFlags": 1,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": -3,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 1,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3094
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 63,
+      "Intelligence": 84,
+      "Muscle": 103
+    },
+    "BaseParameterGrossCoefficient": 334,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      86001,
+      86002
+    ],
+    "PassiveSkillIds": [
+      86003,
+      86004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2024-10-18 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 88,
     "IsIgnore": null,
     "Memo": "使徒ロザリー",
