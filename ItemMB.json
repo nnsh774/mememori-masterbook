@@ -3665,5 +3665,24 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 9999,
+    "IsIgnore": null,
+    "Memo": "CD特典応急対応",
+    "ItemType": "SpecialIcon",
+    "ItemId": 1001,
+    "NameKey": "[itemName9999]",
+    "DisplayName": "[itemName9999]",
+    "DescriptionKey": "[itemName9999]",
+    "ItemRarityFlags": 0,
+    "SortOrder": 0,
+    "StartTime": null,
+    "EndTime": null,
+    "MaxItemCount": 1,
+    "IconId": 2,
+    "TransferSpotId": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
   }
 ]

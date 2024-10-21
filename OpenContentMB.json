@@ -1114,14 +1114,14 @@
     "IsIgnore": null,
     "Memo": "装備固定（ギルドバトル用）",
     "OpenContentType": "QuestClear",
-    "OpenContentValue": 99999,
+    "OpenContentValue": 472,
     "DescriptionKey": null,
     "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
     "OpenCommandType": "LockEquipmentGuildBattle",
     "IsActiveGuide": false,
     "GuideOrderNumber": 0,
     "GuideDescriptionKey": null,
-    "ToastKey": "[ClientErrorMessage1700006]",
+    "ToastKey": "[OpenContentToast1001]",
     "TutorialId": 0
   }
 ]
