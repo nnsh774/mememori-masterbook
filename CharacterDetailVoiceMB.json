@@ -41682,5 +41682,481 @@
       "VoiceId": 0
     },
     "SortOrder": 103
+  },
+  {
+    "Id": 10502,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10502]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 10503,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10503]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3,
+      "VoiceId": 0
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 10504,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10504]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4,
+      "VoiceId": 0
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 10505,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10505]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5,
+      "VoiceId": 0
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 10506,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10506]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6,
+      "VoiceId": 0
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 10507,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10507]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7,
+      "VoiceId": 0
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 10508,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10508]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8,
+      "VoiceId": 0
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 10509,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10509]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9,
+      "VoiceId": 0
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 10510,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10510]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10,
+      "VoiceId": 0
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 10511,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10511]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11,
+      "VoiceId": 0
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 10512,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10512]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12,
+      "VoiceId": 0
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 10513,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10513]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13,
+      "VoiceId": 0
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 10514,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10514]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14,
+      "VoiceId": 0
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 10515,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10515]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15,
+      "VoiceId": 0
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 10516,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10516]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16,
+      "VoiceId": 0
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 10517,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10517]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17,
+      "VoiceId": 0
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 10518,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10518]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18,
+      "VoiceId": 0
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 10519,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10519]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19,
+      "VoiceId": 0
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 10520,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10520]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20,
+      "VoiceId": 0
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 10521,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10521]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21,
+      "VoiceId": 0
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 10590,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10590]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20,
+      "VoiceId": 0
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 10591,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10591]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21,
+      "VoiceId": 0
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 10592,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10592]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 10593,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10593]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 10596,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 100
+  },
+  {
+    "Id": 10597,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 101
+  },
+  {
+    "Id": 10598,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3,
+      "VoiceId": 0
+    },
+    "SortOrder": 102
+  },
+  {
+    "Id": 10599,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ",
+    "CharacterId": 105,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4,
+      "VoiceId": 0
+    },
+    "SortOrder": 103
   }
 ]

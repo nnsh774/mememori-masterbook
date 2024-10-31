@@ -9440,5 +9440,134 @@
         "Value": 7000
       }
     ]
+  },
+  {
+    "Id": 439,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャSSR180",
+    "CharacterId": 105,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 440,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャSSR200",
+    "CharacterId": 105,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 5000
+      }
+    ]
+  },
+  {
+    "Id": 441,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャSSR220",
+    "CharacterId": 105,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 5500
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5500
+      }
+    ]
+  },
+  {
+    "Id": 442,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャSSR240",
+    "CharacterId": 105,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6000
+      }
+    ]
+  },
+  {
+    "Id": 443,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャUR",
+    "CharacterId": 105,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6500
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6500
+      }
+    ]
+  },
+  {
+    "Id": 444,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャLR",
+    "CharacterId": 105,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 7000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 7000
+      }
+    ]
   }
 ]

@@ -10798,5 +10798,131 @@
     ],
     "TextKey": "[CharacterStoryText9607]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 713,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ1",
+    "CharacterId": 105,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10501]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 714,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ2",
+    "CharacterId": 105,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10502]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 715,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ3",
+    "CharacterId": 105,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10503]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 716,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ4",
+    "CharacterId": 105,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10504]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 717,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ5",
+    "CharacterId": 105,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10505]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 718,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ6",
+    "CharacterId": 105,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10506]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 719,
+    "IsIgnore": null,
+    "Memo": "花束ナターシャ7",
+    "CharacterId": 105,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10507]",
+    "RarityFlags": 512
   }
 ]
