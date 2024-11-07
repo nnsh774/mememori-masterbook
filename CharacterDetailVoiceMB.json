@@ -20451,6 +20451,23 @@
     "SortOrder": 21
   },
   {
+    "Id": 4522,
+    "IsIgnore": null,
+    "Memo": "エルフリンデ朗読",
+    "CharacterId": 45,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 200
+  },
+  {
     "Id": 4580,
     "IsIgnore": null,
     "Memo": "エルフリンデ",
@@ -38622,6 +38639,23 @@
       "VoiceId": 0
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 8222,
+    "IsIgnore": null,
+    "Memo": "アレクサンドラ朗読",
+    "CharacterId": 82,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 200
   },
   {
     "Id": 8290,
