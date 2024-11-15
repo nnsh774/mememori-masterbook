@@ -10924,5 +10924,131 @@
     ],
     "TextKey": "[CharacterStoryText10507]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 720,
+    "IsIgnore": null,
+    "Memo": "ユリーカ1",
+    "CharacterId": 106,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10601]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 721,
+    "IsIgnore": null,
+    "Memo": "ユリーカ2",
+    "CharacterId": 106,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10602]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 722,
+    "IsIgnore": null,
+    "Memo": "ユリーカ3",
+    "CharacterId": 106,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10603]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 723,
+    "IsIgnore": null,
+    "Memo": "ユリーカ4",
+    "CharacterId": 106,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10604]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 724,
+    "IsIgnore": null,
+    "Memo": "ユリーカ5",
+    "CharacterId": 106,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10605]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 725,
+    "IsIgnore": null,
+    "Memo": "ユリーカ6",
+    "CharacterId": 106,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10606]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 726,
+    "IsIgnore": null,
+    "Memo": "ユリーカ7",
+    "CharacterId": 106,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10607]",
+    "RarityFlags": 512
   }
 ]

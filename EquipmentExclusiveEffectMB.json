@@ -9569,5 +9569,134 @@
         "Value": 7000
       }
     ]
+  },
+  {
+    "Id": 445,
+    "IsIgnore": null,
+    "Memo": "ユリーカSSR180",
+    "CharacterId": 106,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 446,
+    "IsIgnore": null,
+    "Memo": "ユリーカSSR200",
+    "CharacterId": 106,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 447,
+    "IsIgnore": null,
+    "Memo": "ユリーカSSR220",
+    "CharacterId": 106,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600
+      }
+    ]
+  },
+  {
+    "Id": 448,
+    "IsIgnore": null,
+    "Memo": "ユリーカSSR240",
+    "CharacterId": 106,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900
+      }
+    ]
+  },
+  {
+    "Id": 449,
+    "IsIgnore": null,
+    "Memo": "ユリーカUR",
+    "CharacterId": 106,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ]
+  },
+  {
+    "Id": 450,
+    "IsIgnore": null,
+    "Memo": "ユリーカLR",
+    "CharacterId": 106,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ]
   }
 ]

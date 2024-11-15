@@ -316,5 +316,111 @@
       1314,
       1315
     ]
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": "20241115_第4回ギルドツリー_ユリーカ",
+    "EventNo": 4,
+    "StartTime": "2024-11-15 04:00:00",
+    "EndTime": "2024-11-29 03:59:59",
+    "DisplayBannerEndTime": "2024-12-03 03:59:59",
+    "MaxChallengeCount": 3,
+    "RegisterCharacterCount": 20,
+    "ComboMaxCount": 150,
+    "ComboMaxTime": 480,
+    "ComboAddTime": 10,
+    "GuildTowerComboBonusList": [
+      {
+        "ComboBonus": 0,
+        "ComboCount": 0
+      },
+      {
+        "ComboBonus": 20,
+        "ComboCount": 1
+      },
+      {
+        "ComboBonus": 40,
+        "ComboCount": 2
+      },
+      {
+        "ComboBonus": 55,
+        "ComboCount": 3
+      },
+      {
+        "ComboBonus": 65,
+        "ComboCount": 4
+      },
+      {
+        "ComboBonus": 75,
+        "ComboCount": 5
+      },
+      {
+        "ComboBonus": 80,
+        "ComboCount": 6
+      },
+      {
+        "ComboBonus": 85,
+        "ComboCount": 7
+      },
+      {
+        "ComboBonus": 90,
+        "ComboCount": 8
+      },
+      {
+        "ComboBonus": 95,
+        "ComboCount": 9
+      },
+      {
+        "ComboBonus": 100,
+        "ComboCount": 10
+      }
+    ],
+    "GuildTowerDebuffParameterList": [
+      {
+        "AttackPowerAddition": 0,
+        "AttackPowerMultiplier": 2000,
+        "CharacterConditionType": "FatigueSmall",
+        "Critical": 0,
+        "CriticalDamageEnhance": 0,
+        "DebuffCount": 1,
+        "DebuffHit": 0,
+        "HPAddition": 0,
+        "HPMultiplier": 2000,
+        "Hit": 0,
+        "Speed": 2000
+      },
+      {
+        "AttackPowerAddition": 0,
+        "AttackPowerMultiplier": 6000,
+        "CharacterConditionType": "FatigueLarge",
+        "Critical": 0,
+        "CriticalDamageEnhance": 0,
+        "DebuffCount": 2,
+        "DebuffHit": 0,
+        "HPAddition": 0,
+        "HPMultiplier": 6000,
+        "Hit": 0,
+        "Speed": 3000
+      }
+    ],
+    "MissionIdList": [
+      1300,
+      1301,
+      1302,
+      1303,
+      1304,
+      1305,
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311,
+      1312,
+      1313,
+      1314,
+      1315
+    ]
   }
 ]

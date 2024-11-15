@@ -10453,6 +10453,192 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 6001,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6002,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6003,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6004,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6005,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 160
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6006,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 170
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6007,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 180
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6008,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 190
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 6101,
     "IsIgnore": null,
     "Memo": "アルゴの覚悟(?,イリア)",

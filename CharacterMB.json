@@ -4616,5 +4616,58 @@
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2024-10-31 15:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 106,
+    "IsIgnore": null,
+    "Memo": "ユリーカ",
+    "NameKey": "[CharacterName106]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Blue",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 0,
+      "Avoidance": -2,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 5,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 2895
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 78,
+      "Intelligence": 103,
+      "Muscle": 82
+    },
+    "BaseParameterGrossCoefficient": 342,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      106001,
+      106002
+    ],
+    "PassiveSkillIds": [
+      106003,
+      106004,
+      106005
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2024-11-15 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]

@@ -82,5 +82,19 @@
     "MessageKey": "[LocalPushNotificationMessageKey6]",
     "LocalNotificationSendType": "TimeSpecified",
     "SendTime": "19:30:00"
+  },
+  {
+    "Id": 7,
+    "IsIgnore": null,
+    "Memo": null,
+    "LocalNotificationType": "OneWeekLimitedPack",
+    "GroupId": 4,
+    "StartTime": "2024-11-01 04:00:00",
+    "EndTime": "2100-12-31 23:59:59",
+    "Priority": 1,
+    "TitleKey": "[LocalPushNotificationTitleKey7]",
+    "MessageKey": "[LocalPushNotificationMessageKey7]",
+    "LocalNotificationSendType": "OneWeekLimitedPack",
+    "SendTime": null
   }
 ]

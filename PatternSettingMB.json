@@ -20,5 +20,27 @@
     "ElapsedFromCreatePlayerDayConditionList": [],
     "StartTime": "2100-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:01"
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "プッシュ通知_一週間限定パック",
+    "PatternSettingType": "OneWeekLimitedPackPushNotification",
+    "NumberInfo": 2,
+    "PlayerIdRemainConditionList": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "TimeServerIdConditionList": [],
+    "ProgressQuestIdConditionList": [],
+    "ElapsedFromCreatePlayerDayConditionList": [],
+    "StartTime": "2024-07-01 04:00:00",
+    "EndTime": "2100-01-01 00:00:00"
   }
 ]
