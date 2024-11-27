@@ -3705,6 +3705,25 @@
     "SecondaryFrameNum": 105
   },
   {
+    "Id": 197,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナのアイテム",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 24,
+    "NameKey": "[ItemName197]",
+    "DisplayName": "[ItemDisplayName197]",
+    "DescriptionKey": "[ItemDescription197]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2024-11-29 04:00:00",
+    "EndTime": "2024-12-12 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 179,
+    "TransferSpotId": 39,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
     "Id": 9999,
     "IsIgnore": null,
     "Memo": "CD特典応急対応",

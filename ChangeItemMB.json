@@ -11230,5 +11230,21 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 719,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナのアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 24,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
