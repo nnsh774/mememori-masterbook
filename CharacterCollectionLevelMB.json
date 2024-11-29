@@ -179,6 +179,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 109,
+    "IsIgnore": null,
+    "Memo": "トーラスの守護(アムレート,モーザ)",
+    "CollectionId": 1,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 8000
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 8000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 201,
     "IsIgnore": null,
     "Memo": "リンクスの輪舞(ミミ,ハトホル)",
@@ -352,6 +375,29 @@
         "BattleParameterType": "CriticalResist",
         "ChangeParameterType": "Addition",
         "Value": 3500
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 209,
+    "IsIgnore": null,
+    "Memo": "リンクスの輪舞(ミミ,ハトホル)",
+    "CollectionId": 2,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2000
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "Addition",
+        "Value": 4000
       }
     ],
     "CharacterRarityBonus": 1,
@@ -537,6 +583,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 309,
+    "IsIgnore": null,
+    "Memo": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "CollectionId": 3,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 4000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 401,
     "IsIgnore": null,
     "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
@@ -716,6 +785,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 409,
+    "IsIgnore": null,
+    "Memo": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "CollectionId": 4,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "Addition",
+        "Value": 4000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 501,
     "IsIgnore": null,
     "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
@@ -889,6 +981,29 @@
         "BattleParameterType": "CriticalDamageEnhance",
         "ChangeParameterType": "Addition",
         "Value": 1900
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 509,
+    "IsIgnore": null,
+    "Memo": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "CollectionId": 5,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "Addition",
+        "Value": 10000
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 2000
       }
     ],
     "CharacterRarityBonus": 1,
@@ -1081,6 +1196,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 609,
+    "IsIgnore": null,
+    "Memo": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "CollectionId": 6,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "Addition",
+        "Value": 8000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 701,
     "IsIgnore": null,
     "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
@@ -1267,6 +1406,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 709,
+    "IsIgnore": null,
+    "Memo": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "CollectionId": 7,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "Addition",
+        "Value": 8000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 801,
     "IsIgnore": null,
     "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
@@ -1440,6 +1603,29 @@
         "BattleParameterType": "Hit",
         "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
         "Value": 90
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 809,
+    "IsIgnore": null,
+    "Memo": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "CollectionId": 8,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
       }
     ],
     "CharacterRarityBonus": 1,
@@ -1625,6 +1811,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 909,
+    "IsIgnore": null,
+    "Memo": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "CollectionId": 9,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1001,
     "IsIgnore": null,
     "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
@@ -1798,6 +2007,29 @@
         "BattleParameterType": "Hp",
         "ChangeParameterType": "AdditionPercent",
         "Value": 700
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 1009,
+    "IsIgnore": null,
+    "Memo": "ミモザの抱擁(フォルティナ,オリヴィエ)",
+    "CollectionId": 10,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 26
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
       }
     ],
     "CharacterRarityBonus": 1,
@@ -1990,6 +2222,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 1109,
+    "IsIgnore": null,
+    "Memo": "サーペンスの愛執(レア,アモール,アイビー)",
+    "CollectionId": 11,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 260
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1201,
     "IsIgnore": null,
     "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
@@ -2176,6 +2432,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 1209,
+    "IsIgnore": null,
+    "Memo": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "CollectionId": 12,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 550
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1301,
     "IsIgnore": null,
     "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
@@ -2355,6 +2635,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 1309,
+    "IsIgnore": null,
+    "Memo": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "CollectionId": 13,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1401,
     "IsIgnore": null,
     "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
@@ -2493,6 +2796,24 @@
         "BattleParameterType": "DamageEnhance",
         "ChangeParameterType": "Addition",
         "Value": 520
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 1409,
+    "IsIgnore": null,
+    "Memo": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "CollectionId": 14,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 525
       }
     ],
     "CharacterRarityBonus": 1,
@@ -2685,6 +3006,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 1509,
+    "IsIgnore": null,
+    "Memo": "コルウスの吐息(シヴィ,トロポン)",
+    "CollectionId": 15,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1601,
     "IsIgnore": null,
     "Memo": "アルゴルの武勇(ルーク,リーン)",
@@ -2865,6 +3210,30 @@
         "BattleParameterType": "CriticalDamageEnhance",
         "ChangeParameterType": "Addition",
         "Value": 1200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 1609,
+    "IsIgnore": null,
+    "Memo": "アルゴルの武勇(ルーク,リーン)",
+    "CollectionId": 16,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -3057,6 +3426,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 1709,
+    "IsIgnore": null,
+    "Memo": "アウリガの知恵(アーティ,メルティーユ)",
+    "CollectionId": 17,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1801,
     "IsIgnore": null,
     "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
@@ -3236,6 +3629,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 1809,
+    "IsIgnore": null,
+    "Memo": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "CollectionId": 18,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 550
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 1901,
     "IsIgnore": null,
     "Memo": "フェリスの洞察(リシェス,ディアン)",
@@ -3409,6 +3825,29 @@
         "BattleParameterType": "PhysicalDamageRelax",
         "ChangeParameterType": "AdditionPercent",
         "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 1909,
+    "IsIgnore": null,
+    "Memo": "フェリスの洞察(リシェス,ディアン)",
+    "CollectionId": 19,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -3601,6 +4040,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 2009,
+    "IsIgnore": null,
+    "Memo": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "CollectionId": 20,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 2101,
     "IsIgnore": null,
     "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
@@ -3774,6 +4237,29 @@
         "BattleParameterType": "MagicDamageRelax",
         "ChangeParameterType": "AdditionPercent",
         "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 2109,
+    "IsIgnore": null,
+    "Memo": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "CollectionId": 21,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -3959,6 +4445,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 2209,
+    "IsIgnore": null,
+    "Memo": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "CollectionId": 22,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 550
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 2301,
     "IsIgnore": null,
     "Memo": "サジテリアスの逆光(フィアー,アムレート)",
@@ -4097,6 +4606,24 @@
         "BattleParameterType": "DamageReflect",
         "ChangeParameterType": "Addition",
         "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 2309,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの逆光(フィアー,アムレート)",
+    "CollectionId": 23,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 360
       }
     ],
     "CharacterRarityBonus": 1,
@@ -4276,6 +4803,29 @@
         "BattleParameterType": "AttackPower",
         "ChangeParameterType": "AdditionPercent",
         "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 2409,
+    "IsIgnore": null,
+    "Memo": "ドラドの一撃(浴衣コルディ,コルディ)",
+    "CollectionId": 24,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
+      },
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -4468,6 +5018,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 2509,
+    "IsIgnore": null,
+    "Memo": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "CollectionId": 25,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 65
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 2601,
     "IsIgnore": null,
     "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
@@ -4647,6 +5221,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 2609,
+    "IsIgnore": null,
+    "Memo": "プロキオンの双牙(ソーニャ,ソルティーナ)",
+    "CollectionId": 26,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 2701,
     "IsIgnore": null,
     "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
@@ -4820,6 +5417,29 @@
         "BattleParameterType": "PhysicalCriticalDamageRelax",
         "ChangeParameterType": "Addition",
         "Value": 1400
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 2709,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星光(ステラ,マーリン,ルナリンド)",
+    "CollectionId": 27,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1500
       }
     ],
     "CharacterRarityBonus": 1,
@@ -5012,6 +5632,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 2809,
+    "IsIgnore": null,
+    "Memo": "コロナボレアリスの約束(プリシラ,リーン)",
+    "CollectionId": 28,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 2901,
     "IsIgnore": null,
     "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
@@ -5185,6 +5829,29 @@
         "BattleParameterType": "CriticalDamageEnhance",
         "ChangeParameterType": "Addition",
         "Value": 1200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 2909,
+    "IsIgnore": null,
+    "Memo": "ボーテスの聖光(エルフリンデ,ナターシャ,ルナリンド)",
+    "CollectionId": 29,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 550
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -5370,6 +6037,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 3009,
+    "IsIgnore": null,
+    "Memo": "キルキヌスの教導(ソフィア,オリヴィエ)",
+    "CollectionId": 30,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 3101,
     "IsIgnore": null,
     "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
@@ -5508,6 +6198,24 @@
         "BattleParameterType": "DefensePenetration",
         "ChangeParameterType": "Addition",
         "Value": 225
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 3109,
+    "IsIgnore": null,
+    "Memo": "アルゴの腐敗(新イリア,エルフリンデ)",
+    "CollectionId": 31,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 230
       }
     ],
     "CharacterRarityBonus": 1,
@@ -5693,6 +6401,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 3209,
+    "IsIgnore": null,
+    "Memo": "カマエレオンの制圧(フェーネ,ディアン)",
+    "CollectionId": 32,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 3301,
     "IsIgnore": null,
     "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
@@ -5866,6 +6597,29 @@
         "BattleParameterType": "PhysicalCriticalDamageRelax",
         "ChangeParameterType": "Addition",
         "Value": 1200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 3309,
+    "IsIgnore": null,
+    "Memo": "カニス・ミノルの相愛(ケルベロス,フェンリル)",
+    "CollectionId": 33,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -6058,6 +6812,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 3409,
+    "IsIgnore": null,
+    "Memo": "コマ・ベレニケの恋路(聖夜アモール,アモール)",
+    "CollectionId": 34,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 3501,
     "IsIgnore": null,
     "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
@@ -6238,6 +7016,30 @@
         "BattleParameterType": "Hp",
         "ChangeParameterType": "AdditionPercent",
         "Value": 540
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 3509,
+    "IsIgnore": null,
+    "Memo": "ホロロギウムの奇跡(聖夜トロポン,トロポン)",
+    "CollectionId": 35,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 550
       }
     ],
     "CharacterRarityBonus": 1,
@@ -6430,6 +7232,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 3609,
+    "IsIgnore": null,
+    "Memo": "ウルサ・ミノルの心根(Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 36,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 3701,
     "IsIgnore": null,
     "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
@@ -6609,6 +7435,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 3709,
+    "IsIgnore": null,
+    "Memo": "ピクシスの激情(黒鎧アイリス,アイビー)",
+    "CollectionId": 37,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 3801,
     "IsIgnore": null,
     "Memo": "レティクルムの秘術(ギルウィアル,ミミ,ハトホル)",
@@ -6782,6 +7631,29 @@
         "BattleParameterType": "MagicDamageRelax",
         "ChangeParameterType": "AdditionPercent",
         "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 3809,
+    "IsIgnore": null,
+    "Memo": "レティクルムの秘術(ギルウィアル,ミミ,ハトホル)",
+    "CollectionId": 38,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -6974,6 +7846,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 3909,
+    "IsIgnore": null,
+    "Memo": "オフィウクスの双武(クラウディア,コルディ)",
+    "CollectionId": 39,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 4001,
     "IsIgnore": null,
     "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
@@ -7153,6 +8049,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 4009,
+    "IsIgnore": null,
+    "Memo": "ギルサニアの玲瓏(リズ,フローレンス)",
+    "CollectionId": 40,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 275
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 4101,
     "IsIgnore": null,
     "Memo": "ジョバリの希望(マチルダ,ニーナ)",
@@ -7291,6 +8210,24 @@
         "BattleParameterType": "DamageReflect",
         "ChangeParameterType": "Addition",
         "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 4109,
+    "IsIgnore": null,
+    "Memo": "ジョバリの希望(マチルダ,ニーナ)",
+    "CollectionId": 41,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 360
       }
     ],
     "CharacterRarityBonus": 1,
@@ -7483,6 +8420,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 4209,
+    "IsIgnore": null,
+    "Memo": "ヴィルゴの献身(ユニ,プリマヴェーラ)",
+    "CollectionId": 42,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 4301,
     "IsIgnore": null,
     "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
@@ -7656,6 +8617,29 @@
         "BattleParameterType": "Critical",
         "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
         "Value": 74
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 4309,
+    "IsIgnore": null,
+    "Memo": "カプリコルヌスの弾孔(エイル,ディアン)",
+    "CollectionId": 43,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
       }
     ],
     "CharacterRarityBonus": 1,
@@ -7848,6 +8832,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 4409,
+    "IsIgnore": null,
+    "Memo": "ムスカの解放(パラデア,ルナリンド)",
+    "CollectionId": 44,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 4501,
     "IsIgnore": null,
     "Memo": "エリダヌスの神託(モルガナ,サブリナ)",
@@ -8021,6 +9029,29 @@
         "BattleParameterType": "Hit",
         "ChangeParameterType": "Addition",
         "Value": 1900
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 4509,
+    "IsIgnore": null,
+    "Memo": "エリダヌスの神託(モルガナ,サブリナ)",
+    "CollectionId": 45,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "Addition",
+        "Value": 2000
       }
     ],
     "CharacterRarityBonus": 1,
@@ -8206,6 +9237,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 4609,
+    "IsIgnore": null,
+    "Memo": "カリーナの初恋(使徒ロザリー,フレイシア)",
+    "CollectionId": 46,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 550
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 4701,
     "IsIgnore": null,
     "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
@@ -8379,6 +9433,29 @@
         "BattleParameterType": "Avoidance",
         "ChangeParameterType": "Addition",
         "Value": 1900
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 4709,
+    "IsIgnore": null,
+    "Memo": "プテロミスの秘伝(アサヒ,ソルティーナ)",
+    "CollectionId": 47,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "Addition",
+        "Value": 2000
       }
     ],
     "CharacterRarityBonus": 1,
@@ -8571,6 +9648,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 4809,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの忠義(アレクサンドラ,ルーク)",
+    "CollectionId": 48,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 65
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 4901,
     "IsIgnore": null,
     "Memo": "アプスの応報(ミナシュマリ,アイビー)",
@@ -8757,6 +9858,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 4909,
+    "IsIgnore": null,
+    "Memo": "アプスの応報(ミナシュマリ,アイビー)",
+    "CollectionId": 49,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 5001,
     "IsIgnore": null,
     "Memo": "セプトラムの威光(カグヤ,アモール)",
@@ -8930,6 +10055,29 @@
         "BattleParameterType": "AttackPower",
         "ChangeParameterType": "AdditionPercent",
         "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 5009,
+    "IsIgnore": null,
+    "Memo": "セプトラムの威光(カグヤ,アモール)",
+    "CollectionId": 50,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      },
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
       }
     ],
     "CharacterRarityBonus": 1,
@@ -9122,6 +10270,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 5109,
+    "IsIgnore": null,
+    "Memo": "レグルスの冒険(夏ニーナ,ニーナ)",
+    "CollectionId": 51,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 5201,
     "IsIgnore": null,
     "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
@@ -9302,6 +10474,30 @@
         "BattleParameterType": "DefensePenetration",
         "ChangeParameterType": "Addition",
         "Value": 220
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 5209,
+    "IsIgnore": null,
+    "Memo": "リリウムの誓剣(夏アムレート,アムレート)",
+    "CollectionId": 52,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 225
       }
     ],
     "CharacterRarityBonus": 1,
@@ -9494,6 +10690,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 5309,
+    "IsIgnore": null,
+    "Memo": "クラテルの祝宴​(ミラ,ハトホル)",
+    "CollectionId": 53,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 5401,
     "IsIgnore": null,
     "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
@@ -9674,6 +10894,30 @@
         "BattleParameterType": "Hp",
         "ChangeParameterType": "AdditionPercent",
         "Value": 340
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 5409,
+    "IsIgnore": null,
+    "Memo": "リュラの旋律​(アイネ,プリマヴェーラ)",
+    "CollectionId": 54,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
       }
     ],
     "CharacterRarityBonus": 1,
@@ -9866,6 +11110,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 5509,
+    "IsIgnore": null,
+    "Memo": "ノーマの分析(セルリア,メルティーユ)",
+    "CollectionId": 55,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 5601,
     "IsIgnore": null,
     "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
@@ -10052,6 +11320,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 5609,
+    "IsIgnore": null,
+    "Memo": "ヴルペクラの悪戯​(タマ,ミミ)",
+    "CollectionId": 56,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 5701,
     "IsIgnore": null,
     "Memo": "ミクロスコープの探求(メリア,マーリン)",
@@ -10232,6 +11524,30 @@
         "BattleParameterType": "HpDrain",
         "ChangeParameterType": "Addition",
         "Value": 540
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 5709,
+    "IsIgnore": null,
+    "Memo": "ミクロスコープの探求(メリア,マーリン)",
+    "CollectionId": 57,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 65
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 550
       }
     ],
     "CharacterRarityBonus": 1,
@@ -10453,6 +11769,29 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 5909,
+    "IsIgnore": null,
+    "Memo": "ヴェラの花束(花束ナターシャ,ナターシャ)",
+    "CollectionId": 59,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 6001,
     "IsIgnore": null,
     "Memo": "レプスの探知(ユリーカ,トロポン)",
@@ -10639,6 +11978,30 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 6009,
+    "IsIgnore": null,
+    "Memo": "レプスの探知(ユリーカ,トロポン)",
+    "CollectionId": 60,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 6101,
     "IsIgnore": null,
     "Memo": "アルゴの覚悟(神呪イリア,イリア)",
@@ -10819,6 +12182,232 @@
         "BattleParameterType": "AttackPower",
         "ChangeParameterType": "AdditionPercent",
         "Value": 240
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6109,
+    "IsIgnore": null,
+    "Memo": "アルゴの覚悟(神呪イリア,イリア)",
+    "CollectionId": 61,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6201,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 500
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6202,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6203,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6204,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6205,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1050
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3100
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6206,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1100
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6207,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1150
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3300
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6208,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1200
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3400
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6209,
+    "IsIgnore": null,
+    "Memo": "ポルックスの親愛(冬ソルティーナ,ソルティーナ)",
+    "CollectionId": 62,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      },
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
       }
     ],
     "CharacterRarityBonus": 1,

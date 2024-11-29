@@ -835,5 +835,23 @@
     "GachaAddCharacterType": "New",
     "StartGachaSelectListId": 111,
     "EndGachaSelectListId": 112
+  },
+  {
+    "Id": 132,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナ追加",
+    "CharacterId": 107,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 112,
+    "EndGachaSelectListId": 116
+  },
+  {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "聖夜アモール復刻追加",
+    "CharacterId": 73,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 112,
+    "EndGachaSelectListId": 113
   }
 ]

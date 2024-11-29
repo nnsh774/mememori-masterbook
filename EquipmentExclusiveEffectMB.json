@@ -9698,5 +9698,138 @@
         "Value": 3500
       }
     ]
+  },
+  {
+    "Id": 451,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナSSR180",
+    "CharacterId": 107,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 452,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナSSR200",
+    "CharacterId": 107,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 453,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナSSR220",
+    "CharacterId": 107,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 454,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナSSR240",
+    "CharacterId": 107,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 455,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナUR",
+    "CharacterId": 107,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 456,
+    "IsIgnore": null,
+    "Memo": "冬ソルティーナLR",
+    "CharacterId": 107,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]
