@@ -11246,5 +11246,21 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 720,
+    "IsIgnore": null,
+    "Memo": "絆のスノードーム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 25,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
