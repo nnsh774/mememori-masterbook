@@ -823,5 +823,18 @@
     "StartTimeFixJST": "2024-11-29 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 63,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "NameKey": "[CharacterCollectionName63]",
+    "RequiredCharacterIds": [
+      108,
+      46
+    ],
+    "StartTimeFixJST": "2024-12-13 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

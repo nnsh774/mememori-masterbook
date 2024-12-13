@@ -392,6 +392,211 @@
     "MonologueBgmType": "Lament"
   },
   {
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "ソルティーナ",
+    "CharacterDetailVoiceId": 522,
+    "CharacterId": 5,
+    "MonologueSettingDatasJP": [
+      {
+        "SongLyricsStartTime": 0,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP501]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 28.200001,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP502]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 28.299999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP503]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 45.700001,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP504]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 57.799999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP505]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 86,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP506]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 100.699997,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP507]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 128.899994,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP508]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 129,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP509]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 143.399994,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP510]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 157.800003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP511]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 185.199997,
+        "SongLyricsEndTime": 210.899994,
+        "SongLyricsKey": "[SongLyricsJP512]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 187,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP513]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 211,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP514]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 238.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP515]",
+        "MonologueTextType": "Monologue"
+      }
+    ],
+    "MonologueSettingDatasUS": [
+      {
+        "SongLyricsStartTime": 0,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS501]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 13.3,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS502]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 28.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS503]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 28.6,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS504]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 44.799999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS505]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 57.799999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS506]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 85.800003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS507]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 100.800003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS508]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 113.300003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS509]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 128.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS510]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 129,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS511]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 143.300003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS512]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 157.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS513]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 185.800003,
+        "SongLyricsEndTime": 210.100006,
+        "SongLyricsKey": "[SongLyricsUS514]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 187,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS515]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 210.199997,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS516]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 238.300003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS517]",
+        "MonologueTextType": "Monologue"
+      }
+    ],
+    "StartTimeFixJST": "2024-12-13 15:00:00",
+    "MonologueBgmType": "Lament"
+  },
+  {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "アムレート",
@@ -2879,6 +3084,187 @@
       }
     ],
     "StartTimeFixJST": "2024-10-31 15:00:00",
+    "MonologueBgmType": "LamentAndVoice"
+  },
+  {
+    "Id": 46,
+    "IsIgnore": null,
+    "Memo": "ルナリンド朗読",
+    "CharacterDetailVoiceId": 4622,
+    "CharacterId": 46,
+    "MonologueSettingDatasJP": [
+      {
+        "SongLyricsStartTime": 0,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4601]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 23,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4602]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 42.799999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4603]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 63.799999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4604]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 92.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4605]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 113.800003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4606]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 133.399994,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4607]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 134.800003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4608]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 155.800003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4609]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 181,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4610]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 201.699997,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4611]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 229.600006,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4612]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 247.600006,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsJP4613]",
+        "MonologueTextType": "Monologue"
+      }
+    ],
+    "MonologueSettingDatasUS": [
+      {
+        "SongLyricsStartTime": 0,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4601]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 22.700001,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4602]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 33.299999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4603]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 42.799999,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4604]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 63.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4605]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 91.900002,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4606]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 113.300003,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4607]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 124,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4608]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 133,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4609]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 135,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4610]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 155.899994,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4611]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 181.5,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4612]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 202,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4613]",
+        "MonologueTextType": "SongLyrics"
+      },
+      {
+        "SongLyricsStartTime": 232.699997,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4614]",
+        "MonologueTextType": "Monologue"
+      },
+      {
+        "SongLyricsStartTime": 249.199997,
+        "SongLyricsEndTime": 0,
+        "SongLyricsKey": "[SongLyricsUS4615]",
+        "MonologueTextType": "Monologue"
+      }
+    ],
+    "StartTimeFixJST": "2024-12-13 15:00:00",
     "MonologueBgmType": "LamentAndVoice"
   },
   {

@@ -42,5 +42,29 @@
     "ElapsedFromCreatePlayerDayConditionList": [],
     "StartTime": "2024-07-01 04:00:00",
     "EndTime": "2100-01-01 00:00:00"
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": "初課金ボーナスDLG",
+    "PatternSettingType": "FirstChargeBonusButton",
+    "NumberInfo": 1005000000,
+    "PlayerIdRemainConditionList": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ],
+    "TimeServerIdConditionList": [
+      1
+    ],
+    "ProgressQuestIdConditionList": [],
+    "ElapsedFromCreatePlayerDayConditionList": [],
+    "StartTime": "2024-12-13 00:00:00",
+    "EndTime": "2100-01-01 00:00:01"
   }
 ]

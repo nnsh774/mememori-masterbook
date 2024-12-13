@@ -12412,5 +12412,207 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6301,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 500
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6302,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6303,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6304,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6305,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1050
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3100
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6306,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1100
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6307,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1150
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3300
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6308,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1200
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3400
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6309,
+    "IsIgnore": null,
+    "Memo": "カストルの親愛(冬ルナリンド,ルナリンド)",
+    "CollectionId": 63,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      },
+      {
+        "BattleParameterType": "MagicDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

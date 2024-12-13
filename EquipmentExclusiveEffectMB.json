@@ -9831,5 +9831,138 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 457,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンドSSR180",
+    "CharacterId": 108,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 458,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンドSSR200",
+    "CharacterId": 108,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 459,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンドSSR220",
+    "CharacterId": 108,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      }
+    ]
+  },
+  {
+    "Id": 460,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンドSSR240",
+    "CharacterId": 108,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      }
+    ]
+  },
+  {
+    "Id": 461,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンドUR",
+    "CharacterId": 108,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000
+      }
+    ]
+  },
+  {
+    "Id": 462,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンドLR",
+    "CharacterId": 108,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200
+      }
+    ]
   }
 ]

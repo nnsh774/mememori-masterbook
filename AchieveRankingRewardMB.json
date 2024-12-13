@@ -4303,5 +4303,35 @@
         "ItemType": "CurrencyFree"
       }
     ]
+  },
+  {
+    "Id": 288,
+    "IsIgnore": null,
+    "Memo": "メインクエスト40-60クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetMainQuest]",
+    "RankingDataType": "PlayerMainQuest",
+    "RequireValue": 1380,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 289,
+    "IsIgnore": null,
+    "Memo": "メインクエスト41-60クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetMainQuest]",
+    "RankingDataType": "PlayerMainQuest",
+    "RequireValue": 1440,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]

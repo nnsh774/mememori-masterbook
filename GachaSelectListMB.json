@@ -3968,14 +3968,16 @@
   {
     "Id": 114,
     "IsIgnore": null,
-    "Memo": "冬ソルティーナ③+復刻聖夜トロポン②+仮（1213切り替え用）",
+    "Memo": "冬ルナリンド①+冬ソルティーナ③+復刻アサヒ①+復刻聖夜トロポン②（1213切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2024-12-13 16:30:00",
+    "StartTimeFixJST": "2024-12-13 15:00:00",
     "EndTimeFixJST": "2024-12-20 14:29:59",
     "OrderNumber": 114,
     "CharacterIdList": [
+      108,
       107,
+      78,
       74,
       5,
       6,
@@ -4001,21 +4003,25 @@
       46
     ],
     "NewCharacterIdList": [
+      108,
       107,
+      78,
       74
     ]
   },
   {
     "Id": 115,
     "IsIgnore": null,
-    "Memo": "冬ソルティーナ④+仮①（1220切り替え用）",
+    "Memo": "冬ルナリンド②+冬ソルティーナ④+仮+復刻アサヒ②（1220切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-12-20 14:30:00",
-    "EndTimeFixJST": "2024-12-26 14:29:59",
+    "EndTimeFixJST": "2024-12-25 14:29:59",
     "OrderNumber": 115,
     "CharacterIdList": [
+      108,
       107,
+      78,
       5,
       6,
       7,
@@ -4040,19 +4046,22 @@
       46
     ],
     "NewCharacterIdList": [
-      107
+      108,
+      107,
+      78
     ]
   },
   {
     "Id": 116,
     "IsIgnore": null,
-    "Memo": "冬ソルティーナ⑤+仮①（1226切り替え用）",
+    "Memo": "冬ルナリンド③+冬ソルティーナ⑤＋仮（1225切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2024-12-26 16:30:00",
+    "StartTimeFixJST": "2024-12-25 16:30:00",
     "EndTimeFixJST": "2024-12-29 14:29:59",
     "OrderNumber": 116,
     "CharacterIdList": [
+      108,
       107,
       5,
       6,
@@ -4078,7 +4087,46 @@
       46
     ],
     "NewCharacterIdList": [
+      108,
       107
+    ]
+  },
+  {
+    "Id": 117,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンド④＋仮（1229切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-12-29 14:30:00",
+    "EndTimeFixJST": "2025-01-07 14:29:59",
+    "OrderNumber": 117,
+    "CharacterIdList": [
+      108,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      108
     ]
   },
   {

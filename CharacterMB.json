@@ -4461,6 +4461,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 93,
+    "IsIgnore": null,
+    "Memo": "アルトリア",
+    "NameKey": "[CharacterName93]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Red",
+    "JobFlags": 1,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": -3,
+      "Critical": -3,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 1,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 10,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3572
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 55,
+      "Intelligence": 83,
+      "Muscle": 102
+    },
+    "BaseParameterGrossCoefficient": 324,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      93001,
+      93002
+    ],
+    "PassiveSkillIds": [
+      93003,
+      93004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2025-01-15 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 95,
     "IsIgnore": null,
     "Memo": "夏ニーナ",
@@ -4720,6 +4772,58 @@
     "RequireFragmentCount": 60,
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2024-11-29 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 108,
+    "IsIgnore": null,
+    "Memo": "冬ルナリンド",
+    "NameKey": "[CharacterName108]",
+    "Name2Key": "[CharacterSubName108]",
+    "CharacterType": "ColorChange",
+    "ElementType": "Green",
+    "JobFlags": 2,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 8,
+      "DefensePenetration": 0,
+      "HP": -3,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3037
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 101,
+      "Health": 67,
+      "Intelligence": 79,
+      "Muscle": 89
+    },
+    "BaseParameterGrossCoefficient": 336,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      108001,
+      108002
+    ],
+    "PassiveSkillIds": [
+      108003,
+      108004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2024-12-13 15:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]
