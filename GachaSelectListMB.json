@@ -4012,7 +4012,7 @@
   {
     "Id": 115,
     "IsIgnore": null,
-    "Memo": "冬ルナリンド②+冬ソルティーナ④+仮+復刻アサヒ②（1220切り替え用）",
+    "Memo": "冬ルナリンド②+冬ソルティーナ④+復刻使徒ロザリー①+復刻アサヒ②（1220切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-12-20 14:30:00",
@@ -4021,6 +4021,7 @@
     "CharacterIdList": [
       108,
       107,
+      88,
       78,
       5,
       6,
@@ -4048,13 +4049,14 @@
     "NewCharacterIdList": [
       108,
       107,
+      88,
       78
     ]
   },
   {
     "Id": 116,
     "IsIgnore": null,
-    "Memo": "冬ルナリンド③+冬ソルティーナ⑤＋仮（1225切り替え用）",
+    "Memo": "冬ルナリンド③+冬ソルティーナ⑤+復刻使徒ロザリー②+仮（1225切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-12-25 16:30:00",
@@ -4063,6 +4065,7 @@
     "CharacterIdList": [
       108,
       107,
+      88,
       5,
       6,
       7,
@@ -4088,13 +4091,14 @@
     ],
     "NewCharacterIdList": [
       108,
-      107
+      107,
+      88
     ]
   },
   {
     "Id": 117,
     "IsIgnore": null,
-    "Memo": "冬ルナリンド④＋仮（1229切り替え用）",
+    "Memo": "冬ルナリンド④+復刻使徒ロザリー③+仮（1229切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2024-12-29 14:30:00",
@@ -4102,6 +4106,7 @@
     "OrderNumber": 117,
     "CharacterIdList": [
       108,
+      88,
       5,
       6,
       7,
@@ -4126,7 +4131,8 @@
       46
     ],
     "NewCharacterIdList": [
-      108
+      108,
+      88
     ]
   },
   {
@@ -4405,6 +4411,24 @@
     "NewCharacterIdList": [
       48,
       53
+    ]
+  },
+  {
+    "Id": 10160,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第16回_フィアー・リシェス",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2024-12-20 14:30:00",
+    "EndTimeFixJST": "2025-01-15 14:29:59",
+    "OrderNumber": 10160,
+    "CharacterIdList": [
+      60,
+      67
+    ],
+    "NewCharacterIdList": [
+      60,
+      67
     ]
   }
 ]
