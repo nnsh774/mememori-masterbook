@@ -1168,6 +1168,22 @@
     "TutorialId": 0
   },
   {
+    "Id": 480,
+    "IsIgnore": null,
+    "Memo": "アイテム一括使用",
+    "OpenContentType": "QuestClear",
+    "GuideStartValue": 0,
+    "OpenContentValue": 280,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "BulkUseItem",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": null,
+    "TutorialId": 0
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",

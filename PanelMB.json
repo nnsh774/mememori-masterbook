@@ -556,5 +556,23 @@
     "IsFree": false,
     "ConsumeUnlockItemCount": 1,
     "ConsumeCurrencyCount": 100
+  },
+  {
+    "Id": 20018,
+    "IsIgnore": null,
+    "Memo": "タイトル_ニューイヤー(2025)",
+    "StartTime": "2100-01-01 04:00:00",
+    "TabType": "Title",
+    "PanelImageId": 20018,
+    "PanelMovieId": 20018,
+    "SortOrder": 18,
+    "EventGroupId": 0,
+    "GroupTitleKey": null,
+    "ScenarioTitleKey": null,
+    "ScenarioTextKey": null,
+    "PanelGetJudgmentItemId": 20018,
+    "IsFree": false,
+    "ConsumeUnlockItemCount": 1,
+    "ConsumeCurrencyCount": 100
   }
 ]
