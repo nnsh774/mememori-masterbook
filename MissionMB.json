@@ -46544,5 +46544,4367 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1553,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル600枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1174]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2001,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1554,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_高速バトル10回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1177]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1555,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1176]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2003,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1556,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_7日ログイン",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1175]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2004,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1557,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ギルドレイドを20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1178]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 14,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2005,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1558,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神殿で天または冥属性１人以上で10回勝利",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1179]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictory1UnitLightAndDarkType",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 15,
+    "SortOrderB": 15,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1559,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神装強化10回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1180]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentMergeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 16,
+    "SortOrderB": 16,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2007,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1560,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ルーン合成20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1181]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 17,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2008,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1561,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_期間中キャラガチャ20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1182]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 18,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2009,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 28,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1562,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_貢献メダルを100個獲得する",
+    "MissionType": "LimitedFirstDayTab2",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1562]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtEvent",
+    "RequireValue": 100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1563,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_貢献メダルを200個獲得する",
+    "MissionType": "LimitedFirstDayTab2",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1563]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtEvent",
+    "RequireValue": 200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1564,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_貢献メダルを300個獲得する",
+    "MissionType": "LimitedFirstDayTab2",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1564]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtEvent",
+    "RequireValue": 300,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1565,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_貢献メダルを500個獲得する",
+    "MissionType": "LimitedFirstDayTab2",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1565]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtEvent",
+    "RequireValue": 500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1566,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_貢献メダルを750個獲得する",
+    "MissionType": "LimitedFirstDayTab2",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1566]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtEvent",
+    "RequireValue": 750,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1567,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_貢献メダルを1000個獲得する",
+    "MissionType": "LimitedFirstDayTab2",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1567]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtEvent",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 400,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1568,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ルーン合成を５回行う",
+    "MissionType": "LimitedFirstDayTab3",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1568]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1569,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ルーン合成を10回行う",
+    "MissionType": "LimitedFirstDayTab3",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1569]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1570,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ルーン合成を15回行う",
+    "MissionType": "LimitedFirstDayTab3",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1570]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1571,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ルーン合成を20回行う",
+    "MissionType": "LimitedFirstDayTab3",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1571]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1572,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ルーン合成を25回行う",
+    "MissionType": "LimitedFirstDayTab3",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1572]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 25,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1573,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ルーン合成を30回行う",
+    "MissionType": "LimitedFirstDayTab3",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1573]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1574,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_１日ログインする",
+    "MissionType": "LimitedFirstDayTab1",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1574]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1200,
+          "ItemId": 2,
+          "ItemType": "CharacterTrainingMaterial"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1575,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_１日目割引販売",
+    "MissionType": "LimitedFirstDayTab4",
+    "OpeningPeriod": 1,
+    "NameKey": "[EventMissionName1575]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 300,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1576,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_時空の洞窟１層を１回クリアする",
+    "MissionType": "LimitedSecondDayTab2",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1576]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearFirstFloorCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2500,
+          "ItemId": 13,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1577,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_時空の洞窟３層を１回クリアする",
+    "MissionType": "LimitedSecondDayTab2",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1577]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5000,
+          "ItemId": 13,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1578,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_時空の洞窟１層を２回クリアする",
+    "MissionType": "LimitedSecondDayTab2",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1578]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearFirstFloorCount",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 3,
+    "SortOrderB": 3,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 7500,
+          "ItemId": 13,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1579,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_時空の洞窟３層を２回クリアする",
+    "MissionType": "LimitedSecondDayTab2",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1579]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10000,
+          "ItemId": 13,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1580,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_時空の洞窟１層を３回クリアする",
+    "MissionType": "LimitedSecondDayTab2",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1580]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearFirstFloorCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 5,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 12500,
+          "ItemId": 13,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1581,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_時空の洞窟３層を３回クリアする",
+    "MissionType": "LimitedSecondDayTab2",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1581]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 15000,
+          "ItemId": 13,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1582,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_幻影の神殿を３回クリアする",
+    "MissionType": "LimitedSecondDayTab3",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1582]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 6,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1583,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_幻影の神殿を６回クリアする",
+    "MissionType": "LimitedSecondDayTab3",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1583]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 6,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1584,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_幻影の神殿を９回クリアする",
+    "MissionType": "LimitedSecondDayTab3",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1584]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 9,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 6,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1585,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_幻影の神殿を15回クリアする",
+    "MissionType": "LimitedSecondDayTab3",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1585]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 6,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1586,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_幻影の神殿を21回クリアする",
+    "MissionType": "LimitedSecondDayTab3",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1586]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 21,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 6,
+          "ItemId": 6,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1587,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_幻影の神殿を30回クリアする",
+    "MissionType": "LimitedSecondDayTab3",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1587]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 6,
+          "ItemId": 6,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1588,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_２日ログインする",
+    "MissionType": "LimitedSecondDayTab1",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1588]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 63,
+          "ItemType": "Sphere"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1589,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_２日目割引販売",
+    "MissionType": "LimitedSecondDayTab4",
+    "OpeningPeriod": 2,
+    "NameKey": "[EventMissionName1589]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 450,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 500,
+          "ItemId": 1,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1590,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ボスバトルを３回クリアする",
+    "MissionType": "LimitedThirdDayTab2",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1590]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "BossBattleVictoryCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1591,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ボスバトルを６回クリアする",
+    "MissionType": "LimitedThirdDayTab2",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1591]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "BossBattleVictoryCount",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1592,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ボスバトルを12回クリアする",
+    "MissionType": "LimitedThirdDayTab2",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1592]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "BossBattleVictoryCount",
+    "RequireValue": 12,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1593,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ボスバトルを18回クリアする",
+    "MissionType": "LimitedThirdDayTab2",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1593]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "BossBattleVictoryCount",
+    "RequireValue": 18,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1594,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ボスバトルを24回クリアする",
+    "MissionType": "LimitedThirdDayTab2",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1594]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "BossBattleVictoryCount",
+    "RequireValue": 24,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1595,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ボスバトルを30回クリアする",
+    "MissionType": "LimitedThirdDayTab2",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1595]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "BossBattleVictoryCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 3,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1596,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の強化レベルを20にする",
+    "MissionType": "LimitedThirdDayTab3",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1596]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1597,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の強化レベルを40にする",
+    "MissionType": "LimitedThirdDayTab3",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1597]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 40,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1598,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の強化レベルを60にする",
+    "MissionType": "LimitedThirdDayTab3",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1598]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 60,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1599,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の強化レベルを80にする",
+    "MissionType": "LimitedThirdDayTab3",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1599]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 80,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1600,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の強化レベルを100にする",
+    "MissionType": "LimitedThirdDayTab3",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1600]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1601,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の強化レベルを120にする",
+    "MissionType": "LimitedThirdDayTab3",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1601]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 120,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 8,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1602,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_３日ログインする",
+    "MissionType": "LimitedThirdDayTab1",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1602]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1200,
+          "ItemId": 2,
+          "ItemType": "CharacterTrainingMaterial"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1603,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_３日目割引販売",
+    "MissionType": "LimitedThirdDayTab4",
+    "OpeningPeriod": 3,
+    "NameKey": "[EventMissionName1603]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3000,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1000,
+          "ItemId": 1,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1604,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_フレンドポイントを10回送る",
+    "MissionType": "LimitedFourthDayTab2",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1604]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1605,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_フレンドポイントを20回送る",
+    "MissionType": "LimitedFourthDayTab2",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1605]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1606,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_フレンドポイントを30回送る",
+    "MissionType": "LimitedFourthDayTab2",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1606]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1607,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_フレンドポイントを40回送る",
+    "MissionType": "LimitedFourthDayTab2",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1607]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 40,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1608,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_フレンドポイントを50回送る",
+    "MissionType": "LimitedFourthDayTab2",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1608]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 50,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1609,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_フレンドポイントを60回送る",
+    "MissionType": "LimitedFourthDayTab2",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1609]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 60,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1610,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_キャラを２体獲得する",
+    "MissionType": "LimitedFourthDayTab3",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1610]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaNewJoinCharacter",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1611,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_キャラを５体獲得する",
+    "MissionType": "LimitedFourthDayTab3",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1611]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaNewJoinCharacter",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1612,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_キャラを８体獲得する",
+    "MissionType": "LimitedFourthDayTab3",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1612]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaNewJoinCharacter",
+    "RequireValue": 8,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1613,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_キャラを10体獲得する",
+    "MissionType": "LimitedFourthDayTab3",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1613]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaNewJoinCharacter",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1614,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_キャラを15体獲得する",
+    "MissionType": "LimitedFourthDayTab3",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1614]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaNewJoinCharacter",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1615,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_キャラを20体獲得する",
+    "MissionType": "LimitedFourthDayTab3",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1615]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaNewJoinCharacter",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1616,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_４日ログインする",
+    "MissionType": "LimitedFourthDayTab1",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1616]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 228,
+          "ItemType": "Sphere"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1617,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_４日目割引販売",
+    "MissionType": "LimitedFourthDayTab4",
+    "OpeningPeriod": 4,
+    "NameKey": "[EventMissionName1617]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 900,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 30000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1618,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ギルドレイドを２回行う",
+    "MissionType": "LimitedFifthDayTab2",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1618]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1619,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ギルドレイドを４回行う",
+    "MissionType": "LimitedFifthDayTab2",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1619]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1620,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ギルドレイドを６回行う",
+    "MissionType": "LimitedFifthDayTab2",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1620]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1621,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ギルドレイドを10回行う",
+    "MissionType": "LimitedFifthDayTab2",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1621]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5000,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1622,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ギルドレイドを14回行う",
+    "MissionType": "LimitedFifthDayTab2",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1622]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 14,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 7500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1623,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ギルドレイドを20回行う",
+    "MissionType": "LimitedFifthDayTab2",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1623]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10000,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1624,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具研磨を10回行う",
+    "MissionType": "LimitedFifthDayTab3",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1624]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentTrainingCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 500,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1625,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具研磨を20回行う",
+    "MissionType": "LimitedFifthDayTab3",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1625]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentTrainingCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1626,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具研磨を30回行う",
+    "MissionType": "LimitedFifthDayTab3",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1626]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentTrainingCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1500,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1627,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具研磨を50回行う",
+    "MissionType": "LimitedFifthDayTab3",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1627]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentTrainingCount",
+    "RequireValue": 50,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1628,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具研磨を75回行う",
+    "MissionType": "LimitedFifthDayTab3",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1628]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentTrainingCount",
+    "RequireValue": 75,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2500,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1629,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具研磨を100回行う",
+    "MissionType": "LimitedFifthDayTab3",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1629]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentTrainingCount",
+    "RequireValue": 100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1630,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_５日ログインする",
+    "MissionType": "LimitedFifthDayTab1",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1630]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1200,
+          "ItemId": 2,
+          "ItemType": "CharacterTrainingMaterial"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1631,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_５日目割引販売",
+    "MissionType": "LimitedFifthDayTab4",
+    "OpeningPeriod": 5,
+    "NameKey": "[EventMissionName1631]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 1500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 10,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 15,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1632,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_バトルリーグに５回挑戦する",
+    "MissionType": "LimitedSixthDayTab2",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1632]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BattleLeague",
+    "AchievementType": "BattleLeagueChallengeCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 60,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1633,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_バトルリーグに10回挑戦する",
+    "MissionType": "LimitedSixthDayTab2",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1633]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BattleLeague",
+    "AchievementType": "BattleLeagueChallengeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 75,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1634,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_バトルリーグに20回挑戦する",
+    "MissionType": "LimitedSixthDayTab2",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1634]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BattleLeague",
+    "AchievementType": "BattleLeagueChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 90,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1635,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_バトルリーグに30回挑戦する",
+    "MissionType": "LimitedSixthDayTab2",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1635]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BattleLeague",
+    "AchievementType": "BattleLeagueChallengeCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1636,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_バトルリーグに40回挑戦する",
+    "MissionType": "LimitedSixthDayTab2",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1636]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BattleLeague",
+    "AchievementType": "BattleLeagueChallengeCount",
+    "RequireValue": 40,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 120,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1637,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_バトルリーグに50回挑戦する",
+    "MissionType": "LimitedSixthDayTab2",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1637]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BattleLeague",
+    "AchievementType": "BattleLeagueChallengeCount",
+    "RequireValue": 50,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1638,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ショップで２回購入する",
+    "MissionType": "LimitedSixthDayTab3",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1638]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Exchange",
+    "AchievementType": "ExchangeAllBuyCount",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1639,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ショップで４回購入する",
+    "MissionType": "LimitedSixthDayTab3",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1639]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Exchange",
+    "AchievementType": "ExchangeAllBuyCount",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1640,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ショップで６回購入する",
+    "MissionType": "LimitedSixthDayTab3",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1640]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Exchange",
+    "AchievementType": "ExchangeAllBuyCount",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1641,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ショップで８回購入する",
+    "MissionType": "LimitedSixthDayTab3",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1641]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Exchange",
+    "AchievementType": "ExchangeAllBuyCount",
+    "RequireValue": 8,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1642,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ショップで１０回購入する",
+    "MissionType": "LimitedSixthDayTab3",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1642]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Exchange",
+    "AchievementType": "ExchangeAllBuyCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1643,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_ショップで１２回購入する",
+    "MissionType": "LimitedSixthDayTab3",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1643]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Exchange",
+    "AchievementType": "ExchangeAllBuyCount",
+    "RequireValue": 12,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1644,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_６日ログインする",
+    "MissionType": "LimitedSixthDayTab1",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1644]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 63,
+          "ItemType": "Sphere"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1645,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_６日目割引販売",
+    "MissionType": "LimitedSixthDayTab4",
+    "OpeningPeriod": 6,
+    "NameKey": "[EventMissionName1645]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 3000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1646,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_無窮の塔を３回クリアする",
+    "MissionType": "LimitedSeventhDayTab2",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1646]",
+    "DescriptionKey": null,
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleTotalWinCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 2,
+          "ItemType": "MatchlessSacredTreasureExpItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1647,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_無窮の塔を６回クリアする",
+    "MissionType": "LimitedSeventhDayTab2",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1647]",
+    "DescriptionKey": null,
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleTotalWinCount",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 2,
+          "ItemType": "MatchlessSacredTreasureExpItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1648,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_無窮の塔を12回クリアする",
+    "MissionType": "LimitedSeventhDayTab2",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1648]",
+    "DescriptionKey": null,
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleTotalWinCount",
+    "RequireValue": 12,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 2,
+          "ItemType": "MatchlessSacredTreasureExpItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1649,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_無窮の塔を18回クリアする",
+    "MissionType": "LimitedSeventhDayTab2",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1649]",
+    "DescriptionKey": null,
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleTotalWinCount",
+    "RequireValue": 18,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 2,
+          "ItemType": "MatchlessSacredTreasureExpItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1650,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_無窮の塔を24回クリアする",
+    "MissionType": "LimitedSeventhDayTab2",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1650]",
+    "DescriptionKey": null,
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleTotalWinCount",
+    "RequireValue": 24,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 2,
+          "ItemType": "MatchlessSacredTreasureExpItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1651,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_無窮の塔を30回クリアする",
+    "MissionType": "LimitedSeventhDayTab2",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1651]",
+    "DescriptionKey": null,
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleTotalWinCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 2,
+          "ItemType": "MatchlessSacredTreasureExpItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1652,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の魔装レベルを１にする",
+    "MissionType": "LimitedSeventhDayTab3",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1652]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 25000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1653,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の魔装レベルを３にする",
+    "MissionType": "LimitedSeventhDayTab3",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1653]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1654,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の魔装レベルを６にする",
+    "MissionType": "LimitedSeventhDayTab3",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1654]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 75000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1655,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の魔装レベルを９にする",
+    "MissionType": "LimitedSeventhDayTab3",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1655]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 9,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1656,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の聖装レベルを１にする",
+    "MissionType": "LimitedSeventhDayTab3",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1656]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterLegendSacredTreasureMaxLevel",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1657,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_武具の聖装レベルを３にする",
+    "MissionType": "LimitedSeventhDayTab3",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1657]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterLegendSacredTreasureMaxLevel",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 8,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1658,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_７日ログインする",
+    "MissionType": "LimitedSeventhDayTab1",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1658]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1200,
+          "ItemId": 2,
+          "ItemType": "CharacterTrainingMaterial"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1659,
+    "IsIgnore": null,
+    "Memo": "期間限定2025ニューイヤー_７日目割引販売",
+    "MissionType": "LimitedSeventhDayTab4",
+    "OpeningPeriod": 7,
+    "NameKey": "[EventMissionName1659]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "BoughtByCurrency",
+    "RequireValue": 4500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 6,
+          "ItemId": 10,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 6,
+          "ItemId": 15,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1660,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1510階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1510,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1661,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1520階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1520,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1662,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1530階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1530,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1663,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1540階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1540,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1664,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1550階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1550,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1665,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1560階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1560,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1666,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1570階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1570,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1667,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1580階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1580,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1668,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1590階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1590,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1669,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1600階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1670,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1610階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1610,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1671,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1620階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1620,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1672,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1630階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1630,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1673,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1640階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1640,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1674,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1650階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1650,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1675,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1660階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1660,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1676,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1670階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1670,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1677,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1680階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1680,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1678,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1690階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1690,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1679,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1700階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1700,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1680,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1710階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1710,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1681,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1720階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1720,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1682,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1730階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1730,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1683,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1740階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1740,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1684,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1750階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1750,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1685,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1760階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1760,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1686,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1770階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1770,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1687,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1780階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1780,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1688,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1790階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1790,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1689,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で1800階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 1800,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

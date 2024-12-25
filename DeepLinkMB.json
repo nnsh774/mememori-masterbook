@@ -522,8 +522,8 @@
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1041,
-      "NumberInfo2": 1041,
+      "NumberInfo1": 1049,
+      "NumberInfo2": 1049,
       "StringInfo": null
     }
   },
@@ -561,13 +561,35 @@
     }
   },
   {
+    "Id": 52,
+    "IsIgnore": null,
+    "Memo": "アイリーン新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 520,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
+    "Id": 53,
+    "IsIgnore": null,
+    "Memo": "年末年始キャンペーン(2024末)",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 530,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 21594716388,
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1041,
-      "NumberInfo2": 1041,
+      "NumberInfo1": 1049,
+      "NumberInfo2": 1049,
       "StringInfo": null
     }
   }

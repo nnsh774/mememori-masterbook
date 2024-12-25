@@ -174,5 +174,27 @@
     "CharacterImageX": 10,
     "CharacterImageY": 0,
     "CharacterImageSize": 665.599976
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": "2025_ニューイヤーログインボーナス(2025)",
+    "StartTime": "2025-01-01 04:00:00",
+    "EndTime": "2025-01-27 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 9,
+    "CharacterImageId": 109,
+    "RewardBackgroundImageId": 1,
+    "SpecialRewardBackgroundImageId": 1,
+    "TitleTextKey": "[LimitedLoginBonusTitle9]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "MypageOnly",
+    "CharacterImageX": 10,
+    "CharacterImageY": 0,
+    "CharacterImageSize": 665.599976
   }
 ]

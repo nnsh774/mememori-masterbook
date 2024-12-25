@@ -836,5 +836,18 @@
     "StartTimeFixJST": "2024-12-13 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 64,
+    "IsIgnore": null,
+    "Memo": "セクスタンスの指南(アイリーン,イリア)",
+    "NameKey": "[CharacterCollectionName64]",
+    "RequiredCharacterIds": [
+      109,
+      2
+    ],
+    "StartTimeFixJST": "2024-12-25 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 300
   }
 ]
