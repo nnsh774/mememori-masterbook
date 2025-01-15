@@ -10548,6 +10548,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 629,
+    "IsIgnore": null,
+    "Memo": "アルトリア1",
+    "CharacterId": 93,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9301]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 630,
+    "IsIgnore": null,
+    "Memo": "アルトリア2",
+    "CharacterId": 93,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9302]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 631,
+    "IsIgnore": null,
+    "Memo": "アルトリア3",
+    "CharacterId": 93,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9303]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 632,
+    "IsIgnore": null,
+    "Memo": "アルトリア4",
+    "CharacterId": 93,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9304]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 633,
+    "IsIgnore": null,
+    "Memo": "アルトリア5",
+    "CharacterId": 93,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9305]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 634,
+    "IsIgnore": null,
+    "Memo": "アルトリア6",
+    "CharacterId": 93,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9306]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 635,
+    "IsIgnore": null,
+    "Memo": "アルトリア7",
+    "CharacterId": 93,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9307]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 643,
     "IsIgnore": null,
     "Memo": "夏ニーナ1",

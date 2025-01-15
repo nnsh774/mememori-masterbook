@@ -522,8 +522,8 @@
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1049,
-      "NumberInfo2": 1049,
+      "NumberInfo1": 1014,
+      "NumberInfo2": 1014,
       "StringInfo": null
     }
   },
@@ -583,13 +583,24 @@
     }
   },
   {
+    "Id": 54,
+    "IsIgnore": null,
+    "Memo": "アルトリア新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 540,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 21594716388,
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1049,
-      "NumberInfo2": 1049,
+      "NumberInfo1": 1014,
+      "NumberInfo2": 1014,
       "StringInfo": null
     }
   }

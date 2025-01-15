@@ -4188,13 +4188,15 @@
   {
     "Id": 119,
     "IsIgnore": null,
-    "Memo": "復刻モルガナ②+仮（0115切り替え用）",
+    "Memo": "アルトリア①+復刻モルガナ②+復刻アイネ①（0115切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-01-15 16:30:00",
+    "StartTimeFixJST": "2025-01-15 15:00:00",
     "EndTimeFixJST": "2025-01-23 14:29:59",
     "OrderNumber": 119,
     "CharacterIdList": [
+      93,
+      65,
       75,
       5,
       6,
@@ -4220,7 +4222,49 @@
       46
     ],
     "NewCharacterIdList": [
+      93,
+      65,
       75
+    ]
+  },
+  {
+    "Id": 120,
+    "IsIgnore": null,
+    "Memo": "アルトリア②+仮+復刻アイネ②（0123切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-01-23 14:30:00",
+    "EndTimeFixJST": "2025-01-31 14:29:59",
+    "OrderNumber": 120,
+    "CharacterIdList": [
+      93,
+      65,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      93,
+      65
     ]
   },
   {
@@ -4517,6 +4561,24 @@
     "NewCharacterIdList": [
       60,
       67
+    ]
+  },
+  {
+    "Id": 10170,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第17回_アームストロング・ステラ",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-01-15 14:30:00",
+    "EndTimeFixJST": "2025-02-07 14:29:59",
+    "OrderNumber": 10170,
+    "CharacterIdList": [
+      50,
+      57
+    ],
+    "NewCharacterIdList": [
+      50,
+      57
     ]
   }
 ]
