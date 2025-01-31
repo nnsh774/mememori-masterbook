@@ -616,6 +616,42 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 34,
+    "IsIgnore": null,
+    "Memo": "模擬戦",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText51]",
+        "ImageId": 51
+      }
+    ],
+    "HelpId": 1610,
+    "ImagePositionFormatType": "None",
+    "ImageItem1": null,
+    "ImageItem2": null,
+    "ImageCharacterId": 0
+  },
+  {
+    "Id": 35,
+    "IsIgnore": null,
+    "Memo": "武具一括研磨",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText52]",
+        "ImageId": 52
+      },
+      {
+        "MainTextKey": "[TutorialDescriptionMainText33]",
+        "ImageId": 33
+      }
+    ],
+    "HelpId": 2321,
+    "ImagePositionFormatType": "None",
+    "ImageItem1": null,
+    "ImageItem2": null,
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 1001,
     "IsIgnore": null,
     "Memo": "ギルドバトル③",
