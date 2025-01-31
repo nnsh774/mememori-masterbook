@@ -4272,13 +4272,15 @@
   {
     "Id": 121,
     "IsIgnore": null,
-    "Memo": "仮+仮+復刻黒鎧アイリス②（0131切り替え用）",
+    "Memo": "ティリー①+復刻ミラ①+復刻黒鎧アイリス②（0131切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-01-31 16:30:00",
+    "StartTimeFixJST": "2025-01-31 15:00:00",
     "EndTimeFixJST": "2025-02-07 14:29:59",
     "OrderNumber": 121,
     "CharacterIdList": [
+      111,
+      80,
       66,
       5,
       6,
@@ -4304,7 +4306,49 @@
       46
     ],
     "NewCharacterIdList": [
+      111,
+      80,
       66
+    ]
+  },
+  {
+    "Id": 122,
+    "IsIgnore": null,
+    "Memo": "ティリー②+復刻ミラ②+仮（0207切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-02-07 14:30:00",
+    "EndTimeFixJST": "2025-02-14 14:29:59",
+    "OrderNumber": 122,
+    "CharacterIdList": [
+      111,
+      80,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      111,
+      80
     ]
   },
   {

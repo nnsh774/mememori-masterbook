@@ -10226,5 +10226,134 @@
         "Value": 1500
       }
     ]
+  },
+  {
+    "Id": 475,
+    "IsIgnore": null,
+    "Memo": "ティリーSSR180",
+    "CharacterId": 111,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 476,
+    "IsIgnore": null,
+    "Memo": "ティリーSSR200",
+    "CharacterId": 111,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 477,
+    "IsIgnore": null,
+    "Memo": "ティリーSSR220",
+    "CharacterId": 111,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600
+      }
+    ]
+  },
+  {
+    "Id": 478,
+    "IsIgnore": null,
+    "Memo": "ティリーSSR240",
+    "CharacterId": 111,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900
+      }
+    ]
+  },
+  {
+    "Id": 479,
+    "IsIgnore": null,
+    "Memo": "ティリーUR",
+    "CharacterId": 111,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ]
+  },
+  {
+    "Id": 480,
+    "IsIgnore": null,
+    "Memo": "ティリーLR",
+    "CharacterId": 111,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ]
   }
 ]

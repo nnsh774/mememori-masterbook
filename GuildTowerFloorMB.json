@@ -17774,5 +17774,4449 @@
       6040001294,
       6040001295
     ]
+  },
+  {
+    "Id": 5001,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 1,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 900260,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000011,
+      6050000012,
+      6050000013,
+      6050000014,
+      6050000015
+    ]
+  },
+  {
+    "Id": 5002,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 2,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 920515,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000021,
+      6050000022,
+      6050000023,
+      6050000024,
+      6050000025
+    ]
+  },
+  {
+    "Id": 5003,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 3,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 940771,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000031,
+      6050000032,
+      6050000033,
+      6050000034,
+      6050000035
+    ]
+  },
+  {
+    "Id": 5004,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 4,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 961027,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      64
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000041,
+      6050000042,
+      6050000043,
+      6050000044,
+      6050000045
+    ]
+  },
+  {
+    "Id": 5005,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 5,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 981283,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      44,
+      65
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000051,
+      6050000052,
+      6050000053,
+      6050000054,
+      6050000055
+    ]
+  },
+  {
+    "Id": 5006,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 6,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1001539,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      24,
+      45,
+      67
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000061,
+      6050000062,
+      6050000063,
+      6050000064,
+      6050000065
+    ]
+  },
+  {
+    "Id": 5007,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 7,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1021795,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      46,
+      68
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000071,
+      6050000072,
+      6050000073,
+      6050000074,
+      6050000075
+    ]
+  },
+  {
+    "Id": 5008,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 8,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1042050,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      48,
+      70
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000081,
+      6050000082,
+      6050000083,
+      6050000084,
+      6050000085
+    ]
+  },
+  {
+    "Id": 5009,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 9,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1062306,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      26,
+      49,
+      71
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000091,
+      6050000092,
+      6050000093,
+      6050000094,
+      6050000095
+    ]
+  },
+  {
+    "Id": 5010,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 10,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1082562,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      26,
+      50,
+      73
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 500,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000101,
+      6050000102,
+      6050000103,
+      6050000104,
+      6050000105
+    ]
+  },
+  {
+    "Id": 5011,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 11,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1102818,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      27,
+      51,
+      75
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000111,
+      6050000112,
+      6050000113,
+      6050000114,
+      6050000115
+    ]
+  },
+  {
+    "Id": 5012,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 12,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1123074,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      28,
+      52,
+      77
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000121,
+      6050000122,
+      6050000123,
+      6050000124,
+      6050000125
+    ]
+  },
+  {
+    "Id": 5013,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 13,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1143330,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      28,
+      53,
+      78
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000131,
+      6050000132,
+      6050000133,
+      6050000134,
+      6050000135
+    ]
+  },
+  {
+    "Id": 5014,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 14,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1163586,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      29,
+      55,
+      80
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000141,
+      6050000142,
+      6050000143,
+      6050000144,
+      6050000145
+    ]
+  },
+  {
+    "Id": 5015,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 15,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1183841,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      56,
+      82
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000151,
+      6050000152,
+      6050000153,
+      6050000154,
+      6050000155
+    ]
+  },
+  {
+    "Id": 5016,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 16,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1204097,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      57,
+      84
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000161,
+      6050000162,
+      6050000163,
+      6050000164,
+      6050000165
+    ]
+  },
+  {
+    "Id": 5017,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 17,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1224353,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      31,
+      58,
+      86
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000171,
+      6050000172,
+      6050000173,
+      6050000174,
+      6050000175
+    ]
+  },
+  {
+    "Id": 5018,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 18,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1244609,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      60,
+      88
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000181,
+      6050000182,
+      6050000183,
+      6050000184,
+      6050000185
+    ]
+  },
+  {
+    "Id": 5019,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 19,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1264865,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      61,
+      90
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000191,
+      6050000192,
+      6050000193,
+      6050000194,
+      6050000195
+    ]
+  },
+  {
+    "Id": 5020,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 20,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1285121,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      33,
+      63,
+      92
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000201,
+      6050000202,
+      6050000203,
+      6050000204,
+      6050000205
+    ]
+  },
+  {
+    "Id": 5021,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 21,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1305377,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      34,
+      64,
+      94
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000211,
+      6050000212,
+      6050000213,
+      6050000214,
+      6050000215
+    ]
+  },
+  {
+    "Id": 5022,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 22,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1325632,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      19,
+      35,
+      65,
+      96
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000221,
+      6050000222,
+      6050000223,
+      6050000224,
+      6050000225
+    ]
+  },
+  {
+    "Id": 5023,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 23,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1345888,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      67,
+      98
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000231,
+      6050000232,
+      6050000233,
+      6050000234,
+      6050000235
+    ]
+  },
+  {
+    "Id": 5024,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 24,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1366144,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      69,
+      101
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000241,
+      6050000242,
+      6050000243,
+      6050000244,
+      6050000245
+    ]
+  },
+  {
+    "Id": 5025,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 25,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1386400,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      37,
+      70,
+      103
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000251,
+      6050000252,
+      6050000253,
+      6050000254,
+      6050000255
+    ]
+  },
+  {
+    "Id": 5026,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 26,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1406656,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      38,
+      72,
+      105
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000261,
+      6050000262,
+      6050000263,
+      6050000264,
+      6050000265
+    ]
+  },
+  {
+    "Id": 5027,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 27,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1426912,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      22,
+      39,
+      73,
+      108
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000271,
+      6050000272,
+      6050000273,
+      6050000274,
+      6050000275
+    ]
+  },
+  {
+    "Id": 5028,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 28,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1447167,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      22,
+      40,
+      75,
+      110
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000281,
+      6050000282,
+      6050000283,
+      6050000284,
+      6050000285
+    ]
+  },
+  {
+    "Id": 5029,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 29,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1467423,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      41,
+      77,
+      113
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000291,
+      6050000292,
+      6050000293,
+      6050000294,
+      6050000295
+    ]
+  },
+  {
+    "Id": 5030,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 30,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1487679,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      42,
+      79,
+      115
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000301,
+      6050000302,
+      6050000303,
+      6050000304,
+      6050000305
+    ]
+  },
+  {
+    "Id": 5031,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 31,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1507935,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      24,
+      43,
+      80,
+      118
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000311,
+      6050000312,
+      6050000313,
+      6050000314,
+      6050000315
+    ]
+  },
+  {
+    "Id": 5032,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 32,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1528191,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      44,
+      82,
+      121
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000321,
+      6050000322,
+      6050000323,
+      6050000324,
+      6050000325
+    ]
+  },
+  {
+    "Id": 5033,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 33,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1548447,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      45,
+      84,
+      124
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000331,
+      6050000332,
+      6050000333,
+      6050000334,
+      6050000335
+    ]
+  },
+  {
+    "Id": 5034,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 34,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1568703,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      46,
+      86,
+      126
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000341,
+      6050000342,
+      6050000343,
+      6050000344,
+      6050000345
+    ]
+  },
+  {
+    "Id": 5035,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 35,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1588958,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      47,
+      88,
+      129
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000351,
+      6050000352,
+      6050000353,
+      6050000354,
+      6050000355
+    ]
+  },
+  {
+    "Id": 5036,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 36,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1609214,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      27,
+      48,
+      90,
+      132
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000361,
+      6050000362,
+      6050000363,
+      6050000364,
+      6050000365
+    ]
+  },
+  {
+    "Id": 5037,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 37,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1629470,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      49,
+      92,
+      135
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000371,
+      6050000372,
+      6050000373,
+      6050000374,
+      6050000375
+    ]
+  },
+  {
+    "Id": 5038,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 38,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1649726,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      50,
+      94,
+      138
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000381,
+      6050000382,
+      6050000383,
+      6050000384,
+      6050000385
+    ]
+  },
+  {
+    "Id": 5039,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 39,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1669982,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      29,
+      51,
+      97,
+      142
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000391,
+      6050000392,
+      6050000393,
+      6050000394,
+      6050000395
+    ]
+  },
+  {
+    "Id": 5040,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 40,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1690238,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      53,
+      99,
+      145
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000401,
+      6050000402,
+      6050000403,
+      6050000404,
+      6050000405
+    ]
+  },
+  {
+    "Id": 5041,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 41,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1691524,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      54,
+      101,
+      148
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000411,
+      6050000412,
+      6050000413,
+      6050000414,
+      6050000415
+    ]
+  },
+  {
+    "Id": 5042,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 42,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1692810,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      31,
+      55,
+      103,
+      152
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000421,
+      6050000422,
+      6050000423,
+      6050000424,
+      6050000425
+    ]
+  },
+  {
+    "Id": 5043,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 43,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1694096,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      32,
+      56,
+      106,
+      155
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000431,
+      6050000432,
+      6050000433,
+      6050000434,
+      6050000435
+    ]
+  },
+  {
+    "Id": 5044,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 44,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1695382,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      32,
+      58,
+      108,
+      159
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000441,
+      6050000442,
+      6050000443,
+      6050000444,
+      6050000445
+    ]
+  },
+  {
+    "Id": 5045,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 45,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1696668,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      33,
+      59,
+      111,
+      162
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000451,
+      6050000452,
+      6050000453,
+      6050000454,
+      6050000455
+    ]
+  },
+  {
+    "Id": 5046,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 46,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1697954,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      34,
+      60,
+      113,
+      166
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000461,
+      6050000462,
+      6050000463,
+      6050000464,
+      6050000465
+    ]
+  },
+  {
+    "Id": 5047,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 47,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1699240,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      35,
+      62,
+      116,
+      170
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000471,
+      6050000472,
+      6050000473,
+      6050000474,
+      6050000475
+    ]
+  },
+  {
+    "Id": 5048,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 48,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1700526,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      35,
+      63,
+      119,
+      174
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000481,
+      6050000482,
+      6050000483,
+      6050000484,
+      6050000485
+    ]
+  },
+  {
+    "Id": 5049,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 49,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1701812,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      36,
+      65,
+      121,
+      178
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000491,
+      6050000492,
+      6050000493,
+      6050000494,
+      6050000495
+    ]
+  },
+  {
+    "Id": 5050,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 50,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1703098,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      37,
+      66,
+      124,
+      182
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 2,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000501,
+      6050000502,
+      6050000503,
+      6050000504,
+      6050000505
+    ]
+  },
+  {
+    "Id": 5051,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 51,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1704384,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      38,
+      68,
+      127,
+      186
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000511,
+      6050000512,
+      6050000513,
+      6050000514,
+      6050000515
+    ]
+  },
+  {
+    "Id": 5052,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 52,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1705670,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      39,
+      69,
+      130,
+      190
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000521,
+      6050000522,
+      6050000523,
+      6050000524,
+      6050000525
+    ]
+  },
+  {
+    "Id": 5053,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 53,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1706956,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      40,
+      71,
+      133,
+      195
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000531,
+      6050000532,
+      6050000533,
+      6050000534,
+      6050000535
+    ]
+  },
+  {
+    "Id": 5054,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 54,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1708242,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      41,
+      72,
+      136,
+      199
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000541,
+      6050000542,
+      6050000543,
+      6050000544,
+      6050000545
+    ]
+  },
+  {
+    "Id": 5055,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 55,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1709528,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      42,
+      74,
+      139,
+      204
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000551,
+      6050000552,
+      6050000553,
+      6050000554,
+      6050000555
+    ]
+  },
+  {
+    "Id": 5056,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 56,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1710814,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      43,
+      76,
+      142,
+      209
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000561,
+      6050000562,
+      6050000563,
+      6050000564,
+      6050000565
+    ]
+  },
+  {
+    "Id": 5057,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 57,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1712100,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      44,
+      78,
+      145,
+      213
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000571,
+      6050000572,
+      6050000573,
+      6050000574,
+      6050000575
+    ]
+  },
+  {
+    "Id": 5058,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 58,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1713386,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      45,
+      79,
+      149,
+      218
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000581,
+      6050000582,
+      6050000583,
+      6050000584,
+      6050000585
+    ]
+  },
+  {
+    "Id": 5059,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 59,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1714672,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      46,
+      81,
+      152,
+      223
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000591,
+      6050000592,
+      6050000593,
+      6050000594,
+      6050000595
+    ]
+  },
+  {
+    "Id": 5060,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 60,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1715958,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      47,
+      83,
+      156,
+      228
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000601,
+      6050000602,
+      6050000603,
+      6050000604,
+      6050000605
+    ]
+  },
+  {
+    "Id": 5061,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 61,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1717245,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      48,
+      85,
+      159,
+      234
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000611,
+      6050000612,
+      6050000613,
+      6050000614,
+      6050000615
+    ]
+  },
+  {
+    "Id": 5062,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 62,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1723997,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      49,
+      87,
+      163,
+      239
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000621,
+      6050000622,
+      6050000623,
+      6050000624,
+      6050000625
+    ]
+  },
+  {
+    "Id": 5063,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 63,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1730749,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      50,
+      89,
+      167,
+      245
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000631,
+      6050000632,
+      6050000633,
+      6050000634,
+      6050000635
+    ]
+  },
+  {
+    "Id": 5064,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 64,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1737501,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      51,
+      91,
+      171,
+      250
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000641,
+      6050000642,
+      6050000643,
+      6050000644,
+      6050000645
+    ]
+  },
+  {
+    "Id": 5065,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 65,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1744253,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      52,
+      93,
+      175,
+      256
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000651,
+      6050000652,
+      6050000653,
+      6050000654,
+      6050000655
+    ]
+  },
+  {
+    "Id": 5066,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 66,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1751005,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      54,
+      95,
+      179,
+      262
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000661,
+      6050000662,
+      6050000663,
+      6050000664,
+      6050000665
+    ]
+  },
+  {
+    "Id": 5067,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 67,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1757757,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      55,
+      97,
+      183,
+      268
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000671,
+      6050000672,
+      6050000673,
+      6050000674,
+      6050000675
+    ]
+  },
+  {
+    "Id": 5068,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 68,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1764509,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      56,
+      100,
+      187,
+      274
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000681,
+      6050000682,
+      6050000683,
+      6050000684,
+      6050000685
+    ]
+  },
+  {
+    "Id": 5069,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 69,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1771261,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      57,
+      102,
+      191,
+      280
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000691,
+      6050000692,
+      6050000693,
+      6050000694,
+      6050000695
+    ]
+  },
+  {
+    "Id": 5070,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 70,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1778013,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      59,
+      104,
+      196,
+      287
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000701,
+      6050000702,
+      6050000703,
+      6050000704,
+      6050000705
+    ]
+  },
+  {
+    "Id": 5071,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 71,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1784765,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      60,
+      107,
+      200,
+      293
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000711,
+      6050000712,
+      6050000713,
+      6050000714,
+      6050000715
+    ]
+  },
+  {
+    "Id": 5072,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 72,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1791517,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      62,
+      109,
+      205,
+      300
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000721,
+      6050000722,
+      6050000723,
+      6050000724,
+      6050000725
+    ]
+  },
+  {
+    "Id": 5073,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 73,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1798269,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      63,
+      112,
+      209,
+      307
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000731,
+      6050000732,
+      6050000733,
+      6050000734,
+      6050000735
+    ]
+  },
+  {
+    "Id": 5074,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 74,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1805021,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      64,
+      114,
+      214,
+      314
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000741,
+      6050000742,
+      6050000743,
+      6050000744,
+      6050000745
+    ]
+  },
+  {
+    "Id": 5075,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 75,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1811773,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      66,
+      117,
+      219,
+      321
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000751,
+      6050000752,
+      6050000753,
+      6050000754,
+      6050000755
+    ]
+  },
+  {
+    "Id": 5076,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 76,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1818525,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      67,
+      120,
+      224,
+      329
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000761,
+      6050000762,
+      6050000763,
+      6050000764,
+      6050000765
+    ]
+  },
+  {
+    "Id": 5077,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 77,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1825277,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      69,
+      122,
+      229,
+      336
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000771,
+      6050000772,
+      6050000773,
+      6050000774,
+      6050000775
+    ]
+  },
+  {
+    "Id": 5078,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 78,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1832029,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      71,
+      125,
+      235,
+      344
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000781,
+      6050000782,
+      6050000783,
+      6050000784,
+      6050000785
+    ]
+  },
+  {
+    "Id": 5079,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 79,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1838781,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      72,
+      128,
+      240,
+      352
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000791,
+      6050000792,
+      6050000793,
+      6050000794,
+      6050000795
+    ]
+  },
+  {
+    "Id": 5080,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 80,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1845533,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      74,
+      131,
+      246,
+      360
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000801,
+      6050000802,
+      6050000803,
+      6050000804,
+      6050000805
+    ]
+  },
+  {
+    "Id": 5081,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 81,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1852284,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      76,
+      134,
+      251,
+      368
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000811,
+      6050000812,
+      6050000813,
+      6050000814,
+      6050000815
+    ]
+  },
+  {
+    "Id": 5082,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 82,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1859036,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      77,
+      137,
+      257,
+      377
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000821,
+      6050000822,
+      6050000823,
+      6050000824,
+      6050000825
+    ]
+  },
+  {
+    "Id": 5083,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 83,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1865788,
+    "BaseReinforcementMaterialCountList": [
+      24,
+      79,
+      140,
+      263,
+      385
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000831,
+      6050000832,
+      6050000833,
+      6050000834,
+      6050000835
+    ]
+  },
+  {
+    "Id": 5084,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 84,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1872540,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      81,
+      144,
+      269,
+      394
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000841,
+      6050000842,
+      6050000843,
+      6050000844,
+      6050000845
+    ]
+  },
+  {
+    "Id": 5085,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 85,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1879292,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      83,
+      147,
+      275,
+      403
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000851,
+      6050000852,
+      6050000853,
+      6050000854,
+      6050000855
+    ]
+  },
+  {
+    "Id": 5086,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 86,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1886044,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      85,
+      150,
+      281,
+      413
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000861,
+      6050000862,
+      6050000863,
+      6050000864,
+      6050000865
+    ]
+  },
+  {
+    "Id": 5087,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 87,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1892796,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      87,
+      154,
+      288,
+      422
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000871,
+      6050000872,
+      6050000873,
+      6050000874,
+      6050000875
+    ]
+  },
+  {
+    "Id": 5088,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 88,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1899548,
+    "BaseReinforcementMaterialCountList": [
+      27,
+      89,
+      157,
+      295,
+      432
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000881,
+      6050000882,
+      6050000883,
+      6050000884,
+      6050000885
+    ]
+  },
+  {
+    "Id": 5089,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 89,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1906300,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      91,
+      161,
+      301,
+      442
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000891,
+      6050000892,
+      6050000893,
+      6050000894,
+      6050000895
+    ]
+  },
+  {
+    "Id": 5090,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 90,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1913052,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      93,
+      165,
+      308,
+      452
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000901,
+      6050000902,
+      6050000903,
+      6050000904,
+      6050000905
+    ]
+  },
+  {
+    "Id": 5091,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 91,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1919804,
+    "BaseReinforcementMaterialCountList": [
+      29,
+      95,
+      168,
+      315,
+      462
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000911,
+      6050000912,
+      6050000913,
+      6050000914,
+      6050000915
+    ]
+  },
+  {
+    "Id": 5092,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 92,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1926556,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      97,
+      172,
+      323,
+      473
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000921,
+      6050000922,
+      6050000923,
+      6050000924,
+      6050000925
+    ]
+  },
+  {
+    "Id": 5093,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 93,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1933308,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      99,
+      176,
+      330,
+      484
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000931,
+      6050000932,
+      6050000933,
+      6050000934,
+      6050000935
+    ]
+  },
+  {
+    "Id": 5094,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 94,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1940060,
+    "BaseReinforcementMaterialCountList": [
+      31,
+      102,
+      180,
+      338,
+      495
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000941,
+      6050000942,
+      6050000943,
+      6050000944,
+      6050000945
+    ]
+  },
+  {
+    "Id": 5095,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 95,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1946812,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      104,
+      185,
+      345,
+      506
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050000951,
+      6050000952,
+      6050000953,
+      6050000954,
+      6050000955
+    ]
+  },
+  {
+    "Id": 5096,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 96,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1953564,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      106,
+      189,
+      353,
+      518
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000961,
+      6050000962,
+      6050000963,
+      6050000964,
+      6050000965
+    ]
+  },
+  {
+    "Id": 5097,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 97,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1960316,
+    "BaseReinforcementMaterialCountList": [
+      33,
+      109,
+      193,
+      361,
+      530
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000971,
+      6050000972,
+      6050000973,
+      6050000974,
+      6050000975
+    ]
+  },
+  {
+    "Id": 5098,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 98,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1967068,
+    "BaseReinforcementMaterialCountList": [
+      34,
+      111,
+      198,
+      370,
+      542
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000981,
+      6050000982,
+      6050000983,
+      6050000984,
+      6050000985
+    ]
+  },
+  {
+    "Id": 5099,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 99,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1973820,
+    "BaseReinforcementMaterialCountList": [
+      35,
+      114,
+      202,
+      378,
+      554
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050000991,
+      6050000992,
+      6050000993,
+      6050000994,
+      6050000995
+    ]
+  },
+  {
+    "Id": 5100,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 100,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1980572,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      117,
+      207,
+      387,
+      567
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050001001,
+      6050001002,
+      6050001003,
+      6050001004,
+      6050001005
+    ]
+  },
+  {
+    "Id": 5101,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 101,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1987324,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      119,
+      212,
+      396,
+      580
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001011,
+      6050001012,
+      6050001013,
+      6050001014,
+      6050001015
+    ]
+  },
+  {
+    "Id": 5102,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 102,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1994076,
+    "BaseReinforcementMaterialCountList": [
+      37,
+      122,
+      216,
+      405,
+      594
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001021,
+      6050001022,
+      6050001023,
+      6050001024,
+      6050001025
+    ]
+  },
+  {
+    "Id": 5103,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 103,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2000828,
+    "BaseReinforcementMaterialCountList": [
+      38,
+      125,
+      221,
+      414,
+      607
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001031,
+      6050001032,
+      6050001033,
+      6050001034,
+      6050001035
+    ]
+  },
+  {
+    "Id": 5104,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 104,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2007580,
+    "BaseReinforcementMaterialCountList": [
+      39,
+      128,
+      226,
+      424,
+      621
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001041,
+      6050001042,
+      6050001043,
+      6050001044,
+      6050001045
+    ]
+  },
+  {
+    "Id": 5105,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 105,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2014332,
+    "BaseReinforcementMaterialCountList": [
+      40,
+      131,
+      232,
+      434,
+      635
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050001051,
+      6050001052,
+      6050001053,
+      6050001054,
+      6050001055
+    ]
+  },
+  {
+    "Id": 5106,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 106,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2021084,
+    "BaseReinforcementMaterialCountList": [
+      41,
+      134,
+      237,
+      444,
+      650
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001061,
+      6050001062,
+      6050001063,
+      6050001064,
+      6050001065
+    ]
+  },
+  {
+    "Id": 5107,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 107,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2027836,
+    "BaseReinforcementMaterialCountList": [
+      42,
+      137,
+      242,
+      454,
+      665
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001071,
+      6050001072,
+      6050001073,
+      6050001074,
+      6050001075
+    ]
+  },
+  {
+    "Id": 5108,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 108,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2034588,
+    "BaseReinforcementMaterialCountList": [
+      43,
+      140,
+      248,
+      464,
+      680
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001081,
+      6050001082,
+      6050001083,
+      6050001084,
+      6050001085
+    ]
+  },
+  {
+    "Id": 5109,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 109,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2041340,
+    "BaseReinforcementMaterialCountList": [
+      44,
+      143,
+      254,
+      475,
+      696
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001091,
+      6050001092,
+      6050001093,
+      6050001094,
+      6050001095
+    ]
+  },
+  {
+    "Id": 5110,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 110,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2048092,
+    "BaseReinforcementMaterialCountList": [
+      45,
+      147,
+      260,
+      486,
+      712
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050001101,
+      6050001102,
+      6050001103,
+      6050001104,
+      6050001105
+    ]
+  },
+  {
+    "Id": 5111,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 111,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2054844,
+    "BaseReinforcementMaterialCountList": [
+      46,
+      150,
+      266,
+      497,
+      728
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001111,
+      6050001112,
+      6050001113,
+      6050001114,
+      6050001115
+    ]
+  },
+  {
+    "Id": 5112,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 112,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2061596,
+    "BaseReinforcementMaterialCountList": [
+      47,
+      153,
+      272,
+      508,
+      745
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001121,
+      6050001122,
+      6050001123,
+      6050001124,
+      6050001125
+    ]
+  },
+  {
+    "Id": 5113,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 113,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2068348,
+    "BaseReinforcementMaterialCountList": [
+      48,
+      157,
+      278,
+      520,
+      762
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001131,
+      6050001132,
+      6050001133,
+      6050001134,
+      6050001135
+    ]
+  },
+  {
+    "Id": 5114,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 114,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2075100,
+    "BaseReinforcementMaterialCountList": [
+      49,
+      160,
+      284,
+      532,
+      780
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001141,
+      6050001142,
+      6050001143,
+      6050001144,
+      6050001145
+    ]
+  },
+  {
+    "Id": 5115,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 115,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2081852,
+    "BaseReinforcementMaterialCountList": [
+      50,
+      164,
+      291,
+      544,
+      798
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050001151,
+      6050001152,
+      6050001153,
+      6050001154,
+      6050001155
+    ]
+  },
+  {
+    "Id": 5116,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 116,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2088604,
+    "BaseReinforcementMaterialCountList": [
+      51,
+      168,
+      298,
+      557,
+      816
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001161,
+      6050001162,
+      6050001163,
+      6050001164,
+      6050001165
+    ]
+  },
+  {
+    "Id": 5117,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 117,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2095356,
+    "BaseReinforcementMaterialCountList": [
+      53,
+      172,
+      304,
+      569,
+      835
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001171,
+      6050001172,
+      6050001173,
+      6050001174,
+      6050001175
+    ]
+  },
+  {
+    "Id": 5118,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 118,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2102108,
+    "BaseReinforcementMaterialCountList": [
+      54,
+      176,
+      311,
+      583,
+      854
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001181,
+      6050001182,
+      6050001183,
+      6050001184,
+      6050001185
+    ]
+  },
+  {
+    "Id": 5119,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 119,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2108860,
+    "BaseReinforcementMaterialCountList": [
+      55,
+      180,
+      319,
+      596,
+      873
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001191,
+      6050001192,
+      6050001193,
+      6050001194,
+      6050001195
+    ]
+  },
+  {
+    "Id": 5120,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 120,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2115612,
+    "BaseReinforcementMaterialCountList": [
+      56,
+      184,
+      326,
+      610,
+      893
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050001201,
+      6050001202,
+      6050001203,
+      6050001204,
+      6050001205
+    ]
+  },
+  {
+    "Id": 5121,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 121,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2122364,
+    "BaseReinforcementMaterialCountList": [
+      58,
+      188,
+      333,
+      624,
+      914
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001211,
+      6050001212,
+      6050001213,
+      6050001214,
+      6050001215
+    ]
+  },
+  {
+    "Id": 5122,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 122,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2129116,
+    "BaseReinforcementMaterialCountList": [
+      59,
+      193,
+      341,
+      638,
+      935
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001221,
+      6050001222,
+      6050001223,
+      6050001224,
+      6050001225
+    ]
+  },
+  {
+    "Id": 5123,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 123,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2135868,
+    "BaseReinforcementMaterialCountList": [
+      60,
+      197,
+      349,
+      653,
+      956
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001231,
+      6050001232,
+      6050001233,
+      6050001234,
+      6050001235
+    ]
+  },
+  {
+    "Id": 5124,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 124,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2142620,
+    "BaseReinforcementMaterialCountList": [
+      62,
+      201,
+      357,
+      668,
+      978
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001241,
+      6050001242,
+      6050001243,
+      6050001244,
+      6050001245
+    ]
+  },
+  {
+    "Id": 5125,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 125,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2149372,
+    "BaseReinforcementMaterialCountList": [
+      63,
+      206,
+      365,
+      683,
+      1001
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6050001251,
+      6050001252,
+      6050001253,
+      6050001254,
+      6050001255
+    ]
+  },
+  {
+    "Id": 5126,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 126,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2156124,
+    "BaseReinforcementMaterialCountList": [
+      65,
+      211,
+      373,
+      699,
+      1024
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001261,
+      6050001262,
+      6050001263,
+      6050001264,
+      6050001265
+    ]
+  },
+  {
+    "Id": 5127,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 127,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2162876,
+    "BaseReinforcementMaterialCountList": [
+      66,
+      216,
+      382,
+      715,
+      1047
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001271,
+      6050001272,
+      6050001273,
+      6050001274,
+      6050001275
+    ]
+  },
+  {
+    "Id": 5128,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 128,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2169628,
+    "BaseReinforcementMaterialCountList": [
+      68,
+      221,
+      391,
+      731,
+      1071
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001281,
+      6050001282,
+      6050001283,
+      6050001284,
+      6050001285
+    ]
+  },
+  {
+    "Id": 5129,
+    "IsIgnore": null,
+    "Memo": "20250131_第5回ギルドツリー_ティリー",
+    "EventNo": 5,
+    "FloorCount": 129,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2176380,
+    "BaseReinforcementMaterialCountList": [
+      69,
+      226,
+      400,
+      748,
+      1096
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6050001291,
+      6050001292,
+      6050001293,
+      6050001294,
+      6050001295
+    ]
   }
 ]

@@ -13026,5 +13026,215 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6601,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6602,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6603,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6604,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 15
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6605,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6606,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 25
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6607,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 30
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6608,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6609,
+    "IsIgnore": null,
+    "Memo": "アクルックスの未来​(ティリー,？)",
+    "CollectionId": 66,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]
