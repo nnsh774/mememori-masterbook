@@ -4314,7 +4314,7 @@
   {
     "Id": 122,
     "IsIgnore": null,
-    "Memo": "ティリー②+復刻ミラ②+仮（0207切り替え用）",
+    "Memo": "ティリー②+復刻セルリア①+復刻ミラ②（0207切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-02-07 14:30:00",
@@ -4322,6 +4322,7 @@
     "OrderNumber": 122,
     "CharacterIdList": [
       111,
+      79,
       80,
       5,
       6,
@@ -4348,7 +4349,46 @@
     ],
     "NewCharacterIdList": [
       111,
+      79,
       80
+    ]
+  },
+  {
+    "Id": 123,
+    "IsIgnore": null,
+    "Memo": "仮+復刻セルリア②+仮（0214切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-02-14 16:30:00",
+    "EndTimeFixJST": "2025-02-21 14:29:59",
+    "OrderNumber": 123,
+    "CharacterIdList": [
+      79,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      79
     ]
   },
   {
@@ -4663,6 +4703,24 @@
     "NewCharacterIdList": [
       50,
       57
+    ]
+  },
+  {
+    "Id": 10180,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第18回_オフィーリア・レア",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-02-07 14:30:00",
+    "EndTimeFixJST": "2025-02-28 14:29:59",
+    "OrderNumber": 10180,
+    "CharacterIdList": [
+      49,
+      55
+    ],
+    "NewCharacterIdList": [
+      49,
+      55
     ]
   }
 ]
