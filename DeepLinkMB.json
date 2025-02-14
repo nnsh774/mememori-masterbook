@@ -522,8 +522,8 @@
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1014,
-      "NumberInfo2": 1014,
+      "NumberInfo1": 1009,
+      "NumberInfo2": 1009,
       "StringInfo": null
     }
   },
@@ -605,13 +605,24 @@
     }
   },
   {
+    "Id": 56,
+    "IsIgnore": null,
+    "Memo": "春シズ新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 560,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 21594716388,
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1014,
-      "NumberInfo2": 1014,
+      "NumberInfo1": 1009,
+      "NumberInfo2": 1009,
       "StringInfo": null
     }
   }

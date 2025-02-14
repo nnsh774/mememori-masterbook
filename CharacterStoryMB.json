@@ -11680,5 +11680,131 @@
     ],
     "TextKey": "[CharacterStoryText11107]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 762,
+    "IsIgnore": null,
+    "Memo": "春シズ1",
+    "CharacterId": 112,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11201]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 763,
+    "IsIgnore": null,
+    "Memo": "春シズ2",
+    "CharacterId": 112,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11202]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 764,
+    "IsIgnore": null,
+    "Memo": "春シズ3",
+    "CharacterId": 112,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11203]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 765,
+    "IsIgnore": null,
+    "Memo": "春シズ4",
+    "CharacterId": 112,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11204]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 766,
+    "IsIgnore": null,
+    "Memo": "春シズ5",
+    "CharacterId": 112,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11205]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 767,
+    "IsIgnore": null,
+    "Memo": "春シズ6",
+    "CharacterId": 112,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11206]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 768,
+    "IsIgnore": null,
+    "Memo": "春シズ7",
+    "CharacterId": 112,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11207]",
+    "RarityFlags": 512
   }
 ]

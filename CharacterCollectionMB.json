@@ -875,5 +875,18 @@
     "StartTimeFixJST": "2025-01-31 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 67,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "NameKey": "[CharacterCollectionName67]",
+    "RequiredCharacterIds": [
+      112,
+      56
+    ],
+    "StartTimeFixJST": "2025-02-14 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

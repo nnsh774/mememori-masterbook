@@ -13236,5 +13236,215 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6701,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 500
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6702,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6703,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6704,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6705,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3100
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1050
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6706,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1100
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6707,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3300
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1150
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6708,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3400
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6709,
+    "IsIgnore": null,
+    "Memo": "グルスの白椿​(春シズ,クラウディア)",
+    "CollectionId": 67,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

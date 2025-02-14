@@ -970,5 +970,23 @@
     "GachaAddCharacterType": "New",
     "StartGachaSelectListId": 122,
     "EndGachaSelectListId": 123
+  },
+  {
+    "Id": 147,
+    "IsIgnore": null,
+    "Memo": "春シズ追加",
+    "CharacterId": 112,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 123,
+    "EndGachaSelectListId": 124
+  },
+  {
+    "Id": 148,
+    "IsIgnore": null,
+    "Memo": "クラウディア復刻追加",
+    "CharacterId": 56,
+    "GachaAddCharacterType": "New",
+    "StartGachaSelectListId": 123,
+    "EndGachaSelectListId": 124
   }
 ]

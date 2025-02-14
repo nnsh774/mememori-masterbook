@@ -10355,5 +10355,134 @@
         "Value": 3500
       }
     ]
+  },
+  {
+    "Id": 481,
+    "IsIgnore": null,
+    "Memo": "春シズSSR180",
+    "CharacterId": 112,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 482,
+    "IsIgnore": null,
+    "Memo": "春シズSSR200",
+    "CharacterId": 112,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300
+      }
+    ]
+  },
+  {
+    "Id": 483,
+    "IsIgnore": null,
+    "Memo": "春シズSSR220",
+    "CharacterId": 112,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 484,
+    "IsIgnore": null,
+    "Memo": "春シズSSR240",
+    "CharacterId": 112,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 400
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 485,
+    "IsIgnore": null,
+    "Memo": "春シズUR",
+    "CharacterId": 112,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 450
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 486,
+    "IsIgnore": null,
+    "Memo": "春シズLR",
+    "CharacterId": 112,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]
