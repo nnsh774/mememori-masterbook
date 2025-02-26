@@ -11278,5 +11278,21 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 723,
+    "IsIgnore": null,
+    "Memo": "幸福な燕のブローチ",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 27,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
