@@ -51478,5 +51478,161 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1712,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1250階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1250,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1713,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1300階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1300,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1714,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1350階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1350,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1715,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1400階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1400,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1716,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1450階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1450,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1717,
+    "IsIgnore": null,
+    "Memo": "メイン_全ての属性の塔で1500階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainElementTower]",
+    "DescriptionKey": "[OpenContentToast15]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMinClearElementTower",
+    "RequireValue": 1500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 25,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 7,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

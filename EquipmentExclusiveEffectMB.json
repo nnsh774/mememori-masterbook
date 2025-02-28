@@ -10484,5 +10484,134 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 487,
+    "IsIgnore": null,
+    "Memo": "ルスティカSSR180",
+    "CharacterId": 113,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 488,
+    "IsIgnore": null,
+    "Memo": "ルスティカSSR200",
+    "CharacterId": 113,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300
+      }
+    ]
+  },
+  {
+    "Id": 489,
+    "IsIgnore": null,
+    "Memo": "ルスティカSSR220",
+    "CharacterId": 113,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600
+      }
+    ]
+  },
+  {
+    "Id": 490,
+    "IsIgnore": null,
+    "Memo": "ルスティカSSR240",
+    "CharacterId": 113,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 400
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900
+      }
+    ]
+  },
+  {
+    "Id": 491,
+    "IsIgnore": null,
+    "Memo": "ルスティカUR",
+    "CharacterId": 113,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 450
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ]
+  },
+  {
+    "Id": 492,
+    "IsIgnore": null,
+    "Memo": "ルスティカLR",
+    "CharacterId": 113,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ]
   }
 ]
