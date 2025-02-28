@@ -4440,13 +4440,15 @@
   {
     "Id": 125,
     "IsIgnore": null,
-    "Memo": "仮+復刻カグヤ②+仮（0228切り替え用）",
+    "Memo": "ルスティカ①+復刻カグヤ②+復刻ギルウィアル①（0228切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-02-28 16:30:00",
+    "StartTimeFixJST": "2025-02-28 15:00:00",
     "EndTimeFixJST": "2025-03-07 14:29:59",
     "OrderNumber": 125,
     "CharacterIdList": [
+      113,
+      64,
       69,
       5,
       6,
@@ -4472,7 +4474,49 @@
       46
     ],
     "NewCharacterIdList": [
+      113,
+      64,
       69
+    ]
+  },
+  {
+    "Id": 126,
+    "IsIgnore": null,
+    "Memo": "ルスティカ②+仮+復刻ギルウィアル②（0307切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-03-07 14:30:00",
+    "EndTimeFixJST": "2025-03-17 14:29:59",
+    "OrderNumber": 126,
+    "CharacterIdList": [
+      113,
+      64,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      113,
+      64
     ]
   },
   {
@@ -4805,6 +4849,24 @@
     "NewCharacterIdList": [
       49,
       55
+    ]
+  },
+  {
+    "Id": 10190,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第19回_ルサールカ・シフォン",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-02-28 14:30:00",
+    "EndTimeFixJST": "2025-03-24 14:29:59",
+    "OrderNumber": 10190,
+    "CharacterIdList": [
+      44,
+      54
+    ],
+    "NewCharacterIdList": [
+      44,
+      54
     ]
   }
 ]
