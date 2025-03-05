@@ -4482,7 +4482,7 @@
   {
     "Id": 126,
     "IsIgnore": null,
-    "Memo": "ルスティカ②+仮+復刻ギルウィアル②（0307切り替え用）",
+    "Memo": "ルスティカ②+復刻リズ①+復刻ギルウィアル②（0307切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-03-07 14:30:00",
@@ -4490,6 +4490,7 @@
     "OrderNumber": 126,
     "CharacterIdList": [
       113,
+      84,
       64,
       5,
       6,
@@ -4516,7 +4517,46 @@
     ],
     "NewCharacterIdList": [
       113,
+      84,
       64
+    ]
+  },
+  {
+    "Id": 127,
+    "IsIgnore": null,
+    "Memo": "仮+復刻リズ②+仮（0317切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-03-17 16:30:00",
+    "EndTimeFixJST": "2025-03-24 14:29:59",
+    "OrderNumber": 127,
+    "CharacterIdList": [
+      84,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      84
     ]
   },
   {

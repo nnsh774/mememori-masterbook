@@ -2718,6 +2718,24 @@
     "GachaLimitDayFromCreatePlayer": 0
   },
   {
+    "Id": 152,
+    "IsIgnore": null,
+    "Memo": "リズ復刻キャラガチャ 03/07 14:30 ~ 03/24 14:29",
+    "GachaCaseUiId": 152,
+    "GachaCategoryType": "Character",
+    "DisplayOrder": 19152,
+    "GachaGroupType": "None",
+    "ElementType": "None",
+    "GachaRelicType": "None",
+    "GachaDestinyType": "None",
+    "GachaSelectListType": "Default",
+    "GachaResetType": "None",
+    "GachaCaseFlags": 1,
+    "StartTimeFixJST": "2025-03-07 14:30:00",
+    "EndTimeFixJST": "2025-03-24 14:29:59",
+    "GachaLimitDayFromCreatePlayer": 0
+  },
+  {
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ（4属性）",
