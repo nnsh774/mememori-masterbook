@@ -11294,5 +11294,21 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 725,
+    "IsIgnore": null,
+    "Memo": "普通のはたき",
+    "ChangeItemType": "Sell",
+    "ItemType": "ItemType.UNKNOWN[43]",
+    "ItemId": 1,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 1,
+        "ItemType": "ItemType.UNKNOWN[44]"
+      }
+    ]
   }
 ]
