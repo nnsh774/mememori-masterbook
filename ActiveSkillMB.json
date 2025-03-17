@@ -13577,6 +13577,151 @@
     "RootActiveSkillId": 113002
   },
   {
+    "Id": 114001,
+    "IsIgnore": null,
+    "Memo": "ポーラSR:Lv1 「準備万端、いくわよ！」自身のHPを自身の最大HP×5％回復する。「私の力、見せてあげる！」その後ランダムな敵3体に攻撃力×360％の物理攻撃を行う。このスキルを7ターン目以降に発動した場合、このスキルの自身のHPを回復する効果は発動せず、物理攻撃のダメージが2倍になる。/ Lv2 物理攻撃のダメージが攻撃力×540％になる。/ Lv3 HPの回復量が自身の最大HP×10％になる。/ Ex1 シャインバレットを強化する。物理攻撃の対象がランダムな敵5体になる。/ Ex3 シャインバレットを強化する。物理攻撃のダメージが攻撃力×590％になる。",
+    "NameKey": "[ActiveSkillName114001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription1140011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          114001001,
+          114001002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription1140012]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          114001001,
+          114001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1140013]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          114001301,
+          114001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1140014]",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          114001301,
+          114001402
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription1140015]",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          114001301,
+          114001502
+        ]
+      }
+    ],
+    "RootActiveSkillId": 114001
+  },
+  {
+    "Id": 114002,
+    "IsIgnore": null,
+    "Memo": "ポーラSR:Lv1 「これで、終わらせる……！」自身のHPを自身の最大HP×5％回復する。その後ランダムな敵に5回攻撃力×180％の物理攻撃を行う。このスキルを7ターン目以降に発動した場合、このスキルの自身のHPを回復する効果は発動せず、物理攻撃のダメージが2倍になる。/ Lv2 物理攻撃のダメージが攻撃力×310％になる。/ Lv3 物理攻撃の回数が8回になる。/ Lv4 HPの回復量が自身の最大HP×10％になる。",
+    "NameKey": "[ActiveSkillName114002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription1140021]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          114002001,
+          114002002,
+          114002003,
+          114002003,
+          114002003,
+          114002003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription1140022]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          114002001,
+          114002202,
+          114002203,
+          114002203,
+          114002203,
+          114002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription1140023]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          114002001,
+          114002202,
+          114002203,
+          114002203,
+          114002203,
+          114002203,
+          114002203,
+          114002203,
+          114002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription1140024]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          114002401,
+          114002202,
+          114002203,
+          114002203,
+          114002203,
+          114002203,
+          114002203,
+          114002203,
+          114002203
+        ]
+      }
+    ],
+    "RootActiveSkillId": 114002
+  },
+  {
     "Id": 550109001,
     "IsIgnore": null,
     "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -42001,5 +42146,150 @@
       }
     ],
     "RootActiveSkillId": 113002
+  },
+  {
+    "Id": 5504114001,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName114001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504114001001,
+          5504114001002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504114001001,
+          5504114001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504114001301,
+          5504114001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504114001301,
+          5504114001402
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          5504114001301,
+          5504114001502
+        ]
+      }
+    ],
+    "RootActiveSkillId": 114001
+  },
+  {
+    "Id": 5504114002,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName114002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504114002001,
+          5504114002002,
+          5504114002003,
+          5504114002003,
+          5504114002003,
+          5504114002003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504114002001,
+          5504114002202,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504114002001,
+          5504114002202,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504114002401,
+          5504114002202,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203,
+          5504114002203
+        ]
+      }
+    ],
+    "RootActiveSkillId": 114002
   }
 ]

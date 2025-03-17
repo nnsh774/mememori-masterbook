@@ -888,5 +888,19 @@
     "StartTimeFixJST": "2025-02-14 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 68,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "NameKey": "[CharacterCollectionName68]",
+    "RequiredCharacterIds": [
+      114,
+      0,
+      0
+    ],
+    "StartTimeFixJST": "2025-03-17 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

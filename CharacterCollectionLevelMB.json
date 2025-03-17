@@ -13446,5 +13446,207 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6801,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 500
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6802,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6803,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6804,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 300
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6805,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1050
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 310
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6806,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1100
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 320
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6807,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1150
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 330
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6808,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1200
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 340
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 6809,
+    "IsIgnore": null,
+    "Memo": "トリアングルムの距離(ポーラ,？,？)",
+    "CollectionId": 68,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      },
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 350
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

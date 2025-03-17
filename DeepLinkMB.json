@@ -522,8 +522,8 @@
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1009,
-      "NumberInfo2": 1009,
+      "NumberInfo1": 1031,
+      "NumberInfo2": 1031,
       "StringInfo": null
     }
   },
@@ -627,13 +627,24 @@
     }
   },
   {
+    "Id": 58,
+    "IsIgnore": null,
+    "Memo": "ポーラ新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 580,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 21594716388,
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1009,
-      "NumberInfo2": 1009,
+      "NumberInfo1": 1031,
+      "NumberInfo2": 1031,
       "StringInfo": null
     }
   }
