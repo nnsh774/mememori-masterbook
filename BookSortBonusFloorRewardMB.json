@@ -1,0 +1,361 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": null,
+    "StartFloor": 5,
+    "EndFloor": 15,
+    "SelectItemsList": [
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 1,
+            "ItemId": 2,
+            "ItemType": "GachaTicket"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 12,
+            "ItemType": "QuestQuickTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 2,
+            "ItemId": 13,
+            "ItemType": "QuestQuickTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 2,
+            "ItemType": "EquipmentReinforcementItem"
+          },
+          {
+            "ItemCount": 150,
+            "ItemId": 3,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 10,
+            "ItemId": 1,
+            "ItemType": "TreasureChestKey"
+          },
+          {
+            "ItemCount": 5,
+            "ItemId": 2,
+            "ItemType": "TreasureChestKey"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": null,
+    "StartFloor": 20,
+    "EndFloor": 40,
+    "SelectItemsList": [
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 2,
+            "ItemId": 2,
+            "ItemType": "GachaTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 13,
+            "ItemType": "QuestQuickTicket"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 6,
+            "ItemType": "TreasureChest"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 200,
+            "ItemId": 1,
+            "ItemType": "EquipmentReinforcementItem"
+          },
+          {
+            "ItemCount": 3,
+            "ItemId": 2,
+            "ItemType": "EquipmentReinforcementItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 1000,
+            "ItemId": 3,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 1,
+            "ItemId": 4,
+            "ItemType": "GachaTicket"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 7,
+            "ItemType": "TreasureChest"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 1,
+            "ItemId": 10,
+            "ItemType": "GachaTicket"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 7,
+            "ItemType": "TreasureChest"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 1,
+            "ItemType": "BossChallengeTicket"
+          },
+          {
+            "ItemCount": 3,
+            "ItemId": 1,
+            "ItemType": "TowerBattleTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 1,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": null,
+    "StartFloor": 45,
+    "EndFloor": 60,
+    "SelectItemsList": [
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 2,
+            "ItemType": "GachaTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 4,
+            "ItemId": 14,
+            "ItemType": "QuestQuickTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 300,
+            "ItemId": 1,
+            "ItemType": "EquipmentReinforcementItem"
+          },
+          {
+            "ItemCount": 5,
+            "ItemId": 2,
+            "ItemType": "EquipmentReinforcementItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 279,
+        "ItemList": [
+          {
+            "ItemCount": 1500,
+            "ItemId": 3,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 2,
+            "ItemId": 4,
+            "ItemType": "GachaTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 2,
+            "ItemId": 10,
+            "ItemType": "GachaTicket"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 1,
+            "ItemType": "ExchangePlaceItem"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": "EquipmentRarityCrystal"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 2,
+            "ItemId": 1,
+            "ItemType": "GachaTicket"
+          },
+          {
+            "ItemCount": 1,
+            "ItemId": 1,
+            "ItemType": "EquipmentRarityCrystal"
+          }
+        ],
+        "StartMaxClearQuestId": 280
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "IsIgnore": null,
+    "Memo": null,
+    "StartFloor": 65,
+    "EndFloor": 0,
+    "SelectItemsList": [
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 10,
+            "ItemId": 1,
+            "ItemType": "TreasureChestKey"
+          },
+          {
+            "ItemCount": 500,
+            "ItemId": 2,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 5,
+            "ItemId": 2,
+            "ItemType": "TreasureChestKey"
+          },
+          {
+            "ItemCount": 500,
+            "ItemId": 2,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      },
+      {
+        "EndMaxClearQuestId": 99999,
+        "ItemList": [
+          {
+            "ItemCount": 3,
+            "ItemId": 3,
+            "ItemType": "TreasureChestKey"
+          },
+          {
+            "ItemCount": 500,
+            "ItemId": 2,
+            "ItemType": "ExchangePlaceItem"
+          }
+        ],
+        "StartMaxClearQuestId": 0
+      }
+    ]
+  }
+]

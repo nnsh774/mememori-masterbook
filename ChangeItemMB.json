@@ -11300,14 +11300,126 @@
     "IsIgnore": null,
     "Memo": "普通のはたき",
     "ChangeItemType": "Sell",
-    "ItemType": "ItemType.UNKNOWN[43]",
+    "ItemType": "BookSortGridCellUnlockItem",
     "ItemId": 1,
     "NeedCount": 1,
     "ChangeItems": [
       {
         "ItemCount": 1,
         "ItemId": 1,
-        "ItemType": "ItemType.UNKNOWN[44]"
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 726,
+    "IsIgnore": null,
+    "Memo": "古いほうき",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 2,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 2,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 727,
+    "IsIgnore": null,
+    "Memo": "新緑のほうき（横）",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 3,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 4,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 728,
+    "IsIgnore": null,
+    "Memo": "新緑のほうき（縦）",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 4,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 4,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 729,
+    "IsIgnore": null,
+    "Memo": "そよ風のはたき",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 5,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 4,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 730,
+    "IsIgnore": null,
+    "Memo": "書庫の大バケツ（十字）",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 6,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 9,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 731,
+    "IsIgnore": null,
+    "Memo": "書庫の大バケツ（クロス）",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 7,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 9,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
+      }
+    ]
+  },
+  {
+    "Id": 732,
+    "IsIgnore": null,
+    "Memo": "お掃除ストーム",
+    "ChangeItemType": "Sell",
+    "ItemType": "BookSortGridCellUnlockItem",
+    "ItemId": 8,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 9,
+        "ItemId": 1,
+        "ItemType": "BookSortEventExchangePlaceItem"
       }
     ]
   }

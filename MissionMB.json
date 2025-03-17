@@ -51634,5 +51634,447 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1718,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_１日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1719,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_２日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1720,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_３日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1721,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_４日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1722,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_５日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": "",
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1723,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_６日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1724,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_７日ログインする",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortLoginCount]",
+    "DescriptionKey": "",
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1725,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_マスを50マス開ける",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortOpenCellCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortUnlockGridCell",
+    "RequireValue": 50,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1726,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_マスを100マス開ける",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortOpenCellCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortUnlockGridCell",
+    "RequireValue": 100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1727,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_マスを200マス開ける",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortOpenCellCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortUnlockGridCell",
+    "RequireValue": 200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1728,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_マスを300マス開ける",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortOpenCellCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortUnlockGridCell",
+    "RequireValue": 300,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1729,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_フロア５に到達する",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortFloorsCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortMaxFloor",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 3,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1730,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_フロア10に到達する",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortFloorsCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortMaxFloor",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 4,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1731,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_フロア15に到達する",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortFloorsCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortMaxFloor",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1732,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_2マス以上を解放するお掃除アイテムを５回使う",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortMultiTileItemCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortConsumeItemCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 3,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1733,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_2マス以上を解放するお掃除アイテムを10回使う",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortMultiTileItemCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortConsumeItemCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 4,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1734,
+    "IsIgnore": null,
+    "Memo": "魔女の書庫整理_2マス以上を解放するお掃除アイテムを15回使う",
+    "MissionType": "BookSort",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameBookSortMultiTileItemCount]",
+    "DescriptionKey": null,
+    "TransitionDestination": "BookSort",
+    "AchievementType": "BookSortConsumeItemCount",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]
