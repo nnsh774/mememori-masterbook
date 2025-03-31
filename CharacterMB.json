@@ -5087,5 +5087,57 @@
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2025-03-17 15:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 115,
+    "IsIgnore": null,
+    "Memo": "ポプリ",
+    "NameKey": "[CharacterName115]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Yellow",
+    "JobFlags": 2,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 0,
+      "Avoidance": 0,
+      "Critical": 1,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 8,
+      "DefensePenetration": 0,
+      "HP": -1,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 2,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3036
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 102,
+      "Health": 67,
+      "Intelligence": 83,
+      "Muscle": 83
+    },
+    "BaseParameterGrossCoefficient": 336,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      115001,
+      115002
+    ],
+    "PassiveSkillIds": [
+      115003,
+      115004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2025-03-31 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]

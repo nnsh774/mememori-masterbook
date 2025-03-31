@@ -4608,13 +4608,15 @@
   {
     "Id": 129,
     "IsIgnore": null,
-    "Memo": "仮+復刻パラデア②+仮（0331切り替え用）",
+    "Memo": "ポプリ①+復刻パラデア②+復刻ユニ①（0331切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-03-31 16:30:00",
+    "StartTimeFixJST": "2025-03-31 15:00:00",
     "EndTimeFixJST": "2025-04-07 14:29:59",
     "OrderNumber": 129,
     "CharacterIdList": [
+      115,
+      76,
       63,
       5,
       6,
@@ -4640,7 +4642,49 @@
       46
     ],
     "NewCharacterIdList": [
+      115,
+      76,
       63
+    ]
+  },
+  {
+    "Id": 130,
+    "IsIgnore": null,
+    "Memo": "ポプリ②+復刻ユニ②+仮（0407切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-04-07 14:30:00",
+    "EndTimeFixJST": "2025-04-15 14:29:59",
+    "OrderNumber": 130,
+    "CharacterIdList": [
+      115,
+      76,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      115,
+      76
     ]
   },
   {

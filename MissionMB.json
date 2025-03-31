@@ -52076,5 +52076,265 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1735,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを710にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 710,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1736,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを720にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 720,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1737,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを730にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 730,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1738,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを740にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 740,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1739,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを750にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 750,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1740,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを760にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 760,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1741,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを770にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 770,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1742,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを780にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 780,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1743,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを790にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 790,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1744,
+    "IsIgnore": null,
+    "Memo": "メイン_ランクを800にする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainRank]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxPlayerLevel",
+    "RequireValue": 800,
+    "StartTime": "2025-03-31 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

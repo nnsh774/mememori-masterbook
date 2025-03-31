@@ -10742,5 +10742,134 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 499,
+    "IsIgnore": null,
+    "Memo": "ポプリSSR180",
+    "CharacterId": 115,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 500,
+    "IsIgnore": null,
+    "Memo": "ポプリSSR200",
+    "CharacterId": 115,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 501,
+    "IsIgnore": null,
+    "Memo": "ポプリSSR220",
+    "CharacterId": 115,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 502,
+    "IsIgnore": null,
+    "Memo": "ポプリSSR240",
+    "CharacterId": 115,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 503,
+    "IsIgnore": null,
+    "Memo": "ポプリUR",
+    "CharacterId": 115,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 504,
+    "IsIgnore": null,
+    "Memo": "ポプリLR",
+    "CharacterId": 115,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]
