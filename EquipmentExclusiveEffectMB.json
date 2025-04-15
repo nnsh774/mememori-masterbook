@@ -11004,5 +11004,139 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 523,
+    "IsIgnore": null,
+    "Memo": "ネブラSSR180",
+    "CharacterId": 87,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 524,
+    "IsIgnore": null,
+    "Memo": "ネブラSSR200",
+    "CharacterId": 87,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      }
+    ]
+  },
+  {
+    "Id": 525,
+    "IsIgnore": null,
+    "Memo": "ネブラSSR220",
+    "CharacterId": 87,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600
+      }
+    ]
+  },
+  {
+    "Id": 526,
+    "IsIgnore": null,
+    "Memo": "ネブラSSR240",
+    "CharacterId": 87,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900
+      }
+    ]
+  },
+  {
+    "Id": 527,
+    "IsIgnore": null,
+    "Memo": "ネブラUR",
+    "CharacterId": 87,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200
+      }
+    ]
+  },
+  {
+    "Id": 528,
+    "IsIgnore": null,
+    "Memo": "ネブラLR",
+    "CharacterId": 87,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500
+      }
+    ]
   }
 ]

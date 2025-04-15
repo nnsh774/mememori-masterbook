@@ -20141,6 +20141,313 @@
     "EffectGroupInfoList": null
   },
   {
+    "Id": 8700100101,
+    "IsIgnore": null,
+    "Memo": "攻撃力と命中率が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName8700100101]",
+    "DescriptionKey": "[EffectGroupDescription8700100101]",
+    "IconType": "Character",
+    "IconId": 87001,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700120101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700100101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 8700120101,
+    "IsIgnore": null,
+    "Memo": "攻撃力と命中率が20%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName8700120101]",
+    "DescriptionKey": "[EffectGroupDescription8700120101]",
+    "IconType": "Character",
+    "IconId": 87001,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700120101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700100101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 8700300101,
+    "IsIgnore": null,
+    "Memo": "[泡沫] 防御貫通が3%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName8700300101]",
+    "DescriptionKey": "[EffectGroupDescription8700300101]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 8700300102,
+    "IsIgnore": null,
+    "Memo": "*印付与",
+    "NameKey": "[EffectGroupName8700300102]",
+    "DescriptionKey": "[EffectGroupDescription8700300102]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 8700300103,
+    "IsIgnore": null,
+    "Memo": "*『泡沫』のスタック数が5になった場合、『泡沫』を解除する。",
+    "NameKey": "[EffectGroupName8700300103]",
+    "DescriptionKey": "[EffectGroupDescription8700300103]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 8700300106,
+    "IsIgnore": null,
+    "Memo": "[気絶] 行動不能になる。",
+    "NameKey": "[EffectGroupName8700300106]",
+    "DescriptionKey": "[EffectGroupDescription8700300106]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 8700300107,
+    "IsIgnore": null,
+    "Memo": "*印解除",
+    "NameKey": "[EffectGroupName8700300107]",
+    "DescriptionKey": "[EffectGroupDescription8700300107]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 8700320101,
+    "IsIgnore": null,
+    "Memo": "[泡沫] 防御貫通が6%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName8700320101]",
+    "DescriptionKey": "[EffectGroupDescription8700320101]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 8700330101,
+    "IsIgnore": null,
+    "Memo": "[泡沫] 防御貫通が10%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName8700330101]",
+    "DescriptionKey": "[EffectGroupDescription8700330101]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 8700400101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが25%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700400101]",
+    "DescriptionKey": "[EffectGroupDescription8700400101]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 8700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
+    "Id": 8700420101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが50%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700420101]",
+    "DescriptionKey": "[EffectGroupDescription8700420101]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 8700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
+    "Id": 8700430101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが75%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700430101]",
+    "DescriptionKey": "[EffectGroupDescription8700430101]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 8700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
+    "Id": 8700440201,
+    "IsIgnore": null,
+    "Memo": "被ダメージが50%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700440201]",
+    "DescriptionKey": "[EffectGroupDescription8700440201]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 8700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 8700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 8700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 8700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
     "Id": 8800120101,
     "IsIgnore": null,
     "Memo": "被ダメージが10%増加する。",
@@ -70366,6 +70673,313 @@
     "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550408700100101,
+    "IsIgnore": null,
+    "Memo": "攻撃力と命中率が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName8700100101]",
+    "DescriptionKey": "[EffectGroupDescription8700100101]",
+    "IconType": "Character",
+    "IconId": 87001,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700120101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700100101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550408700120101,
+    "IsIgnore": null,
+    "Memo": "攻撃力と命中率が20%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName8700120101]",
+    "DescriptionKey": "[EffectGroupDescription8700120101]",
+    "IconType": "Character",
+    "IconId": 87001,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700120101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700100101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550408700300101,
+    "IsIgnore": null,
+    "Memo": "[泡沫] 防御貫通が3%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName8700300101]",
+    "DescriptionKey": "[EffectGroupDescription8700300101]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 550408700300102,
+    "IsIgnore": null,
+    "Memo": "*印付与",
+    "NameKey": "[EffectGroupName8700300102]",
+    "DescriptionKey": "[EffectGroupDescription8700300102]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550408700300103,
+    "IsIgnore": null,
+    "Memo": "*『泡沫』のスタック数が5になった場合、『泡沫』を解除する。",
+    "NameKey": "[EffectGroupName8700300103]",
+    "DescriptionKey": "[EffectGroupDescription8700300103]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550408700300106,
+    "IsIgnore": null,
+    "Memo": "[気絶] 行動不能になる。",
+    "NameKey": "[EffectGroupName8700300106]",
+    "DescriptionKey": "[EffectGroupDescription8700300106]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550408700300107,
+    "IsIgnore": null,
+    "Memo": "*印解除",
+    "NameKey": "[EffectGroupName8700300107]",
+    "DescriptionKey": "[EffectGroupDescription8700300107]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550408700320101,
+    "IsIgnore": null,
+    "Memo": "[泡沫] 防御貫通が6%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName8700320101]",
+    "DescriptionKey": "[EffectGroupDescription8700320101]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 550408700330101,
+    "IsIgnore": null,
+    "Memo": "[泡沫] 防御貫通が10%減少する（最大5スタックまで）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName8700330101]",
+    "DescriptionKey": "[EffectGroupDescription8700330101]",
+    "IconType": "Character",
+    "IconId": 87003,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700330101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700320101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700300101,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 550408700400101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが25%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700400101]",
+    "DescriptionKey": "[EffectGroupDescription8700400101]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 550408700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
+    "Id": 550408700420101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが50%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700420101]",
+    "DescriptionKey": "[EffectGroupDescription8700420101]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 550408700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
+    "Id": 550408700430101,
+    "IsIgnore": null,
+    "Memo": "被ダメージが75%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700430101]",
+    "DescriptionKey": "[EffectGroupDescription8700430101]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 550408700400101,
+        "OrderNumber": 4
+      }
+    ]
+  },
+  {
+    "Id": 550408700440201,
+    "IsIgnore": null,
+    "Memo": "被ダメージが50%減少する。（解除不可）。",
+    "NameKey": "[EffectGroupName8700440201]",
+    "DescriptionKey": "[EffectGroupDescription8700440201]",
+    "IconType": "Character",
+    "IconId": 87004,
+    "CasterIconType": "Character",
+    "CasterIconId": 87,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550408700440201,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550408700430101,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550408700420101,
+        "OrderNumber": 3
+      },
+      {
+        "EffectGroupId": 550408700400101,
+        "OrderNumber": 4
+      }
+    ]
   },
   {
     "Id": 550408800120101,

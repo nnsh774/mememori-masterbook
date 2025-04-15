@@ -4409,6 +4409,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 87,
+    "IsIgnore": null,
+    "Memo": "【泡沫の魔女】ネブラ",
+    "NameKey": "[CharacterName87]",
+    "Name2Key": "[CharacterSubName87]",
+    "CharacterType": "Qlipha",
+    "ElementType": "Dark",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": -3,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 10,
+      "DefensePenetration": 0,
+      "HP": -2,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 5,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 2834
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 84,
+      "Health": 77,
+      "Intelligence": 98,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 343,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      87001,
+      87002
+    ],
+    "PassiveSkillIds": [
+      87003,
+      87004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2025-07-15 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 88,
     "IsIgnore": null,
     "Memo": "使徒ロザリー",
