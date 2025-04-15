@@ -3234,6 +3234,388 @@
     "FixItemList": null
   },
   {
+    "Id": 125,
+    "IsIgnore": null,
+    "Memo": "聖天使の宝箱",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 6,
+          "ItemType": "ExchangePlaceItem"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 7,
+          "ItemType": "ExchangePlaceItem"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ExchangePlaceItem"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 9,
+          "ItemType": "ExchangePlaceItem"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 126,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv710",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10710,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20710,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30710,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 127,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv720",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10720,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20720,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30720,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 128,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv730",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10730,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20730,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30730,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 129,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv740",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10740,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20740,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30740,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 130,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv750",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10750,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20750,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30750,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 131,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv760",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10760,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20760,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30760,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 132,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv770",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10770,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20770,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30770,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv780",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10780,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20780,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30780,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 134,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv790",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10790,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20790,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30790,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 135,
+    "IsIgnore": null,
+    "Memo": "アダマンタイトの原石Lv800",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 10800,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 20800,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 30800,
+          "ItemType": "EquipmentSetMaterial"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

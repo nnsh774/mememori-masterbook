@@ -4,8 +4,9 @@
     "IsIgnore": null,
     "Memo": "デイリーミッション1",
     "MissionGroupType": "Daily",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -34,15 +35,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 2,
     "IsIgnore": null,
     "Memo": "デイリーミッション2",
     "MissionGroupType": "Daily",
-    "Value": 0,
     "RequiredActivityMedalCount": 40,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -71,15 +74,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 3,
     "IsIgnore": null,
     "Memo": "デイリーミッション3",
     "MissionGroupType": "Daily",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -108,15 +113,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 4,
     "IsIgnore": null,
     "Memo": "デイリーミッション4",
     "MissionGroupType": "Daily",
-    "Value": 0,
     "RequiredActivityMedalCount": 80,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -137,15 +144,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 5,
     "IsIgnore": null,
     "Memo": "デイリーミッション5",
     "MissionGroupType": "Daily",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -166,15 +175,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 6,
     "IsIgnore": null,
     "Memo": "ウィークリーミッション1",
     "MissionGroupType": "Weekly",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -203,15 +214,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 7,
     "IsIgnore": null,
     "Memo": "ウィークリーミッション2",
     "MissionGroupType": "Weekly",
-    "Value": 0,
     "RequiredActivityMedalCount": 40,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -240,15 +253,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 8,
     "IsIgnore": null,
     "Memo": "ウィークリーミッション3",
     "MissionGroupType": "Weekly",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -285,15 +300,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 9,
     "IsIgnore": null,
     "Memo": "ウィークリーミッション4",
     "MissionGroupType": "Weekly",
-    "Value": 0,
     "RequiredActivityMedalCount": 80,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -322,15 +339,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10,
     "IsIgnore": null,
     "Memo": "ウィークリーミッション5",
     "MissionGroupType": "Weekly",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -367,15 +386,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 101,
     "IsIgnore": null,
     "Memo": "ギルドミッション1(ギルドLv制限なし)",
     "MissionGroupType": "Guild",
-    "Value": 0,
     "RequiredActivityMedalCount": 1000,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -388,15 +409,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 102,
     "IsIgnore": null,
     "Memo": "ギルドミッション2(ギルドLv制限なし)",
     "MissionGroupType": "Guild",
-    "Value": 0,
     "RequiredActivityMedalCount": 1500,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -417,15 +440,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 103,
     "IsIgnore": null,
     "Memo": "ギルドミッション3(ギルドLv制限なし)",
     "MissionGroupType": "Guild",
-    "Value": 0,
     "RequiredActivityMedalCount": 2000,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -446,15 +471,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 104,
     "IsIgnore": null,
     "Memo": "ギルドミッション4(ギルドLv6以上)",
     "MissionGroupType": "Guild",
-    "Value": 6,
     "RequiredActivityMedalCount": 3000,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -467,15 +494,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 6
   },
   {
     "Id": 105,
     "IsIgnore": null,
     "Memo": "ギルドミッション5(ギルドLv11以上)",
     "MissionGroupType": "Guild",
-    "Value": 11,
     "RequiredActivityMedalCount": 3500,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -496,15 +525,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 11
   },
   {
     "Id": 106,
     "IsIgnore": null,
     "Memo": "ギルドミッション6(ギルドLv16以上)",
     "MissionGroupType": "Guild",
-    "Value": 16,
     "RequiredActivityMedalCount": 4000,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -517,15 +548,17 @@
     ],
     "StartTime": "2020-01-01 00:00:00",
     "EndTime": "2100-01-01 00:00:00",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 16
   },
   {
     "Id": 1001,
     "IsIgnore": null,
     "Memo": "デイリーミッション1_第1回目人気投票",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -538,15 +571,17 @@
     ],
     "StartTime": "2024-09-17 04:00:00",
     "EndTime": "2024-10-03 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1002,
     "IsIgnore": null,
     "Memo": "デイリーミッション2_第1回目人気投票",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 40,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -559,15 +594,17 @@
     ],
     "StartTime": "2024-09-17 04:00:00",
     "EndTime": "2024-10-03 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1003,
     "IsIgnore": null,
     "Memo": "デイリーミッション3_第1回目人気投票",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -580,15 +617,17 @@
     ],
     "StartTime": "2024-09-17 04:00:00",
     "EndTime": "2024-10-03 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1004,
     "IsIgnore": null,
     "Memo": "デイリーミッション4_第1回目人気投票",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 80,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -601,15 +640,17 @@
     ],
     "StartTime": "2024-09-17 04:00:00",
     "EndTime": "2024-10-03 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1005,
     "IsIgnore": null,
     "Memo": "デイリーミッション5_第1回目人気投票",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -622,15 +663,17 @@
     ],
     "StartTime": "2024-09-17 04:00:00",
     "EndTime": "2024-10-03 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1006,
     "IsIgnore": null,
     "Memo": "第一回＿ラッキーチャンスミッション1",
     "MissionGroupType": "Collab",
-    "Value": 0,
     "RequiredActivityMedalCount": 10,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -643,15 +686,17 @@
     ],
     "StartTime": "2024-10-18 00:00:00",
     "EndTime": "2024-11-06 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1007,
     "IsIgnore": null,
     "Memo": "第一回＿ラッキーチャンスミッション2",
     "MissionGroupType": "Collab",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -664,15 +709,17 @@
     ],
     "StartTime": "2024-10-18 00:00:00",
     "EndTime": "2024-11-06 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1008,
     "IsIgnore": null,
     "Memo": "第一回＿ラッキーチャンスミッション3",
     "MissionGroupType": "Collab",
-    "Value": 0,
     "RequiredActivityMedalCount": 25,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -685,15 +732,17 @@
     ],
     "StartTime": "2024-10-18 00:00:00",
     "EndTime": "2024-11-06 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1009,
     "IsIgnore": null,
     "Memo": "第一回＿ラッキーチャンスミッション4",
     "MissionGroupType": "Collab",
-    "Value": 0,
     "RequiredActivityMedalCount": 30,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -706,15 +755,17 @@
     ],
     "StartTime": "2024-10-18 00:00:00",
     "EndTime": "2024-11-06 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1010,
     "IsIgnore": null,
     "Memo": "デイリーミッション1_魔女の書庫整理",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -727,15 +778,17 @@
     ],
     "StartTime": "2025-03-17 04:00:00",
     "EndTime": "2025-03-27 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1011,
     "IsIgnore": null,
     "Memo": "デイリーミッション3_魔女の書庫整理",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -748,15 +801,17 @@
     ],
     "StartTime": "2025-03-17 04:00:00",
     "EndTime": "2025-03-27 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 1012,
     "IsIgnore": null,
     "Memo": "デイリーミッション5_魔女の書庫整理",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -769,15 +824,17 @@
     ],
     "StartTime": "2025-03-17 04:00:00",
     "EndTime": "2025-03-27 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10001,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_タマ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -790,15 +847,17 @@
     ],
     "StartTime": "2024-09-30 04:00:00",
     "EndTime": "2024-10-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10002,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_タマ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -811,15 +870,17 @@
     ],
     "StartTime": "2024-09-30 04:00:00",
     "EndTime": "2024-10-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10003,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_タマ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -832,15 +893,17 @@
     ],
     "StartTime": "2024-09-30 04:00:00",
     "EndTime": "2024-10-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10011,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_ナターシャ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -853,15 +916,17 @@
     ],
     "StartTime": "2024-10-31 04:00:00",
     "EndTime": "2024-11-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10012,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_ナターシャ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -874,15 +939,17 @@
     ],
     "StartTime": "2024-10-31 04:00:00",
     "EndTime": "2024-11-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10013,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_ナターシャ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -895,15 +962,17 @@
     ],
     "StartTime": "2024-10-31 04:00:00",
     "EndTime": "2024-11-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10021,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_冬ソルティーナ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -916,15 +985,17 @@
     ],
     "StartTime": "2024-11-29 04:00:00",
     "EndTime": "2024-12-09 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10022,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_冬ソルティーナ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -937,15 +1008,17 @@
     ],
     "StartTime": "2024-11-29 04:00:00",
     "EndTime": "2024-12-09 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10023,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_冬ソルティーナ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -958,15 +1031,17 @@
     ],
     "StartTime": "2024-11-29 04:00:00",
     "EndTime": "2024-12-09 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10031,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_冬ルナリンド",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -979,15 +1054,17 @@
     ],
     "StartTime": "2024-12-13 04:00:00",
     "EndTime": "2024-12-23 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10032,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_冬ルナリンド",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1000,15 +1077,17 @@
     ],
     "StartTime": "2024-12-13 04:00:00",
     "EndTime": "2024-12-23 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10033,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_冬ルナリンド",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1021,15 +1100,17 @@
     ],
     "StartTime": "2024-12-13 04:00:00",
     "EndTime": "2024-12-23 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10041,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_アルトリア",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1042,15 +1123,17 @@
     ],
     "StartTime": "2025-01-15 04:00:00",
     "EndTime": "2025-01-25 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10042,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_アルトリア",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1063,15 +1146,17 @@
     ],
     "StartTime": "2025-01-15 04:00:00",
     "EndTime": "2025-01-25 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10043,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_アルトリア",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1084,15 +1169,17 @@
     ],
     "StartTime": "2025-01-15 04:00:00",
     "EndTime": "2025-01-25 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10051,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_ルスティカ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1105,15 +1192,17 @@
     ],
     "StartTime": "2025-02-28 04:00:00",
     "EndTime": "2025-03-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10052,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_ルスティカ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1126,15 +1215,17 @@
     ],
     "StartTime": "2025-02-28 04:00:00",
     "EndTime": "2025-03-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10053,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_ルスティカ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1147,15 +1238,17 @@
     ],
     "StartTime": "2025-02-28 04:00:00",
     "EndTime": "2025-03-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10061,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション1_ポプリ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1168,15 +1261,17 @@
     ],
     "StartTime": "2025-03-31 04:00:00",
     "EndTime": "2025-04-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10062,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション3_ポプリ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1189,15 +1284,17 @@
     ],
     "StartTime": "2025-03-31 04:00:00",
     "EndTime": "2025-04-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   },
   {
     "Id": 10063,
     "IsIgnore": null,
     "Memo": "イベント_デイリーミッション5_ポプリ",
     "MissionGroupType": "DailyBonus",
-    "Value": 0,
     "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
     "RewardList": [
       {
         "Item": {
@@ -1210,6 +1307,7 @@
     ],
     "StartTime": "2025-03-31 04:00:00",
     "EndTime": "2025-04-10 03:59:59",
-    "SortOrder": 0
+    "SortOrder": 0,
+    "Value": 0
   }
 ]

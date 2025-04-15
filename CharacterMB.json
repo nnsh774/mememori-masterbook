@@ -2414,7 +2414,8 @@
     ],
     "PassiveSkillIds": [
       47003,
-      47004
+      47004,
+      47005
     ],
     "RequireFragmentCount": 60,
     "ItemRarityFlags": 64,
@@ -5138,6 +5139,58 @@
     "RequireFragmentCount": 60,
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2025-03-31 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 116,
+    "IsIgnore": null,
+    "Memo": "Ｄ.Ｄ.",
+    "NameKey": "[CharacterName116]",
+    "Name2Key": null,
+    "CharacterType": "Normal",
+    "ElementType": "Green",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": -3,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 1,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3075
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 78,
+      "Health": 77,
+      "Intelligence": 97,
+      "Muscle": 83
+    },
+    "BaseParameterGrossCoefficient": 335,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      116001,
+      116002
+    ],
+    "PassiveSkillIds": [
+      116003,
+      116004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2025-04-15 15:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]

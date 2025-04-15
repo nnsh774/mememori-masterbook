@@ -10871,5 +10871,138 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 505,
+    "IsIgnore": null,
+    "Memo": "D.D.SSR180",
+    "CharacterId": 116,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 506,
+    "IsIgnore": null,
+    "Memo": "D.D.SSR200",
+    "CharacterId": 116,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 507,
+    "IsIgnore": null,
+    "Memo": "D.D.SSR220",
+    "CharacterId": 116,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 508,
+    "IsIgnore": null,
+    "Memo": "D.D.SSR240",
+    "CharacterId": 116,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 509,
+    "IsIgnore": null,
+    "Memo": "D.D.UR",
+    "CharacterId": 116,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 510,
+    "IsIgnore": null,
+    "Memo": "D.D.LR",
+    "CharacterId": 116,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

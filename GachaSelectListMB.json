@@ -4692,13 +4692,15 @@
   {
     "Id": 131,
     "IsIgnore": null,
-    "Memo": "仮+仮+復刻タマ②（0415切り替え用）",
+    "Memo": "Ｄ.Ｄ.①+復刻エイル①+復刻タマ②（0415切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-04-15 16:30:00",
+    "StartTimeFixJST": "2025-04-15 15:00:00",
     "EndTimeFixJST": "2025-04-22 14:29:59",
     "OrderNumber": 131,
     "CharacterIdList": [
+      116,
+      59,
       81,
       5,
       6,
@@ -4724,7 +4726,87 @@
       46
     ],
     "NewCharacterIdList": [
+      116,
+      59,
       81
+    ]
+  },
+  {
+    "Id": 132,
+    "IsIgnore": null,
+    "Memo": "Ｄ.Ｄ.②+仮+復刻エイル②（0422切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-04-22 14:30:00",
+    "EndTimeFixJST": "2025-04-30 14:29:59",
+    "OrderNumber": 132,
+    "CharacterIdList": [
+      116,
+      59,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      116,
+      59
+    ]
+  },
+  {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "仮+Ｄ.Ｄ.③+仮（0430切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-04-30 16:30:00",
+    "EndTimeFixJST": "2025-05-07 14:29:59",
+    "OrderNumber": 133,
+    "CharacterIdList": [
+      116,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      116
     ]
   },
   {
@@ -5101,6 +5183,34 @@
       19,
       30,
       40
+    ]
+  },
+  {
+    "Id": 10210,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第21回_ケルベロス・Ａ.Ａ.・ヴァルリーデ・シヴィ・ソフィア・レア・ウィーラ",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-04-15 14:30:00",
+    "EndTimeFixJST": "2025-05-07 14:29:59",
+    "OrderNumber": 10210,
+    "CharacterIdList": [
+      43,
+      48,
+      47,
+      52,
+      51,
+      55,
+      53
+    ],
+    "NewCharacterIdList": [
+      43,
+      48,
+      47,
+      52,
+      51,
+      55,
+      53
     ]
   }
 ]

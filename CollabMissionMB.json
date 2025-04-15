@@ -6,10 +6,14 @@
     "StartEndTimeZoneType": "JstStartLocalEnd",
     "StartTime": "2024-10-18 14:30:00",
     "EndTime": "2024-11-06 03:59:59",
+    "SweepstakesTargetTimeServerIdList": null,
+    "MypageIconDisplayLocationType": "EventPortalOnly",
     "ImageId": 1,
     "ImageX": 0,
     "ImageY": 0,
     "ImageSize": 500,
+    "SweepstakesTicketItemId": 0,
+    "SweepstakesItemList": null,
     "DescriptionTextKey": "[CollabMissionDescription1-2]",
     "TitleTextKey": "[CollabMissionTitle1]",
     "TargetMissionIdList": [
@@ -48,9 +52,9 @@
       1491,
       1492
     ],
+    "NoticeGroupId": 0,
     "Url1": "[CollabMissionURL1001]",
     "Url2": null,
-    "CharacterId": 86,
-    "MypageIconDisplayLocationType": "EventPortalOnly"
+    "CharacterId": 86
   }
 ]

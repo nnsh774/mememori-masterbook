@@ -4799,7 +4799,7 @@
   {
     "Id": 47003,
     "IsIgnore": null,
-    "Memo": "【劫火の魔女】\\nヴァルリーデSR: /Lv1　悲劇を繰り返したくないと願う心が力を与える。毎ターン開始時、もしくは自身が攻撃を受けたとき、自身のHP割合が高いほど自身の攻撃力が増加する（最大25％まで）（解除不可）。　/Lv2 攻撃力の増加量最大値が45％になる。　/Lv3 攻撃力の増加量最大値が70％になる。",
+    "Memo": "ヴァルリーデSR:Lv1 悲劇を繰り返したくないと願う心が力を与える。毎ターン開始時、もしくは自身が攻撃を受けたとき、もしくは自身がアクティブスキルで回復を受けたとき、自身のHP割合が高いほど自身の攻撃力が増加する（最大45％まで）（解除不可）。/ Lv2 さらにバトル開始時、自身に2ターンの間『焔』を付与する（解除不可）。このバフは自身の被ダメージを15％減少させる。/ Lv3 攻撃力の増加量最大値が70％になる。/ Ex2 闘志の焔を強化する。『焔』の被ダメージの減少量が60%になる。",
     "NameKey": "[PassiveSkillName47003]",
     "PassiveSkillInfos": [
       {
@@ -4814,21 +4814,21 @@
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 47003001
+            "SubSetSkillId": 47003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 47003001
+            "SubSetSkillId": 47003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "ReceiveHeal",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 47003001
+            "SubSetSkillId": 47003201
           }
         ]
       },
@@ -4839,6 +4839,13 @@
         "EquipmentRarityFlags": 0,
         "OrderNumber": 2,
         "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 47003200
+          },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
@@ -4871,6 +4878,50 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 47003200
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 47003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 47003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveHeal",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 47003301
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "*",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 47003400
+          },
+          {
+            "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
@@ -4897,7 +4948,7 @@
   {
     "Id": 47004,
     "IsIgnore": null,
-    "Memo": "【劫火の魔女】\\nヴァルリーデSR: /Lv1　思い出すのは、炎の中の記憶。自身を魔女に変えた黒い炎が、引く事を許さない。自身が攻撃を受けて、HP割合が40％以下になった場合、4ターンの間自身の被ダメージが5％減少し、『再生』を付与する（解除不可）。毎ターン行動開始時に自身のHPを自身の最大HP×10％回復する。毎ターン開始時自身のHP割合が90％以上の場合このスキルは解除される。　/Lv2 『再生』での回復量が自身の最大HP×20%になる。　/Lv3 被ダメージの減少量が10％になる。",
+    "Memo": "ヴァルリーデSR:Lv1 思い出すのは、炎の中の記憶。自身を魔女に変えた黒い炎が、引く事を許さない。自身が攻撃を受けたとき、自身のHP割合が40％以下の場合、4ターンの間自身の被ダメージが5％減少し、『再生』を付与する（解除不可）。毎ターン行動開始時に自身のHPを自身の最大HP×10％回復する。毎ターン開始時自身のHP割合が90％以上の場合『被ダメージ減少』と『再生』は解除される。/ Lv2 『再生』での回復量が自身の最大HP×20%になる。/ Lv3 被ダメージの減少量が10％になる。",
     "NameKey": "[PassiveSkillName47004]",
     "PassiveSkillInfos": [
       {
@@ -4972,9 +5023,33 @@
     ]
   },
   {
+    "Id": 47005,
+    "IsIgnore": null,
+    "Memo": "*",
+    "NameKey": "*",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "*",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AlwaysEnemyDead",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 47005001
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 48003,
     "IsIgnore": null,
-    "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。通常攻撃時ランダムな敵1体に自身の魔力×150％の直接攻撃を行う。　/Lv2 　直接攻撃のダメージが自身の魔力×180％になる。/Lv3　直接攻撃のダメージが自身の魔力×220％になる。",
+    "Memo": "A.A.SR:Lv1 数えきれないほどの屍を積み上げて、その「最高傑作」は造られた。自身の通常攻撃を強化する。通常攻撃時ランダムな敵1体に自身の魔力×150％の直接攻撃を行う。/ Lv2 直接攻撃のダメージが自身の魔力×330％になる。/ Lv3 直接攻撃の対象がランダムな敵3体になる。",
     "NameKey": "[PassiveSkillName48003]",
     "PassiveSkillInfos": [
       {
@@ -5030,7 +5105,7 @@
   {
     "Id": 48004,
     "IsIgnore": null,
-    "Memo": "【錆鉄の魔女】\\nＡ．Ａ．SR: /Lv1　内に眠る守護天使が宿主を守る。自身が攻撃を受けたとき、ダメージを25％遮断する。このスキルは1ターン目のターン終了時まで発動する。　/Lv2 　このスキルが2ターン目のターン終了時まで発動するようになる。/Lv3 ダメージを55％遮断する。/専用1 愛の天使を強化する。ダメージを85％遮断する。",
+    "Memo": "A.A.SR:Lv1 内に眠る守護天使が宿主を守る。自身が攻撃を受けたとき、ダメージを25％遮断する。/ Lv2 ダメージの遮断量が40%になる。/ Lv3 ダメージの遮断量が60%になる。/ Ex1 愛の天使を強化する。さらに4ターン目のターン終了時まで、ダメージの遮断量が85%になる。",
     "NameKey": "[PassiveSkillName48004]",
     "PassiveSkillInfos": [
       {
@@ -5102,7 +5177,7 @@
   {
     "Id": 48005,
     "IsIgnore": null,
-    "Memo": "【錆鉄の魔女】\\nＡ．Ａ専属2 自身の命中率が40％増加する（解除不可）。",
+    "Memo": "*",
     "NameKey": "*",
     "PassiveSkillInfos": [
       {
@@ -13999,6 +14074,155 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 115004002
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 116003,
+    "IsIgnore": null,
+    "Memo": "D.D.SR:Lv1 バトル開始時、自身と自身に隣接する味方1体のクリティカル耐性率を5％増加させる（解除不可）。/ Lv2 クリティカル耐性率の増加量が15％になる。/ Lv3 このスキルの対象が自身と自身に隣接する味方2体になる。",
+    "NameKey": "[PassiveSkillName116003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription1160031]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription1160032]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription1160033]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 116004,
+    "IsIgnore": null,
+    "Memo": "D.D.SR:Lv1 バトル開始時、自身の最大HPが40％増加する（解除不可）。/ Lv2 さらに自身が攻撃を受けたとき、ダメージを50％遮断する。/ Lv3 最大HPの増加量が100％になる。/ Ex2 スキル4を強化する。自身が攻撃を受けたとき、さらに攻撃してきた敵のスピードが自身より低い場合、ダメージの遮断量が70％になる。",
+    "NameKey": "[PassiveSkillName116004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription1160041]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription1160042]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 116004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription1160043]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 116004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[PassiveSkillDescription1160044]",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 116004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 116004402
           }
         ]
       }
@@ -41658,7 +41882,7 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "TurnStart",
+            "PassiveTrigger": "TurnStartBType",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
             "SubSetSkillId": 5504069003001
@@ -41668,21 +41892,21 @@
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003004
           }
         ]
       },
@@ -41695,31 +41919,31 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "TurnStart",
+            "PassiveTrigger": "TurnStartBType",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003004
           }
         ]
       },
@@ -41732,31 +41956,31 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "TurnStart",
+            "PassiveTrigger": "TurnStartBType",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003201
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003304
           }
         ]
       },
@@ -41769,31 +41993,31 @@
         "PassiveSubSetSkillInfos": [
           {
             "PassiveGroupId": 0,
-            "PassiveTrigger": "TurnStart",
+            "PassiveTrigger": "TurnStartBType",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003401
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "ReceiveDamage",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003002
           },
           {
             "PassiveGroupId": 0,
             "PassiveTrigger": "TurnStart",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 10,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069003404
           }
         ]
       }
@@ -41817,7 +42041,7 @@
             "PassiveTrigger": "ReceiveDebuff",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069004001
           }
         ]
       },
@@ -41833,7 +42057,7 @@
             "PassiveTrigger": "ReceiveDebuff",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069004201
           }
         ]
       },
@@ -41849,7 +42073,7 @@
             "PassiveTrigger": "ReceiveDebuff",
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 5504069003001
+            "SubSetSkillId": 5504069004301
           }
         ]
       }
@@ -47075,6 +47299,155 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 5504115004002
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504116003,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName116003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504116004,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName116004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504116004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504116004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504116004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "CheckReceiveDamage",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504116004402
           }
         ]
       }

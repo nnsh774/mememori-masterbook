@@ -196,5 +196,27 @@
     "CharacterImageX": 10,
     "CharacterImageY": 0,
     "CharacterImageSize": 665.599976
+  },
+  {
+    "Id": 10,
+    "IsIgnore": null,
+    "Memo": "2025_2.5周年記念ログインボーナス(2025)",
+    "StartTime": "2025-04-15 04:00:00",
+    "EndTime": "2025-05-13 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 10,
+    "CharacterImageId": 48,
+    "RewardBackgroundImageId": 9,
+    "SpecialRewardBackgroundImageId": 9,
+    "TitleTextKey": "[LimitedLoginBonusTitle10]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal4]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "EventPortalOnly",
+    "CharacterImageX": 10,
+    "CharacterImageY": 0,
+    "CharacterImageSize": 665.599976
   }
 ]
