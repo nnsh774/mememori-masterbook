@@ -11454,5 +11454,37 @@
         "ItemType": "BookSortEventExchangePlaceItem"
       }
     ]
+  },
+  {
+    "Id": 733,
+    "IsIgnore": null,
+    "Memo": "えーちゃんの勉強道具",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 29,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 734,
+    "IsIgnore": null,
+    "Memo": "制服A.A.ガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1170,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]

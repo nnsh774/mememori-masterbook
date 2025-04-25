@@ -1309,5 +1309,74 @@
     "EndTime": "2025-04-10 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 10071,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション1_制服A.A.",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 29,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-04-30 04:00:00",
+    "EndTime": "2025-05-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10072,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション3_制服A.A.",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 29,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-04-30 04:00:00",
+    "EndTime": "2025-05-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10073,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション5_制服A.A.",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 29,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-04-30 04:00:00",
+    "EndTime": "2025-05-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
   }
 ]
