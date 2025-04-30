@@ -12310,5 +12310,131 @@
     ],
     "TextKey": "[CharacterStoryText11607]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 797,
+    "IsIgnore": null,
+    "Memo": "制服A.A.1",
+    "CharacterId": 117,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11701]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 798,
+    "IsIgnore": null,
+    "Memo": "制服A.A.2",
+    "CharacterId": 117,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11702]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 799,
+    "IsIgnore": null,
+    "Memo": "制服A.A.3",
+    "CharacterId": 117,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11703]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 800,
+    "IsIgnore": null,
+    "Memo": "制服A.A.4",
+    "CharacterId": 117,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11704]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 801,
+    "IsIgnore": null,
+    "Memo": "制服A.A.5",
+    "CharacterId": 117,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11705]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 802,
+    "IsIgnore": null,
+    "Memo": "制服A.A.6",
+    "CharacterId": 117,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11706]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 803,
+    "IsIgnore": null,
+    "Memo": "制服A.A.7",
+    "CharacterId": 117,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText11707]",
+    "RarityFlags": 512
   }
 ]

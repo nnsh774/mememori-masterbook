@@ -14088,5 +14088,207 @@
     "BattleParameterChangeInfos": null,
     "CharacterRarityBonus": 0,
     "MaxLevelIncreaseValue": 5
+  },
+  {
+    "Id": 7201,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 100
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7202,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7203,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7204,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 200
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7205,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 205
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1050
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7206,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 210
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1100
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7207,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 215
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1150
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7208,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 220
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7209,
+    "IsIgnore": null,
+    "Memo": "ポラリスの愛情(制服Ａ.Ａ.,Ａ.Ａ.,メルティーユ)",
+    "CollectionId": 72,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 225
+      },
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

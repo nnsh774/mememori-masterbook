@@ -12937,6 +12937,23 @@
     "SortOrder": 21
   },
   {
+    "Id": 2922,
+    "IsIgnore": null,
+    "Memo": "メルティーユ朗読",
+    "CharacterId": 29,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 200
+  },
+  {
     "Id": 2990,
     "IsIgnore": null,
     "Memo": "メルティーユ",
@@ -22183,6 +22200,23 @@
       "VoiceId": 0
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 4822,
+    "IsIgnore": null,
+    "Memo": "A.A.朗読",
+    "CharacterId": 48,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 200
   },
   {
     "Id": 4880,
@@ -48131,6 +48165,482 @@
     "IsIgnore": null,
     "Memo": "D.D.",
     "CharacterId": 116,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4,
+      "VoiceId": 0
+    },
+    "SortOrder": 103
+  },
+  {
+    "Id": 11702,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11702]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 11703,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11703]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3,
+      "VoiceId": 0
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 11704,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11704]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4,
+      "VoiceId": 0
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 11705,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11705]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5,
+      "VoiceId": 0
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 11706,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11706]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6,
+      "VoiceId": 0
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 11707,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11707]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7,
+      "VoiceId": 0
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 11708,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11708]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8,
+      "VoiceId": 0
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 11709,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11709]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9,
+      "VoiceId": 0
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 11710,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11710]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10,
+      "VoiceId": 0
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 11711,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11711]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11,
+      "VoiceId": 0
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 11712,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11712]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12,
+      "VoiceId": 0
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 11713,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11713]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13,
+      "VoiceId": 0
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 11714,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11714]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14,
+      "VoiceId": 0
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 11715,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11715]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15,
+      "VoiceId": 0
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 11716,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11716]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16,
+      "VoiceId": 0
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 11717,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11717]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17,
+      "VoiceId": 0
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 11718,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11718]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18,
+      "VoiceId": 0
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 11719,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11719]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19,
+      "VoiceId": 0
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 11720,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11720]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20,
+      "VoiceId": 0
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 11721,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11721]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21,
+      "VoiceId": 0
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 11790,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11790]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20,
+      "VoiceId": 0
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 11791,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11791]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21,
+      "VoiceId": 0
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 11792,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11792]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 11793,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle11793]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 11796,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 100
+  },
+  {
+    "Id": 11797,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 101
+  },
+  {
+    "Id": 11798,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3,
+      "VoiceId": 0
+    },
+    "SortOrder": 102
+  },
+  {
+    "Id": 11799,
+    "IsIgnore": null,
+    "Memo": "制服A.A.",
+    "CharacterId": 117,
     "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
     "SubtitleKey": null,
     "CharacterVoiceCategory": "Other",

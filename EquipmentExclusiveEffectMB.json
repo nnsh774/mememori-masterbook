@@ -4969,7 +4969,7 @@
   {
     "Id": 229,
     "IsIgnore": null,
-    "Memo": "シヴィSSR200",
+    "Memo": "シヴィSSR180",
     "CharacterId": 52,
     "BaseParameterChangeInfoList": null,
     "BattleParameterChangeInfoList": [
@@ -4983,7 +4983,7 @@
   {
     "Id": 230,
     "IsIgnore": null,
-    "Memo": "シヴィSSR220",
+    "Memo": "シヴィSSR200",
     "CharacterId": 52,
     "BaseParameterChangeInfoList": null,
     "BattleParameterChangeInfoList": [
@@ -5002,7 +5002,7 @@
   {
     "Id": 231,
     "IsIgnore": null,
-    "Memo": "シヴィSSR240",
+    "Memo": "シヴィSSR220",
     "CharacterId": 52,
     "BaseParameterChangeInfoList": [
       {
@@ -5027,7 +5027,7 @@
   {
     "Id": 232,
     "IsIgnore": null,
-    "Memo": "シヴィUR",
+    "Memo": "シヴィSSR240",
     "CharacterId": 52,
     "BaseParameterChangeInfoList": [
       {
@@ -5052,7 +5052,7 @@
   {
     "Id": 233,
     "IsIgnore": null,
-    "Memo": "シヴィLR",
+    "Memo": "シヴィUR",
     "CharacterId": 52,
     "BaseParameterChangeInfoList": [
       {
@@ -5077,7 +5077,7 @@
   {
     "Id": 234,
     "IsIgnore": null,
-    "Memo": "シヴィSSR180",
+    "Memo": "シヴィLR",
     "CharacterId": 52,
     "BaseParameterChangeInfoList": [
       {
@@ -11002,6 +11002,135 @@
         "BattleParameterType": "DebuffHit",
         "ChangeParameterType": "AdditionPercent",
         "Value": 1000
+      }
+    ]
+  },
+  {
+    "Id": 511,
+    "IsIgnore": null,
+    "Memo": "制服A.A.SSR180",
+    "CharacterId": 117,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 512,
+    "IsIgnore": null,
+    "Memo": "制服A.A.SSR200",
+    "CharacterId": 117,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 513,
+    "IsIgnore": null,
+    "Memo": "制服A.A.SSR220",
+    "CharacterId": 117,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5500
+      }
+    ]
+  },
+  {
+    "Id": 514,
+    "IsIgnore": null,
+    "Memo": "制服A.A.SSR240",
+    "CharacterId": 117,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6000
+      }
+    ]
+  },
+  {
+    "Id": 515,
+    "IsIgnore": null,
+    "Memo": "制服A.A.UR",
+    "CharacterId": 117,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6500
+      }
+    ]
+  },
+  {
+    "Id": 516,
+    "IsIgnore": null,
+    "Memo": "制服A.A.LR",
+    "CharacterId": 117,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 7000
       }
     ]
   },
