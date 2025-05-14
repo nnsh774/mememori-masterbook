@@ -10548,6 +10548,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 601,
+    "IsIgnore": null,
+    "Memo": "ルシール1",
+    "CharacterId": 89,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8901]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 602,
+    "IsIgnore": null,
+    "Memo": "ルシール2",
+    "CharacterId": 89,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8902]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 603,
+    "IsIgnore": null,
+    "Memo": "ルシール3",
+    "CharacterId": 89,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8903]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 604,
+    "IsIgnore": null,
+    "Memo": "ルシール4",
+    "CharacterId": 89,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8904]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 605,
+    "IsIgnore": null,
+    "Memo": "ルシール5",
+    "CharacterId": 89,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8905]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 606,
+    "IsIgnore": null,
+    "Memo": "ルシール6",
+    "CharacterId": 89,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8906]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 607,
+    "IsIgnore": null,
+    "Memo": "ルシール7",
+    "CharacterId": 89,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8907]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 629,
     "IsIgnore": null,
     "Memo": "アルトリア1",

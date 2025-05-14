@@ -11135,6 +11135,135 @@
     ]
   },
   {
+    "Id": 517,
+    "IsIgnore": null,
+    "Memo": "ルシールSSR180",
+    "CharacterId": 89,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 518,
+    "IsIgnore": null,
+    "Memo": "ルシールSSR200",
+    "CharacterId": 89,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 519,
+    "IsIgnore": null,
+    "Memo": "ルシールSSR220",
+    "CharacterId": 89,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      }
+    ]
+  },
+  {
+    "Id": 520,
+    "IsIgnore": null,
+    "Memo": "ルシールSSR240",
+    "CharacterId": 89,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      }
+    ]
+  },
+  {
+    "Id": 521,
+    "IsIgnore": null,
+    "Memo": "ルシールUR",
+    "CharacterId": 89,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000
+      }
+    ]
+  },
+  {
+    "Id": 522,
+    "IsIgnore": null,
+    "Memo": "ルシールLR",
+    "CharacterId": 89,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200
+      }
+    ]
+  },
+  {
     "Id": 523,
     "IsIgnore": null,
     "Memo": "ネブラSSR180",

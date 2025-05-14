@@ -22218,5 +22218,4449 @@
       6050001294,
       6050001295
     ]
+  },
+  {
+    "Id": 6001,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 1,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 900260,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000011,
+      6060000012,
+      6060000013,
+      6060000014,
+      6060000015
+    ]
+  },
+  {
+    "Id": 6002,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 2,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 920515,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000021,
+      6060000022,
+      6060000023,
+      6060000024,
+      6060000025
+    ]
+  },
+  {
+    "Id": 6003,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 3,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 940771,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000031,
+      6060000032,
+      6060000033,
+      6060000034,
+      6060000035
+    ]
+  },
+  {
+    "Id": 6004,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 4,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 961027,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      64
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000041,
+      6060000042,
+      6060000043,
+      6060000044,
+      6060000045
+    ]
+  },
+  {
+    "Id": 6005,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 5,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 981283,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      44,
+      65
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000051,
+      6060000052,
+      6060000053,
+      6060000054,
+      6060000055
+    ]
+  },
+  {
+    "Id": 6006,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 6,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1001539,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      24,
+      45,
+      67
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000061,
+      6060000062,
+      6060000063,
+      6060000064,
+      6060000065
+    ]
+  },
+  {
+    "Id": 6007,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 7,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1021795,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      46,
+      68
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000071,
+      6060000072,
+      6060000073,
+      6060000074,
+      6060000075
+    ]
+  },
+  {
+    "Id": 6008,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 8,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1042050,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      48,
+      70
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000081,
+      6060000082,
+      6060000083,
+      6060000084,
+      6060000085
+    ]
+  },
+  {
+    "Id": 6009,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 9,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1062306,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      26,
+      49,
+      71
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000091,
+      6060000092,
+      6060000093,
+      6060000094,
+      6060000095
+    ]
+  },
+  {
+    "Id": 6010,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 10,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1082562,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      26,
+      50,
+      73
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 500,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000101,
+      6060000102,
+      6060000103,
+      6060000104,
+      6060000105
+    ]
+  },
+  {
+    "Id": 6011,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 11,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1102818,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      27,
+      51,
+      75
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000111,
+      6060000112,
+      6060000113,
+      6060000114,
+      6060000115
+    ]
+  },
+  {
+    "Id": 6012,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 12,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1123074,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      28,
+      52,
+      77
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000121,
+      6060000122,
+      6060000123,
+      6060000124,
+      6060000125
+    ]
+  },
+  {
+    "Id": 6013,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 13,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1143330,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      28,
+      53,
+      78
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000131,
+      6060000132,
+      6060000133,
+      6060000134,
+      6060000135
+    ]
+  },
+  {
+    "Id": 6014,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 14,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1163586,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      29,
+      55,
+      80
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000141,
+      6060000142,
+      6060000143,
+      6060000144,
+      6060000145
+    ]
+  },
+  {
+    "Id": 6015,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 15,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1183841,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      56,
+      82
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000151,
+      6060000152,
+      6060000153,
+      6060000154,
+      6060000155
+    ]
+  },
+  {
+    "Id": 6016,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 16,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1204097,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      57,
+      84
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000161,
+      6060000162,
+      6060000163,
+      6060000164,
+      6060000165
+    ]
+  },
+  {
+    "Id": 6017,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 17,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1224353,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      31,
+      58,
+      86
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000171,
+      6060000172,
+      6060000173,
+      6060000174,
+      6060000175
+    ]
+  },
+  {
+    "Id": 6018,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 18,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1244609,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      60,
+      88
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000181,
+      6060000182,
+      6060000183,
+      6060000184,
+      6060000185
+    ]
+  },
+  {
+    "Id": 6019,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 19,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1264865,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      61,
+      90
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000191,
+      6060000192,
+      6060000193,
+      6060000194,
+      6060000195
+    ]
+  },
+  {
+    "Id": 6020,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 20,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1285121,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      33,
+      63,
+      92
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000201,
+      6060000202,
+      6060000203,
+      6060000204,
+      6060000205
+    ]
+  },
+  {
+    "Id": 6021,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 21,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1305377,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      34,
+      64,
+      94
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000211,
+      6060000212,
+      6060000213,
+      6060000214,
+      6060000215
+    ]
+  },
+  {
+    "Id": 6022,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 22,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1325632,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      19,
+      35,
+      65,
+      96
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000221,
+      6060000222,
+      6060000223,
+      6060000224,
+      6060000225
+    ]
+  },
+  {
+    "Id": 6023,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 23,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1345888,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      67,
+      98
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000231,
+      6060000232,
+      6060000233,
+      6060000234,
+      6060000235
+    ]
+  },
+  {
+    "Id": 6024,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 24,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1366144,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      69,
+      101
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000241,
+      6060000242,
+      6060000243,
+      6060000244,
+      6060000245
+    ]
+  },
+  {
+    "Id": 6025,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 25,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1386400,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      37,
+      70,
+      103
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000251,
+      6060000252,
+      6060000253,
+      6060000254,
+      6060000255
+    ]
+  },
+  {
+    "Id": 6026,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 26,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1406656,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      38,
+      72,
+      105
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000261,
+      6060000262,
+      6060000263,
+      6060000264,
+      6060000265
+    ]
+  },
+  {
+    "Id": 6027,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 27,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1426912,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      22,
+      39,
+      73,
+      108
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000271,
+      6060000272,
+      6060000273,
+      6060000274,
+      6060000275
+    ]
+  },
+  {
+    "Id": 6028,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 28,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1447167,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      22,
+      40,
+      75,
+      110
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000281,
+      6060000282,
+      6060000283,
+      6060000284,
+      6060000285
+    ]
+  },
+  {
+    "Id": 6029,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 29,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1467423,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      41,
+      77,
+      113
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000291,
+      6060000292,
+      6060000293,
+      6060000294,
+      6060000295
+    ]
+  },
+  {
+    "Id": 6030,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 30,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1487679,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      42,
+      79,
+      115
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000301,
+      6060000302,
+      6060000303,
+      6060000304,
+      6060000305
+    ]
+  },
+  {
+    "Id": 6031,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 31,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1507935,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      24,
+      43,
+      80,
+      118
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000311,
+      6060000312,
+      6060000313,
+      6060000314,
+      6060000315
+    ]
+  },
+  {
+    "Id": 6032,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 32,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1528191,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      44,
+      82,
+      121
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000321,
+      6060000322,
+      6060000323,
+      6060000324,
+      6060000325
+    ]
+  },
+  {
+    "Id": 6033,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 33,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1548447,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      45,
+      84,
+      124
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000331,
+      6060000332,
+      6060000333,
+      6060000334,
+      6060000335
+    ]
+  },
+  {
+    "Id": 6034,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 34,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1568703,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      46,
+      86,
+      126
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000341,
+      6060000342,
+      6060000343,
+      6060000344,
+      6060000345
+    ]
+  },
+  {
+    "Id": 6035,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 35,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1588958,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      47,
+      88,
+      129
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000351,
+      6060000352,
+      6060000353,
+      6060000354,
+      6060000355
+    ]
+  },
+  {
+    "Id": 6036,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 36,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1609214,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      27,
+      48,
+      90,
+      132
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000361,
+      6060000362,
+      6060000363,
+      6060000364,
+      6060000365
+    ]
+  },
+  {
+    "Id": 6037,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 37,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1629470,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      49,
+      92,
+      135
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000371,
+      6060000372,
+      6060000373,
+      6060000374,
+      6060000375
+    ]
+  },
+  {
+    "Id": 6038,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 38,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1649726,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      50,
+      94,
+      138
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000381,
+      6060000382,
+      6060000383,
+      6060000384,
+      6060000385
+    ]
+  },
+  {
+    "Id": 6039,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 39,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1669982,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      29,
+      51,
+      97,
+      142
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000391,
+      6060000392,
+      6060000393,
+      6060000394,
+      6060000395
+    ]
+  },
+  {
+    "Id": 6040,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 40,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1690238,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      53,
+      99,
+      145
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000401,
+      6060000402,
+      6060000403,
+      6060000404,
+      6060000405
+    ]
+  },
+  {
+    "Id": 6041,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 41,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1691524,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      54,
+      101,
+      148
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000411,
+      6060000412,
+      6060000413,
+      6060000414,
+      6060000415
+    ]
+  },
+  {
+    "Id": 6042,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 42,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1692810,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      31,
+      55,
+      103,
+      152
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000421,
+      6060000422,
+      6060000423,
+      6060000424,
+      6060000425
+    ]
+  },
+  {
+    "Id": 6043,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 43,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1694096,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      32,
+      56,
+      106,
+      155
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000431,
+      6060000432,
+      6060000433,
+      6060000434,
+      6060000435
+    ]
+  },
+  {
+    "Id": 6044,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 44,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1695382,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      32,
+      58,
+      108,
+      159
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000441,
+      6060000442,
+      6060000443,
+      6060000444,
+      6060000445
+    ]
+  },
+  {
+    "Id": 6045,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 45,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1696668,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      33,
+      59,
+      111,
+      162
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000451,
+      6060000452,
+      6060000453,
+      6060000454,
+      6060000455
+    ]
+  },
+  {
+    "Id": 6046,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 46,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1697954,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      34,
+      60,
+      113,
+      166
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000461,
+      6060000462,
+      6060000463,
+      6060000464,
+      6060000465
+    ]
+  },
+  {
+    "Id": 6047,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 47,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1699240,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      35,
+      62,
+      116,
+      170
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000471,
+      6060000472,
+      6060000473,
+      6060000474,
+      6060000475
+    ]
+  },
+  {
+    "Id": 6048,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 48,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1700526,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      35,
+      63,
+      119,
+      174
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000481,
+      6060000482,
+      6060000483,
+      6060000484,
+      6060000485
+    ]
+  },
+  {
+    "Id": 6049,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 49,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1701812,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      36,
+      65,
+      121,
+      178
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000491,
+      6060000492,
+      6060000493,
+      6060000494,
+      6060000495
+    ]
+  },
+  {
+    "Id": 6050,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 50,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1703098,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      37,
+      66,
+      124,
+      182
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 2,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000501,
+      6060000502,
+      6060000503,
+      6060000504,
+      6060000505
+    ]
+  },
+  {
+    "Id": 6051,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 51,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1704384,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      38,
+      68,
+      127,
+      186
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000511,
+      6060000512,
+      6060000513,
+      6060000514,
+      6060000515
+    ]
+  },
+  {
+    "Id": 6052,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 52,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1705670,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      39,
+      69,
+      130,
+      190
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000521,
+      6060000522,
+      6060000523,
+      6060000524,
+      6060000525
+    ]
+  },
+  {
+    "Id": 6053,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 53,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1706956,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      40,
+      71,
+      133,
+      195
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000531,
+      6060000532,
+      6060000533,
+      6060000534,
+      6060000535
+    ]
+  },
+  {
+    "Id": 6054,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 54,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1708242,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      41,
+      72,
+      136,
+      199
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000541,
+      6060000542,
+      6060000543,
+      6060000544,
+      6060000545
+    ]
+  },
+  {
+    "Id": 6055,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 55,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1709528,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      42,
+      74,
+      139,
+      204
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000551,
+      6060000552,
+      6060000553,
+      6060000554,
+      6060000555
+    ]
+  },
+  {
+    "Id": 6056,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 56,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1710814,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      43,
+      76,
+      142,
+      209
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000561,
+      6060000562,
+      6060000563,
+      6060000564,
+      6060000565
+    ]
+  },
+  {
+    "Id": 6057,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 57,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1712100,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      44,
+      78,
+      145,
+      213
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000571,
+      6060000572,
+      6060000573,
+      6060000574,
+      6060000575
+    ]
+  },
+  {
+    "Id": 6058,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 58,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1713386,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      45,
+      79,
+      149,
+      218
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000581,
+      6060000582,
+      6060000583,
+      6060000584,
+      6060000585
+    ]
+  },
+  {
+    "Id": 6059,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 59,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1714672,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      46,
+      81,
+      152,
+      223
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000591,
+      6060000592,
+      6060000593,
+      6060000594,
+      6060000595
+    ]
+  },
+  {
+    "Id": 6060,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 60,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1715958,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      47,
+      83,
+      156,
+      228
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000601,
+      6060000602,
+      6060000603,
+      6060000604,
+      6060000605
+    ]
+  },
+  {
+    "Id": 6061,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 61,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1717245,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      48,
+      85,
+      159,
+      234
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000611,
+      6060000612,
+      6060000613,
+      6060000614,
+      6060000615
+    ]
+  },
+  {
+    "Id": 6062,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 62,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1723997,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      49,
+      87,
+      163,
+      239
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000621,
+      6060000622,
+      6060000623,
+      6060000624,
+      6060000625
+    ]
+  },
+  {
+    "Id": 6063,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 63,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1730749,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      50,
+      89,
+      167,
+      245
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000631,
+      6060000632,
+      6060000633,
+      6060000634,
+      6060000635
+    ]
+  },
+  {
+    "Id": 6064,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 64,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1737501,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      51,
+      91,
+      171,
+      250
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000641,
+      6060000642,
+      6060000643,
+      6060000644,
+      6060000645
+    ]
+  },
+  {
+    "Id": 6065,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 65,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1744253,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      52,
+      93,
+      175,
+      256
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000651,
+      6060000652,
+      6060000653,
+      6060000654,
+      6060000655
+    ]
+  },
+  {
+    "Id": 6066,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 66,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1751005,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      54,
+      95,
+      179,
+      262
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000661,
+      6060000662,
+      6060000663,
+      6060000664,
+      6060000665
+    ]
+  },
+  {
+    "Id": 6067,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 67,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1757757,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      55,
+      97,
+      183,
+      268
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000671,
+      6060000672,
+      6060000673,
+      6060000674,
+      6060000675
+    ]
+  },
+  {
+    "Id": 6068,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 68,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1764509,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      56,
+      100,
+      187,
+      274
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000681,
+      6060000682,
+      6060000683,
+      6060000684,
+      6060000685
+    ]
+  },
+  {
+    "Id": 6069,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 69,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1771261,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      57,
+      102,
+      191,
+      280
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000691,
+      6060000692,
+      6060000693,
+      6060000694,
+      6060000695
+    ]
+  },
+  {
+    "Id": 6070,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 70,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1778013,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      59,
+      104,
+      196,
+      287
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000701,
+      6060000702,
+      6060000703,
+      6060000704,
+      6060000705
+    ]
+  },
+  {
+    "Id": 6071,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 71,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1784765,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      60,
+      107,
+      200,
+      293
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000711,
+      6060000712,
+      6060000713,
+      6060000714,
+      6060000715
+    ]
+  },
+  {
+    "Id": 6072,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 72,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1791517,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      62,
+      109,
+      205,
+      300
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000721,
+      6060000722,
+      6060000723,
+      6060000724,
+      6060000725
+    ]
+  },
+  {
+    "Id": 6073,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 73,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1798269,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      63,
+      112,
+      209,
+      307
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000731,
+      6060000732,
+      6060000733,
+      6060000734,
+      6060000735
+    ]
+  },
+  {
+    "Id": 6074,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 74,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1805021,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      64,
+      114,
+      214,
+      314
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000741,
+      6060000742,
+      6060000743,
+      6060000744,
+      6060000745
+    ]
+  },
+  {
+    "Id": 6075,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 75,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1811773,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      66,
+      117,
+      219,
+      321
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000751,
+      6060000752,
+      6060000753,
+      6060000754,
+      6060000755
+    ]
+  },
+  {
+    "Id": 6076,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 76,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1818525,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      67,
+      120,
+      224,
+      329
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000761,
+      6060000762,
+      6060000763,
+      6060000764,
+      6060000765
+    ]
+  },
+  {
+    "Id": 6077,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 77,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1825277,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      69,
+      122,
+      229,
+      336
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000771,
+      6060000772,
+      6060000773,
+      6060000774,
+      6060000775
+    ]
+  },
+  {
+    "Id": 6078,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 78,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1832029,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      71,
+      125,
+      235,
+      344
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000781,
+      6060000782,
+      6060000783,
+      6060000784,
+      6060000785
+    ]
+  },
+  {
+    "Id": 6079,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 79,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1838781,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      72,
+      128,
+      240,
+      352
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000791,
+      6060000792,
+      6060000793,
+      6060000794,
+      6060000795
+    ]
+  },
+  {
+    "Id": 6080,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 80,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1845533,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      74,
+      131,
+      246,
+      360
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000801,
+      6060000802,
+      6060000803,
+      6060000804,
+      6060000805
+    ]
+  },
+  {
+    "Id": 6081,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 81,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1852284,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      76,
+      134,
+      251,
+      368
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000811,
+      6060000812,
+      6060000813,
+      6060000814,
+      6060000815
+    ]
+  },
+  {
+    "Id": 6082,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 82,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1859036,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      77,
+      137,
+      257,
+      377
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000821,
+      6060000822,
+      6060000823,
+      6060000824,
+      6060000825
+    ]
+  },
+  {
+    "Id": 6083,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 83,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1865788,
+    "BaseReinforcementMaterialCountList": [
+      24,
+      79,
+      140,
+      263,
+      385
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000831,
+      6060000832,
+      6060000833,
+      6060000834,
+      6060000835
+    ]
+  },
+  {
+    "Id": 6084,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 84,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1872540,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      81,
+      144,
+      269,
+      394
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000841,
+      6060000842,
+      6060000843,
+      6060000844,
+      6060000845
+    ]
+  },
+  {
+    "Id": 6085,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 85,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1879292,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      83,
+      147,
+      275,
+      403
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000851,
+      6060000852,
+      6060000853,
+      6060000854,
+      6060000855
+    ]
+  },
+  {
+    "Id": 6086,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 86,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1886044,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      85,
+      150,
+      281,
+      413
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000861,
+      6060000862,
+      6060000863,
+      6060000864,
+      6060000865
+    ]
+  },
+  {
+    "Id": 6087,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 87,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1892796,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      87,
+      154,
+      288,
+      422
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000871,
+      6060000872,
+      6060000873,
+      6060000874,
+      6060000875
+    ]
+  },
+  {
+    "Id": 6088,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 88,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1899548,
+    "BaseReinforcementMaterialCountList": [
+      27,
+      89,
+      157,
+      295,
+      432
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000881,
+      6060000882,
+      6060000883,
+      6060000884,
+      6060000885
+    ]
+  },
+  {
+    "Id": 6089,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 89,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1906300,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      91,
+      161,
+      301,
+      442
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000891,
+      6060000892,
+      6060000893,
+      6060000894,
+      6060000895
+    ]
+  },
+  {
+    "Id": 6090,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 90,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1913052,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      93,
+      165,
+      308,
+      452
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000901,
+      6060000902,
+      6060000903,
+      6060000904,
+      6060000905
+    ]
+  },
+  {
+    "Id": 6091,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 91,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1919804,
+    "BaseReinforcementMaterialCountList": [
+      29,
+      95,
+      168,
+      315,
+      462
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000911,
+      6060000912,
+      6060000913,
+      6060000914,
+      6060000915
+    ]
+  },
+  {
+    "Id": 6092,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 92,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1926556,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      97,
+      172,
+      323,
+      473
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000921,
+      6060000922,
+      6060000923,
+      6060000924,
+      6060000925
+    ]
+  },
+  {
+    "Id": 6093,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 93,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1933308,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      99,
+      176,
+      330,
+      484
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000931,
+      6060000932,
+      6060000933,
+      6060000934,
+      6060000935
+    ]
+  },
+  {
+    "Id": 6094,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 94,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1940060,
+    "BaseReinforcementMaterialCountList": [
+      31,
+      102,
+      180,
+      338,
+      495
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000941,
+      6060000942,
+      6060000943,
+      6060000944,
+      6060000945
+    ]
+  },
+  {
+    "Id": 6095,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 95,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1946812,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      104,
+      185,
+      345,
+      506
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060000951,
+      6060000952,
+      6060000953,
+      6060000954,
+      6060000955
+    ]
+  },
+  {
+    "Id": 6096,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 96,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1953564,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      106,
+      189,
+      353,
+      518
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000961,
+      6060000962,
+      6060000963,
+      6060000964,
+      6060000965
+    ]
+  },
+  {
+    "Id": 6097,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 97,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1960316,
+    "BaseReinforcementMaterialCountList": [
+      33,
+      109,
+      193,
+      361,
+      530
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000971,
+      6060000972,
+      6060000973,
+      6060000974,
+      6060000975
+    ]
+  },
+  {
+    "Id": 6098,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 98,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1967068,
+    "BaseReinforcementMaterialCountList": [
+      34,
+      111,
+      198,
+      370,
+      542
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000981,
+      6060000982,
+      6060000983,
+      6060000984,
+      6060000985
+    ]
+  },
+  {
+    "Id": 6099,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 99,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1973820,
+    "BaseReinforcementMaterialCountList": [
+      35,
+      114,
+      202,
+      378,
+      554
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060000991,
+      6060000992,
+      6060000993,
+      6060000994,
+      6060000995
+    ]
+  },
+  {
+    "Id": 6100,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 100,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1980572,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      117,
+      207,
+      387,
+      567
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060001001,
+      6060001002,
+      6060001003,
+      6060001004,
+      6060001005
+    ]
+  },
+  {
+    "Id": 6101,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 101,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1987324,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      119,
+      212,
+      396,
+      580
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001011,
+      6060001012,
+      6060001013,
+      6060001014,
+      6060001015
+    ]
+  },
+  {
+    "Id": 6102,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 102,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1994076,
+    "BaseReinforcementMaterialCountList": [
+      37,
+      122,
+      216,
+      405,
+      594
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001021,
+      6060001022,
+      6060001023,
+      6060001024,
+      6060001025
+    ]
+  },
+  {
+    "Id": 6103,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 103,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2000828,
+    "BaseReinforcementMaterialCountList": [
+      38,
+      125,
+      221,
+      414,
+      607
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001031,
+      6060001032,
+      6060001033,
+      6060001034,
+      6060001035
+    ]
+  },
+  {
+    "Id": 6104,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 104,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2007580,
+    "BaseReinforcementMaterialCountList": [
+      39,
+      128,
+      226,
+      424,
+      621
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001041,
+      6060001042,
+      6060001043,
+      6060001044,
+      6060001045
+    ]
+  },
+  {
+    "Id": 6105,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 105,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2014332,
+    "BaseReinforcementMaterialCountList": [
+      40,
+      131,
+      232,
+      434,
+      635
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060001051,
+      6060001052,
+      6060001053,
+      6060001054,
+      6060001055
+    ]
+  },
+  {
+    "Id": 6106,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 106,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2021084,
+    "BaseReinforcementMaterialCountList": [
+      41,
+      134,
+      237,
+      444,
+      650
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001061,
+      6060001062,
+      6060001063,
+      6060001064,
+      6060001065
+    ]
+  },
+  {
+    "Id": 6107,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 107,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2027836,
+    "BaseReinforcementMaterialCountList": [
+      42,
+      137,
+      242,
+      454,
+      665
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001071,
+      6060001072,
+      6060001073,
+      6060001074,
+      6060001075
+    ]
+  },
+  {
+    "Id": 6108,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 108,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2034588,
+    "BaseReinforcementMaterialCountList": [
+      43,
+      140,
+      248,
+      464,
+      680
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001081,
+      6060001082,
+      6060001083,
+      6060001084,
+      6060001085
+    ]
+  },
+  {
+    "Id": 6109,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 109,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2041340,
+    "BaseReinforcementMaterialCountList": [
+      44,
+      143,
+      254,
+      475,
+      696
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001091,
+      6060001092,
+      6060001093,
+      6060001094,
+      6060001095
+    ]
+  },
+  {
+    "Id": 6110,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 110,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2048092,
+    "BaseReinforcementMaterialCountList": [
+      45,
+      147,
+      260,
+      486,
+      712
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060001101,
+      6060001102,
+      6060001103,
+      6060001104,
+      6060001105
+    ]
+  },
+  {
+    "Id": 6111,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 111,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2054844,
+    "BaseReinforcementMaterialCountList": [
+      46,
+      150,
+      266,
+      497,
+      728
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001111,
+      6060001112,
+      6060001113,
+      6060001114,
+      6060001115
+    ]
+  },
+  {
+    "Id": 6112,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 112,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2061596,
+    "BaseReinforcementMaterialCountList": [
+      47,
+      153,
+      272,
+      508,
+      745
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001121,
+      6060001122,
+      6060001123,
+      6060001124,
+      6060001125
+    ]
+  },
+  {
+    "Id": 6113,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 113,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2068348,
+    "BaseReinforcementMaterialCountList": [
+      48,
+      157,
+      278,
+      520,
+      762
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001131,
+      6060001132,
+      6060001133,
+      6060001134,
+      6060001135
+    ]
+  },
+  {
+    "Id": 6114,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 114,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2075100,
+    "BaseReinforcementMaterialCountList": [
+      49,
+      160,
+      284,
+      532,
+      780
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001141,
+      6060001142,
+      6060001143,
+      6060001144,
+      6060001145
+    ]
+  },
+  {
+    "Id": 6115,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 115,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2081852,
+    "BaseReinforcementMaterialCountList": [
+      50,
+      164,
+      291,
+      544,
+      798
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060001151,
+      6060001152,
+      6060001153,
+      6060001154,
+      6060001155
+    ]
+  },
+  {
+    "Id": 6116,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 116,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2088604,
+    "BaseReinforcementMaterialCountList": [
+      51,
+      168,
+      298,
+      557,
+      816
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001161,
+      6060001162,
+      6060001163,
+      6060001164,
+      6060001165
+    ]
+  },
+  {
+    "Id": 6117,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 117,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2095356,
+    "BaseReinforcementMaterialCountList": [
+      53,
+      172,
+      304,
+      569,
+      835
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001171,
+      6060001172,
+      6060001173,
+      6060001174,
+      6060001175
+    ]
+  },
+  {
+    "Id": 6118,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 118,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2102108,
+    "BaseReinforcementMaterialCountList": [
+      54,
+      176,
+      311,
+      583,
+      854
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001181,
+      6060001182,
+      6060001183,
+      6060001184,
+      6060001185
+    ]
+  },
+  {
+    "Id": 6119,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 119,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2108860,
+    "BaseReinforcementMaterialCountList": [
+      55,
+      180,
+      319,
+      596,
+      873
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001191,
+      6060001192,
+      6060001193,
+      6060001194,
+      6060001195
+    ]
+  },
+  {
+    "Id": 6120,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 120,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2115612,
+    "BaseReinforcementMaterialCountList": [
+      56,
+      184,
+      326,
+      610,
+      893
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060001201,
+      6060001202,
+      6060001203,
+      6060001204,
+      6060001205
+    ]
+  },
+  {
+    "Id": 6121,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 121,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2122364,
+    "BaseReinforcementMaterialCountList": [
+      58,
+      188,
+      333,
+      624,
+      914
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001211,
+      6060001212,
+      6060001213,
+      6060001214,
+      6060001215
+    ]
+  },
+  {
+    "Id": 6122,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 122,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2129116,
+    "BaseReinforcementMaterialCountList": [
+      59,
+      193,
+      341,
+      638,
+      935
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001221,
+      6060001222,
+      6060001223,
+      6060001224,
+      6060001225
+    ]
+  },
+  {
+    "Id": 6123,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 123,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2135868,
+    "BaseReinforcementMaterialCountList": [
+      60,
+      197,
+      349,
+      653,
+      956
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001231,
+      6060001232,
+      6060001233,
+      6060001234,
+      6060001235
+    ]
+  },
+  {
+    "Id": 6124,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 124,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2142620,
+    "BaseReinforcementMaterialCountList": [
+      62,
+      201,
+      357,
+      668,
+      978
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001241,
+      6060001242,
+      6060001243,
+      6060001244,
+      6060001245
+    ]
+  },
+  {
+    "Id": 6125,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 125,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2149372,
+    "BaseReinforcementMaterialCountList": [
+      63,
+      206,
+      365,
+      683,
+      1001
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6060001251,
+      6060001252,
+      6060001253,
+      6060001254,
+      6060001255
+    ]
+  },
+  {
+    "Id": 6126,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 126,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2156124,
+    "BaseReinforcementMaterialCountList": [
+      65,
+      211,
+      373,
+      699,
+      1024
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001261,
+      6060001262,
+      6060001263,
+      6060001264,
+      6060001265
+    ]
+  },
+  {
+    "Id": 6127,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 127,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2162876,
+    "BaseReinforcementMaterialCountList": [
+      66,
+      216,
+      382,
+      715,
+      1047
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001271,
+      6060001272,
+      6060001273,
+      6060001274,
+      6060001275
+    ]
+  },
+  {
+    "Id": 6128,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 128,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2169628,
+    "BaseReinforcementMaterialCountList": [
+      68,
+      221,
+      391,
+      731,
+      1071
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001281,
+      6060001282,
+      6060001283,
+      6060001284,
+      6060001285
+    ]
+  },
+  {
+    "Id": 6129,
+    "IsIgnore": null,
+    "Memo": "20250514_第6回ギルドツリー_ルシール",
+    "EventNo": 6,
+    "FloorCount": 129,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2176380,
+    "BaseReinforcementMaterialCountList": [
+      69,
+      226,
+      400,
+      748,
+      1096
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6060001291,
+      6060001292,
+      6060001293,
+      6060001294,
+      6060001295
+    ]
   }
 ]
