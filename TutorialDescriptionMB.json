@@ -1160,6 +1160,30 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 3009,
+    "IsIgnore": null,
+    "Memo": "時空の洞窟_イベント_モワノー",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText36]",
+        "ImageId": 36
+      }
+    ],
+    "HelpId": 4010,
+    "ImagePositionFormatType": "DungeonBattleEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 30,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 28,
+      "ItemType": "TreasureChest"
+    },
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 4001,
     "IsIgnore": null,
     "Memo": "ギルドレイド_イベント",

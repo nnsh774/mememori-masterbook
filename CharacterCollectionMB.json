@@ -957,5 +957,18 @@
     "StartTimeFixJST": "2025-04-30 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 73,
+    "IsIgnore": null,
+    "Memo": "ベスパの使命(モワノー,ルーク)",
+    "NameKey": "[CharacterCollectionName73]",
+    "RequiredCharacterIds": [
+      100,
+      30
+    ],
+    "StartTimeFixJST": "2025-05-30 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]
