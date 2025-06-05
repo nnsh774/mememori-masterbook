@@ -5028,7 +5028,7 @@
   {
     "Id": 139,
     "IsIgnore": null,
-    "Memo": "モワノー②+仮+復刻アサヒ②（0609切り替え用）",
+    "Memo": "モワノー②+復刻花束ナターシャ①+復刻アサヒ②（0609切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-06-09 14:30:00",
@@ -5036,6 +5036,7 @@
     "OrderNumber": 139,
     "CharacterIdList": [
       100,
+      105,
       78,
       5,
       6,
@@ -5062,7 +5063,46 @@
     ],
     "NewCharacterIdList": [
       100,
+      105,
       78
+    ]
+  },
+  {
+    "Id": 140,
+    "IsIgnore": null,
+    "Memo": "仮+復刻花束ナターシャ②（0616切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-06-16 16:30:00",
+    "EndTimeFixJST": "2025-06-23 14:29:59",
+    "OrderNumber": 140,
+    "CharacterIdList": [
+      105,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      105
     ]
   },
   {
