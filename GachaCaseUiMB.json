@@ -27198,6 +27198,326 @@
     "CeilingCountFormatKey": null
   },
   {
+    "Id": 170,
+    "IsIgnore": null,
+    "Memo": "フラックキャラガチャ 06/16 16:30 ~ 06/30 14:29",
+    "BannerKey": "[GachaBanner50]",
+    "NameKey": "[GachaName50]",
+    "ExplanationKey": "[GachaExplanation170]",
+    "PickUpCharacterId": 122,
+    "TitleColorType": "Yellow",
+    "GachaButtonMessageKey": "",
+    "HeaderItem1": {
+      "ItemCount": 1,
+      "ItemId": 1,
+      "ItemType": "CurrencyFree"
+    },
+    "HeaderItem2": null,
+    "HeaderItem3": null,
+    "IsLotteryViewShowBonusItem": true,
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 24,
+        "BannerLetterSpacing": -4,
+        "BannerLineSpacing": 0.5,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -46,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 1.3,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -51,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.5,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -52.799999,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 1,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -51,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "idID": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      }
+    },
+    "BannerImageNumber": 82,
+    "TimeFormatKey": "[GachaTimeFormat50]",
+    "EquipmentPictureBookTabIndex": 0,
+    "GachaBonusGaugeType": "SingleReset",
+    "DetailDialogHeadingKey": "[GachaDetailDailogHeading170]",
+    "DetailDialogDetailKey": "[GachaDetailDialogDetail170]",
+    "DetailDialogNotesKey": "[GachaDetailDialogNotes170]",
+    "AddRewardItems": null,
+    "CeilingCountFormatKey": ""
+  },
+  {
+    "Id": 171,
+    "IsIgnore": null,
+    "Memo": "ミナシュマリ復刻キャラガチャ 06/16 16:30 ~ 06/30 14:29",
+    "BannerKey": "[GachaBanner50]",
+    "NameKey": "[GachaName50]",
+    "ExplanationKey": "[GachaExplanation171]",
+    "PickUpCharacterId": 77,
+    "TitleColorType": "Yellow",
+    "GachaButtonMessageKey": "",
+    "HeaderItem1": {
+      "ItemCount": 1,
+      "ItemId": 1,
+      "ItemType": "CurrencyFree"
+    },
+    "HeaderItem2": null,
+    "HeaderItem3": null,
+    "IsLotteryViewShowBonusItem": true,
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 24,
+        "BannerLetterSpacing": -4,
+        "BannerLineSpacing": 0.5,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -46,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 1.3,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -51,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.5,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -52.799999,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 1,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -51,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "frFR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "esMX": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "ptBR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "thTH": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "idID": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "viVN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "ruRU": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      },
+      "deDE": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": 0,
+        "BannerLineSpacing": 0.6,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39,
+        "BannerPositionY": 0,
+        "TitleFontSize": 45
+      }
+    },
+    "BannerImageNumber": 56,
+    "TimeFormatKey": "[GachaTimeFormat50]",
+    "EquipmentPictureBookTabIndex": 0,
+    "GachaBonusGaugeType": "SingleReset",
+    "DetailDialogHeadingKey": "[GachaDetailDailogHeading171]",
+    "DetailDialogDetailKey": "[GachaDetailDialogDetail171]",
+    "DetailDialogNotesKey": "[GachaDetailDialogNotes171]",
+    "AddRewardItems": null,
+    "CeilingCountFormatKey": ""
+  },
+  {
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ",

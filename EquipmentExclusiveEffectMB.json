@@ -11525,5 +11525,134 @@
         "Value": 1000
       }
     ]
+  },
+  {
+    "Id": 535,
+    "IsIgnore": null,
+    "Memo": "フラックSSR180",
+    "CharacterId": 122,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200
+      }
+    ]
+  },
+  {
+    "Id": 536,
+    "IsIgnore": null,
+    "Memo": "フラックSSR200",
+    "CharacterId": 122,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600
+      }
+    ]
+  },
+  {
+    "Id": 537,
+    "IsIgnore": null,
+    "Memo": "フラックSSR220",
+    "CharacterId": 122,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700
+      }
+    ]
+  },
+  {
+    "Id": 538,
+    "IsIgnore": null,
+    "Memo": "フラックSSR240",
+    "CharacterId": 122,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800
+      }
+    ]
+  },
+  {
+    "Id": 539,
+    "IsIgnore": null,
+    "Memo": "フラックUR",
+    "CharacterId": 122,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900
+      }
+    ]
+  },
+  {
+    "Id": 540,
+    "IsIgnore": null,
+    "Memo": "フラックLR",
+    "CharacterId": 122,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000
+      }
+    ]
   }
 ]

@@ -970,5 +970,18 @@
     "StartTimeFixJST": "2025-05-30 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 75,
+    "IsIgnore": null,
+    "Memo": "クシフィアスの共演(フラック,？)",
+    "NameKey": "[CharacterCollectionName75]",
+    "RequiredCharacterIds": [
+      122,
+      0
+    ],
+    "StartTimeFixJST": "2025-06-16 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

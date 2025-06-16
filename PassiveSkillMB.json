@@ -14809,6 +14809,146 @@
     ]
   },
   {
+    "Id": 122003,
+    "IsIgnore": null,
+    "Memo": "フラックSR:Lv1 キミには人を笑顔にできる才能がある──、その一言が挫けそうなうちの背中を何度も押してくれた。バトル開始時、自身に1ターンの間『笑顔の才能』を付与する（解除不可）。このバフは自身のスピードを15%増加させる。/ Lv2 さらに2ターン目以降のターン開始時、弱体効果を付帯している敵が3体以上の場合、自身に『笑顔の才能』を再付与する。/ Lv3 スピードの増加量が30%になる。",
+    "NameKey": "[PassiveSkillName122003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription1220031]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription1220032]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 122003202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription1220033]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 122003302
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 122004,
+    "IsIgnore": null,
+    "Memo": "フラックSR:Lv1 「憧れのあの人に追いつくためなら、どんな苦難も笑顔で越えてみせるッス！」1ターン目の自身の行動開始時、2ターンの間自身の攻撃力を自身の攻撃力×15%、弱体効果命中率を15%増加させる（解除不可）。/ Lv2 バフを付与する対象が自身と自身以外の攻撃力が高い味方2体になる。/ Lv3 攻撃力の増加量が自身の攻撃力×30%、弱体効果命中率の増加量が30%になる。",
+    "NameKey": "[PassiveSkillName122004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription1220041]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription1220042]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription1220043]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 122004302
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 500000001,
     "IsIgnore": null,
     "Memo": "黄泉の歌声　バトル開始時敵全体に4ターンの間『睡眠』を付与する。『睡眠』は対象のHP割合が85％以下になったとき解除される。",
@@ -48608,6 +48748,146 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 5504117004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504122003,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName122003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504122003202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122003301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504122003302
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504122004,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName122004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122004301
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ActionStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504122004302
           }
         ]
       }
