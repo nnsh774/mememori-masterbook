@@ -5112,7 +5112,7 @@
   {
     "Id": 141,
     "IsIgnore": null,
-    "Memo": "フラック②+仮+復刻ミナシュマリ②（0623切り替え用）",
+    "Memo": "フラック②+復刻使徒ロザリー①+復刻ミナシュマリ②（0623切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-06-23 14:30:00",
@@ -5120,6 +5120,7 @@
     "OrderNumber": 141,
     "CharacterIdList": [
       122,
+      88,
       77,
       5,
       6,
@@ -5146,7 +5147,46 @@
     ],
     "NewCharacterIdList": [
       122,
+      88,
       77
+    ]
+  },
+  {
+    "Id": 142,
+    "IsIgnore": null,
+    "Memo": "仮+復刻使徒ロザリー②（0630切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-06-30 16:30:00",
+    "EndTimeFixJST": "2025-07-08 14:29:59",
+    "OrderNumber": 142,
+    "CharacterIdList": [
+      88,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      88
     ]
   },
   {
@@ -5587,6 +5627,24 @@
     "NewCharacterIdList": [
       61,
       68
+    ]
+  },
+  {
+    "Id": 10240,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第24回_ギルウィアル・黒鎧アイリス",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-06-23 14:30:00",
+    "EndTimeFixJST": "2025-07-15 14:29:59",
+    "OrderNumber": 10240,
+    "CharacterIdList": [
+      64,
+      66
+    ],
+    "NewCharacterIdList": [
+      64,
+      66
     ]
   }
 ]
