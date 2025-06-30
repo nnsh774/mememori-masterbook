@@ -14502,6 +14502,208 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 7401,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7402,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7403,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7404,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7405,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 510
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1050
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7406,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 520
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1100
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7407,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 530
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1150
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7408,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 540
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1200
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7409,
+    "IsIgnore": null,
+    "Memo": "グラの花畑(ルミカ,使徒ロザリー)",
+    "CollectionId": 74,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 550
+      },
+      {
+        "BattleParameterType": "CriticalDamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 1250
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 7501,
     "IsIgnore": null,
     "Memo": "クシフィアスの共演(フラック,？)",

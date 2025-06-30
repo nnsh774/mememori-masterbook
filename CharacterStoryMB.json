@@ -12690,6 +12690,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 825,
+    "IsIgnore": null,
+    "Memo": "ルミカ1",
+    "CharacterId": 121,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12101]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 826,
+    "IsIgnore": null,
+    "Memo": "ルミカ2",
+    "CharacterId": 121,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12102]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 827,
+    "IsIgnore": null,
+    "Memo": "ルミカ3",
+    "CharacterId": 121,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12103]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 828,
+    "IsIgnore": null,
+    "Memo": "ルミカ4",
+    "CharacterId": 121,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12104]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 829,
+    "IsIgnore": null,
+    "Memo": "ルミカ5",
+    "CharacterId": 121,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12105]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 830,
+    "IsIgnore": null,
+    "Memo": "ルミカ6",
+    "CharacterId": 121,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12106]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 831,
+    "IsIgnore": null,
+    "Memo": "ルミカ7",
+    "CharacterId": 121,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12107]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 832,
     "IsIgnore": null,
     "Memo": "フラック1",

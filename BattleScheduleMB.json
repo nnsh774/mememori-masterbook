@@ -334,5 +334,13 @@
     "BattleScheduleType": "Quest",
     "MaxQuestId": 1680,
     "StartTimeFixJST": "2025-04-15 15:00:00"
+  },
+  {
+    "Id": 43,
+    "IsIgnore": null,
+    "Memo": "無窮の塔ステージ追加（1801~2100）",
+    "BattleScheduleType": "TowerInfinite",
+    "MaxQuestId": 2100,
+    "StartTimeFixJST": "2025-06-30 15:00:00"
   }
 ]
