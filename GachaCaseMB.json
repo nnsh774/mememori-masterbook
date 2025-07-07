@@ -3148,5 +3148,23 @@
     "StartTimeFixJST": "2024-10-18 17:30:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "GachaLimitDayFromCreatePlayer": 0
+  },
+  {
+    "Id": 30001,
+    "IsIgnore": null,
+    "Memo": "選択ピックアップガチャ 07/08 15:30 ~ 07/23 14:29",
+    "GachaCaseUiId": 30001,
+    "GachaCategoryType": "Character",
+    "DisplayOrder": 19174,
+    "GachaGroupType": "None",
+    "ElementType": "None",
+    "GachaRelicType": "None",
+    "GachaDestinyType": "None",
+    "GachaSelectListType": "SelectablePickUp",
+    "GachaResetType": "None",
+    "GachaCaseFlags": 1,
+    "StartTimeFixJST": "2025-07-08 14:30:00",
+    "EndTimeFixJST": "2025-07-23 14:29:59",
+    "GachaLimitDayFromCreatePlayer": 0
   }
 ]
