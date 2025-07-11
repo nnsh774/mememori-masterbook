@@ -2066,5 +2066,74 @@
     "EndTime": "2025-07-10 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 10101,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション1_ネブラ",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 32,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-07-15 04:00:00",
+    "EndTime": "2025-07-25 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10102,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション3_ネブラ",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 32,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-07-15 04:00:00",
+    "EndTime": "2025-07-25 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10103,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション5_ネブラ",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 32,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-07-15 04:00:00",
+    "EndTime": "2025-07-25 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
   }
 ]

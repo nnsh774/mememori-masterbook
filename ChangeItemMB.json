@@ -11534,5 +11534,37 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 738,
+    "IsIgnore": null,
+    "Memo": "ネブライベントアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 32,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 739,
+    "IsIgnore": null,
+    "Memo": "ネブラガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 870,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]
