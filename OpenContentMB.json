@@ -1232,6 +1232,54 @@
     "TutorialId": 0
   },
   {
+    "Id": 520,
+    "IsIgnore": null,
+    "Memo": "武具Lvを超える強化Lv継承",
+    "OpenContentType": "QuestClear",
+    "GuideStartValue": 0,
+    "OpenContentValue": 472,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "EquipmentOverReinforceLevelInheritance",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": null,
+    "TutorialId": 0
+  },
+  {
+    "Id": 530,
+    "IsIgnore": null,
+    "Memo": "選択継承",
+    "OpenContentType": "QuestClear",
+    "GuideStartValue": 0,
+    "OpenContentValue": 472,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "EquipmentSelectInheritance",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": null,
+    "TutorialId": 0
+  },
+  {
+    "Id": 540,
+    "IsIgnore": null,
+    "Memo": "武具比較",
+    "OpenContentType": "QuestClear",
+    "GuideStartValue": 0,
+    "OpenContentValue": 472,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "EquipmentComparison",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": null,
+    "TutorialId": 0
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",
@@ -1261,6 +1309,22 @@
     "GuideOrderNumber": 0,
     "GuideDescriptionKey": null,
     "ToastKey": "[OpenContentToast1001]",
+    "TutorialId": 0
+  },
+  {
+    "Id": 1002,
+    "IsIgnore": null,
+    "Memo": "装備固定（属性の塔用）",
+    "OpenContentType": "QuestClear",
+    "GuideStartValue": 0,
+    "OpenContentValue": 472,
+    "DescriptionKey": null,
+    "AssetPath": "Prefabs/CommonParts/PartsCommonContentReleaseEffect",
+    "OpenCommandType": "LockEquipmentElementTower",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": "[OpenContentToast1002]",
     "TutorialId": 0
   }
 ]

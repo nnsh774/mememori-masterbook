@@ -968,6 +968,30 @@
     "ImageCharacterId": 117
   },
   {
+    "Id": 2010,
+    "IsIgnore": null,
+    "Memo": "神殿_イベント_ネブラ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText37]",
+        "ImageId": 37
+      }
+    ],
+    "HelpId": 4210,
+    "ImagePositionFormatType": "LocalRaidEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 32,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 870,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 87
+  },
+  {
     "Id": 3001,
     "IsIgnore": null,
     "Memo": "時空の洞窟_イベント_アーティ",

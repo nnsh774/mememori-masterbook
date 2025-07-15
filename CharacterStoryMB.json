@@ -10422,6 +10422,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 587,
+    "IsIgnore": null,
+    "Memo": "ネブラ1",
+    "CharacterId": 87,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8701]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 588,
+    "IsIgnore": null,
+    "Memo": "ネブラ2",
+    "CharacterId": 87,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8702]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 589,
+    "IsIgnore": null,
+    "Memo": "ネブラ3",
+    "CharacterId": 87,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8703]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 590,
+    "IsIgnore": null,
+    "Memo": "ネブラ4",
+    "CharacterId": 87,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8704]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 591,
+    "IsIgnore": null,
+    "Memo": "ネブラ5",
+    "CharacterId": 87,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8705]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 592,
+    "IsIgnore": null,
+    "Memo": "ネブラ6",
+    "CharacterId": 87,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8706]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 593,
+    "IsIgnore": null,
+    "Memo": "ネブラ7",
+    "CharacterId": 87,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText8707]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 594,
     "IsIgnore": null,
     "Memo": "使徒ロザリー1",
