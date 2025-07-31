@@ -715,12 +715,34 @@
     }
   },
   {
+    "Id": 66,
+    "IsIgnore": null,
+    "Memo": "サマーキャンペーン",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 660,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 68,
     "IsIgnore": null,
     "Memo": "ネブラ新ガチャ",
     "TransferDetailInfo": {
       "TransferSpotType": "Notice",
       "NumberInfo1": 680,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
+    "Id": 69,
+    "IsIgnore": null,
+    "Memo": "団長コルディ新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 690,
       "NumberInfo2": 0,
       "StringInfo": null
     }

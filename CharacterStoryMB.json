@@ -13066,5 +13066,131 @@
     ],
     "TextKey": "[CharacterStoryText12207]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 839,
+    "IsIgnore": null,
+    "Memo": "団長コルディ1",
+    "CharacterId": 123,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12301]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 840,
+    "IsIgnore": null,
+    "Memo": "団長コルディ2",
+    "CharacterId": 123,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12302]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 841,
+    "IsIgnore": null,
+    "Memo": "団長コルディ3",
+    "CharacterId": 123,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12303]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 842,
+    "IsIgnore": null,
+    "Memo": "団長コルディ4",
+    "CharacterId": 123,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12304]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 843,
+    "IsIgnore": null,
+    "Memo": "団長コルディ5",
+    "CharacterId": 123,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12305]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 844,
+    "IsIgnore": null,
+    "Memo": "団長コルディ6",
+    "CharacterId": 123,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12306]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 845,
+    "IsIgnore": null,
+    "Memo": "団長コルディ7",
+    "CharacterId": 123,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12307]",
+    "RarityFlags": 512
   }
 ]

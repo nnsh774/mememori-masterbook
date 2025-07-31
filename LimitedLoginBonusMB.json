@@ -218,5 +218,27 @@
     "CharacterImageX": 10,
     "CharacterImageY": 0,
     "CharacterImageSize": 665.599976
+  },
+  {
+    "Id": 11,
+    "IsIgnore": null,
+    "Memo": "2025_コルディ（団長）登場記念ログインボーナス",
+    "StartTime": "2025-07-31 04:00:00",
+    "EndTime": "2025-08-28 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 11,
+    "CharacterImageId": 123,
+    "RewardBackgroundImageId": 10,
+    "SpecialRewardBackgroundImageId": 10,
+    "TitleTextKey": "[LimitedLoginBonusTitle11]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal4]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "EventPortalOnly",
+    "CharacterImageX": 10,
+    "CharacterImageY": 0,
+    "CharacterImageSize": 665.599976
   }
 ]
