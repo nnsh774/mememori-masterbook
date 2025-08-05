@@ -5422,7 +5422,7 @@
   {
     "Id": 148,
     "IsIgnore": null,
-    "Memo": "団長コルディ②+復刻アルトリア②+仮（0807切り替え用）",
+    "Memo": "団長コルディ②+復刻アルトリア②+復刻ミラ①（0807切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-08-07 14:30:00",
@@ -5431,6 +5431,7 @@
     "CharacterIdList": [
       123,
       93,
+      80,
       5,
       6,
       7,
@@ -5456,13 +5457,14 @@
     ],
     "NewCharacterIdList": [
       123,
-      93
+      93,
+      80
     ]
   },
   {
     "Id": 149,
     "IsIgnore": null,
-    "Memo": "仮+団長コルディ③+仮+仮（0814切り替え用）",
+    "Memo": "団長コルディ③+復刻ミラ②+仮（0814切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-08-14 16:30:00",
@@ -5470,6 +5472,7 @@
     "OrderNumber": 149,
     "CharacterIdList": [
       123,
+      80,
       5,
       6,
       7,
@@ -5494,7 +5497,8 @@
       46
     ],
     "NewCharacterIdList": [
-      123
+      123,
+      80
     ]
   },
   {
@@ -6012,6 +6016,32 @@
     ]
   },
   {
+    "Id": 10260,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第26回_オフィーリア・ルサールカ・シフォン・リシェス・フィアー・ステラ",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-08-07 14:30:00",
+    "EndTimeFixJST": "2025-08-28 14:29:59",
+    "OrderNumber": 10260,
+    "CharacterIdList": [
+      49,
+      44,
+      54,
+      67,
+      60,
+      57
+    ],
+    "NewCharacterIdList": [
+      49,
+      44,
+      54,
+      67,
+      60,
+      57
+    ]
+  },
+  {
     "Id": 30001,
     "IsIgnore": null,
     "Memo": "選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（選択PUガチャ用）",
@@ -6024,6 +6054,22 @@
       70,
       71,
       72
+    ],
+    "NewCharacterIdList": null
+  },
+  {
+    "Id": 40001,
+    "IsIgnore": null,
+    "Memo": "セレクトルサールカ+セレクトオフィーリア+セレクトフィアー(SPセレクトガチャ用)",
+    "GachaSelectListType": "SpecialSelectablePickUp",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-08-07 16:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "OrderNumber": 40001,
+    "CharacterIdList": [
+      44,
+      49,
+      60
     ],
     "NewCharacterIdList": null
   }

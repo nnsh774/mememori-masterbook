@@ -3580,6 +3580,26 @@
     "GachaOpenDayFromCreatePlayer": 0
   },
   {
+    "Id": 180,
+    "IsIgnore": null,
+    "Memo": "ミラ復刻キャラガチャ 08/07 16:00 ~ 08/21 14:29",
+    "GachaCaseUiId": 180,
+    "GachaCategoryType": "Character",
+    "DisplayOrder": 19181,
+    "GachaGroupType": "None",
+    "ElementType": "None",
+    "GachaRelicType": "None",
+    "GachaDestinyType": "None",
+    "GachaSelectListType": "Default",
+    "GachaResetType": "None",
+    "GachaCaseFlags": 1,
+    "StartTimeFixJST": "2025-08-07 14:30:00",
+    "EndTimeFixJST": "2025-08-21 14:29:59",
+    "GachaLimitDayFromCreatePlayer": 0,
+    "GachaLimitDay": 0,
+    "GachaOpenDayFromCreatePlayer": 0
+  },
+  {
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ（4属性）",
@@ -3638,5 +3658,25 @@
     "GachaLimitDayFromCreatePlayer": 0,
     "GachaLimitDay": 0,
     "GachaOpenDayFromCreatePlayer": 0
+  },
+  {
+    "Id": 40001,
+    "IsIgnore": null,
+    "Memo": "スペシャルセレクト1回目 08/07 14:30 ~ 08/28 14:29",
+    "GachaCaseUiId": 40001,
+    "GachaCategoryType": "Character",
+    "DisplayOrder": 19990,
+    "GachaGroupType": "None",
+    "ElementType": "None",
+    "GachaRelicType": "None",
+    "GachaDestinyType": "None",
+    "GachaSelectListType": "SpecialSelectablePickUp",
+    "GachaResetType": "None",
+    "GachaCaseFlags": 1,
+    "StartTimeFixJST": "2025-08-07 16:00:00",
+    "EndTimeFixJST": "2025-08-28 14:29:59",
+    "GachaLimitDayFromCreatePlayer": 0,
+    "GachaLimitDay": 14,
+    "GachaOpenDayFromCreatePlayer": 2
   }
 ]
