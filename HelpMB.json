@@ -1105,6 +1105,48 @@
     "DisplayDeviceTypes": null
   },
   {
+    "Id": 2341,
+    "IsIgnore": null,
+    "Memo": "キャラ育成画面 - 武具DLG - 進化タブ(武具進化リセット解放後)",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine2340]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText2340]"
+          }
+        ],
+        "HelpParameterType": "None",
+        "MainText": "[HelpMainText2340]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2341]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText2341]"
+          }
+        ],
+        "HelpParameterType": "None",
+        "MainText": "[HelpMainText2341]"
+      },
+      {
+        "HeadLine": "[HelpHeadLine2342]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText2342]"
+          }
+        ],
+        "HelpParameterType": "None",
+        "MainText": "[HelpMainText2342]"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "DialogType": 1,
+    "IsDisplayed": true,
+    "DisplayDeviceTypes": null
+  },
+  {
     "Id": 2350,
     "IsIgnore": null,
     "Memo": "キャラ育成画面 - 武具DLG - スフィアタブ",
@@ -2621,6 +2663,28 @@
       }
     ],
     "TutorialDescriptionId": 0,
+    "DialogType": 1,
+    "IsDisplayed": true,
+    "DisplayDeviceTypes": null
+  },
+  {
+    "Id": 7300,
+    "IsIgnore": null,
+    "Memo": "キャラ画面 - 武器シンクロタブ",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine7300]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText7300]"
+          }
+        ],
+        "HelpParameterType": "None",
+        "MainText": "[HelpMainText7300]"
+      }
+    ],
+    "TutorialDescriptionId": 40,
     "DialogType": 1,
     "IsDisplayed": true,
     "DisplayDeviceTypes": null

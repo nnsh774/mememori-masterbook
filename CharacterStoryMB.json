@@ -13192,5 +13192,131 @@
     ],
     "TextKey": "[CharacterStoryText12307]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 846,
+    "IsIgnore": null,
+    "Memo": "ユルディズ1",
+    "CharacterId": 124,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12401]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 847,
+    "IsIgnore": null,
+    "Memo": "ユルディズ2",
+    "CharacterId": 124,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12402]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 848,
+    "IsIgnore": null,
+    "Memo": "ユルディズ3",
+    "CharacterId": 124,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12403]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 849,
+    "IsIgnore": null,
+    "Memo": "ユルディズ4",
+    "CharacterId": 124,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12404]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 850,
+    "IsIgnore": null,
+    "Memo": "ユルディズ5",
+    "CharacterId": 124,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12405]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 851,
+    "IsIgnore": null,
+    "Memo": "ユルディズ6",
+    "CharacterId": 124,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12406]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 852,
+    "IsIgnore": null,
+    "Memo": "ユルディズ7",
+    "CharacterId": 124,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12407]",
+    "RarityFlags": 512
   }
 ]

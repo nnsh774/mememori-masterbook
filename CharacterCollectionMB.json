@@ -1009,5 +1009,18 @@
     "StartTimeFixJST": "2025-07-31 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 77,
+    "IsIgnore": null,
+    "Memo": "カシオペイアの同盟(ユルディズ,？)",
+    "NameKey": "[CharacterCollectionName77]",
+    "RequiredCharacterIds": [
+      124,
+      0
+    ],
+    "StartTimeFixJST": "2025-08-14 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]
