@@ -11566,5 +11566,37 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 740,
+    "IsIgnore": null,
+    "Memo": "夜の一族の印章",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 33,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 741,
+    "IsIgnore": null,
+    "Memo": "カーミラガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1250,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]
