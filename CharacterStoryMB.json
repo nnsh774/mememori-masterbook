@@ -13318,5 +13318,131 @@
     ],
     "TextKey": "[CharacterStoryText12407]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 853,
+    "IsIgnore": null,
+    "Memo": "カーミラ1",
+    "CharacterId": 125,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12501]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 854,
+    "IsIgnore": null,
+    "Memo": "カーミラ2",
+    "CharacterId": 125,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12502]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 855,
+    "IsIgnore": null,
+    "Memo": "カーミラ3",
+    "CharacterId": 125,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12503]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 856,
+    "IsIgnore": null,
+    "Memo": "カーミラ4",
+    "CharacterId": 125,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12504]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 857,
+    "IsIgnore": null,
+    "Memo": "カーミラ5",
+    "CharacterId": 125,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12505]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 858,
+    "IsIgnore": null,
+    "Memo": "カーミラ6",
+    "CharacterId": 125,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12506]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 859,
+    "IsIgnore": null,
+    "Memo": "カーミラ7",
+    "CharacterId": 125,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12507]",
+    "RarityFlags": 512
   }
 ]

@@ -15053,6 +15053,120 @@
     "RootActiveSkillId": 124002
   },
   {
+    "Id": 125001,
+    "IsIgnore": null,
+    "Memo": "カーミラSR:Lv1 「カプッてしちゃうぞ♪」ランダムな敵5体に攻撃力×210%の物理攻撃を行う。/ Lv2 さらに対象に2ターンの間『出血』を付与する。毎ターン行動開始時に自身の攻撃力×20%のダメージを与える。/ Lv3 物理攻撃のダメージが攻撃力×420%になる。/ Ex1 スウィートバイトを強化する。『出血』のダメージが自身の攻撃力×50%になる。",
+    "NameKey": "[ActiveSkillName125001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription1250011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          125001001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription1250012]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          125001201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1250013]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          125001301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1250014]",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          125001401
+        ]
+      }
+    ],
+    "RootActiveSkillId": 125001
+  },
+  {
+    "Id": 125002,
+    "IsIgnore": null,
+    "Memo": "カーミラSR:Lv1 「あははっ！　よわよわのざっこざこ～！」HP割合が低い敵2体に攻撃力×320%の物理攻撃を行う。/ Lv2 物理攻撃のダメージが攻撃力×570%になる。/ Lv3 さらに対象が弱体効果を付帯していない場合、物理攻撃のダメージが攻撃力×1710%になる。/ Lv4 このスキルの対象がHP割合が低い敵3体になる。/ Ex3 ブラッディムーンを強化する。物理攻撃のダメージが攻撃力×630%になる。対象が弱体効果を付帯していない場合、物理攻撃のダメージが攻撃力×1890%になる。",
+    "NameKey": "[ActiveSkillName125002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription1250021]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          125002001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription1250022]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          125002201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription1250023]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          125002301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription1250024]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          125002401
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription1250025]",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          125002501
+        ]
+      }
+    ],
+    "RootActiveSkillId": 125002
+  },
+  {
     "Id": 550109001,
     "IsIgnore": null,
     "Memo": "ギルドレイド通常ソーニャSR：ソーニャSR:旋風の如き素早い急襲。HPが最も低い敵に攻撃力×800％の物理攻撃を行う。弱った敵にも容赦しないヴァイキングの本能により、敵のHP割合が40％以下の場合、この攻撃は必ずクリティカルヒットする。／さらに自身の腕力×400％の直接攻撃を行う。／追加攻撃のダメージが腕力×600%になる。／さらにこのスキルで敵を戦闘不能にした場合、このスキルを再発動する。",
@@ -44994,5 +45108,119 @@
       }
     ],
     "RootActiveSkillId": 124002
+  },
+  {
+    "Id": 5504125001,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName125001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504125001001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504125001201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504125001301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504125001401
+        ]
+      }
+    ],
+    "RootActiveSkillId": 125001
+  },
+  {
+    "Id": 5504125002,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName125002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504125002001
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504125002201
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504125002301
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504125002401
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          5504125002501
+        ]
+      }
+    ],
+    "RootActiveSkillId": 125002
   }
 ]

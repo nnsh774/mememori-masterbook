@@ -12046,5 +12046,138 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 559,
+    "IsIgnore": null,
+    "Memo": "カーミラSSR180",
+    "CharacterId": 125,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 560,
+    "IsIgnore": null,
+    "Memo": "カーミラSSR200",
+    "CharacterId": 125,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2300.000000
+      }
+    ]
+  },
+  {
+    "Id": 561,
+    "IsIgnore": null,
+    "Memo": "カーミラSSR220",
+    "CharacterId": 125,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600.000000
+      }
+    ]
+  },
+  {
+    "Id": 562,
+    "IsIgnore": null,
+    "Memo": "カーミラSSR240",
+    "CharacterId": 125,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900.000000
+      }
+    ]
+  },
+  {
+    "Id": 563,
+    "IsIgnore": null,
+    "Memo": "カーミラUR",
+    "CharacterId": 125,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200.000000
+      }
+    ]
+  },
+  {
+    "Id": 564,
+    "IsIgnore": null,
+    "Memo": "カーミラLR",
+    "CharacterId": 125,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500.000000
+      }
+    ]
   }
 ]

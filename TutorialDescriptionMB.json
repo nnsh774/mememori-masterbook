@@ -1232,6 +1232,30 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 3010,
+    "IsIgnore": null,
+    "Memo": "時空の洞窟_イベント_カーミラ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText36]",
+        "ImageId": 36
+      }
+    ],
+    "HelpId": 4010,
+    "ImagePositionFormatType": "DungeonBattleEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 33,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 1250,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 4001,
     "IsIgnore": null,
     "Memo": "ギルドレイド_イベント",
