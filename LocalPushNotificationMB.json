@@ -96,5 +96,33 @@
     "MessageKey": "[LocalPushNotificationMessageKey7]",
     "LocalNotificationSendType": "OneWeekLimitedPack",
     "SendTime": null
+  },
+  {
+    "Id": 8,
+    "IsIgnore": null,
+    "Memo": null,
+    "LocalNotificationType": "GvGDeclaration",
+    "GroupId": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-12-31 23:59:59",
+    "Priority": 1,
+    "TitleKey": "[LocalPushNotificationTitleKey8]",
+    "MessageKey": "[LocalPushNotificationMessageKey8]",
+    "LocalNotificationSendType": "TimeSpecified",
+    "SendTime": null
+  },
+  {
+    "Id": 9,
+    "IsIgnore": null,
+    "Memo": null,
+    "LocalNotificationType": "GvGBattle",
+    "GroupId": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-12-31 23:59:59",
+    "Priority": 1,
+    "TitleKey": "[LocalPushNotificationTitleKey9]",
+    "MessageKey": "[LocalPushNotificationMessageKey9]",
+    "LocalNotificationSendType": "TimeSpecified",
+    "SendTime": null
   }
 ]

@@ -55788,5 +55788,553 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1899,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_ギルドに加入する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1899]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "Guild",
+    "AchievementType": "GuildJoinCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 80,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1900,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_ギルドチャットで１回メッセージを送る",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1900]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ChatGuild",
+    "AchievementType": "ChatSayGuildChatCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1901,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_フレンドポイントを10回送る",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1901]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 3,
+    "SortOrderB": 3,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1902,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_フレンドポイントを20回送る",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1902]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1903,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_投票チケットを200枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumePopularityVoteTicket",
+    "RequireValue": 200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 5,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1904,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_投票チケットを350枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumePopularityVoteTicket",
+    "RequireValue": 350,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1905,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_投票チケットを450枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumePopularityVoteTicket",
+    "RequireValue": 450,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1906,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_投票チケットを550枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumePopularityVoteTicket",
+    "RequireValue": 550,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1907,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_グループ投票チケットを400枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumGroupVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumeGroupVotingTicket",
+    "RequireValue": 400,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1908,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_グループ投票チケットを600枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumGroupVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumeGroupVotingTicket",
+    "RequireValue": 600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1909,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_グループ投票チケットを700枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumGroupVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumeGroupVotingTicket",
+    "RequireValue": 700,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1910,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_グループ投票チケットを850枚使用する",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameConsumGroupVotingTickets]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PopularityVote",
+    "AchievementType": "ConsumeGroupVotingTicket",
+    "RequireValue": 850,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1911,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_クエスト4ｰ20をクリアする",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[EventMissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 76,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1912,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_クエスト5ｰ20をクリアする",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[EventMissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 104,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 14,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1913,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_クエスト7ｰ20をクリアする",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[EventMissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 160,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 15,
+    "SortOrderB": 15,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1914,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_クエスト9ｰ20をクリアする",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[EventMissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 216,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 16,
+    "SortOrderB": 16,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1915,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_クエスト11ｰ20をクリアする",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[EventMissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 272,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 17,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 60,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1916,
+    "IsIgnore": null,
+    "Memo": "第2回目人気投票_クエスト13ｰ20をクリアする",
+    "MissionType": "PopularityVote",
+    "OpeningPeriod": 0,
+    "NameKey": "[EventMissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 328,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 18,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 2,
+          "ItemType": "PopularityVote"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 60,
+          "ItemId": 2,
+          "ItemType": "GroupVotingTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]
