@@ -5674,14 +5674,15 @@
   {
     "Id": 154,
     "IsIgnore": null,
-    "Memo": "ミフリ②+復刻ユリーカ②+仮（0922切り替え用）",
+    "Memo": "ミフリ②+復刻メリア①+復刻ユリーカ②（0922切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-09-22 16:00:00",
+    "StartTimeFixJST": "2025-09-22 14:30:00",
     "EndTimeFixJST": "2025-09-30 14:29:59",
     "OrderNumber": 154,
     "CharacterIdList": [
       126,
+      86,
       106,
       5,
       6,
@@ -5708,7 +5709,46 @@
     ],
     "NewCharacterIdList": [
       126,
+      86,
       106
+    ]
+  },
+  {
+    "Id": 155,
+    "IsIgnore": null,
+    "Memo": "復刻メリア②+仮（0930切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-09-30 16:30:00",
+    "EndTimeFixJST": "2025-10-08 14:29:59",
+    "OrderNumber": 155,
+    "CharacterIdList": [
+      86,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      86
     ]
   },
   {
@@ -6232,6 +6272,32 @@
     ]
   },
   {
+    "Id": 10280,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第28回_フォルティナ・ヴァルリーデ・ソーニャ・ベル・ルーク・カロル",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-09-22 14:30:00",
+    "EndTimeFixJST": "2025-10-16 14:29:59",
+    "OrderNumber": 10280,
+    "CharacterIdList": [
+      42,
+      47,
+      9,
+      19,
+      30,
+      40
+    ],
+    "NewCharacterIdList": [
+      42,
+      47,
+      9,
+      19,
+      30,
+      40
+    ]
+  },
+  {
     "Id": 30001,
     "IsIgnore": null,
     "Memo": "選択水着サブリナ①+選択水着モーザ①+選択浴衣コルディ①（選択PUガチャ用）",
@@ -6260,6 +6326,22 @@
       44,
       49,
       60
+    ],
+    "NewCharacterIdList": null
+  },
+  {
+    "Id": 40002,
+    "IsIgnore": null,
+    "Memo": "セレクトフォルティナ+セレクトヴァルリーデ+セレクトルーク(SPセレクトガチャ用)",
+    "GachaSelectListType": "SpecialSelectablePickUp",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-09-22 14:30:00",
+    "EndTimeFixJST": "2025-11-13 14:29:59",
+    "OrderNumber": 40002,
+    "CharacterIdList": [
+      42,
+      47,
+      30
     ],
     "NewCharacterIdList": null
   }
