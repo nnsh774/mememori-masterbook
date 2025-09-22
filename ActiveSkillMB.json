@@ -5373,7 +5373,7 @@
   {
     "Id": 42001,
     "IsIgnore": null,
-    "Memo": "【聖剣の魔女】\\nフォルティナSR: /Lv1　仲間の無事を願い、一心に祈る心が、味方全体に1ターンの間自身の攻撃力×120%の『シールド』と『再生』を付与する。毎ターン行動開始時に自身のHPを自身の最大HP×7％回復する。　/Lv2 『シールド』の大きさが自身の攻撃力×150%になる。　/Lv3 『シールド』と『再生』のターン数がそれぞれ2ターンになる。　/専用1 聖女の祈りを強化する。『シールド』の大きさが自身の攻撃力×180%になる。　/専用2 聖女の祈りを強化する。HP割合50％以上の味方に付与される『シールド』と『再生』のターン数がそれぞれ3ターンになる。　/専用3 聖女の祈りを強化する。『シールド』の大きさが自身の攻撃力×200%になる。",
+    "Memo": "【聖剣の魔女】フォルティナSR:Lv1 仲間の無事を願い、一心に祈る心が、味方全体に1ターンの間自身の攻撃力×120%の『シールド』と『再生』を付与する。毎ターン行動開始時に付帯者のHPを付与者の最大HP×7%回復する。/ Lv2 『シールド』の大きさが自身の攻撃力×150%になる。/ Lv3 『シールド』と『再生』のターン数がそれぞれ3ターンになる。/ Ex1 聖女の祈りを強化する。『シールド』の大きさが自身の攻撃力×400%になる。バトル中このスキルを発動するのが2回目以前の場合、自身に付与する『シールド』の大きさが自身の攻撃力×600%になる。/ Ex3 聖女の祈りを強化する。『シールド』の大きさが自身の攻撃力×440%になる。バトル中このスキルを発動するのが2回目以前の場合、自身に付与する『シールド』の大きさが自身の攻撃力×660%になる。",
     "NameKey": "[ActiveSkillName42001]",
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 4,
@@ -5421,22 +5421,12 @@
       },
       {
         "BlessingItemId": 0,
-        "CharacterLevel": 181,
+        "CharacterLevel": 240,
         "DescriptionKey": "[ActiveSkillDescription420015]",
-        "EquipmentRarityFlags": 256,
+        "EquipmentRarityFlags": 512,
         "OrderNumber": 5,
         "SubSetSkillIds": [
           42001501
-        ]
-      },
-      {
-        "BlessingItemId": 0,
-        "CharacterLevel": 240,
-        "DescriptionKey": "[ActiveSkillDescription420016]",
-        "EquipmentRarityFlags": 512,
-        "OrderNumber": 6,
-        "SubSetSkillIds": [
-          42001601
         ]
       }
     ],
@@ -5445,7 +5435,7 @@
   {
     "Id": 42002,
     "IsIgnore": null,
-    "Memo": "【聖剣の魔女】\\nフォルティナSR: /Lv1　無数の光の剣が神の裁きを下し、HP割合が最も低い敵に攻撃力×340％の物理攻撃を行う。さらに剣が癒しの光を放ち、HP割合が最も低い味方のHPをこのスキルの総与ダメージ×80％回復する。　/Lv2 物理攻撃のダメージが攻撃力×380％、HP回復量がこのスキルの総与ダメージ×120％になる。　/Lv3 さらに物理攻撃の後、対象に自身の腕力×125％の直接攻撃を行う。　/Lv4 さらにこのスキルで敵を戦闘不能にできなかった場合、HP回復の前に物理攻撃と直接攻撃を再発動する（再発動は1回まで）。",
+    "Memo": "【聖剣の魔女】フォルティナSR:Lv1 無数の光の剣が神の裁きを下し、HP割合が最も低い敵に攻撃力×340%の物理攻撃を行う。さらに剣が癒しの光を放ち、HP割合が最も低い味方のHPをこのスキルの総与ダメージ×80%回復する。/ Lv2 物理攻撃のダメージが攻撃力×380%、HP回復量がこのスキルの総与ダメージ×120%になる。/ Lv3 さらに物理攻撃の後、対象に自身の腕力×125%の直接攻撃を行う。/ Lv4 さらにこのスキルで敵を戦闘不能にできなかった場合、HP回復の前に物理攻撃と直接攻撃を再発動する（再発動は1回まで）。",
     "NameKey": "[ActiveSkillName42002]",
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 4,
@@ -5497,6 +5487,7 @@
           42002403,
           42002404,
           42002405,
+          42002406,
           42002206
         ]
       }
@@ -21745,7 +21736,7 @@
   {
     "Id": 550442001,
     "IsIgnore": null,
-    "Memo": "",
+    "Memo": null,
     "NameKey": "[ActiveSkillName42001]",
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 4,
@@ -21754,7 +21745,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 1,
-        "DescriptionKey": "[ActiveSkillDescription420011]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 1,
         "SubSetSkillIds": [
@@ -21764,7 +21755,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 81,
-        "DescriptionKey": "[ActiveSkillDescription420012]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 2,
         "SubSetSkillIds": [
@@ -21774,7 +21765,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 161,
-        "DescriptionKey": "[ActiveSkillDescription420013]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 3,
         "SubSetSkillIds": [
@@ -21784,7 +21775,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 161,
-        "DescriptionKey": "[ActiveSkillDescription420014]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 128,
         "OrderNumber": 4,
         "SubSetSkillIds": [
@@ -21794,7 +21785,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 181,
-        "DescriptionKey": "[ActiveSkillDescription420015]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 256,
         "OrderNumber": 5,
         "SubSetSkillIds": [
@@ -21804,7 +21795,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 240,
-        "DescriptionKey": "[ActiveSkillDescription420016]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 512,
         "OrderNumber": 6,
         "SubSetSkillIds": [
@@ -21817,7 +21808,7 @@
   {
     "Id": 550442002,
     "IsIgnore": null,
-    "Memo": "",
+    "Memo": null,
     "NameKey": "[ActiveSkillName42002]",
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 4,
@@ -21826,7 +21817,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 11,
-        "DescriptionKey": "[ActiveSkillDescription420021]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 1,
         "SubSetSkillIds": [
@@ -21837,7 +21828,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 21,
-        "DescriptionKey": "[ActiveSkillDescription420022]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 2,
         "SubSetSkillIds": [
@@ -21848,7 +21839,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 101,
-        "DescriptionKey": "[ActiveSkillDescription420023]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 3,
         "SubSetSkillIds": [
@@ -21860,7 +21851,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 181,
-        "DescriptionKey": "[ActiveSkillDescription420024]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 4,
         "SubSetSkillIds": [
@@ -35559,7 +35550,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 1,
-        "DescriptionKey": "[ActiveSkillDescription420011]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 1,
         "SubSetSkillIds": [
@@ -35569,7 +35560,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 81,
-        "DescriptionKey": "[ActiveSkillDescription420012]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 2,
         "SubSetSkillIds": [
@@ -35579,7 +35570,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 161,
-        "DescriptionKey": "[ActiveSkillDescription420013]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 3,
         "SubSetSkillIds": [
@@ -35589,7 +35580,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 161,
-        "DescriptionKey": "[ActiveSkillDescription420014]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 128,
         "OrderNumber": 4,
         "SubSetSkillIds": [
@@ -35599,7 +35590,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 181,
-        "DescriptionKey": "[ActiveSkillDescription420015]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 256,
         "OrderNumber": 5,
         "SubSetSkillIds": [
@@ -35609,7 +35600,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 240,
-        "DescriptionKey": "[ActiveSkillDescription420016]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 512,
         "OrderNumber": 6,
         "SubSetSkillIds": [
@@ -35631,7 +35622,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 11,
-        "DescriptionKey": "[ActiveSkillDescription420021]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 1,
         "SubSetSkillIds": [
@@ -35642,7 +35633,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 21,
-        "DescriptionKey": "[ActiveSkillDescription420022]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 2,
         "SubSetSkillIds": [
@@ -35653,7 +35644,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 101,
-        "DescriptionKey": "[ActiveSkillDescription420023]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 3,
         "SubSetSkillIds": [
@@ -35665,7 +35656,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 181,
-        "DescriptionKey": "[ActiveSkillDescription420024]",
+        "DescriptionKey": "",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 4,
         "SubSetSkillIds": [

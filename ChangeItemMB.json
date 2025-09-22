@@ -11598,5 +11598,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 743,
+    "IsIgnore": null,
+    "Memo": "スペシャルセレクトガチャチケット(第一回→第二回)",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 11,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 13,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]
