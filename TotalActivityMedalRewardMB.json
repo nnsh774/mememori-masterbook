@@ -2359,5 +2359,74 @@
     "EndTime": "2025-09-07 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 10121,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション1_リーベ",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 34,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-09-30 04:00:00",
+    "EndTime": "2025-10-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10122,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション3_リーベ",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 34,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-09-30 04:00:00",
+    "EndTime": "2025-10-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10123,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション5_リーベ",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 34,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-09-30 04:00:00",
+    "EndTime": "2025-10-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
   }
 ]

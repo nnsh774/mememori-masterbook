@@ -11600,6 +11600,22 @@
     ]
   },
   {
+    "Id": 742,
+    "IsIgnore": null,
+    "Memo": "天国に宛てた手紙",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 34,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
     "Id": 743,
     "IsIgnore": null,
     "Memo": "スペシャルセレクトガチャチケット(第一回→第二回)",
