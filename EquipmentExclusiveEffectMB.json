@@ -12308,5 +12308,134 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 571,
+    "IsIgnore": null,
+    "Memo": "リーベSSR180",
+    "CharacterId": 102,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 572,
+    "IsIgnore": null,
+    "Memo": "リーベSSR200",
+    "CharacterId": 102,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ]
+  },
+  {
+    "Id": 573,
+    "IsIgnore": null,
+    "Memo": "リーベSSR220",
+    "CharacterId": 102,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 574,
+    "IsIgnore": null,
+    "Memo": "リーベSSR240",
+    "CharacterId": 102,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 575,
+    "IsIgnore": null,
+    "Memo": "リーベUR",
+    "CharacterId": 102,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 576,
+    "IsIgnore": null,
+    "Memo": "リーベLR",
+    "CharacterId": 102,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

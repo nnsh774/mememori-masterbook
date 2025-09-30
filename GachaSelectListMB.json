@@ -5716,13 +5716,15 @@
   {
     "Id": 155,
     "IsIgnore": null,
-    "Memo": "復刻メリア②+仮（0930切り替え用）",
+    "Memo": "リーベ①+復刻ティリー①+復刻メリア②（0930切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-09-30 16:30:00",
+    "StartTimeFixJST": "2025-09-30 15:00:00",
     "EndTimeFixJST": "2025-10-08 14:29:59",
     "OrderNumber": 155,
     "CharacterIdList": [
+      102,
+      111,
       86,
       5,
       6,
@@ -5748,7 +5750,49 @@
       46
     ],
     "NewCharacterIdList": [
+      102,
+      111,
       86
+    ]
+  },
+  {
+    "Id": 156,
+    "IsIgnore": null,
+    "Memo": "リーベ②+復刻ティリー②+仮（1008切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-10-08 14:30:00",
+    "EndTimeFixJST": "2025-10-16 14:29:59",
+    "OrderNumber": 156,
+    "CharacterIdList": [
+      102,
+      111,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      102,
+      111
     ]
   },
   {

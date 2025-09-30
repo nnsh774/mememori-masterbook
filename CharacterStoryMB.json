@@ -11304,6 +11304,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 692,
+    "IsIgnore": null,
+    "Memo": "リーベ1",
+    "CharacterId": 102,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10201]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 693,
+    "IsIgnore": null,
+    "Memo": "リーベ2",
+    "CharacterId": 102,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10202]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 694,
+    "IsIgnore": null,
+    "Memo": "リーベ3",
+    "CharacterId": 102,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10203]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 695,
+    "IsIgnore": null,
+    "Memo": "リーベ4",
+    "CharacterId": 102,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10204]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 696,
+    "IsIgnore": null,
+    "Memo": "リーベ5",
+    "CharacterId": 102,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10205]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 697,
+    "IsIgnore": null,
+    "Memo": "リーベ6",
+    "CharacterId": 102,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10206]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 698,
+    "IsIgnore": null,
+    "Memo": "リーベ7",
+    "CharacterId": 102,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10207]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 713,
     "IsIgnore": null,
     "Memo": "花束ナターシャ1",

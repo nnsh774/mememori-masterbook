@@ -15518,5 +15518,207 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7901,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7902,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7903,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7904,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7905,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7906,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 60.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7907,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 65.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7908,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 7909,
+    "IsIgnore": null,
+    "Memo": "コルンバの言伝(リーベ,カロル)",
+    "CollectionId": 79,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]
