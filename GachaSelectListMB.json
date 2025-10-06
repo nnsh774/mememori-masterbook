@@ -5758,7 +5758,7 @@
   {
     "Id": 156,
     "IsIgnore": null,
-    "Memo": "リーベ②+復刻ティリー②+仮（1008切り替え用）",
+    "Memo": "リーベ②+復刻ルスティカ①+復刻ティリー②（1008切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-10-08 14:30:00",
@@ -5766,6 +5766,7 @@
     "OrderNumber": 156,
     "CharacterIdList": [
       102,
+      113,
       111,
       5,
       6,
@@ -5792,7 +5793,46 @@
     ],
     "NewCharacterIdList": [
       102,
+      113,
       111
+    ]
+  },
+  {
+    "Id": 157,
+    "IsIgnore": null,
+    "Memo": "復刻ルスティカ②+仮（1016切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-10-16 16:30:00",
+    "EndTimeFixJST": "2025-10-23 14:29:59",
+    "OrderNumber": 157,
+    "CharacterIdList": [
+      113,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      113
     ]
   },
   {
