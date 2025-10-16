@@ -522,8 +522,8 @@
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1104,
-      "NumberInfo2": 1104,
+      "NumberInfo1": 1032,
+      "NumberInfo2": 1032,
       "StringInfo": null
     }
   },
@@ -803,13 +803,35 @@
     }
   },
   {
+    "Id": 76,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリル新ガチャ",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 760,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
+    "Id": 79,
+    "IsIgnore": null,
+    "Memo": "音楽イベント",
+    "TransferDetailInfo": {
+      "TransferSpotType": "Notice",
+      "NumberInfo1": 790,
+      "NumberInfo2": 0,
+      "StringInfo": null
+    }
+  },
+  {
     "Id": 21594716388,
     "IsIgnore": null,
     "Memo": null,
     "TransferDetailInfo": {
       "TransferSpotType": "TitleWorld",
-      "NumberInfo1": 1104,
-      "NumberInfo2": 1104,
+      "NumberInfo1": 1032,
+      "NumberInfo2": 1032,
       "StringInfo": null
     }
   }

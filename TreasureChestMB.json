@@ -3016,6 +3016,75 @@
     "StartTime": null
   },
   {
+    "Id": 133,
+    "IsIgnore": null,
+    "Memo": "緑のオモチャ箱",
+    "NameKey": "[TreasureChestName133]",
+    "DisplayNameKey": "[TreasureChestDisplayName133]",
+    "DescriptionKey": "[TreasureChestDescription133]",
+    "IconId": 213,
+    "ItemRarityFlags": 32,
+    "SortOrder": 0,
+    "TreasureChestLotteryType": "Random",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      136
+    ],
+    "BulkUseEnabled": false,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 134,
+    "IsIgnore": null,
+    "Memo": "青いオモチャ箱",
+    "NameKey": "[TreasureChestName134]",
+    "DisplayNameKey": "[TreasureChestDisplayName134]",
+    "DescriptionKey": "[TreasureChestDescription134]",
+    "IconId": 214,
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "TreasureChestLotteryType": "Random",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      137
+    ],
+    "BulkUseEnabled": false,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 135,
+    "IsIgnore": null,
+    "Memo": "真っ赤なオモチャ箱",
+    "NameKey": "[TreasureChestName135]",
+    "DisplayNameKey": "[TreasureChestDisplayName135]",
+    "DescriptionKey": "[TreasureChestDescription135]",
+    "IconId": 215,
+    "ItemRarityFlags": 128,
+    "SortOrder": 0,
+    "TreasureChestLotteryType": "Random",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      138
+    ],
+    "BulkUseEnabled": false,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

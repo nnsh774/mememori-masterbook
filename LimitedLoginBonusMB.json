@@ -17,8 +17,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#FFFFFFFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -39,8 +39,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -61,8 +61,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -83,8 +83,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -105,8 +105,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -127,8 +127,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -149,8 +149,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -171,8 +171,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -193,8 +193,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "MypageOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -215,8 +215,8 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "EventPortalOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   },
   {
@@ -237,8 +237,30 @@
     "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
     "SpecialRewardCountTextColor": "#473D3BFF",
     "MypageIconDisplayLocationType": "EventPortalOnly",
-    "CharacterImageX": 10,
-    "CharacterImageY": 0,
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
+    "CharacterImageSize": 665.599976
+  },
+  {
+    "Id": 12,
+    "IsIgnore": null,
+    "Memo": "2025_3周年記念ログインボーナス",
+    "StartTime": "2025-10-16 04:00:00",
+    "EndTime": "2025-11-27 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 12,
+    "CharacterImageId": 83,
+    "RewardBackgroundImageId": 11,
+    "SpecialRewardBackgroundImageId": 11,
+    "TitleTextKey": "[LimitedLoginBonusTitle]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal3]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "EventPortalOnly",
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
   }
 ]

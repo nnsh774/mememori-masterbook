@@ -5800,13 +5800,15 @@
   {
     "Id": 157,
     "IsIgnore": null,
-    "Memo": "復刻ルスティカ②+仮（1016切り替え用）",
+    "Memo": "宝物フェンリル①+復刻ポーラ①+復刻ルスティカ②（1016切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-10-16 16:30:00",
+    "StartTimeFixJST": "2025-10-16 15:00:00",
     "EndTimeFixJST": "2025-10-23 14:29:59",
     "OrderNumber": 157,
     "CharacterIdList": [
+      83,
+      114,
       113,
       5,
       6,
@@ -5832,7 +5834,125 @@
       46
     ],
     "NewCharacterIdList": [
+      83,
+      114,
       113
+    ]
+  },
+  {
+    "Id": 158,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリル②+復刻ポーラ②+仮（1023切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-10-23 14:30:00",
+    "EndTimeFixJST": "2025-10-30 14:29:59",
+    "OrderNumber": 158,
+    "CharacterIdList": [
+      83,
+      114,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      83,
+      114
+    ]
+  },
+  {
+    "Id": 159,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリル③+仮（1030切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-10-30 16:30:00",
+    "EndTimeFixJST": "2025-11-06 14:29:59",
+    "OrderNumber": 159,
+    "CharacterIdList": [
+      83,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      83
+    ]
+  },
+  {
+    "Id": 160,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリル④+仮（1106切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-11-06 14:30:00",
+    "EndTimeFixJST": "2025-11-13 14:29:59",
+    "OrderNumber": 160,
+    "CharacterIdList": [
+      83,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      83
     ]
   },
   {
@@ -6379,6 +6499,32 @@
       19,
       30,
       40
+    ]
+  },
+  {
+    "Id": 10290,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第29回_ケルベロス・A.A.・シヴィ・ソフィア・レア・ウィーラ",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-10-16 15:00:00",
+    "EndTimeFixJST": "2025-11-06 14:29:59",
+    "OrderNumber": 10290,
+    "CharacterIdList": [
+      43,
+      48,
+      52,
+      51,
+      55,
+      53
+    ],
+    "NewCharacterIdList": [
+      43,
+      48,
+      52,
+      51,
+      55,
+      53
     ]
   },
   {

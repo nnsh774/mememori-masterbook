@@ -1903,5 +1903,20 @@
       }
     ],
     "ItemRarityFlags": 128
+  },
+  {
+    "Id": 130,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリル剣",
+    "EquipmentId": 830910180,
+    "RequiredFragmentCount": 80,
+    "RequiredItemList": [
+      {
+        "ItemCount": 75000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ],
+    "ItemRarityFlags": 128
   }
 ]

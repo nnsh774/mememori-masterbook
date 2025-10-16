@@ -56596,5 +56596,1681 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 1927,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48章をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1927]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattledMaxClearChapter",
+    "RequireValue": 48,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 4,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 12,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1928,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49章をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1928]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattledMaxClearChapter",
+    "RequireValue": 49,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 4,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 12,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1929,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-8をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1808,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1930,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-16をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1816,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1931,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-24をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1824,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1932,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-32をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1832,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1933,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-40をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1840,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1934,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-48をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1848,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1935,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-56をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1856,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1936,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト48-60をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1860,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1937,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-8をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1868,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1938,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-16をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1876,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1939,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-24をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1884,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1940,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-32をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1892,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1941,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-40をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1900,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1942,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-48をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1908,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1943,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-56をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1916,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1944,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト49-60をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 1920,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1945,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_洞窟でウォーリア3人以上で７回勝利",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1504]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClear3UnitWarriorType",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1001,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1006,
+          "ItemType": "ChatEmoticon"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1946,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_1日ログイン",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1165]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1947,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_5日ログイン",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1167]",
+    "DescriptionKey": "",
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1004,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1948,
+    "IsIgnore": null,
+    "Memo": "メイン_プレイリストをシェアしよう",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName1948]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MusicPlaylist",
+    "AchievementType": "ShareMusicPlaylist",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 3,
+    "SortOrderB": 3,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1949,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1950,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1951,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 6,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1952,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1953,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 6,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 11,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1954,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1955,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 11,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1956,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 8,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1957,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 9,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1958,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1959,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 11,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1960,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 12,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1961,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 13,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1962,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 14,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1963,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1964,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 16,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1965,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 17,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1966,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 18,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1967,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 19,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1968,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidFirstBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidFirstHalfLimitFormation",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1969,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1970,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1971,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 6,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1972,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1973,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 6,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 11,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1974,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1975,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 11,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1976,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 8,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1977,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 9,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1978,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1979,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 11,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1980,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 12,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1981,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 13,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1982,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 14,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 50,
+          "ItemId": 3,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1983,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 4,
+          "ItemId": 2,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1984,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 16,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1985,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 17,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1986,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 18,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1987,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 19,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 1988,
+    "IsIgnore": null,
+    "Memo": "人形たちのお遊戯会_X属性のキャラをX体以上編成してXダメージ与える",
+    "MissionType": "RentalRaid",
+    "OpeningPeriod": 0,
+    "NameKey": "[RentalRaidSecondBossStageMissionName1]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "RentalRaidSecondHalfLimitFormation",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1000,
+          "ItemId": 2,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

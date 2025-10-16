@@ -12437,5 +12437,139 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 583,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリルSSR180",
+    "CharacterId": 83,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 584,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリルSSR200",
+    "CharacterId": 83,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      }
+    ]
+  },
+  {
+    "Id": 585,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリルSSR220",
+    "CharacterId": 83,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 586,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリルSSR240",
+    "CharacterId": 83,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1300.000000
+      }
+    ]
+  },
+  {
+    "Id": 587,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリルUR",
+    "CharacterId": 83,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1400.000000
+      }
+    ]
+  },
+  {
+    "Id": 588,
+    "IsIgnore": null,
+    "Memo": "宝物フェンリルLR",
+    "CharacterId": 83,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1500.000000
+      }
+    ]
   }
 ]

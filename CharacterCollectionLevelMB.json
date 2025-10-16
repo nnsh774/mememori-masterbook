@@ -15720,5 +15720,251 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8101,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 500.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8102,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8103,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8104,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8105,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1050.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8106,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1100.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8107,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1150.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8108,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8109,
+    "IsIgnore": null,
+    "Memo": "ループスの宝物(宝物フェンリル,フェンリル)",
+    "CollectionId": 81,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8801,
+    "IsIgnore": null,
+    "Memo": "アルニタクの開花​(ロキ,ペトラ,リブラ,ソテイラ)",
+    "CollectionId": 88,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 1
+  },
+  {
+    "Id": 8802,
+    "IsIgnore": null,
+    "Memo": "アルニタクの開花​(ロキ,ペトラ,リブラ,ソテイラ)",
+    "CollectionId": 88,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 3
+  },
+  {
+    "Id": 8803,
+    "IsIgnore": null,
+    "Memo": "アルニタクの開花​(ロキ,ペトラ,リブラ,ソテイラ)",
+    "CollectionId": 88,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 5
   }
 ]
