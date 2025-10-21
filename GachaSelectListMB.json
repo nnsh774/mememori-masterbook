@@ -5842,7 +5842,7 @@
   {
     "Id": 158,
     "IsIgnore": null,
-    "Memo": "宝物フェンリル②+復刻ポーラ②+仮（1023切り替え用）",
+    "Memo": "宝物フェンリル②+復刻花束ナターシャ①+復刻ポーラ②（1023切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-10-23 14:30:00",
@@ -5850,6 +5850,7 @@
     "OrderNumber": 158,
     "CharacterIdList": [
       83,
+      105,
       114,
       5,
       6,
@@ -5876,13 +5877,14 @@
     ],
     "NewCharacterIdList": [
       83,
+      105,
       114
     ]
   },
   {
     "Id": 159,
     "IsIgnore": null,
-    "Memo": "宝物フェンリル③+仮（1030切り替え用）",
+    "Memo": "宝物フェンリル③+復刻花束ナターシャ②+仮（1030切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-10-30 16:30:00",
@@ -5890,6 +5892,7 @@
     "OrderNumber": 159,
     "CharacterIdList": [
       83,
+      105,
       5,
       6,
       7,
@@ -5914,7 +5917,8 @@
       46
     ],
     "NewCharacterIdList": [
-      83
+      83,
+      105
     ]
   },
   {
