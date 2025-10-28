@@ -11630,5 +11630,37 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 744,
+    "IsIgnore": null,
+    "Memo": "キラキラの宝石箱",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 35,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 745,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1290,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]
