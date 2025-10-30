@@ -5884,13 +5884,14 @@
   {
     "Id": 159,
     "IsIgnore": null,
-    "Memo": "宝物フェンリル③+復刻花束ナターシャ②+仮（1030切り替え用）",
+    "Memo": "宝物ケルベロス①+宝物フェンリル③+復刻花束ナターシャ②（1030切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-10-30 16:30:00",
+    "StartTimeFixJST": "2025-10-30 15:00:00",
     "EndTimeFixJST": "2025-11-06 14:29:59",
     "OrderNumber": 159,
     "CharacterIdList": [
+      129,
       83,
       105,
       5,
@@ -5917,6 +5918,7 @@
       46
     ],
     "NewCharacterIdList": [
+      129,
       83,
       105
     ]
@@ -5924,13 +5926,14 @@
   {
     "Id": 160,
     "IsIgnore": null,
-    "Memo": "宝物フェンリル④+仮（1106切り替え用）",
+    "Memo": "宝物ケルベロス②+宝物フェンリル④+仮（1106切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-11-06 14:30:00",
     "EndTimeFixJST": "2025-11-13 14:29:59",
     "OrderNumber": 160,
     "CharacterIdList": [
+      129,
       83,
       5,
       6,
@@ -5956,7 +5959,84 @@
       46
     ],
     "NewCharacterIdList": [
+      129,
       83
+    ]
+  },
+  {
+    "Id": 161,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス③+仮（1113切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-11-13 16:30:00",
+    "EndTimeFixJST": "2025-11-20 14:29:59",
+    "OrderNumber": 161,
+    "CharacterIdList": [
+      129,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      129
+    ]
+  },
+  {
+    "Id": 162,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス④+仮（1120切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-11-20 14:30:00",
+    "EndTimeFixJST": "2025-11-27 14:29:59",
+    "OrderNumber": 162,
+    "CharacterIdList": [
+      129,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      129
     ]
   },
   {

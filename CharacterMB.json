@@ -5820,6 +5820,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 129,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス",
+    "NameKey": "[CharacterName129]",
+    "Name2Key": "[CharacterSubName129]",
+    "CharacterType": "ColorChange",
+    "ElementType": "Dark",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 1,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": -3,
+      "Speed": 2563
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 81,
+      "Health": 76,
+      "Intelligence": 104,
+      "Muscle": 88
+    },
+    "BaseParameterGrossCoefficient": 349,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      129001,
+      129002
+    ],
+    "PassiveSkillIds": [
+      129003,
+      129004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2025-10-30 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 130,
     "IsIgnore": null,
     "Memo": "アイシェ",

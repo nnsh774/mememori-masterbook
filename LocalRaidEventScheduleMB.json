@@ -209,5 +209,25 @@
     "StartTime": "2025-07-15 04:00:00",
     "EndTime": "2025-07-25 03:59:59",
     "LocalRaidEventTutorialId": 2010
+  },
+  {
+    "Id": 12,
+    "IsIgnore": null,
+    "Memo": "20251030宝物ケルベロスイベント",
+    "LocalRaidStartEndTimes": [
+      {
+        "EndTime": 133000,
+        "StartTime": 123000
+      },
+      {
+        "EndTime": 203000,
+        "StartTime": 193000
+      }
+    ],
+    "RewardBonusRate": 11000,
+    "EventBattleCount": 0,
+    "StartTime": "2025-10-30 04:00:00",
+    "EndTime": "2025-11-09 03:59:59",
+    "LocalRaidEventTutorialId": 2011
   }
 ]

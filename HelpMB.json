@@ -2866,5 +2866,27 @@
     "DialogType": 1,
     "IsDisplayed": true,
     "DisplayDeviceTypes": null
+  },
+  {
+    "Id": 7400,
+    "IsIgnore": null,
+    "Memo": "カスタム音楽設定",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine7400]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText7400]"
+          }
+        ],
+        "HelpParameterType": "None",
+        "MainText": "[HelpMainText7400]"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "DialogType": 1,
+    "IsDisplayed": true,
+    "DisplayDeviceTypes": null
   }
 ]

@@ -12571,5 +12571,134 @@
         "Value": 1500.000000
       }
     ]
+  },
+  {
+    "Id": 589,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスSSR180",
+    "CharacterId": 129,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 590,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスSSR200",
+    "CharacterId": 129,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5000.000000
+      }
+    ]
+  },
+  {
+    "Id": 591,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスSSR220",
+    "CharacterId": 129,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5500.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 592,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスSSR240",
+    "CharacterId": 129,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6000.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1300.000000
+      }
+    ]
+  },
+  {
+    "Id": 593,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスUR",
+    "CharacterId": 129,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6500.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1400.000000
+      }
+    ]
+  },
+  {
+    "Id": 594,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロスLR",
+    "CharacterId": 129,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 7000.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1500.000000
+      }
+    ]
   }
 ]

@@ -13822,5 +13822,131 @@
     ],
     "TextKey": "[CharacterStoryText12607]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 881,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス1",
+    "CharacterId": 129,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12901]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 882,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス2",
+    "CharacterId": 129,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12902]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 883,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス3",
+    "CharacterId": 129,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12903]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 884,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス4",
+    "CharacterId": 129,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12904]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 885,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス5",
+    "CharacterId": 129,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12905]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 886,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス6",
+    "CharacterId": 129,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12906]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 887,
+    "IsIgnore": null,
+    "Memo": "宝物ケルベロス7",
+    "CharacterId": 129,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12907]",
+    "RarityFlags": 512
   }
 ]
