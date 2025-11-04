@@ -5926,7 +5926,7 @@
   {
     "Id": 160,
     "IsIgnore": null,
-    "Memo": "宝物ケルベロス②+宝物フェンリル④+仮（1106切り替え用）",
+    "Memo": "宝物ケルベロス②+宝物フェンリル④+復刻ポプリ①（1106切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-11-06 14:30:00",
@@ -5935,6 +5935,7 @@
     "CharacterIdList": [
       129,
       83,
+      115,
       5,
       6,
       7,
@@ -5960,13 +5961,14 @@
     ],
     "NewCharacterIdList": [
       129,
-      83
+      83,
+      115
     ]
   },
   {
     "Id": 161,
     "IsIgnore": null,
-    "Memo": "宝物ケルベロス③+仮（1113切り替え用）",
+    "Memo": "宝物ケルベロス③+復刻ポプリ②+仮（1113切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-11-13 16:30:00",
@@ -5974,6 +5976,7 @@
     "OrderNumber": 161,
     "CharacterIdList": [
       129,
+      115,
       5,
       6,
       7,
@@ -5998,7 +6001,8 @@
       46
     ],
     "NewCharacterIdList": [
-      129
+      129,
+      115
     ]
   },
   {
@@ -6609,6 +6613,26 @@
       51,
       55,
       53
+    ]
+  },
+  {
+    "Id": 10300,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第30回_パラデア・エイル・アレクサンドラ",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-11-06 14:30:00",
+    "EndTimeFixJST": "2025-11-27 14:29:59",
+    "OrderNumber": 10300,
+    "CharacterIdList": [
+      63,
+      59,
+      82
+    ],
+    "NewCharacterIdList": [
+      63,
+      59,
+      82
     ]
   },
   {
