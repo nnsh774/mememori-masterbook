@@ -31106,5 +31106,4449 @@
       6070001294,
       6070001295
     ]
+  },
+  {
+    "Id": 8001,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 1,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 900260,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000011,
+      6080000012,
+      6080000013,
+      6080000014,
+      6080000015
+    ]
+  },
+  {
+    "Id": 8002,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 2,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 920515,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000021,
+      6080000022,
+      6080000023,
+      6080000024,
+      6080000025
+    ]
+  },
+  {
+    "Id": 8003,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 3,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 940771,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000031,
+      6080000032,
+      6080000033,
+      6080000034,
+      6080000035
+    ]
+  },
+  {
+    "Id": 8004,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 4,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 961027,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      64
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000041,
+      6080000042,
+      6080000043,
+      6080000044,
+      6080000045
+    ]
+  },
+  {
+    "Id": 8005,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 5,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 981283,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      44,
+      65
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000051,
+      6080000052,
+      6080000053,
+      6080000054,
+      6080000055
+    ]
+  },
+  {
+    "Id": 8006,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 6,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1001539,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      24,
+      45,
+      67
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000061,
+      6080000062,
+      6080000063,
+      6080000064,
+      6080000065
+    ]
+  },
+  {
+    "Id": 8007,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 7,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1021795,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      46,
+      68
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000071,
+      6080000072,
+      6080000073,
+      6080000074,
+      6080000075
+    ]
+  },
+  {
+    "Id": 8008,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 8,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1042050,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      48,
+      70
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000081,
+      6080000082,
+      6080000083,
+      6080000084,
+      6080000085
+    ]
+  },
+  {
+    "Id": 8009,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 9,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1062306,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      26,
+      49,
+      71
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000091,
+      6080000092,
+      6080000093,
+      6080000094,
+      6080000095
+    ]
+  },
+  {
+    "Id": 8010,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 10,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1082562,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      26,
+      50,
+      73
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 500,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000101,
+      6080000102,
+      6080000103,
+      6080000104,
+      6080000105
+    ]
+  },
+  {
+    "Id": 8011,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 11,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1102818,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      27,
+      51,
+      75
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000111,
+      6080000112,
+      6080000113,
+      6080000114,
+      6080000115
+    ]
+  },
+  {
+    "Id": 8012,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 12,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1123074,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      28,
+      52,
+      77
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000121,
+      6080000122,
+      6080000123,
+      6080000124,
+      6080000125
+    ]
+  },
+  {
+    "Id": 8013,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 13,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1143330,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      28,
+      53,
+      78
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000131,
+      6080000132,
+      6080000133,
+      6080000134,
+      6080000135
+    ]
+  },
+  {
+    "Id": 8014,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 14,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1163586,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      29,
+      55,
+      80
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000141,
+      6080000142,
+      6080000143,
+      6080000144,
+      6080000145
+    ]
+  },
+  {
+    "Id": 8015,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 15,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1183841,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      56,
+      82
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000151,
+      6080000152,
+      6080000153,
+      6080000154,
+      6080000155
+    ]
+  },
+  {
+    "Id": 8016,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 16,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1204097,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      57,
+      84
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000161,
+      6080000162,
+      6080000163,
+      6080000164,
+      6080000165
+    ]
+  },
+  {
+    "Id": 8017,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 17,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1224353,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      31,
+      58,
+      86
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000171,
+      6080000172,
+      6080000173,
+      6080000174,
+      6080000175
+    ]
+  },
+  {
+    "Id": 8018,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 18,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1244609,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      60,
+      88
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000181,
+      6080000182,
+      6080000183,
+      6080000184,
+      6080000185
+    ]
+  },
+  {
+    "Id": 8019,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 19,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1264865,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      61,
+      90
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000191,
+      6080000192,
+      6080000193,
+      6080000194,
+      6080000195
+    ]
+  },
+  {
+    "Id": 8020,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 20,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1285121,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      33,
+      63,
+      92
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000201,
+      6080000202,
+      6080000203,
+      6080000204,
+      6080000205
+    ]
+  },
+  {
+    "Id": 8021,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 21,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1305377,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      34,
+      64,
+      94
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000211,
+      6080000212,
+      6080000213,
+      6080000214,
+      6080000215
+    ]
+  },
+  {
+    "Id": 8022,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 22,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1325632,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      19,
+      35,
+      65,
+      96
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000221,
+      6080000222,
+      6080000223,
+      6080000224,
+      6080000225
+    ]
+  },
+  {
+    "Id": 8023,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 23,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1345888,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      67,
+      98
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000231,
+      6080000232,
+      6080000233,
+      6080000234,
+      6080000235
+    ]
+  },
+  {
+    "Id": 8024,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 24,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1366144,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      69,
+      101
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000241,
+      6080000242,
+      6080000243,
+      6080000244,
+      6080000245
+    ]
+  },
+  {
+    "Id": 8025,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 25,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1386400,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      37,
+      70,
+      103
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000251,
+      6080000252,
+      6080000253,
+      6080000254,
+      6080000255
+    ]
+  },
+  {
+    "Id": 8026,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 26,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1406656,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      38,
+      72,
+      105
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000261,
+      6080000262,
+      6080000263,
+      6080000264,
+      6080000265
+    ]
+  },
+  {
+    "Id": 8027,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 27,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1426912,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      22,
+      39,
+      73,
+      108
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000271,
+      6080000272,
+      6080000273,
+      6080000274,
+      6080000275
+    ]
+  },
+  {
+    "Id": 8028,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 28,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1447167,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      22,
+      40,
+      75,
+      110
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000281,
+      6080000282,
+      6080000283,
+      6080000284,
+      6080000285
+    ]
+  },
+  {
+    "Id": 8029,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 29,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1467423,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      41,
+      77,
+      113
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000291,
+      6080000292,
+      6080000293,
+      6080000294,
+      6080000295
+    ]
+  },
+  {
+    "Id": 8030,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 30,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1487679,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      42,
+      79,
+      115
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000301,
+      6080000302,
+      6080000303,
+      6080000304,
+      6080000305
+    ]
+  },
+  {
+    "Id": 8031,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 31,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1507935,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      24,
+      43,
+      80,
+      118
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000311,
+      6080000312,
+      6080000313,
+      6080000314,
+      6080000315
+    ]
+  },
+  {
+    "Id": 8032,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 32,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1528191,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      44,
+      82,
+      121
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000321,
+      6080000322,
+      6080000323,
+      6080000324,
+      6080000325
+    ]
+  },
+  {
+    "Id": 8033,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 33,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1548447,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      45,
+      84,
+      124
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000331,
+      6080000332,
+      6080000333,
+      6080000334,
+      6080000335
+    ]
+  },
+  {
+    "Id": 8034,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 34,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1568703,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      46,
+      86,
+      126
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000341,
+      6080000342,
+      6080000343,
+      6080000344,
+      6080000345
+    ]
+  },
+  {
+    "Id": 8035,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 35,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1588958,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      47,
+      88,
+      129
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000351,
+      6080000352,
+      6080000353,
+      6080000354,
+      6080000355
+    ]
+  },
+  {
+    "Id": 8036,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 36,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1609214,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      27,
+      48,
+      90,
+      132
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000361,
+      6080000362,
+      6080000363,
+      6080000364,
+      6080000365
+    ]
+  },
+  {
+    "Id": 8037,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 37,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1629470,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      49,
+      92,
+      135
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000371,
+      6080000372,
+      6080000373,
+      6080000374,
+      6080000375
+    ]
+  },
+  {
+    "Id": 8038,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 38,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1649726,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      50,
+      94,
+      138
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000381,
+      6080000382,
+      6080000383,
+      6080000384,
+      6080000385
+    ]
+  },
+  {
+    "Id": 8039,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 39,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1669982,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      29,
+      51,
+      97,
+      142
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000391,
+      6080000392,
+      6080000393,
+      6080000394,
+      6080000395
+    ]
+  },
+  {
+    "Id": 8040,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 40,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1690238,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      53,
+      99,
+      145
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000401,
+      6080000402,
+      6080000403,
+      6080000404,
+      6080000405
+    ]
+  },
+  {
+    "Id": 8041,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 41,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1691524,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      54,
+      101,
+      148
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000411,
+      6080000412,
+      6080000413,
+      6080000414,
+      6080000415
+    ]
+  },
+  {
+    "Id": 8042,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 42,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1692810,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      31,
+      55,
+      103,
+      152
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000421,
+      6080000422,
+      6080000423,
+      6080000424,
+      6080000425
+    ]
+  },
+  {
+    "Id": 8043,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 43,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1694096,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      32,
+      56,
+      106,
+      155
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000431,
+      6080000432,
+      6080000433,
+      6080000434,
+      6080000435
+    ]
+  },
+  {
+    "Id": 8044,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 44,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1695382,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      32,
+      58,
+      108,
+      159
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000441,
+      6080000442,
+      6080000443,
+      6080000444,
+      6080000445
+    ]
+  },
+  {
+    "Id": 8045,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 45,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1696668,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      33,
+      59,
+      111,
+      162
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000451,
+      6080000452,
+      6080000453,
+      6080000454,
+      6080000455
+    ]
+  },
+  {
+    "Id": 8046,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 46,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1697954,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      34,
+      60,
+      113,
+      166
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000461,
+      6080000462,
+      6080000463,
+      6080000464,
+      6080000465
+    ]
+  },
+  {
+    "Id": 8047,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 47,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1699240,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      35,
+      62,
+      116,
+      170
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000471,
+      6080000472,
+      6080000473,
+      6080000474,
+      6080000475
+    ]
+  },
+  {
+    "Id": 8048,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 48,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1700526,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      35,
+      63,
+      119,
+      174
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000481,
+      6080000482,
+      6080000483,
+      6080000484,
+      6080000485
+    ]
+  },
+  {
+    "Id": 8049,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 49,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1701812,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      36,
+      65,
+      121,
+      178
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000491,
+      6080000492,
+      6080000493,
+      6080000494,
+      6080000495
+    ]
+  },
+  {
+    "Id": 8050,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 50,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1703098,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      37,
+      66,
+      124,
+      182
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 2,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000501,
+      6080000502,
+      6080000503,
+      6080000504,
+      6080000505
+    ]
+  },
+  {
+    "Id": 8051,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 51,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1704384,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      38,
+      68,
+      127,
+      186
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000511,
+      6080000512,
+      6080000513,
+      6080000514,
+      6080000515
+    ]
+  },
+  {
+    "Id": 8052,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 52,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1705670,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      39,
+      69,
+      130,
+      190
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000521,
+      6080000522,
+      6080000523,
+      6080000524,
+      6080000525
+    ]
+  },
+  {
+    "Id": 8053,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 53,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1706956,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      40,
+      71,
+      133,
+      195
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000531,
+      6080000532,
+      6080000533,
+      6080000534,
+      6080000535
+    ]
+  },
+  {
+    "Id": 8054,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 54,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1708242,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      41,
+      72,
+      136,
+      199
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000541,
+      6080000542,
+      6080000543,
+      6080000544,
+      6080000545
+    ]
+  },
+  {
+    "Id": 8055,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 55,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1709528,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      42,
+      74,
+      139,
+      204
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000551,
+      6080000552,
+      6080000553,
+      6080000554,
+      6080000555
+    ]
+  },
+  {
+    "Id": 8056,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 56,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1710814,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      43,
+      76,
+      142,
+      209
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000561,
+      6080000562,
+      6080000563,
+      6080000564,
+      6080000565
+    ]
+  },
+  {
+    "Id": 8057,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 57,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1712100,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      44,
+      78,
+      145,
+      213
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000571,
+      6080000572,
+      6080000573,
+      6080000574,
+      6080000575
+    ]
+  },
+  {
+    "Id": 8058,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 58,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1713386,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      45,
+      79,
+      149,
+      218
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000581,
+      6080000582,
+      6080000583,
+      6080000584,
+      6080000585
+    ]
+  },
+  {
+    "Id": 8059,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 59,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1714672,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      46,
+      81,
+      152,
+      223
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000591,
+      6080000592,
+      6080000593,
+      6080000594,
+      6080000595
+    ]
+  },
+  {
+    "Id": 8060,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 60,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1715958,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      47,
+      83,
+      156,
+      228
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000601,
+      6080000602,
+      6080000603,
+      6080000604,
+      6080000605
+    ]
+  },
+  {
+    "Id": 8061,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 61,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1717245,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      48,
+      85,
+      159,
+      234
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000611,
+      6080000612,
+      6080000613,
+      6080000614,
+      6080000615
+    ]
+  },
+  {
+    "Id": 8062,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 62,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1723997,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      49,
+      87,
+      163,
+      239
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000621,
+      6080000622,
+      6080000623,
+      6080000624,
+      6080000625
+    ]
+  },
+  {
+    "Id": 8063,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 63,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1730749,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      50,
+      89,
+      167,
+      245
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000631,
+      6080000632,
+      6080000633,
+      6080000634,
+      6080000635
+    ]
+  },
+  {
+    "Id": 8064,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 64,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1737501,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      51,
+      91,
+      171,
+      250
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000641,
+      6080000642,
+      6080000643,
+      6080000644,
+      6080000645
+    ]
+  },
+  {
+    "Id": 8065,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 65,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1744253,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      52,
+      93,
+      175,
+      256
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000651,
+      6080000652,
+      6080000653,
+      6080000654,
+      6080000655
+    ]
+  },
+  {
+    "Id": 8066,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 66,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1751005,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      54,
+      95,
+      179,
+      262
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000661,
+      6080000662,
+      6080000663,
+      6080000664,
+      6080000665
+    ]
+  },
+  {
+    "Id": 8067,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 67,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1757757,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      55,
+      97,
+      183,
+      268
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000671,
+      6080000672,
+      6080000673,
+      6080000674,
+      6080000675
+    ]
+  },
+  {
+    "Id": 8068,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 68,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1764509,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      56,
+      100,
+      187,
+      274
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000681,
+      6080000682,
+      6080000683,
+      6080000684,
+      6080000685
+    ]
+  },
+  {
+    "Id": 8069,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 69,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1771261,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      57,
+      102,
+      191,
+      280
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000691,
+      6080000692,
+      6080000693,
+      6080000694,
+      6080000695
+    ]
+  },
+  {
+    "Id": 8070,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 70,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1778013,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      59,
+      104,
+      196,
+      287
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000701,
+      6080000702,
+      6080000703,
+      6080000704,
+      6080000705
+    ]
+  },
+  {
+    "Id": 8071,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 71,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1784765,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      60,
+      107,
+      200,
+      293
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000711,
+      6080000712,
+      6080000713,
+      6080000714,
+      6080000715
+    ]
+  },
+  {
+    "Id": 8072,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 72,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1791517,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      62,
+      109,
+      205,
+      300
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000721,
+      6080000722,
+      6080000723,
+      6080000724,
+      6080000725
+    ]
+  },
+  {
+    "Id": 8073,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 73,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1798269,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      63,
+      112,
+      209,
+      307
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000731,
+      6080000732,
+      6080000733,
+      6080000734,
+      6080000735
+    ]
+  },
+  {
+    "Id": 8074,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 74,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1805021,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      64,
+      114,
+      214,
+      314
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000741,
+      6080000742,
+      6080000743,
+      6080000744,
+      6080000745
+    ]
+  },
+  {
+    "Id": 8075,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 75,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1811773,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      66,
+      117,
+      219,
+      321
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000751,
+      6080000752,
+      6080000753,
+      6080000754,
+      6080000755
+    ]
+  },
+  {
+    "Id": 8076,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 76,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1818525,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      67,
+      120,
+      224,
+      329
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000761,
+      6080000762,
+      6080000763,
+      6080000764,
+      6080000765
+    ]
+  },
+  {
+    "Id": 8077,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 77,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1825277,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      69,
+      122,
+      229,
+      336
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000771,
+      6080000772,
+      6080000773,
+      6080000774,
+      6080000775
+    ]
+  },
+  {
+    "Id": 8078,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 78,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1832029,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      71,
+      125,
+      235,
+      344
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000781,
+      6080000782,
+      6080000783,
+      6080000784,
+      6080000785
+    ]
+  },
+  {
+    "Id": 8079,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 79,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1838781,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      72,
+      128,
+      240,
+      352
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000791,
+      6080000792,
+      6080000793,
+      6080000794,
+      6080000795
+    ]
+  },
+  {
+    "Id": 8080,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 80,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1845533,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      74,
+      131,
+      246,
+      360
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000801,
+      6080000802,
+      6080000803,
+      6080000804,
+      6080000805
+    ]
+  },
+  {
+    "Id": 8081,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 81,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1852284,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      76,
+      134,
+      251,
+      368
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000811,
+      6080000812,
+      6080000813,
+      6080000814,
+      6080000815
+    ]
+  },
+  {
+    "Id": 8082,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 82,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1859036,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      77,
+      137,
+      257,
+      377
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000821,
+      6080000822,
+      6080000823,
+      6080000824,
+      6080000825
+    ]
+  },
+  {
+    "Id": 8083,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 83,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1865788,
+    "BaseReinforcementMaterialCountList": [
+      24,
+      79,
+      140,
+      263,
+      385
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000831,
+      6080000832,
+      6080000833,
+      6080000834,
+      6080000835
+    ]
+  },
+  {
+    "Id": 8084,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 84,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1872540,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      81,
+      144,
+      269,
+      394
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000841,
+      6080000842,
+      6080000843,
+      6080000844,
+      6080000845
+    ]
+  },
+  {
+    "Id": 8085,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 85,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1879292,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      83,
+      147,
+      275,
+      403
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000851,
+      6080000852,
+      6080000853,
+      6080000854,
+      6080000855
+    ]
+  },
+  {
+    "Id": 8086,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 86,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1886044,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      85,
+      150,
+      281,
+      413
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000861,
+      6080000862,
+      6080000863,
+      6080000864,
+      6080000865
+    ]
+  },
+  {
+    "Id": 8087,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 87,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1892796,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      87,
+      154,
+      288,
+      422
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000871,
+      6080000872,
+      6080000873,
+      6080000874,
+      6080000875
+    ]
+  },
+  {
+    "Id": 8088,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 88,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1899548,
+    "BaseReinforcementMaterialCountList": [
+      27,
+      89,
+      157,
+      295,
+      432
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000881,
+      6080000882,
+      6080000883,
+      6080000884,
+      6080000885
+    ]
+  },
+  {
+    "Id": 8089,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 89,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1906300,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      91,
+      161,
+      301,
+      442
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000891,
+      6080000892,
+      6080000893,
+      6080000894,
+      6080000895
+    ]
+  },
+  {
+    "Id": 8090,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 90,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1913052,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      93,
+      165,
+      308,
+      452
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000901,
+      6080000902,
+      6080000903,
+      6080000904,
+      6080000905
+    ]
+  },
+  {
+    "Id": 8091,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 91,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1919804,
+    "BaseReinforcementMaterialCountList": [
+      29,
+      95,
+      168,
+      315,
+      462
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000911,
+      6080000912,
+      6080000913,
+      6080000914,
+      6080000915
+    ]
+  },
+  {
+    "Id": 8092,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 92,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1926556,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      97,
+      172,
+      323,
+      473
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000921,
+      6080000922,
+      6080000923,
+      6080000924,
+      6080000925
+    ]
+  },
+  {
+    "Id": 8093,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 93,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1933308,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      99,
+      176,
+      330,
+      484
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000931,
+      6080000932,
+      6080000933,
+      6080000934,
+      6080000935
+    ]
+  },
+  {
+    "Id": 8094,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 94,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1940060,
+    "BaseReinforcementMaterialCountList": [
+      31,
+      102,
+      180,
+      338,
+      495
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000941,
+      6080000942,
+      6080000943,
+      6080000944,
+      6080000945
+    ]
+  },
+  {
+    "Id": 8095,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 95,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1946812,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      104,
+      185,
+      345,
+      506
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080000951,
+      6080000952,
+      6080000953,
+      6080000954,
+      6080000955
+    ]
+  },
+  {
+    "Id": 8096,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 96,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1953564,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      106,
+      189,
+      353,
+      518
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000961,
+      6080000962,
+      6080000963,
+      6080000964,
+      6080000965
+    ]
+  },
+  {
+    "Id": 8097,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 97,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1960316,
+    "BaseReinforcementMaterialCountList": [
+      33,
+      109,
+      193,
+      361,
+      530
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000971,
+      6080000972,
+      6080000973,
+      6080000974,
+      6080000975
+    ]
+  },
+  {
+    "Id": 8098,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 98,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1967068,
+    "BaseReinforcementMaterialCountList": [
+      34,
+      111,
+      198,
+      370,
+      542
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000981,
+      6080000982,
+      6080000983,
+      6080000984,
+      6080000985
+    ]
+  },
+  {
+    "Id": 8099,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 99,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1973820,
+    "BaseReinforcementMaterialCountList": [
+      35,
+      114,
+      202,
+      378,
+      554
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080000991,
+      6080000992,
+      6080000993,
+      6080000994,
+      6080000995
+    ]
+  },
+  {
+    "Id": 8100,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 100,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1980572,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      117,
+      207,
+      387,
+      567
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080001001,
+      6080001002,
+      6080001003,
+      6080001004,
+      6080001005
+    ]
+  },
+  {
+    "Id": 8101,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 101,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1987324,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      119,
+      212,
+      396,
+      580
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001011,
+      6080001012,
+      6080001013,
+      6080001014,
+      6080001015
+    ]
+  },
+  {
+    "Id": 8102,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 102,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1994076,
+    "BaseReinforcementMaterialCountList": [
+      37,
+      122,
+      216,
+      405,
+      594
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001021,
+      6080001022,
+      6080001023,
+      6080001024,
+      6080001025
+    ]
+  },
+  {
+    "Id": 8103,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 103,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2000828,
+    "BaseReinforcementMaterialCountList": [
+      38,
+      125,
+      221,
+      414,
+      607
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001031,
+      6080001032,
+      6080001033,
+      6080001034,
+      6080001035
+    ]
+  },
+  {
+    "Id": 8104,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 104,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2007580,
+    "BaseReinforcementMaterialCountList": [
+      39,
+      128,
+      226,
+      424,
+      621
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001041,
+      6080001042,
+      6080001043,
+      6080001044,
+      6080001045
+    ]
+  },
+  {
+    "Id": 8105,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 105,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2014332,
+    "BaseReinforcementMaterialCountList": [
+      40,
+      131,
+      232,
+      434,
+      635
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080001051,
+      6080001052,
+      6080001053,
+      6080001054,
+      6080001055
+    ]
+  },
+  {
+    "Id": 8106,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 106,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2021084,
+    "BaseReinforcementMaterialCountList": [
+      41,
+      134,
+      237,
+      444,
+      650
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001061,
+      6080001062,
+      6080001063,
+      6080001064,
+      6080001065
+    ]
+  },
+  {
+    "Id": 8107,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 107,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2027836,
+    "BaseReinforcementMaterialCountList": [
+      42,
+      137,
+      242,
+      454,
+      665
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001071,
+      6080001072,
+      6080001073,
+      6080001074,
+      6080001075
+    ]
+  },
+  {
+    "Id": 8108,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 108,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2034588,
+    "BaseReinforcementMaterialCountList": [
+      43,
+      140,
+      248,
+      464,
+      680
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001081,
+      6080001082,
+      6080001083,
+      6080001084,
+      6080001085
+    ]
+  },
+  {
+    "Id": 8109,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 109,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2041340,
+    "BaseReinforcementMaterialCountList": [
+      44,
+      143,
+      254,
+      475,
+      696
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001091,
+      6080001092,
+      6080001093,
+      6080001094,
+      6080001095
+    ]
+  },
+  {
+    "Id": 8110,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 110,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2048092,
+    "BaseReinforcementMaterialCountList": [
+      45,
+      147,
+      260,
+      486,
+      712
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080001101,
+      6080001102,
+      6080001103,
+      6080001104,
+      6080001105
+    ]
+  },
+  {
+    "Id": 8111,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 111,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2054844,
+    "BaseReinforcementMaterialCountList": [
+      46,
+      150,
+      266,
+      497,
+      728
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001111,
+      6080001112,
+      6080001113,
+      6080001114,
+      6080001115
+    ]
+  },
+  {
+    "Id": 8112,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 112,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2061596,
+    "BaseReinforcementMaterialCountList": [
+      47,
+      153,
+      272,
+      508,
+      745
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001121,
+      6080001122,
+      6080001123,
+      6080001124,
+      6080001125
+    ]
+  },
+  {
+    "Id": 8113,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 113,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2068348,
+    "BaseReinforcementMaterialCountList": [
+      48,
+      157,
+      278,
+      520,
+      762
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001131,
+      6080001132,
+      6080001133,
+      6080001134,
+      6080001135
+    ]
+  },
+  {
+    "Id": 8114,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 114,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2075100,
+    "BaseReinforcementMaterialCountList": [
+      49,
+      160,
+      284,
+      532,
+      780
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001141,
+      6080001142,
+      6080001143,
+      6080001144,
+      6080001145
+    ]
+  },
+  {
+    "Id": 8115,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 115,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2081852,
+    "BaseReinforcementMaterialCountList": [
+      50,
+      164,
+      291,
+      544,
+      798
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080001151,
+      6080001152,
+      6080001153,
+      6080001154,
+      6080001155
+    ]
+  },
+  {
+    "Id": 8116,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 116,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2088604,
+    "BaseReinforcementMaterialCountList": [
+      51,
+      168,
+      298,
+      557,
+      816
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001161,
+      6080001162,
+      6080001163,
+      6080001164,
+      6080001165
+    ]
+  },
+  {
+    "Id": 8117,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 117,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2095356,
+    "BaseReinforcementMaterialCountList": [
+      53,
+      172,
+      304,
+      569,
+      835
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001171,
+      6080001172,
+      6080001173,
+      6080001174,
+      6080001175
+    ]
+  },
+  {
+    "Id": 8118,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 118,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2102108,
+    "BaseReinforcementMaterialCountList": [
+      54,
+      176,
+      311,
+      583,
+      854
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001181,
+      6080001182,
+      6080001183,
+      6080001184,
+      6080001185
+    ]
+  },
+  {
+    "Id": 8119,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 119,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2108860,
+    "BaseReinforcementMaterialCountList": [
+      55,
+      180,
+      319,
+      596,
+      873
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001191,
+      6080001192,
+      6080001193,
+      6080001194,
+      6080001195
+    ]
+  },
+  {
+    "Id": 8120,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 120,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2115612,
+    "BaseReinforcementMaterialCountList": [
+      56,
+      184,
+      326,
+      610,
+      893
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080001201,
+      6080001202,
+      6080001203,
+      6080001204,
+      6080001205
+    ]
+  },
+  {
+    "Id": 8121,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 121,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2122364,
+    "BaseReinforcementMaterialCountList": [
+      58,
+      188,
+      333,
+      624,
+      914
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001211,
+      6080001212,
+      6080001213,
+      6080001214,
+      6080001215
+    ]
+  },
+  {
+    "Id": 8122,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 122,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2129116,
+    "BaseReinforcementMaterialCountList": [
+      59,
+      193,
+      341,
+      638,
+      935
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001221,
+      6080001222,
+      6080001223,
+      6080001224,
+      6080001225
+    ]
+  },
+  {
+    "Id": 8123,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 123,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2135868,
+    "BaseReinforcementMaterialCountList": [
+      60,
+      197,
+      349,
+      653,
+      956
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001231,
+      6080001232,
+      6080001233,
+      6080001234,
+      6080001235
+    ]
+  },
+  {
+    "Id": 8124,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 124,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2142620,
+    "BaseReinforcementMaterialCountList": [
+      62,
+      201,
+      357,
+      668,
+      978
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001241,
+      6080001242,
+      6080001243,
+      6080001244,
+      6080001245
+    ]
+  },
+  {
+    "Id": 8125,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 125,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2149372,
+    "BaseReinforcementMaterialCountList": [
+      63,
+      206,
+      365,
+      683,
+      1001
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6080001251,
+      6080001252,
+      6080001253,
+      6080001254,
+      6080001255
+    ]
+  },
+  {
+    "Id": 8126,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 126,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2156124,
+    "BaseReinforcementMaterialCountList": [
+      65,
+      211,
+      373,
+      699,
+      1024
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001261,
+      6080001262,
+      6080001263,
+      6080001264,
+      6080001265
+    ]
+  },
+  {
+    "Id": 8127,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 127,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2162876,
+    "BaseReinforcementMaterialCountList": [
+      66,
+      216,
+      382,
+      715,
+      1047
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001271,
+      6080001272,
+      6080001273,
+      6080001274,
+      6080001275
+    ]
+  },
+  {
+    "Id": 8128,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 128,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2169628,
+    "BaseReinforcementMaterialCountList": [
+      68,
+      221,
+      391,
+      731,
+      1071
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001281,
+      6080001282,
+      6080001283,
+      6080001284,
+      6080001285
+    ]
+  },
+  {
+    "Id": 8129,
+    "IsIgnore": null,
+    "Memo": "20251113_第8回ギルドツリー_アイシェ",
+    "EventNo": 8,
+    "FloorCount": 129,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2176380,
+    "BaseReinforcementMaterialCountList": [
+      69,
+      226,
+      400,
+      748,
+      1096
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6080001291,
+      6080001292,
+      6080001293,
+      6080001294,
+      6080001295
+    ]
   }
 ]

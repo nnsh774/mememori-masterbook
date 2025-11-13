@@ -13948,5 +13948,131 @@
     ],
     "TextKey": "[CharacterStoryText12907]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 888,
+    "IsIgnore": null,
+    "Memo": "アイシェ1",
+    "CharacterId": 130,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13001]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 889,
+    "IsIgnore": null,
+    "Memo": "アイシェ2",
+    "CharacterId": 130,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13002]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 890,
+    "IsIgnore": null,
+    "Memo": "アイシェ3",
+    "CharacterId": 130,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13003]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 891,
+    "IsIgnore": null,
+    "Memo": "アイシェ4",
+    "CharacterId": 130,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13004]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 892,
+    "IsIgnore": null,
+    "Memo": "アイシェ5",
+    "CharacterId": 130,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13005]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 893,
+    "IsIgnore": null,
+    "Memo": "アイシェ6",
+    "CharacterId": 130,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13006]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 894,
+    "IsIgnore": null,
+    "Memo": "アイシェ7",
+    "CharacterId": 130,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13007]",
+    "RarityFlags": 512
   }
 ]

@@ -1076,6 +1076,19 @@
     "RequiredPartyLv": 0
   },
   {
+    "Id": 83,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "NameKey": "[CharacterCollectionName83]",
+    "RequiredCharacterIds": [
+      130,
+      0
+    ],
+    "StartTimeFixJST": "2025-11-13 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
+  },
+  {
     "Id": 88,
     "IsIgnore": null,
     "Memo": "アルニタクの開花​(ロキ,ペトラ,リブラ,ソテイラ)",

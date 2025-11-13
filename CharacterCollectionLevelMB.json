@@ -16134,6 +16134,216 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 8301,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 20.000000
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8302,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8303,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8304,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8305,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8306,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8307,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8308,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8309,
+    "IsIgnore": null,
+    "Memo": "インドゥスの知己(アイシェ,？)",
+    "CollectionId": 83,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 8801,
     "IsIgnore": null,
     "Memo": "アルニタクの開花​(ロキ,ペトラ,リブラ,ソテイラ)",
