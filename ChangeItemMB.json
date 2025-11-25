@@ -11662,5 +11662,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 746,
+    "IsIgnore": null,
+    "Memo": "森の精の雫",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 36,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]

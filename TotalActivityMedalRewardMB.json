@@ -2497,5 +2497,74 @@
     "EndTime": "2025-11-09 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 10141,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション1_冬マーリン",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 36,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-11-27 04:00:00",
+    "EndTime": "2025-12-07 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10142,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション3_冬マーリン",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 36,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-11-27 04:00:00",
+    "EndTime": "2025-12-07 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10143,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション5_冬マーリン",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 36,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2025-11-27 04:00:00",
+    "EndTime": "2025-12-07 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
   }
 ]
