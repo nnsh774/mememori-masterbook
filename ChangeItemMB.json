@@ -11678,5 +11678,21 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 747,
+    "IsIgnore": null,
+    "Memo": "星空の夜纏い",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 37,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]
