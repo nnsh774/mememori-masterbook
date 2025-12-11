@@ -1091,13 +1091,26 @@
   {
     "Id": 84,
     "IsIgnore": null,
-    "Memo": "ハーシェルの樹影​(冬マーリン,？)",
+    "Memo": "ハーシェルの樹影​(冬マーリン,冬ステラ)",
     "NameKey": "[CharacterCollectionName84]",
     "RequiredCharacterIds": [
       131,
-      0
+      132
     ],
     "StartTimeFixJST": "2025-11-27 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
+  },
+  {
+    "Id": 85,
+    "IsIgnore": null,
+    "Memo": "テレスコピウムの星影(冬ステラ,？)",
+    "NameKey": "[CharacterCollectionName85]",
+    "RequiredCharacterIds": [
+      132,
+      0
+    ],
+    "StartTimeFixJST": "2025-12-11 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
   },

@@ -6146,14 +6146,16 @@
   {
     "Id": 165,
     "IsIgnore": null,
-    "Memo": "冬マーリン③+復刻冬ソルティーナ②+復刻冬ルナリンド②+仮（1211切り替え用）",
+    "Memo": "冬ステラ①+冬マーリン③+復刻ルシール①+復刻冬ソルティーナ②+復刻冬ルナリンド②（1211切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-12-11 16:30:00",
+    "StartTimeFixJST": "2025-12-11 15:00:00",
     "EndTimeFixJST": "2025-12-18 14:29:59",
     "OrderNumber": 165,
     "CharacterIdList": [
+      132,
       131,
+      89,
       107,
       108,
       5,
@@ -6180,7 +6182,9 @@
       46
     ],
     "NewCharacterIdList": [
+      132,
       131,
+      89,
       107,
       108
     ]
@@ -6188,14 +6192,16 @@
   {
     "Id": 166,
     "IsIgnore": null,
-    "Memo": "冬マーリン④+仮（1218切り替え用）",
+    "Memo": "冬ステラ②+冬マーリン④+復刻ルシール②+仮（1218切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2025-12-18 14:30:00",
     "EndTimeFixJST": "2025-12-25 14:29:59",
     "OrderNumber": 166,
     "CharacterIdList": [
+      132,
       131,
+      89,
       5,
       6,
       7,
@@ -6220,7 +6226,85 @@
       46
     ],
     "NewCharacterIdList": [
-      131
+      132,
+      131,
+      89
+    ]
+  },
+  {
+    "Id": 167,
+    "IsIgnore": null,
+    "Memo": "冬ステラ③+仮（1225切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-12-25 16:30:00",
+    "EndTimeFixJST": "2025-12-31 14:29:59",
+    "OrderNumber": 167,
+    "CharacterIdList": [
+      132,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      132
+    ]
+  },
+  {
+    "Id": 168,
+    "IsIgnore": null,
+    "Memo": "冬ステラ④+仮（1231切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-12-31 14:30:00",
+    "EndTimeFixJST": "2026-01-06 14:29:59",
+    "OrderNumber": 168,
+    "CharacterIdList": [
+      132,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      132
     ]
   },
   {

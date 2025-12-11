@@ -14200,5 +14200,131 @@
     ],
     "TextKey": "[CharacterStoryText13107]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 902,
+    "IsIgnore": null,
+    "Memo": "冬ステラ1",
+    "CharacterId": 132,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13201]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 903,
+    "IsIgnore": null,
+    "Memo": "冬ステラ2",
+    "CharacterId": 132,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13202]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 904,
+    "IsIgnore": null,
+    "Memo": "冬ステラ3",
+    "CharacterId": 132,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13203]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 905,
+    "IsIgnore": null,
+    "Memo": "冬ステラ4",
+    "CharacterId": 132,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13204]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 906,
+    "IsIgnore": null,
+    "Memo": "冬ステラ5",
+    "CharacterId": 132,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13205]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 907,
+    "IsIgnore": null,
+    "Memo": "冬ステラ6",
+    "CharacterId": 132,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13206]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 908,
+    "IsIgnore": null,
+    "Memo": "冬ステラ7",
+    "CharacterId": 132,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13207]",
+    "RarityFlags": 512
   }
 ]

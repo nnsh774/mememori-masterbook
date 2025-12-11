@@ -1,0 +1,166 @@
+[
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": "第2回書庫整理イベント",
+    "BookSortEventId": 2,
+    "EndTime": "2025-12-20 03:59:59",
+    "ShopTabId": 6,
+    "ShopProductDefaultId": 524,
+    "BookSortAssistanceRewardGradeList": [
+      {
+        "CharacterRarityFlags": 1,
+        "Grade": 1
+      },
+      {
+        "CharacterRarityFlags": 2,
+        "Grade": 2
+      },
+      {
+        "CharacterRarityFlags": 8,
+        "Grade": 3
+      },
+      {
+        "CharacterRarityFlags": 32,
+        "Grade": 5
+      },
+      {
+        "CharacterRarityFlags": 128,
+        "Grade": 7
+      },
+      {
+        "CharacterRarityFlags": 512,
+        "Grade": 10
+      }
+    ],
+    "BookSortAssistanceLvList": [
+      {
+        "AssistanceLv": 1,
+        "BaseAssistanceCount": 3,
+        "IsAvailableBulkDispatch": false,
+        "ItemCountList": [
+          2,
+          3,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8
+        ],
+        "MaxRequiredTime": "03:00:00",
+        "QuestGrade": 3,
+        "QuestNameKey": "[BookAssistQuestName1]",
+        "RequiredDispatchCount": 0,
+        "RewardItemId": 1,
+        "RewardItemType": "BookSortGridCellUnlockItem"
+      },
+      {
+        "AssistanceLv": 2,
+        "BaseAssistanceCount": 4,
+        "IsAvailableBulkDispatch": true,
+        "ItemCountList": [
+          2,
+          3,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8
+        ],
+        "MaxRequiredTime": "03:00:00",
+        "QuestGrade": 3,
+        "QuestNameKey": "[BookAssistQuestName1]",
+        "RequiredDispatchCount": 3,
+        "RewardItemId": 1,
+        "RewardItemType": "BookSortGridCellUnlockItem"
+      },
+      {
+        "AssistanceLv": 3,
+        "BaseAssistanceCount": 4,
+        "IsAvailableBulkDispatch": true,
+        "ItemCountList": [
+          2,
+          3,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8
+        ],
+        "MaxRequiredTime": "05:00:00",
+        "QuestGrade": 5,
+        "QuestNameKey": "[BookAssistQuestName2]",
+        "RequiredDispatchCount": 8,
+        "RewardItemId": 1,
+        "RewardItemType": "BookSortGridCellUnlockItem"
+      },
+      {
+        "AssistanceLv": 4,
+        "BaseAssistanceCount": 5,
+        "IsAvailableBulkDispatch": true,
+        "ItemCountList": [
+          2,
+          3,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8
+        ],
+        "MaxRequiredTime": "07:00:00",
+        "QuestGrade": 7,
+        "QuestNameKey": "[BookAssistQuestName3]",
+        "RequiredDispatchCount": 20,
+        "RewardItemId": 1,
+        "RewardItemType": "BookSortGridCellUnlockItem"
+      },
+      {
+        "AssistanceLv": 5,
+        "BaseAssistanceCount": 5,
+        "IsAvailableBulkDispatch": true,
+        "ItemCountList": [
+          2,
+          3,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8
+        ],
+        "MaxRequiredTime": "10:00:00",
+        "QuestGrade": 10,
+        "QuestNameKey": "[BookAssistQuestName4]",
+        "RequiredDispatchCount": 35,
+        "RewardItemId": 1,
+        "RewardItemType": "BookSortGridCellUnlockItem"
+      }
+    ],
+    "BookSortAddAssistanceConditionList": [
+      {
+        "CharacterId": 131,
+        "CharacterRarityFlags": 8,
+        "GachaCaseId": 195
+      },
+      {
+        "CharacterId": 132,
+        "CharacterRarityFlags": 8,
+        "GachaCaseId": 197
+      }
+    ]
+  }
+]

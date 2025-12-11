@@ -12958,5 +12958,138 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 601,
+    "IsIgnore": null,
+    "Memo": "冬ステラSSR180",
+    "CharacterId": 132,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 602,
+    "IsIgnore": null,
+    "Memo": "冬ステラSSR200",
+    "CharacterId": 132,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ]
+  },
+  {
+    "Id": 603,
+    "IsIgnore": null,
+    "Memo": "冬ステラSSR220",
+    "CharacterId": 132,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 604,
+    "IsIgnore": null,
+    "Memo": "冬ステラSSR240",
+    "CharacterId": 132,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 605,
+    "IsIgnore": null,
+    "Memo": "冬ステラUR",
+    "CharacterId": 132,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 606,
+    "IsIgnore": null,
+    "Memo": "冬ステラLR",
+    "CharacterId": 132,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

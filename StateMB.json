@@ -24,8 +24,8 @@
     "AppearQliphaKey": "[StateAppearQlipha2]",
     "AppearQliphaId": 46,
     "StateBonusId": 2,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 3,
@@ -38,8 +38,8 @@
     "AppearQliphaKey": "[StateAppearQlipha3]",
     "AppearQliphaId": 47,
     "StateBonusId": 3,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 4,
@@ -52,8 +52,8 @@
     "AppearQliphaKey": "[StateAppearQlipha4]",
     "AppearQliphaId": 48,
     "StateBonusId": 4,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 5,
@@ -66,8 +66,8 @@
     "AppearQliphaKey": "[StateAppearQlipha5]",
     "AppearQliphaId": 42,
     "StateBonusId": 5,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 6,
@@ -80,8 +80,8 @@
     "AppearQliphaKey": "[StateAppearQlipha6]",
     "AppearQliphaId": 49,
     "StateBonusId": 6,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 7,
@@ -94,8 +94,8 @@
     "AppearQliphaKey": "[StateAppearQlipha7]",
     "AppearQliphaId": 43,
     "StateBonusId": 7,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 8,
@@ -108,8 +108,8 @@
     "AppearQliphaKey": "[StateAppearQlipha8]",
     "AppearQliphaId": 44,
     "StateBonusId": 8,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 9,
@@ -122,8 +122,8 @@
     "AppearQliphaKey": "[StateAppearQlipha9]",
     "AppearQliphaId": 50,
     "StateBonusId": 9,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 10,
@@ -136,8 +136,8 @@
     "AppearQliphaKey": "[StateAppearQlipha10]",
     "AppearQliphaId": 45,
     "StateBonusId": 10,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 11,
@@ -150,8 +150,8 @@
     "AppearQliphaKey": "[StateAppearQlipha11]",
     "AppearQliphaId": 63,
     "StateBonusId": 11,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 12,
@@ -164,8 +164,8 @@
     "AppearQliphaKey": "[StateAppearQlipha12]",
     "AppearQliphaId": 69,
     "StateBonusId": 12,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 13,
@@ -178,8 +178,8 @@
     "AppearQliphaKey": "[StateAppearQlipha13]",
     "AppearQliphaId": 86,
     "StateBonusId": 13,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 14,
@@ -192,8 +192,8 @@
     "AppearQliphaKey": "[StateAppearQlipha14]",
     "AppearQliphaId": 87,
     "StateBonusId": 14,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 15,
@@ -206,22 +206,22 @@
     "AppearQliphaKey": "[StateAppearQlipha15]",
     "AppearQliphaId": 128,
     "StateBonusId": 15,
-    "BgmStartTimeJP": 0,
-    "BgmStartTimeUS": 0
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 16,
     "IsIgnore": null,
-    "Memo": "",
+    "Memo": null,
     "ContinentId": 4,
     "NameKey": "[StateName16]",
     "SubNameKey": "[StateSubName16]",
     "TextKey": "[StateDescription16]",
     "AppearQliphaKey": "[StateAppearQlipha16]",
-    "AppearQliphaId": 0,
-    "StateBonusId": 10,
-    "BgmStartTimeJP": -1,
-    "BgmStartTimeUS": -1
+    "AppearQliphaId": 140,
+    "StateBonusId": 16,
+    "BgmStartTimeJP": 0.000000,
+    "BgmStartTimeUS": 0.000000
   },
   {
     "Id": 17,
@@ -234,8 +234,8 @@
     "AppearQliphaKey": "[StateAppearQlipha17]",
     "AppearQliphaId": 0,
     "StateBonusId": 10,
-    "BgmStartTimeJP": -1,
-    "BgmStartTimeUS": -1
+    "BgmStartTimeJP": -1.000000,
+    "BgmStartTimeUS": -1.000000
   },
   {
     "Id": 18,
@@ -248,8 +248,8 @@
     "AppearQliphaKey": "[StateAppearQlipha18]",
     "AppearQliphaId": 0,
     "StateBonusId": 10,
-    "BgmStartTimeJP": -1,
-    "BgmStartTimeUS": -1
+    "BgmStartTimeJP": -1.000000,
+    "BgmStartTimeUS": -1.000000
   },
   {
     "Id": 19,
@@ -262,8 +262,8 @@
     "AppearQliphaKey": "[StateAppearQlipha19]",
     "AppearQliphaId": 0,
     "StateBonusId": 10,
-    "BgmStartTimeJP": -1,
-    "BgmStartTimeUS": -1
+    "BgmStartTimeJP": -1.000000,
+    "BgmStartTimeUS": -1.000000
   },
   {
     "Id": 20,
@@ -276,7 +276,7 @@
     "AppearQliphaKey": "[StateAppearQlipha20]",
     "AppearQliphaId": 0,
     "StateBonusId": 10,
-    "BgmStartTimeJP": -1,
-    "BgmStartTimeUS": -1
+    "BgmStartTimeJP": -1.000000,
+    "BgmStartTimeUS": -1.000000
   }
 ]
