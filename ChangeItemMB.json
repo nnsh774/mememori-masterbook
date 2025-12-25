@@ -11694,5 +11694,21 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 748,
+    "IsIgnore": null,
+    "Memo": "リヴェリアガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1280,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]

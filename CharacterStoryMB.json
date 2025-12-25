@@ -13824,6 +13824,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 874,
+    "IsIgnore": null,
+    "Memo": "リヴェリア1",
+    "CharacterId": 128,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12801]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 875,
+    "IsIgnore": null,
+    "Memo": "リヴェリア2",
+    "CharacterId": 128,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12802]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 876,
+    "IsIgnore": null,
+    "Memo": "リヴェリア3",
+    "CharacterId": 128,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12803]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 877,
+    "IsIgnore": null,
+    "Memo": "リヴェリア4",
+    "CharacterId": 128,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12804]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 878,
+    "IsIgnore": null,
+    "Memo": "リヴェリア5",
+    "CharacterId": 128,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12805]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 879,
+    "IsIgnore": null,
+    "Memo": "リヴェリア6",
+    "CharacterId": 128,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12806]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 880,
+    "IsIgnore": null,
+    "Memo": "リヴェリア7",
+    "CharacterId": 128,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText12807]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 881,
     "IsIgnore": null,
     "Memo": "宝物ケルベロス1",

@@ -5953,5 +5953,95 @@
         "ItemType": "CurrencyFree"
       }
     ]
+  },
+  {
+    "Id": 398,
+    "IsIgnore": null,
+    "Memo": "無窮の塔2150階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetTower]",
+    "RankingDataType": "PlayerTower",
+    "RequireValue": 2150,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 399,
+    "IsIgnore": null,
+    "Memo": "無窮の塔2200階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetTower]",
+    "RankingDataType": "PlayerTower",
+    "RequireValue": 2200,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 400,
+    "IsIgnore": null,
+    "Memo": "無窮の塔2250階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetTower]",
+    "RankingDataType": "PlayerTower",
+    "RequireValue": 2250,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 401,
+    "IsIgnore": null,
+    "Memo": "無窮の塔2300階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetTower]",
+    "RankingDataType": "PlayerTower",
+    "RequireValue": 2300,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 402,
+    "IsIgnore": null,
+    "Memo": "無窮の塔2350階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetTower]",
+    "RankingDataType": "PlayerTower",
+    "RequireValue": 2350,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 403,
+    "IsIgnore": null,
+    "Memo": "無窮の塔2400階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetTower]",
+    "RankingDataType": "PlayerTower",
+    "RequireValue": 2400,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]

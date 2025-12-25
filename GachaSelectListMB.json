@@ -6236,13 +6236,14 @@
   {
     "Id": 167,
     "IsIgnore": null,
-    "Memo": "冬ステラ③+復刻アイリーン②+仮（1225切り替え用）",
+    "Memo": "リヴェリア①+冬ステラ③+復刻アイリーン②（1225切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-12-25 16:30:00",
+    "StartTimeFixJST": "2025-12-25 15:00:00",
     "EndTimeFixJST": "2025-12-31 14:29:59",
     "OrderNumber": 167,
     "CharacterIdList": [
+      128,
       132,
       109,
       5,
@@ -6269,6 +6270,7 @@
       46
     ],
     "NewCharacterIdList": [
+      128,
       132,
       109
     ]
@@ -6276,15 +6278,17 @@
   {
     "Id": 168,
     "IsIgnore": null,
-    "Memo": "冬ステラ④+復刻アイリーン③+仮（1231切り替え用）",
+    "Memo": "リヴェリア②+冬ステラ④+復刻アイリーン③+復刻春シズ①（1231切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2025-12-31 14:30:00",
+    "StartTimeFixJST": "2025-12-25 15:00:00",
     "EndTimeFixJST": "2026-01-06 14:29:59",
     "OrderNumber": 168,
     "CharacterIdList": [
+      128,
       132,
       109,
+      112,
       5,
       6,
       7,
@@ -6309,8 +6313,90 @@
       46
     ],
     "NewCharacterIdList": [
+      128,
       132,
-      109
+      109,
+      112
+    ]
+  },
+  {
+    "Id": 169,
+    "IsIgnore": null,
+    "Memo": "リヴェリア③+復刻ネブラ①+復刻春シズ②（0106切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2025-12-25 15:00:00",
+    "EndTimeFixJST": "2026-01-15 14:29:59",
+    "OrderNumber": 169,
+    "CharacterIdList": [
+      128,
+      87,
+      112,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      128,
+      87,
+      112
+    ]
+  },
+  {
+    "Id": 170,
+    "IsIgnore": null,
+    "Memo": "復刻ネブラ②+仮（0115切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-01-15 16:30:00",
+    "EndTimeFixJST": "2026-01-22 14:29:59",
+    "OrderNumber": 170,
+    "CharacterIdList": [
+      87,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      87
     ]
   },
   {

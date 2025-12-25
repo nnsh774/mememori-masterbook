@@ -13091,5 +13091,138 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 607,
+    "IsIgnore": null,
+    "Memo": "リヴェリアSSR180",
+    "CharacterId": 128,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 608,
+    "IsIgnore": null,
+    "Memo": "リヴェリアSSR200",
+    "CharacterId": 128,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 5000.000000
+      }
+    ]
+  },
+  {
+    "Id": 609,
+    "IsIgnore": null,
+    "Memo": "リヴェリアSSR220",
+    "CharacterId": 128,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 5500.000000
+      }
+    ]
+  },
+  {
+    "Id": 610,
+    "IsIgnore": null,
+    "Memo": "リヴェリアSSR240",
+    "CharacterId": 128,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6000.000000
+      }
+    ]
+  },
+  {
+    "Id": 611,
+    "IsIgnore": null,
+    "Memo": "リヴェリアUR",
+    "CharacterId": 128,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6500.000000
+      }
+    ]
+  },
+  {
+    "Id": 612,
+    "IsIgnore": null,
+    "Memo": "リヴェリアLR",
+    "CharacterId": 128,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Energy",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 7000.000000
+      }
+    ]
   }
 ]

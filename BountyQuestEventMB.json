@@ -2171,5 +2171,111 @@
         "ItemType": "TreasureChest"
       }
     ]
+  },
+  {
+    "Id": 42,
+    "IsIgnore": null,
+    "Memo": "ソロ報酬2倍（26/1/2～1/6）",
+    "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
+    "StartTime": "2026-01-02 04:00:00",
+    "EndTime": "2026-01-06 03:59:59",
+    "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "Solo"
+      }
+    ],
+    "TargetItemList": [
+      {
+        "ItemId": 1,
+        "ItemType": "Gold"
+      },
+      {
+        "ItemId": 2,
+        "ItemType": "CharacterTrainingMaterial"
+      },
+      {
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      },
+      {
+        "ItemId": 27,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 4,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 5,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 6,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 7,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 8,
+        "ItemType": "TreasureChest"
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "IsIgnore": null,
+    "Memo": "ソロ報酬2倍（26/1/23～1/27）",
+    "EventNameKey": "[BountyQuestEventName1]",
+    "EventDescriptionKey": "[BountyQuestEventDescription1]",
+    "StartTime": "2026-01-23 04:00:00",
+    "EndTime": "2026-01-27 03:59:59",
+    "MultipleNumber": 100,
+    "TargetQuestTypeList": [
+      {
+        "BountyQuestType": "Solo"
+      }
+    ],
+    "TargetItemList": [
+      {
+        "ItemId": 1,
+        "ItemType": "Gold"
+      },
+      {
+        "ItemId": 2,
+        "ItemType": "CharacterTrainingMaterial"
+      },
+      {
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      },
+      {
+        "ItemId": 27,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 4,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 5,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 6,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 7,
+        "ItemType": "TreasureChest"
+      },
+      {
+        "ItemId": 8,
+        "ItemType": "TreasureChest"
+      }
+    ]
   }
 ]

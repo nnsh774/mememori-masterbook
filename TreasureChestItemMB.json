@@ -3983,6 +3983,82 @@
     "FixItemList": null
   },
   {
+    "Id": 149,
+    "IsIgnore": null,
+    "Memo": "ニューイヤーボックス（2026）",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 3,
+          "ItemId": 16,
+          "ItemType": "QuestQuickTicket"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
+    "Id": 150,
+    "IsIgnore": null,
+    "Memo": "新年のチケットケース（2026）",
+    "TreasureChestItemListType": "SelectItemList",
+    "LotteryRewardId": 0,
+    "SelectItemList": [
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 5,
+          "ItemId": 1,
+          "ItemType": "GachaTicket"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 5,
+          "ItemId": 12,
+          "ItemType": "GachaTicket"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 5,
+          "ItemId": 3,
+          "ItemType": "GachaTicket"
+        }
+      },
+      {
+        "SacredTreasureType": "None",
+        "SelectItem": {
+          "ItemCount": 60,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        }
+      }
+    ],
+    "FixItemList": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

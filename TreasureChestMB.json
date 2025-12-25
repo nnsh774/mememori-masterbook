@@ -3315,6 +3315,52 @@
     "StartTime": null
   },
   {
+    "Id": 146,
+    "IsIgnore": null,
+    "Memo": "ニューイヤーボックス（2026）",
+    "NameKey": "[TreasureChestName91]",
+    "DisplayNameKey": "[TreasureChestDisplayName91]",
+    "DescriptionKey": "[TreasureChestDescription91]",
+    "IconId": 111,
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      149
+    ],
+    "BulkUseEnabled": false,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
+    "Id": 147,
+    "IsIgnore": null,
+    "Memo": "新年のチケットケース（2026）",
+    "NameKey": "[TreasureChestName92]",
+    "DisplayNameKey": "[TreasureChestDisplayName92]",
+    "DescriptionKey": "[TreasureChestDescription92]",
+    "IconId": 110,
+    "ItemRarityFlags": 128,
+    "SortOrder": 0,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      150
+    ],
+    "BulkUseEnabled": false,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

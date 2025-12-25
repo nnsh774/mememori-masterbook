@@ -262,5 +262,27 @@
     "CharacterImageX": 10.000000,
     "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
+  },
+  {
+    "Id": 13,
+    "IsIgnore": null,
+    "Memo": "2026_ニューイヤーログインボーナス",
+    "StartTime": "2026-01-01 04:00:00",
+    "EndTime": "2026-01-29 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 13,
+    "CharacterImageId": 128,
+    "RewardBackgroundImageId": 1,
+    "SpecialRewardBackgroundImageId": 1,
+    "TitleTextKey": "[LimitedLoginBonusTitle]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal4]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "EventPortalOnly",
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
+    "CharacterImageSize": 665.599976
   }
 ]
