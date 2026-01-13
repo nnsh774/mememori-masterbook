@@ -5016,6 +5016,25 @@
     "SecondaryFrameNum": 128
   },
   {
+    "Id": 266,
+    "IsIgnore": null,
+    "Memo": "エヴリンアイテム",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 38,
+    "NameKey": "[ItemName266]",
+    "DisplayName": "[ItemDisplayName266]",
+    "DescriptionKey": "[ItemDescription266]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-01-15 00:00:00",
+    "EndTime": "2026-01-28 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 228,
+    "TransferSpotId": 55,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
     "Id": 267,
     "IsIgnore": null,
     "Memo": "パネル_リヴェリア①",
