@@ -44608,6 +44608,482 @@
     "SortOrder": 103
   },
   {
+    "Id": 10102,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText1]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10102]",
+    "CharacterVoiceCategory": "Login",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 2
+  },
+  {
+    "Id": 10103,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText2]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10103]",
+    "CharacterVoiceCategory": "ComeBack",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 3,
+      "VoiceId": 0
+    },
+    "SortOrder": 3
+  },
+  {
+    "Id": 10104,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText3]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10104]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 4,
+      "VoiceId": 0
+    },
+    "SortOrder": 4
+  },
+  {
+    "Id": 10105,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText4]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10105]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 5,
+      "VoiceId": 0
+    },
+    "SortOrder": 5
+  },
+  {
+    "Id": 10106,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText5]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10106]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 6,
+      "VoiceId": 0
+    },
+    "SortOrder": 6
+  },
+  {
+    "Id": 10107,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText6]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10107]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 7,
+      "VoiceId": 0
+    },
+    "SortOrder": 7
+  },
+  {
+    "Id": 10108,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText7]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10108]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 8,
+      "VoiceId": 0
+    },
+    "SortOrder": 8
+  },
+  {
+    "Id": 10109,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText8]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10109]",
+    "CharacterVoiceCategory": "Birthday",
+    "UnlockCondition": "Birthday",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 9,
+      "VoiceId": 0
+    },
+    "SortOrder": 9
+  },
+  {
+    "Id": 10110,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText9]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10110]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 10,
+      "VoiceId": 0
+    },
+    "SortOrder": 10
+  },
+  {
+    "Id": 10111,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText10]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10111]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 11,
+      "VoiceId": 0
+    },
+    "SortOrder": 11
+  },
+  {
+    "Id": 10112,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText11]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10112]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 12,
+      "VoiceId": 0
+    },
+    "SortOrder": 12
+  },
+  {
+    "Id": 10113,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText12]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10113]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 13,
+      "VoiceId": 0
+    },
+    "SortOrder": 13
+  },
+  {
+    "Id": 10114,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText13]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10114]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 14,
+      "VoiceId": 0
+    },
+    "SortOrder": 14
+  },
+  {
+    "Id": 10115,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText14]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10115]",
+    "CharacterVoiceCategory": "Basic",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 15,
+      "VoiceId": 0
+    },
+    "SortOrder": 15
+  },
+  {
+    "Id": 10116,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText15]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10116]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp1",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 16,
+      "VoiceId": 0
+    },
+    "SortOrder": 16
+  },
+  {
+    "Id": 10117,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText16]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10117]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp2",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 17,
+      "VoiceId": 0
+    },
+    "SortOrder": 17
+  },
+  {
+    "Id": 10118,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText17]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10118]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp3",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 18,
+      "VoiceId": 0
+    },
+    "SortOrder": 18
+  },
+  {
+    "Id": 10119,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText18]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10119]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp4",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 19,
+      "VoiceId": 0
+    },
+    "SortOrder": 19
+  },
+  {
+    "Id": 10120,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText19]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10120]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp5",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 20,
+      "VoiceId": 0
+    },
+    "SortOrder": 20
+  },
+  {
+    "Id": 10121,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText20]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10121]",
+    "CharacterVoiceCategory": "RankUp",
+    "UnlockCondition": "RankUp6",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "MyPage",
+      "TimelineId": 21,
+      "VoiceId": 0
+    },
+    "SortOrder": 21
+  },
+  {
+    "Id": 10190,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText21]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10190]",
+    "CharacterVoiceCategory": "BattleWin",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 20,
+      "VoiceId": 0
+    },
+    "SortOrder": 90
+  },
+  {
+    "Id": 10191,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText22]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10191]",
+    "CharacterVoiceCategory": "BattleLose",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Battle",
+      "TimelineId": 21,
+      "VoiceId": 0
+    },
+    "SortOrder": 91
+  },
+  {
+    "Id": 10192,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText23]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10192]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 92
+  },
+  {
+    "Id": 10193,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText24]",
+    "SubtitleKey": "[CharacterDetailVoiceSubtitle10193]",
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Skill",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 93
+  },
+  {
+    "Id": 10196,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText27]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 2,
+      "VoiceId": 0
+    },
+    "SortOrder": 100
+  },
+  {
+    "Id": 10197,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText28]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 101
+  },
+  {
+    "Id": 10198,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText29]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 3,
+      "VoiceId": 0
+    },
+    "SortOrder": 102
+  },
+  {
+    "Id": 10199,
+    "IsIgnore": null,
+    "Memo": "エヴリン",
+    "CharacterId": 101,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText30]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Other",
+    "UnlockCondition": "MemoryComplete",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Memory",
+      "TimelineId": 4,
+      "VoiceId": 0
+    },
+    "SortOrder": 103
+  },
+  {
     "Id": 10202,
     "IsIgnore": null,
     "Memo": "リーベ",

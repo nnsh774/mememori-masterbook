@@ -13224,5 +13224,134 @@
         "Value": 7000.000000
       }
     ]
+  },
+  {
+    "Id": 613,
+    "IsIgnore": null,
+    "Memo": "エヴリンSSR180",
+    "CharacterId": 101,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 614,
+    "IsIgnore": null,
+    "Memo": "エヴリンSSR200",
+    "CharacterId": 101,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ]
+  },
+  {
+    "Id": 615,
+    "IsIgnore": null,
+    "Memo": "エヴリンSSR220",
+    "CharacterId": 101,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350.000000
+      }
+    ]
+  },
+  {
+    "Id": 616,
+    "IsIgnore": null,
+    "Memo": "エヴリンSSR240",
+    "CharacterId": 101,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 400.000000
+      }
+    ]
+  },
+  {
+    "Id": 617,
+    "IsIgnore": null,
+    "Memo": "エヴリンUR",
+    "CharacterId": 101,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 450.000000
+      }
+    ]
+  },
+  {
+    "Id": 618,
+    "IsIgnore": null,
+    "Memo": "エヴリンLR",
+    "CharacterId": 101,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500.000000
+      }
+    ]
   }
 ]

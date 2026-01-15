@@ -11430,6 +11430,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 685,
+    "IsIgnore": null,
+    "Memo": "エヴリン1",
+    "CharacterId": 101,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10101]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 686,
+    "IsIgnore": null,
+    "Memo": "エヴリン2",
+    "CharacterId": 101,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10102]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 687,
+    "IsIgnore": null,
+    "Memo": "エヴリン3",
+    "CharacterId": 101,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10103]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 688,
+    "IsIgnore": null,
+    "Memo": "エヴリン4",
+    "CharacterId": 101,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10104]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 689,
+    "IsIgnore": null,
+    "Memo": "エヴリン5",
+    "CharacterId": 101,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10105]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 690,
+    "IsIgnore": null,
+    "Memo": "エヴリン6",
+    "CharacterId": 101,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10106]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 691,
+    "IsIgnore": null,
+    "Memo": "エヴリン7",
+    "CharacterId": 101,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10107]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 692,
     "IsIgnore": null,
     "Memo": "リーベ1",
