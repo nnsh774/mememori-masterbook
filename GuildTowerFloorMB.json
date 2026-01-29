@@ -35550,5 +35550,4449 @@
       6080001294,
       6080001295
     ]
+  },
+  {
+    "Id": 9001,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 1,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 900260,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000011,
+      6090000012,
+      6090000013,
+      6090000014,
+      6090000015
+    ]
+  },
+  {
+    "Id": 9002,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 2,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 920515,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000021,
+      6090000022,
+      6090000023,
+      6090000024,
+      6090000025
+    ]
+  },
+  {
+    "Id": 9003,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 3,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 940771,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      63
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000031,
+      6090000032,
+      6090000033,
+      6090000034,
+      6090000035
+    ]
+  },
+  {
+    "Id": 9004,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 4,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 961027,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      43,
+      64
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000041,
+      6090000042,
+      6090000043,
+      6090000044,
+      6090000045
+    ]
+  },
+  {
+    "Id": 9005,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 5,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 981283,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      23,
+      44,
+      65
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000051,
+      6090000052,
+      6090000053,
+      6090000054,
+      6090000055
+    ]
+  },
+  {
+    "Id": 9006,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 6,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1001539,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      13,
+      24,
+      45,
+      67
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000061,
+      6090000062,
+      6090000063,
+      6090000064,
+      6090000065
+    ]
+  },
+  {
+    "Id": 9007,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 7,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1021795,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      46,
+      68
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000071,
+      6090000072,
+      6090000073,
+      6090000074,
+      6090000075
+    ]
+  },
+  {
+    "Id": 9008,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 8,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1042050,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      25,
+      48,
+      70
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000081,
+      6090000082,
+      6090000083,
+      6090000084,
+      6090000085
+    ]
+  },
+  {
+    "Id": 9009,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 9,
+    "RequiredProgressCount": 10,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5
+    ],
+    "BaseClearPartyBattlePower": 1062306,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      14,
+      26,
+      49,
+      71
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 12,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000091,
+      6090000092,
+      6090000093,
+      6090000094,
+      6090000095
+    ]
+  },
+  {
+    "Id": 9010,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 10,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1082562,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      26,
+      50,
+      73
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 500,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000101,
+      6090000102,
+      6090000103,
+      6090000104,
+      6090000105
+    ]
+  },
+  {
+    "Id": 9011,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 11,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1102818,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      27,
+      51,
+      75
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000111,
+      6090000112,
+      6090000113,
+      6090000114,
+      6090000115
+    ]
+  },
+  {
+    "Id": 9012,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 12,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1123074,
+    "BaseReinforcementMaterialCountList": [
+      4,
+      15,
+      28,
+      52,
+      77
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000121,
+      6090000122,
+      6090000123,
+      6090000124,
+      6090000125
+    ]
+  },
+  {
+    "Id": 9013,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 13,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1143330,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      28,
+      53,
+      78
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000131,
+      6090000132,
+      6090000133,
+      6090000134,
+      6090000135
+    ]
+  },
+  {
+    "Id": 9014,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 14,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1163586,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      16,
+      29,
+      55,
+      80
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000141,
+      6090000142,
+      6090000143,
+      6090000144,
+      6090000145
+    ]
+  },
+  {
+    "Id": 9015,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 15,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1183841,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      56,
+      82
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000151,
+      6090000152,
+      6090000153,
+      6090000154,
+      6090000155
+    ]
+  },
+  {
+    "Id": 9016,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 16,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1204097,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      30,
+      57,
+      84
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000161,
+      6090000162,
+      6090000163,
+      6090000164,
+      6090000165
+    ]
+  },
+  {
+    "Id": 9017,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 17,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1224353,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      17,
+      31,
+      58,
+      86
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000171,
+      6090000172,
+      6090000173,
+      6090000174,
+      6090000175
+    ]
+  },
+  {
+    "Id": 9018,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 18,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1244609,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      60,
+      88
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000181,
+      6090000182,
+      6090000183,
+      6090000184,
+      6090000185
+    ]
+  },
+  {
+    "Id": 9019,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 19,
+    "RequiredProgressCount": 20,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1264865,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      18,
+      32,
+      61,
+      90
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000191,
+      6090000192,
+      6090000193,
+      6090000194,
+      6090000195
+    ]
+  },
+  {
+    "Id": 9020,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 20,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1285121,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      33,
+      63,
+      92
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000201,
+      6090000202,
+      6090000203,
+      6090000204,
+      6090000205
+    ]
+  },
+  {
+    "Id": 9021,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 21,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1305377,
+    "BaseReinforcementMaterialCountList": [
+      5,
+      19,
+      34,
+      64,
+      94
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000211,
+      6090000212,
+      6090000213,
+      6090000214,
+      6090000215
+    ]
+  },
+  {
+    "Id": 9022,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 22,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1325632,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      19,
+      35,
+      65,
+      96
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000221,
+      6090000222,
+      6090000223,
+      6090000224,
+      6090000225
+    ]
+  },
+  {
+    "Id": 9023,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 23,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1345888,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      67,
+      98
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000231,
+      6090000232,
+      6090000233,
+      6090000234,
+      6090000235
+    ]
+  },
+  {
+    "Id": 9024,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 24,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1366144,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      20,
+      36,
+      69,
+      101
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000241,
+      6090000242,
+      6090000243,
+      6090000244,
+      6090000245
+    ]
+  },
+  {
+    "Id": 9025,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 25,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1386400,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      37,
+      70,
+      103
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000251,
+      6090000252,
+      6090000253,
+      6090000254,
+      6090000255
+    ]
+  },
+  {
+    "Id": 9026,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 26,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1406656,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      21,
+      38,
+      72,
+      105
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000261,
+      6090000262,
+      6090000263,
+      6090000264,
+      6090000265
+    ]
+  },
+  {
+    "Id": 9027,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 27,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1426912,
+    "BaseReinforcementMaterialCountList": [
+      6,
+      22,
+      39,
+      73,
+      108
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000271,
+      6090000272,
+      6090000273,
+      6090000274,
+      6090000275
+    ]
+  },
+  {
+    "Id": 9028,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 28,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1447167,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      22,
+      40,
+      75,
+      110
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000281,
+      6090000282,
+      6090000283,
+      6090000284,
+      6090000285
+    ]
+  },
+  {
+    "Id": 9029,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 29,
+    "RequiredProgressCount": 30,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "BaseClearPartyBattlePower": 1467423,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      41,
+      77,
+      113
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000291,
+      6090000292,
+      6090000293,
+      6090000294,
+      6090000295
+    ]
+  },
+  {
+    "Id": 9030,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 30,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1487679,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      23,
+      42,
+      79,
+      115
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000301,
+      6090000302,
+      6090000303,
+      6090000304,
+      6090000305
+    ]
+  },
+  {
+    "Id": 9031,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 31,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1507935,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      24,
+      43,
+      80,
+      118
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000311,
+      6090000312,
+      6090000313,
+      6090000314,
+      6090000315
+    ]
+  },
+  {
+    "Id": 9032,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 32,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1528191,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      44,
+      82,
+      121
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000321,
+      6090000322,
+      6090000323,
+      6090000324,
+      6090000325
+    ]
+  },
+  {
+    "Id": 9033,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 33,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1548447,
+    "BaseReinforcementMaterialCountList": [
+      7,
+      25,
+      45,
+      84,
+      124
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000331,
+      6090000332,
+      6090000333,
+      6090000334,
+      6090000335
+    ]
+  },
+  {
+    "Id": 9034,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 34,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1568703,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      46,
+      86,
+      126
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000341,
+      6090000342,
+      6090000343,
+      6090000344,
+      6090000345
+    ]
+  },
+  {
+    "Id": 9035,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 35,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1588958,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      26,
+      47,
+      88,
+      129
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000351,
+      6090000352,
+      6090000353,
+      6090000354,
+      6090000355
+    ]
+  },
+  {
+    "Id": 9036,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 36,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1609214,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      27,
+      48,
+      90,
+      132
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000361,
+      6090000362,
+      6090000363,
+      6090000364,
+      6090000365
+    ]
+  },
+  {
+    "Id": 9037,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 37,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1629470,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      49,
+      92,
+      135
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000371,
+      6090000372,
+      6090000373,
+      6090000374,
+      6090000375
+    ]
+  },
+  {
+    "Id": 9038,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 38,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1649726,
+    "BaseReinforcementMaterialCountList": [
+      8,
+      28,
+      50,
+      94,
+      138
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000381,
+      6090000382,
+      6090000383,
+      6090000384,
+      6090000385
+    ]
+  },
+  {
+    "Id": 9039,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 39,
+    "RequiredProgressCount": 60,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1669982,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      29,
+      51,
+      97,
+      142
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000391,
+      6090000392,
+      6090000393,
+      6090000394,
+      6090000395
+    ]
+  },
+  {
+    "Id": 9040,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 40,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1690238,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      53,
+      99,
+      145
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000401,
+      6090000402,
+      6090000403,
+      6090000404,
+      6090000405
+    ]
+  },
+  {
+    "Id": 9041,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 41,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1691524,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      30,
+      54,
+      101,
+      148
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000411,
+      6090000412,
+      6090000413,
+      6090000414,
+      6090000415
+    ]
+  },
+  {
+    "Id": 9042,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 42,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1692810,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      31,
+      55,
+      103,
+      152
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000421,
+      6090000422,
+      6090000423,
+      6090000424,
+      6090000425
+    ]
+  },
+  {
+    "Id": 9043,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 43,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1694096,
+    "BaseReinforcementMaterialCountList": [
+      9,
+      32,
+      56,
+      106,
+      155
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000431,
+      6090000432,
+      6090000433,
+      6090000434,
+      6090000435
+    ]
+  },
+  {
+    "Id": 9044,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 44,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1695382,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      32,
+      58,
+      108,
+      159
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000441,
+      6090000442,
+      6090000443,
+      6090000444,
+      6090000445
+    ]
+  },
+  {
+    "Id": 9045,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 45,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1696668,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      33,
+      59,
+      111,
+      162
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 300,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000451,
+      6090000452,
+      6090000453,
+      6090000454,
+      6090000455
+    ]
+  },
+  {
+    "Id": 9046,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 46,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1697954,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      34,
+      60,
+      113,
+      166
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000461,
+      6090000462,
+      6090000463,
+      6090000464,
+      6090000465
+    ]
+  },
+  {
+    "Id": 9047,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 47,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1699240,
+    "BaseReinforcementMaterialCountList": [
+      10,
+      35,
+      62,
+      116,
+      170
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000471,
+      6090000472,
+      6090000473,
+      6090000474,
+      6090000475
+    ]
+  },
+  {
+    "Id": 9048,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 48,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1700526,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      35,
+      63,
+      119,
+      174
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000481,
+      6090000482,
+      6090000483,
+      6090000484,
+      6090000485
+    ]
+  },
+  {
+    "Id": 9049,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 49,
+    "RequiredProgressCount": 80,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1701812,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      36,
+      65,
+      121,
+      178
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000491,
+      6090000492,
+      6090000493,
+      6090000494,
+      6090000495
+    ]
+  },
+  {
+    "Id": 9050,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 50,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1703098,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      37,
+      66,
+      124,
+      182
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 2,
+        "ItemId": 14,
+        "ItemType": "QuestQuickTicket"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000501,
+      6090000502,
+      6090000503,
+      6090000504,
+      6090000505
+    ]
+  },
+  {
+    "Id": 9051,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 51,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1704384,
+    "BaseReinforcementMaterialCountList": [
+      11,
+      38,
+      68,
+      127,
+      186
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000511,
+      6090000512,
+      6090000513,
+      6090000514,
+      6090000515
+    ]
+  },
+  {
+    "Id": 9052,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 52,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1705670,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      39,
+      69,
+      130,
+      190
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000521,
+      6090000522,
+      6090000523,
+      6090000524,
+      6090000525
+    ]
+  },
+  {
+    "Id": 9053,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 53,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1706956,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      40,
+      71,
+      133,
+      195
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000531,
+      6090000532,
+      6090000533,
+      6090000534,
+      6090000535
+    ]
+  },
+  {
+    "Id": 9054,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 54,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1708242,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      41,
+      72,
+      136,
+      199
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000541,
+      6090000542,
+      6090000543,
+      6090000544,
+      6090000545
+    ]
+  },
+  {
+    "Id": 9055,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 55,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1709528,
+    "BaseReinforcementMaterialCountList": [
+      12,
+      42,
+      74,
+      139,
+      204
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000551,
+      6090000552,
+      6090000553,
+      6090000554,
+      6090000555
+    ]
+  },
+  {
+    "Id": 9056,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 56,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1710814,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      43,
+      76,
+      142,
+      209
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000561,
+      6090000562,
+      6090000563,
+      6090000564,
+      6090000565
+    ]
+  },
+  {
+    "Id": 9057,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 57,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1712100,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      44,
+      78,
+      145,
+      213
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000571,
+      6090000572,
+      6090000573,
+      6090000574,
+      6090000575
+    ]
+  },
+  {
+    "Id": 9058,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 58,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1713386,
+    "BaseReinforcementMaterialCountList": [
+      13,
+      45,
+      79,
+      149,
+      218
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000581,
+      6090000582,
+      6090000583,
+      6090000584,
+      6090000585
+    ]
+  },
+  {
+    "Id": 9059,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 59,
+    "RequiredProgressCount": 100,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1714672,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      46,
+      81,
+      152,
+      223
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000591,
+      6090000592,
+      6090000593,
+      6090000594,
+      6090000595
+    ]
+  },
+  {
+    "Id": 9060,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 60,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1715958,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      47,
+      83,
+      156,
+      228
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000601,
+      6090000602,
+      6090000603,
+      6090000604,
+      6090000605
+    ]
+  },
+  {
+    "Id": 9061,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 61,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1717245,
+    "BaseReinforcementMaterialCountList": [
+      14,
+      48,
+      85,
+      159,
+      234
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000611,
+      6090000612,
+      6090000613,
+      6090000614,
+      6090000615
+    ]
+  },
+  {
+    "Id": 9062,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 62,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1723997,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      49,
+      87,
+      163,
+      239
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000621,
+      6090000622,
+      6090000623,
+      6090000624,
+      6090000625
+    ]
+  },
+  {
+    "Id": 9063,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 63,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1730749,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      50,
+      89,
+      167,
+      245
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000631,
+      6090000632,
+      6090000633,
+      6090000634,
+      6090000635
+    ]
+  },
+  {
+    "Id": 9064,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 64,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1737501,
+    "BaseReinforcementMaterialCountList": [
+      15,
+      51,
+      91,
+      171,
+      250
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000641,
+      6090000642,
+      6090000643,
+      6090000644,
+      6090000645
+    ]
+  },
+  {
+    "Id": 9065,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 65,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1744253,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      52,
+      93,
+      175,
+      256
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000651,
+      6090000652,
+      6090000653,
+      6090000654,
+      6090000655
+    ]
+  },
+  {
+    "Id": 9066,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 66,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1751005,
+    "BaseReinforcementMaterialCountList": [
+      16,
+      54,
+      95,
+      179,
+      262
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000661,
+      6090000662,
+      6090000663,
+      6090000664,
+      6090000665
+    ]
+  },
+  {
+    "Id": 9067,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 67,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1757757,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      55,
+      97,
+      183,
+      268
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000671,
+      6090000672,
+      6090000673,
+      6090000674,
+      6090000675
+    ]
+  },
+  {
+    "Id": 9068,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 68,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1764509,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      56,
+      100,
+      187,
+      274
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000681,
+      6090000682,
+      6090000683,
+      6090000684,
+      6090000685
+    ]
+  },
+  {
+    "Id": 9069,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 69,
+    "RequiredProgressCount": 140,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1771261,
+    "BaseReinforcementMaterialCountList": [
+      17,
+      57,
+      102,
+      191,
+      280
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000691,
+      6090000692,
+      6090000693,
+      6090000694,
+      6090000695
+    ]
+  },
+  {
+    "Id": 9070,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 70,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1778013,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      59,
+      104,
+      196,
+      287
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000701,
+      6090000702,
+      6090000703,
+      6090000704,
+      6090000705
+    ]
+  },
+  {
+    "Id": 9071,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 71,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1784765,
+    "BaseReinforcementMaterialCountList": [
+      18,
+      60,
+      107,
+      200,
+      293
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000711,
+      6090000712,
+      6090000713,
+      6090000714,
+      6090000715
+    ]
+  },
+  {
+    "Id": 9072,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 72,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1791517,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      62,
+      109,
+      205,
+      300
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000721,
+      6090000722,
+      6090000723,
+      6090000724,
+      6090000725
+    ]
+  },
+  {
+    "Id": 9073,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 73,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1798269,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      63,
+      112,
+      209,
+      307
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000731,
+      6090000732,
+      6090000733,
+      6090000734,
+      6090000735
+    ]
+  },
+  {
+    "Id": 9074,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 74,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1805021,
+    "BaseReinforcementMaterialCountList": [
+      19,
+      64,
+      114,
+      214,
+      314
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000741,
+      6090000742,
+      6090000743,
+      6090000744,
+      6090000745
+    ]
+  },
+  {
+    "Id": 9075,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 75,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1811773,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      66,
+      117,
+      219,
+      321
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000751,
+      6090000752,
+      6090000753,
+      6090000754,
+      6090000755
+    ]
+  },
+  {
+    "Id": 9076,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 76,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1818525,
+    "BaseReinforcementMaterialCountList": [
+      20,
+      67,
+      120,
+      224,
+      329
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000761,
+      6090000762,
+      6090000763,
+      6090000764,
+      6090000765
+    ]
+  },
+  {
+    "Id": 9077,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 77,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1825277,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      69,
+      122,
+      229,
+      336
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000771,
+      6090000772,
+      6090000773,
+      6090000774,
+      6090000775
+    ]
+  },
+  {
+    "Id": 9078,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 78,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1832029,
+    "BaseReinforcementMaterialCountList": [
+      21,
+      71,
+      125,
+      235,
+      344
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000781,
+      6090000782,
+      6090000783,
+      6090000784,
+      6090000785
+    ]
+  },
+  {
+    "Id": 9079,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 79,
+    "RequiredProgressCount": 180,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1838781,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      72,
+      128,
+      240,
+      352
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000791,
+      6090000792,
+      6090000793,
+      6090000794,
+      6090000795
+    ]
+  },
+  {
+    "Id": 9080,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 80,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1845533,
+    "BaseReinforcementMaterialCountList": [
+      22,
+      74,
+      131,
+      246,
+      360
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000801,
+      6090000802,
+      6090000803,
+      6090000804,
+      6090000805
+    ]
+  },
+  {
+    "Id": 9081,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 81,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1852284,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      76,
+      134,
+      251,
+      368
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000811,
+      6090000812,
+      6090000813,
+      6090000814,
+      6090000815
+    ]
+  },
+  {
+    "Id": 9082,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 82,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1859036,
+    "BaseReinforcementMaterialCountList": [
+      23,
+      77,
+      137,
+      257,
+      377
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000821,
+      6090000822,
+      6090000823,
+      6090000824,
+      6090000825
+    ]
+  },
+  {
+    "Id": 9083,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 83,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1865788,
+    "BaseReinforcementMaterialCountList": [
+      24,
+      79,
+      140,
+      263,
+      385
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000831,
+      6090000832,
+      6090000833,
+      6090000834,
+      6090000835
+    ]
+  },
+  {
+    "Id": 9084,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 84,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1872540,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      81,
+      144,
+      269,
+      394
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000841,
+      6090000842,
+      6090000843,
+      6090000844,
+      6090000845
+    ]
+  },
+  {
+    "Id": 9085,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 85,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1879292,
+    "BaseReinforcementMaterialCountList": [
+      25,
+      83,
+      147,
+      275,
+      403
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000851,
+      6090000852,
+      6090000853,
+      6090000854,
+      6090000855
+    ]
+  },
+  {
+    "Id": 9086,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 86,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1886044,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      85,
+      150,
+      281,
+      413
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000861,
+      6090000862,
+      6090000863,
+      6090000864,
+      6090000865
+    ]
+  },
+  {
+    "Id": 9087,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 87,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1892796,
+    "BaseReinforcementMaterialCountList": [
+      26,
+      87,
+      154,
+      288,
+      422
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000871,
+      6090000872,
+      6090000873,
+      6090000874,
+      6090000875
+    ]
+  },
+  {
+    "Id": 9088,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 88,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1899548,
+    "BaseReinforcementMaterialCountList": [
+      27,
+      89,
+      157,
+      295,
+      432
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000881,
+      6090000882,
+      6090000883,
+      6090000884,
+      6090000885
+    ]
+  },
+  {
+    "Id": 9089,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 89,
+    "RequiredProgressCount": 230,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1906300,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      91,
+      161,
+      301,
+      442
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000891,
+      6090000892,
+      6090000893,
+      6090000894,
+      6090000895
+    ]
+  },
+  {
+    "Id": 9090,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 90,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1913052,
+    "BaseReinforcementMaterialCountList": [
+      28,
+      93,
+      165,
+      308,
+      452
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000901,
+      6090000902,
+      6090000903,
+      6090000904,
+      6090000905
+    ]
+  },
+  {
+    "Id": 9091,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 91,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1919804,
+    "BaseReinforcementMaterialCountList": [
+      29,
+      95,
+      168,
+      315,
+      462
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000911,
+      6090000912,
+      6090000913,
+      6090000914,
+      6090000915
+    ]
+  },
+  {
+    "Id": 9092,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 92,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1926556,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      97,
+      172,
+      323,
+      473
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000921,
+      6090000922,
+      6090000923,
+      6090000924,
+      6090000925
+    ]
+  },
+  {
+    "Id": 9093,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 93,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1933308,
+    "BaseReinforcementMaterialCountList": [
+      30,
+      99,
+      176,
+      330,
+      484
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000931,
+      6090000932,
+      6090000933,
+      6090000934,
+      6090000935
+    ]
+  },
+  {
+    "Id": 9094,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 94,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1940060,
+    "BaseReinforcementMaterialCountList": [
+      31,
+      102,
+      180,
+      338,
+      495
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000941,
+      6090000942,
+      6090000943,
+      6090000944,
+      6090000945
+    ]
+  },
+  {
+    "Id": 9095,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 95,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1946812,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      104,
+      185,
+      345,
+      506
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090000951,
+      6090000952,
+      6090000953,
+      6090000954,
+      6090000955
+    ]
+  },
+  {
+    "Id": 9096,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 96,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1953564,
+    "BaseReinforcementMaterialCountList": [
+      32,
+      106,
+      189,
+      353,
+      518
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000961,
+      6090000962,
+      6090000963,
+      6090000964,
+      6090000965
+    ]
+  },
+  {
+    "Id": 9097,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 97,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1960316,
+    "BaseReinforcementMaterialCountList": [
+      33,
+      109,
+      193,
+      361,
+      530
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000971,
+      6090000972,
+      6090000973,
+      6090000974,
+      6090000975
+    ]
+  },
+  {
+    "Id": 9098,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 98,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1967068,
+    "BaseReinforcementMaterialCountList": [
+      34,
+      111,
+      198,
+      370,
+      542
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000981,
+      6090000982,
+      6090000983,
+      6090000984,
+      6090000985
+    ]
+  },
+  {
+    "Id": 9099,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 99,
+    "RequiredProgressCount": 280,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1973820,
+    "BaseReinforcementMaterialCountList": [
+      35,
+      114,
+      202,
+      378,
+      554
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090000991,
+      6090000992,
+      6090000993,
+      6090000994,
+      6090000995
+    ]
+  },
+  {
+    "Id": 9100,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 100,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1980572,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      117,
+      207,
+      387,
+      567
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090001001,
+      6090001002,
+      6090001003,
+      6090001004,
+      6090001005
+    ]
+  },
+  {
+    "Id": 9101,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 101,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1987324,
+    "BaseReinforcementMaterialCountList": [
+      36,
+      119,
+      212,
+      396,
+      580
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001011,
+      6090001012,
+      6090001013,
+      6090001014,
+      6090001015
+    ]
+  },
+  {
+    "Id": 9102,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 102,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 1994076,
+    "BaseReinforcementMaterialCountList": [
+      37,
+      122,
+      216,
+      405,
+      594
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001021,
+      6090001022,
+      6090001023,
+      6090001024,
+      6090001025
+    ]
+  },
+  {
+    "Id": 9103,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 103,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2000828,
+    "BaseReinforcementMaterialCountList": [
+      38,
+      125,
+      221,
+      414,
+      607
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001031,
+      6090001032,
+      6090001033,
+      6090001034,
+      6090001035
+    ]
+  },
+  {
+    "Id": 9104,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 104,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2007580,
+    "BaseReinforcementMaterialCountList": [
+      39,
+      128,
+      226,
+      424,
+      621
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001041,
+      6090001042,
+      6090001043,
+      6090001044,
+      6090001045
+    ]
+  },
+  {
+    "Id": 9105,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 105,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2014332,
+    "BaseReinforcementMaterialCountList": [
+      40,
+      131,
+      232,
+      434,
+      635
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090001051,
+      6090001052,
+      6090001053,
+      6090001054,
+      6090001055
+    ]
+  },
+  {
+    "Id": 9106,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 106,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2021084,
+    "BaseReinforcementMaterialCountList": [
+      41,
+      134,
+      237,
+      444,
+      650
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001061,
+      6090001062,
+      6090001063,
+      6090001064,
+      6090001065
+    ]
+  },
+  {
+    "Id": 9107,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 107,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2027836,
+    "BaseReinforcementMaterialCountList": [
+      42,
+      137,
+      242,
+      454,
+      665
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001071,
+      6090001072,
+      6090001073,
+      6090001074,
+      6090001075
+    ]
+  },
+  {
+    "Id": 9108,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 108,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2034588,
+    "BaseReinforcementMaterialCountList": [
+      43,
+      140,
+      248,
+      464,
+      680
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001081,
+      6090001082,
+      6090001083,
+      6090001084,
+      6090001085
+    ]
+  },
+  {
+    "Id": 9109,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 109,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2041340,
+    "BaseReinforcementMaterialCountList": [
+      44,
+      143,
+      254,
+      475,
+      696
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001091,
+      6090001092,
+      6090001093,
+      6090001094,
+      6090001095
+    ]
+  },
+  {
+    "Id": 9110,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 110,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2048092,
+    "BaseReinforcementMaterialCountList": [
+      45,
+      147,
+      260,
+      486,
+      712
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090001101,
+      6090001102,
+      6090001103,
+      6090001104,
+      6090001105
+    ]
+  },
+  {
+    "Id": 9111,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 111,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2054844,
+    "BaseReinforcementMaterialCountList": [
+      46,
+      150,
+      266,
+      497,
+      728
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001111,
+      6090001112,
+      6090001113,
+      6090001114,
+      6090001115
+    ]
+  },
+  {
+    "Id": 9112,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 112,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2061596,
+    "BaseReinforcementMaterialCountList": [
+      47,
+      153,
+      272,
+      508,
+      745
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001121,
+      6090001122,
+      6090001123,
+      6090001124,
+      6090001125
+    ]
+  },
+  {
+    "Id": 9113,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 113,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2068348,
+    "BaseReinforcementMaterialCountList": [
+      48,
+      157,
+      278,
+      520,
+      762
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001131,
+      6090001132,
+      6090001133,
+      6090001134,
+      6090001135
+    ]
+  },
+  {
+    "Id": 9114,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 114,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2075100,
+    "BaseReinforcementMaterialCountList": [
+      49,
+      160,
+      284,
+      532,
+      780
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001141,
+      6090001142,
+      6090001143,
+      6090001144,
+      6090001145
+    ]
+  },
+  {
+    "Id": 9115,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 115,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2081852,
+    "BaseReinforcementMaterialCountList": [
+      50,
+      164,
+      291,
+      544,
+      798
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090001151,
+      6090001152,
+      6090001153,
+      6090001154,
+      6090001155
+    ]
+  },
+  {
+    "Id": 9116,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 116,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2088604,
+    "BaseReinforcementMaterialCountList": [
+      51,
+      168,
+      298,
+      557,
+      816
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001161,
+      6090001162,
+      6090001163,
+      6090001164,
+      6090001165
+    ]
+  },
+  {
+    "Id": 9117,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 117,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2095356,
+    "BaseReinforcementMaterialCountList": [
+      53,
+      172,
+      304,
+      569,
+      835
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001171,
+      6090001172,
+      6090001173,
+      6090001174,
+      6090001175
+    ]
+  },
+  {
+    "Id": 9118,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 118,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2102108,
+    "BaseReinforcementMaterialCountList": [
+      54,
+      176,
+      311,
+      583,
+      854
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001181,
+      6090001182,
+      6090001183,
+      6090001184,
+      6090001185
+    ]
+  },
+  {
+    "Id": 9119,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 119,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2108860,
+    "BaseReinforcementMaterialCountList": [
+      55,
+      180,
+      319,
+      596,
+      873
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001191,
+      6090001192,
+      6090001193,
+      6090001194,
+      6090001195
+    ]
+  },
+  {
+    "Id": 9120,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 120,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2115612,
+    "BaseReinforcementMaterialCountList": [
+      56,
+      184,
+      326,
+      610,
+      893
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10,
+        "ItemId": 2,
+        "ItemType": "EquipmentReinforcementItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090001201,
+      6090001202,
+      6090001203,
+      6090001204,
+      6090001205
+    ]
+  },
+  {
+    "Id": 9121,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 121,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2122364,
+    "BaseReinforcementMaterialCountList": [
+      58,
+      188,
+      333,
+      624,
+      914
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001211,
+      6090001212,
+      6090001213,
+      6090001214,
+      6090001215
+    ]
+  },
+  {
+    "Id": 9122,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 122,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2129116,
+    "BaseReinforcementMaterialCountList": [
+      59,
+      193,
+      341,
+      638,
+      935
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001221,
+      6090001222,
+      6090001223,
+      6090001224,
+      6090001225
+    ]
+  },
+  {
+    "Id": 9123,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 123,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2135868,
+    "BaseReinforcementMaterialCountList": [
+      60,
+      197,
+      349,
+      653,
+      956
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001231,
+      6090001232,
+      6090001233,
+      6090001234,
+      6090001235
+    ]
+  },
+  {
+    "Id": 9124,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 124,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2142620,
+    "BaseReinforcementMaterialCountList": [
+      62,
+      201,
+      357,
+      668,
+      978
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001241,
+      6090001242,
+      6090001243,
+      6090001244,
+      6090001245
+    ]
+  },
+  {
+    "Id": 9125,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 125,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2149372,
+    "BaseReinforcementMaterialCountList": [
+      63,
+      206,
+      365,
+      683,
+      1001
+    ],
+    "FloorRewardList": [
+      {
+        "ItemCount": 100,
+        "ItemId": 12,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 10000,
+        "ItemId": 2,
+        "ItemType": "ExchangePlaceItem"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 4,
+        "ItemType": "QuestQuickTicket"
+      }
+    ],
+    "BaseEnemyIdList": [
+      6090001251,
+      6090001252,
+      6090001253,
+      6090001254,
+      6090001255
+    ]
+  },
+  {
+    "Id": 9126,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 126,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2156124,
+    "BaseReinforcementMaterialCountList": [
+      65,
+      211,
+      373,
+      699,
+      1024
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001261,
+      6090001262,
+      6090001263,
+      6090001264,
+      6090001265
+    ]
+  },
+  {
+    "Id": 9127,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 127,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2162876,
+    "BaseReinforcementMaterialCountList": [
+      66,
+      216,
+      382,
+      715,
+      1047
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001271,
+      6090001272,
+      6090001273,
+      6090001274,
+      6090001275
+    ]
+  },
+  {
+    "Id": 9128,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 128,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2169628,
+    "BaseReinforcementMaterialCountList": [
+      68,
+      221,
+      391,
+      731,
+      1071
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001281,
+      6090001282,
+      6090001283,
+      6090001284,
+      6090001285
+    ]
+  },
+  {
+    "Id": 9129,
+    "IsIgnore": null,
+    "Memo": "20260129_第9回ギルドツリー_メルラン",
+    "EventNo": 9,
+    "FloorCount": 129,
+    "RequiredProgressCount": 350,
+    "SelectableDifficultyList": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "BaseClearPartyBattlePower": 2176380,
+    "BaseReinforcementMaterialCountList": [
+      69,
+      226,
+      400,
+      748,
+      1096
+    ],
+    "FloorRewardList": null,
+    "BaseEnemyIdList": [
+      6090001291,
+      6090001292,
+      6090001293,
+      6090001294,
+      6090001295
+    ]
   }
 ]

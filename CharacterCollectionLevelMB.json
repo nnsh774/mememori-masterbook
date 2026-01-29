@@ -16966,6 +16966,208 @@
     "MaxLevelIncreaseValue": 0
   },
   {
+    "Id": 8701,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 250.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8702,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 500.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8703,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 500.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8704,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 500.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8705,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 510.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 71.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8706,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 520.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 72.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8707,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 530.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 73.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8708,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 540.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 74.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 8709,
+    "IsIgnore": null,
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "CollectionId": 87,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 550.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
     "Id": 8801,
     "IsIgnore": null,
     "Memo": "アルニタクの開花​(ロキ,ペトラ,リブラ,ソテイラ)",

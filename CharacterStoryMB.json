@@ -14578,5 +14578,131 @@
     ],
     "TextKey": "[CharacterStoryText13207]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 923,
+    "IsIgnore": null,
+    "Memo": "メルラン1",
+    "CharacterId": 135,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13501]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 924,
+    "IsIgnore": null,
+    "Memo": "メルラン2",
+    "CharacterId": 135,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13502]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 925,
+    "IsIgnore": null,
+    "Memo": "メルラン3",
+    "CharacterId": 135,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13503]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 926,
+    "IsIgnore": null,
+    "Memo": "メルラン4",
+    "CharacterId": 135,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13504]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 927,
+    "IsIgnore": null,
+    "Memo": "メルラン5",
+    "CharacterId": 135,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13505]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 928,
+    "IsIgnore": null,
+    "Memo": "メルラン6",
+    "CharacterId": 135,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13506]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 929,
+    "IsIgnore": null,
+    "Memo": "メルラン7",
+    "CharacterId": 135,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13507]",
+    "RarityFlags": 512
   }
 ]
