@@ -12724,6 +12724,205 @@
     "RootActiveSkillId": 96002
   },
   {
+    "Id": 99001,
+    "IsIgnore": null,
+    "Memo": "リリコットSR:Lv1 「私の妹を傷つけさせない。私が消えた後も、どうかあの子を守って……！」自身に2回自身の現在HP×20%の自傷ダメージを与え、70%の確率で付帯しているバフの個数が最も多い敵のバフを2つ解除する。その後ランダムな敵に4回攻撃力×430%の物理攻撃を行う。/ Lv2 物理攻撃のダメージが攻撃力×580%になる。/ Lv3 物理攻撃の回数が6回になる。/ Ex1 誓い結うリボンを強化する。さらに自身以外の紅属性の味方の編成数が3体以上の場合、バフの解除数が6になる。/ Ex3 誓い結うリボンを強化する。物理攻撃のダメージが攻撃力×630%になる。",
+    "NameKey": "[ActiveSkillName99001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription990011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          99001001,
+          99001001,
+          99001002,
+          99001003,
+          99001004,
+          99001004,
+          99001004
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription990012]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          99001001,
+          99001001,
+          99001002,
+          99001203,
+          99001204,
+          99001204,
+          99001204
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription990013]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          99001001,
+          99001001,
+          99001002,
+          99001303,
+          99001304,
+          99001304,
+          99001304,
+          99001304,
+          99001304
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription990014]",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          99001001,
+          99001001,
+          99001402,
+          99001303,
+          99001304,
+          99001304,
+          99001304,
+          99001304,
+          99001304
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription990015]",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          99001001,
+          99001001,
+          99001402,
+          99001503,
+          99001504,
+          99001504,
+          99001504,
+          99001504,
+          99001504
+        ]
+      }
+    ],
+    "RootActiveSkillId": 99001
+  },
+  {
+    "Id": 99002,
+    "IsIgnore": null,
+    "Memo": "リリコットSR:Lv1 「私たちの代わりに、リリコットを守って。あの子を導いてあげて……お願いね」自身に2回自身の現在HP×20%の自傷ダメージを与え、70%の確率で付帯しているバフの個数が最も多い敵のバフを2つ解除する。その後攻撃力が高い敵2体に攻撃力×740%の物理攻撃を行い、30%の確率で対象に1ターンの間『沈黙』を付与する。/ Lv2 『沈黙』を付与する確率が70%になる。/ Lv3 物理攻撃の対象が攻撃力が高い敵3体になる。/ Lv4 物理攻撃のダメージが攻撃力×1120%になる。/ Ex2 願い託す花傘を強化する。『沈黙』のターン数が2ターンになる。",
+    "NameKey": "[ActiveSkillName99002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription990021]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          99002001,
+          99002001,
+          99002002,
+          99002003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription990022]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          99002001,
+          99002001,
+          99002002,
+          99002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription990023]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          99002001,
+          99002001,
+          99002002,
+          99002303
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription990024]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          99002001,
+          99002001,
+          99002002,
+          99002403
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription990025]",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          99002001,
+          99002001,
+          99002002,
+          99002503
+        ]
+      }
+    ],
+    "RootActiveSkillId": 99002
+  },
+  {
+    "Id": 99101,
+    "IsIgnore": null,
+    "Memo": "*",
+    "NameKey": "[ActiveSkillName99101]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 0,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription991011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          99101001,
+          99101002,
+          99101002
+        ]
+      }
+    ],
+    "RootActiveSkillId": 99101
+  },
+  {
     "Id": 100001,
     "IsIgnore": null,
     "Memo": "モワノーSR:Lv1 触れた者の力を奪うという夜花の雫をしみ込ませた刃で、ランダムな敵3体に攻撃力×540%の物理攻撃を行い、2ターンの間対象に『脱力』を付与する。付帯者のバトル中ステータスの攻撃力が20％減少する。/ Lv2 さらに物理攻撃の前に4ターンの間対象の物理防御力を25%減少させる。オートバトル・ボスバトルで使用した場合、『物理防御力減少』が解除不可になる。無窮の塔で使用した場合、物理防御力の減少量が50%になる。/ Lv3 『脱力』の攻撃力の減少量が40%になり、ターン数が4ターンになる。/ Ex1 宵闇の羽刃を強化する。宵闇の羽刃の対象がランダムな敵5体になる。/ Ex3 宵闇の羽刃を強化する。物理攻撃のダメージが攻撃力×590%になる。",
@@ -13149,6 +13348,137 @@
       }
     ],
     "RootActiveSkillId": 102002
+  },
+  {
+    "Id": 103001,
+    "IsIgnore": null,
+    "Memo": "コベルSR:Lv1 少女がその場に映し出すのは、凍てつく故郷の雪山。刺すような絶対零度の冷気で敵から体温を、気力を、そして生命をも容赦なく削り取っていく──自身のHPを自身の最大HP×5%回復する。その後攻撃力が高い敵3体に攻撃力×240%の物理攻撃を行い、40%の確率で4ターンの間対象に『脱力』を付与する。付帯者のバトル中ステータスの攻撃力が20%減少する。/ Lv2 『脱力』を付与する確率が70%になる。/ Lv3 物理攻撃のダメージが攻撃力×440%になる。/ Ex1 朧氷面鏡を強化する。『脱力』の攻撃力の減少量が40%になる。/ Ex3 朧氷面鏡を強化する。物理攻撃のダメージが攻撃力×480%になる。",
+    "NameKey": "[ActiveSkillName103001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription1030011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          103001001,
+          103001002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription1030012]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          103001001,
+          103001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1030013]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          103001001,
+          103001302
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1030014]",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          103001001,
+          103001402
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription1030015]",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          103001001,
+          103001502
+        ]
+      }
+    ],
+    "RootActiveSkillId": 103001
+  },
+  {
+    "Id": 103002,
+    "IsIgnore": null,
+    "Memo": "コベルSR:Lv1 「みんな！　薬効があるきのこで回復してけれ！」HP割合が最も低い味方のHPを自身の攻撃力×30%回復する。これを3回発動する。「んた！　きのこが敵の方さ……！」その後HP割合が高い敵3体に攻撃力×280%の物理攻撃を行い、70%の確率で2ターンの間対象に『毒』を付与する。毎ターン行動開始時に付帯者の現在HP×5%のダメージを与える。/ Lv2 『毒』のダメージが付帯者の現在HP×10%になる。/ Lv3 物理攻撃のダメージが攻撃力×480%になる。/ Lv4 さらに物理攻撃の前にバトル中自身か味方のアクティブスキルによるHPを回復する効果の発動回数が15以上の場合、物理攻撃のダメージが攻撃力×1920%になる。",
+    "NameKey": "[ActiveSkillName103002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription1030021]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          103002001,
+          103002001,
+          103002001,
+          103002002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription1030022]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          103002001,
+          103002001,
+          103002001,
+          103002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription1030023]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          103002001,
+          103002001,
+          103002001,
+          103002302
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription1030024]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          103002001,
+          103002001,
+          103002001,
+          103002402
+        ]
+      }
+    ],
+    "RootActiveSkillId": 103002
   },
   {
     "Id": 105001,
@@ -44522,6 +44852,205 @@
     "RootActiveSkillId": 96002
   },
   {
+    "Id": 5504099001,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName99001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504099001001,
+          5504099001001,
+          5504099001002,
+          5504099001003,
+          5504099001004,
+          5504099001004,
+          5504099001004
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504099001001,
+          5504099001001,
+          5504099001002,
+          5504099001203,
+          5504099001204,
+          5504099001204,
+          5504099001204
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504099001001,
+          5504099001001,
+          5504099001002,
+          5504099001303,
+          5504099001304,
+          5504099001304,
+          5504099001304,
+          5504099001304,
+          5504099001304
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504099001001,
+          5504099001001,
+          5504099001402,
+          5504099001303,
+          5504099001304,
+          5504099001304,
+          5504099001304,
+          5504099001304,
+          5504099001304
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          5504099001001,
+          5504099001001,
+          5504099001402,
+          5504099001503,
+          5504099001504,
+          5504099001504,
+          5504099001504,
+          5504099001504,
+          5504099001504
+        ]
+      }
+    ],
+    "RootActiveSkillId": 99001
+  },
+  {
+    "Id": 5504099002,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName99002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504099002001,
+          5504099002001,
+          5504099002002,
+          5504099002003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504099002001,
+          5504099002001,
+          5504099002002,
+          5504099002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504099002001,
+          5504099002001,
+          5504099002002,
+          5504099002303
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504099002001,
+          5504099002001,
+          5504099002002,
+          5504099002403
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          5504099002001,
+          5504099002001,
+          5504099002002,
+          5504099002503
+        ]
+      }
+    ],
+    "RootActiveSkillId": 99002
+  },
+  {
+    "Id": 5504099101,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName99101]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 0,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504099101001,
+          5504099101002,
+          5504099101002
+        ]
+      }
+    ],
+    "RootActiveSkillId": 99101
+  },
+  {
     "Id": 5504100001,
     "IsIgnore": null,
     "Memo": "",
@@ -44947,6 +45476,137 @@
       }
     ],
     "RootActiveSkillId": 102002
+  },
+  {
+    "Id": 5504103001,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName103001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504103001001,
+          5504103001002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504103001001,
+          5504103001202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504103001001,
+          5504103001302
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504103001001,
+          5504103001402
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          5504103001001,
+          5504103001502
+        ]
+      }
+    ],
+    "RootActiveSkillId": 103001
+  },
+  {
+    "Id": 5504103002,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[ActiveSkillName103002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504103002001,
+          5504103002001,
+          5504103002001,
+          5504103002002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504103002001,
+          5504103002001,
+          5504103002001,
+          5504103002202
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504103002001,
+          5504103002001,
+          5504103002001,
+          5504103002302
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504103002001,
+          5504103002001,
+          5504103002001,
+          5504103002402
+        ]
+      }
+    ],
+    "RootActiveSkillId": 103002
   },
   {
     "Id": 5504105001,

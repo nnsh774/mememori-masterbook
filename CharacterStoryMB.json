@@ -11682,6 +11682,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 699,
+    "IsIgnore": null,
+    "Memo": "コベル1",
+    "CharacterId": 103,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10301]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 700,
+    "IsIgnore": null,
+    "Memo": "コベル2",
+    "CharacterId": 103,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10302]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 701,
+    "IsIgnore": null,
+    "Memo": "コベル3",
+    "CharacterId": 103,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10303]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 702,
+    "IsIgnore": null,
+    "Memo": "コベル4",
+    "CharacterId": 103,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10304]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 703,
+    "IsIgnore": null,
+    "Memo": "コベル5",
+    "CharacterId": 103,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10305]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 704,
+    "IsIgnore": null,
+    "Memo": "コベル6",
+    "CharacterId": 103,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10306]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 705,
+    "IsIgnore": null,
+    "Memo": "コベル7",
+    "CharacterId": 103,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText10307]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 713,
     "IsIgnore": null,
     "Memo": "花束ナターシャ1",
