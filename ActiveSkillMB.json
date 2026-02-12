@@ -12902,7 +12902,7 @@
     "Id": 99101,
     "IsIgnore": null,
     "Memo": "*",
-    "NameKey": "[ActiveSkillName99101]",
+    "NameKey": "*",
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 0,
     "ActiveSkillConditions": "True",
@@ -12910,7 +12910,7 @@
       {
         "BlessingItemId": 0,
         "CharacterLevel": 1,
-        "DescriptionKey": "[ActiveSkillDescription991011]",
+        "DescriptionKey": "*",
         "EquipmentRarityFlags": 0,
         "OrderNumber": 1,
         "SubSetSkillIds": [
@@ -45030,7 +45030,7 @@
     "Id": 5504099101,
     "IsIgnore": null,
     "Memo": "",
-    "NameKey": "[ActiveSkillName99101]",
+    "NameKey": "*",
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 0,
     "ActiveSkillConditions": "True",
