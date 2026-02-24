@@ -11728,6 +11728,22 @@
     ]
   },
   {
+    "Id": 750,
+    "IsIgnore": null,
+    "Memo": "レジーナアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 39,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
     "Id": 751,
     "IsIgnore": null,
     "Memo": "スペシャルセレクトガチャチケット(第二回→第三回)",
@@ -11739,6 +11755,22 @@
       {
         "ItemCount": 1,
         "ItemId": 14,
+        "ItemType": "GachaTicket"
+      }
+    ]
+  },
+  {
+    "Id": 752,
+    "IsIgnore": null,
+    "Memo": "レジーナガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1370,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
         "ItemType": "GachaTicket"
       }
     ]

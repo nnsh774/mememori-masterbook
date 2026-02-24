@@ -5092,6 +5092,25 @@
     "SecondaryFrameNum": 0
   },
   {
+    "Id": 270,
+    "IsIgnore": null,
+    "Memo": "レジーナアイテム",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 39,
+    "NameKey": "[ItemName270]",
+    "DisplayName": "[ItemDisplayName270]",
+    "DescriptionKey": "[ItemDescription270]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-02-26 00:00:00",
+    "EndTime": "2026-03-11 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 231,
+    "TransferSpotId": 57,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
     "Id": 271,
     "IsIgnore": null,
     "Memo": "スペシャルセレクトガチャチケット(第三回)",
@@ -5128,6 +5147,25 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 273,
+    "IsIgnore": null,
+    "Memo": "レジーナガチャチケット",
+    "ItemType": "GachaTicket",
+    "ItemId": 1370,
+    "NameKey": "[ItemName273]",
+    "DisplayName": "[ItemDisplayName273]",
+    "DescriptionKey": "[ItemDescription273]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-02-26 00:00:00",
+    "EndTime": "2026-03-16 14:29:59",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 218,
+    "SecondaryFrameType": "CenteredCharacterIcon",
+    "SecondaryFrameNum": 137
   },
   {
     "Id": 9999,
