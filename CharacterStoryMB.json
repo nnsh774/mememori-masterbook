@@ -14830,5 +14830,131 @@
     ],
     "TextKey": "[CharacterStoryText13507]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 937,
+    "IsIgnore": null,
+    "Memo": "レジーナ1",
+    "CharacterId": 137,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13701]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 938,
+    "IsIgnore": null,
+    "Memo": "レジーナ2",
+    "CharacterId": 137,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13702]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 939,
+    "IsIgnore": null,
+    "Memo": "レジーナ3",
+    "CharacterId": 137,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13703]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 940,
+    "IsIgnore": null,
+    "Memo": "レジーナ4",
+    "CharacterId": 137,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13704]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 941,
+    "IsIgnore": null,
+    "Memo": "レジーナ5",
+    "CharacterId": 137,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13705]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 942,
+    "IsIgnore": null,
+    "Memo": "レジーナ6",
+    "CharacterId": 137,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13706]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 943,
+    "IsIgnore": null,
+    "Memo": "レジーナ7",
+    "CharacterId": 137,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13707]",
+    "RarityFlags": 512
   }
 ]

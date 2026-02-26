@@ -6287,5 +6287,57 @@
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2026-01-29 15:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 137,
+    "IsIgnore": null,
+    "Memo": "レジーナ",
+    "NameKey": "[CharacterName137]",
+    "Name2Key": "",
+    "CharacterType": "Normal",
+    "ElementType": "Dark",
+    "JobFlags": 2,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": -3,
+      "Avoidance": 2,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 0,
+      "DebuffResist": 0,
+      "Defense": 13,
+      "DefensePenetration": 0,
+      "HP": -3,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 1,
+      "Speed": 2856
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 99,
+      "Health": 76,
+      "Intelligence": 84,
+      "Muscle": 84
+    },
+    "BaseParameterGrossCoefficient": 343,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      137001,
+      137002
+    ],
+    "PassiveSkillIds": [
+      137003,
+      137004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2026-02-26 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]

@@ -1352,6 +1352,30 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 3012,
+    "IsIgnore": null,
+    "Memo": "時空の洞窟_イベント_レジーナ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText36]",
+        "ImageId": 36
+      }
+    ],
+    "HelpId": 4010,
+    "ImagePositionFormatType": "DungeonBattleEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 39,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 1370,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 4001,
     "IsIgnore": null,
     "Memo": "ギルドレイド_イベント",

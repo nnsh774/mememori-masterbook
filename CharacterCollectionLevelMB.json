@@ -16968,7 +16968,7 @@
   {
     "Id": 8701,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 1,
     "CharacterRarityFlags": 8,
@@ -16986,7 +16986,7 @@
   {
     "Id": 8702,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 2,
     "CharacterRarityFlags": 128,
@@ -17009,7 +17009,7 @@
   {
     "Id": 8703,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 3,
     "CharacterRarityFlags": 512,
@@ -17032,7 +17032,7 @@
   {
     "Id": 8704,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 4,
     "CharacterRarityFlags": 16384,
@@ -17055,7 +17055,7 @@
   {
     "Id": 8705,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 5,
     "CharacterRarityFlags": 32768,
@@ -17078,7 +17078,7 @@
   {
     "Id": 8706,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 6,
     "CharacterRarityFlags": 65536,
@@ -17101,7 +17101,7 @@
   {
     "Id": 8707,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 7,
     "CharacterRarityFlags": 131072,
@@ -17124,7 +17124,7 @@
   {
     "Id": 8708,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 8,
     "CharacterRarityFlags": 262144,
@@ -17147,7 +17147,7 @@
   {
     "Id": 8709,
     "IsIgnore": null,
-    "Memo": "アケルナルの神童​(メルラン,アルトリア,？)",
+    "Memo": "アケルナルの神童​(メルラン,アルトリア,モルガナ)",
     "CollectionId": 87,
     "CollectionLevel": 9,
     "CharacterRarityFlags": 524288,
@@ -17400,6 +17400,216 @@
         "BattleParameterType": "CriticalResist",
         "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
         "Value": 75.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9001,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 500.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9002,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9003,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9004,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1000.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9005,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1050.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9006,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1100.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9007,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1150.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9008,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9009,
+    "IsIgnore": null,
+    "Memo": "アラネアの悪夢​(レジーナ,？)",
+    "CollectionId": 90,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 1250.000000
       }
     ],
     "CharacterRarityBonus": 1,
