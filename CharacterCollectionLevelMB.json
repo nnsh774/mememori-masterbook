@@ -17614,5 +17614,207 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9101,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9102,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9103,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9104,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 50.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9105,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 51.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9106,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 52.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9107,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 53.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9108,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 54.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9109,
+    "IsIgnore": null,
+    "Memo": "ロサの花棘​(リリコット,アイビー)",
+    "CollectionId": 91,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "PhysicalDamageRelax",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250.000000
+      },
+      {
+        "BattleParameterType": "Avoidance",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 55.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

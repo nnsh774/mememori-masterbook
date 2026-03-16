@@ -11304,6 +11304,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 671,
+    "IsIgnore": null,
+    "Memo": "リリコット1",
+    "CharacterId": 99,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9901]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 672,
+    "IsIgnore": null,
+    "Memo": "リリコット2",
+    "CharacterId": 99,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9902]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 673,
+    "IsIgnore": null,
+    "Memo": "リリコット3",
+    "CharacterId": 99,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9903]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 674,
+    "IsIgnore": null,
+    "Memo": "リリコット4",
+    "CharacterId": 99,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9904]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 675,
+    "IsIgnore": null,
+    "Memo": "リリコット5",
+    "CharacterId": 99,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9905]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 676,
+    "IsIgnore": null,
+    "Memo": "リリコット6",
+    "CharacterId": 99,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9906]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 677,
+    "IsIgnore": null,
+    "Memo": "リリコット7",
+    "CharacterId": 99,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9907]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 678,
     "IsIgnore": null,
     "Memo": "モワノー1",

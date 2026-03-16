@@ -6073,5 +6073,365 @@
         "ItemType": "CurrencyFree"
       }
     ]
+  },
+  {
+    "Id": 406,
+    "IsIgnore": null,
+    "Memo": "藍の塔1850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+    "RankingDataType": "TowerBlue",
+    "RequireValue": 1850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 407,
+    "IsIgnore": null,
+    "Memo": "藍の塔1900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+    "RankingDataType": "TowerBlue",
+    "RequireValue": 1900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 408,
+    "IsIgnore": null,
+    "Memo": "藍の塔1950階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+    "RankingDataType": "TowerBlue",
+    "RequireValue": 1950,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 409,
+    "IsIgnore": null,
+    "Memo": "藍の塔2000階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+    "RankingDataType": "TowerBlue",
+    "RequireValue": 2000,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 410,
+    "IsIgnore": null,
+    "Memo": "藍の塔2050階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+    "RankingDataType": "TowerBlue",
+    "RequireValue": 2050,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 411,
+    "IsIgnore": null,
+    "Memo": "藍の塔2100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetBlueTower]",
+    "RankingDataType": "TowerBlue",
+    "RequireValue": 2100,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 412,
+    "IsIgnore": null,
+    "Memo": "紅の塔1850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+    "RankingDataType": "TowerRed",
+    "RequireValue": 1850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 413,
+    "IsIgnore": null,
+    "Memo": "紅の塔1900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+    "RankingDataType": "TowerRed",
+    "RequireValue": 1900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 414,
+    "IsIgnore": null,
+    "Memo": "紅の塔1950階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+    "RankingDataType": "TowerRed",
+    "RequireValue": 1950,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 415,
+    "IsIgnore": null,
+    "Memo": "紅の塔2000階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+    "RankingDataType": "TowerRed",
+    "RequireValue": 2000,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 416,
+    "IsIgnore": null,
+    "Memo": "紅の塔2050階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+    "RankingDataType": "TowerRed",
+    "RequireValue": 2050,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 417,
+    "IsIgnore": null,
+    "Memo": "紅の塔2100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetRedTower]",
+    "RankingDataType": "TowerRed",
+    "RequireValue": 2100,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 418,
+    "IsIgnore": null,
+    "Memo": "翠の塔1850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+    "RankingDataType": "TowerGreen",
+    "RequireValue": 1850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 419,
+    "IsIgnore": null,
+    "Memo": "翠の塔1900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+    "RankingDataType": "TowerGreen",
+    "RequireValue": 1900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 420,
+    "IsIgnore": null,
+    "Memo": "翠の塔1950階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+    "RankingDataType": "TowerGreen",
+    "RequireValue": 1950,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 421,
+    "IsIgnore": null,
+    "Memo": "翠の塔2000階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+    "RankingDataType": "TowerGreen",
+    "RequireValue": 2000,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 422,
+    "IsIgnore": null,
+    "Memo": "翠の塔2050階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+    "RankingDataType": "TowerGreen",
+    "RequireValue": 2050,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 423,
+    "IsIgnore": null,
+    "Memo": "翠の塔2100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetGreenTower]",
+    "RankingDataType": "TowerGreen",
+    "RequireValue": 2100,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 424,
+    "IsIgnore": null,
+    "Memo": "黄の塔1850階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+    "RankingDataType": "TowerYellow",
+    "RequireValue": 1850,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 425,
+    "IsIgnore": null,
+    "Memo": "黄の塔1900階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+    "RankingDataType": "TowerYellow",
+    "RequireValue": 1900,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 426,
+    "IsIgnore": null,
+    "Memo": "黄の塔1950階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+    "RankingDataType": "TowerYellow",
+    "RequireValue": 1950,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 427,
+    "IsIgnore": null,
+    "Memo": "黄の塔2000階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+    "RankingDataType": "TowerYellow",
+    "RequireValue": 2000,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 428,
+    "IsIgnore": null,
+    "Memo": "黄の塔2050階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+    "RankingDataType": "TowerYellow",
+    "RequireValue": 2050,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 429,
+    "IsIgnore": null,
+    "Memo": "黄の塔2100階層クリア",
+    "AchieveTargetDescriptionKey": "[AchieveRankingTargetYellowTower]",
+    "RankingDataType": "TowerYellow",
+    "RequireValue": 2100,
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]

@@ -414,5 +414,37 @@
     "BattleScheduleType": "Quest",
     "MaxQuestId": 2160,
     "StartTimeFixJST": "2026-02-12 15:00:00"
+  },
+  {
+    "Id": 53,
+    "IsIgnore": null,
+    "Memo": "藍の塔ステージ追加（1801~2100）",
+    "BattleScheduleType": "TowerBlue",
+    "MaxQuestId": 22100,
+    "StartTimeFixJST": "2026-03-16 15:00:00"
+  },
+  {
+    "Id": 54,
+    "IsIgnore": null,
+    "Memo": "紅の塔ステージ追加（1801~2100）",
+    "BattleScheduleType": "TowerRed",
+    "MaxQuestId": 32100,
+    "StartTimeFixJST": "2026-03-16 15:00:00"
+  },
+  {
+    "Id": 55,
+    "IsIgnore": null,
+    "Memo": "翠の塔ステージ追加（1801~2100）",
+    "BattleScheduleType": "TowerGreen",
+    "MaxQuestId": 42100,
+    "StartTimeFixJST": "2026-03-16 15:00:00"
+  },
+  {
+    "Id": 56,
+    "IsIgnore": null,
+    "Memo": "黄の塔ステージ追加（1801~2100）",
+    "BattleScheduleType": "TowerYellow",
+    "MaxQuestId": 52100,
+    "StartTimeFixJST": "2026-03-16 15:00:00"
   }
 ]
