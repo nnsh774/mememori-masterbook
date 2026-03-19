@@ -6742,7 +6742,7 @@
   {
     "Id": 179,
     "IsIgnore": null,
-    "Memo": "リリコット②+復刻ミフリ②+仮（0324切り替え用）",
+    "Memo": "リリコット②+復刻カーミラ①+復刻ミフリ②（0324切り替え用）",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-03-24 14:30:00",
@@ -6750,6 +6750,7 @@
     "OrderNumber": 179,
     "CharacterIdList": [
       99,
+      125,
       126,
       5,
       6,
@@ -6776,7 +6777,46 @@
     ],
     "NewCharacterIdList": [
       99,
+      125,
       126
+    ]
+  },
+  {
+    "Id": 180,
+    "IsIgnore": null,
+    "Memo": "復刻カーミラ②+仮（0331切り替え用）",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-03-31 16:30:00",
+    "EndTimeFixJST": "2026-04-08 14:29:59",
+    "OrderNumber": 180,
+    "CharacterIdList": [
+      125,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      125
     ]
   },
   {
@@ -7487,6 +7527,32 @@
       65,
       75,
       81
+    ]
+  },
+  {
+    "Id": 10360,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ 第36回_フォルティナ・ヴァルリーデ・ソーニャ・ベル・ルーク・カロル",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-03-24 14:30:00",
+    "EndTimeFixJST": "2026-04-15 14:29:59",
+    "OrderNumber": 10360,
+    "CharacterIdList": [
+      42,
+      47,
+      9,
+      19,
+      30,
+      40
+    ],
+    "NewCharacterIdList": [
+      42,
+      47,
+      9,
+      19,
+      30,
+      40
     ]
   },
   {
