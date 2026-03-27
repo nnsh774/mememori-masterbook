@@ -5168,6 +5168,25 @@
     "SecondaryFrameNum": 137
   },
   {
+    "Id": 277,
+    "IsIgnore": null,
+    "Memo": "トリクシーアイテム",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 40,
+    "NameKey": "[ItemName277]",
+    "DisplayName": "[ItemDisplayName277]",
+    "DescriptionKey": "[ItemDescription277]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-03-31 00:00:00",
+    "EndTime": "2026-04-13 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 232,
+    "TransferSpotId": 58,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
     "Id": 9999,
     "IsIgnore": null,
     "Memo": "CD特典応急対応",

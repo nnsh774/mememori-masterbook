@@ -11774,5 +11774,21 @@
         "ItemType": "GachaTicket"
       }
     ]
+  },
+  {
+    "Id": 753,
+    "IsIgnore": null,
+    "Memo": "トリクシーアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 40,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]

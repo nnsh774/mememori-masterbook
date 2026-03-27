@@ -2911,5 +2911,74 @@
     "EndTime": "2026-03-08 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 10451,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション1_トリクシー",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 40,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-03-31 04:00:00",
+    "EndTime": "2026-04-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10452,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション3_トリクシー",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 40,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-03-31 04:00:00",
+    "EndTime": "2026-04-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10453,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション5_トリクシー",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 40,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-03-31 04:00:00",
+    "EndTime": "2026-04-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
   }
 ]
