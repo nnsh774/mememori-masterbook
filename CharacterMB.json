@@ -6339,5 +6339,57 @@
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2026-02-26 15:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 139,
+    "IsIgnore": null,
+    "Memo": "トリクシー",
+    "NameKey": "[CharacterName139]",
+    "Name2Key": "",
+    "CharacterType": "Normal",
+    "ElementType": "Yellow",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": 5,
+      "Avoidance": -1,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 1,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3178
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 73,
+      "Intelligence": 97,
+      "Muscle": 83
+    },
+    "BaseParameterGrossCoefficient": 332,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      139001,
+      139002
+    ],
+    "PassiveSkillIds": [
+      139003,
+      139004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2026-03-31 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]

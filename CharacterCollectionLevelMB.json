@@ -17816,5 +17816,215 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9201,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 35.000000
+      }
+    ],
+    "BattleParameterChangeInfos": null,
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9202,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9203,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9204,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9205,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 71.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 160.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9206,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 72.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 170.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9207,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 73.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 180.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9208,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 74.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 190.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9209,
+    "IsIgnore": null,
+    "Memo": "タルルガルルの奇術​(トリクシー,？)",
+    "CollectionId": 92,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]
