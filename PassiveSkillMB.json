@@ -17653,6 +17653,246 @@
     ]
   },
   {
+    "Id": 134003,
+    "IsIgnore": null,
+    "Memo": "面影フィアーSR:Lv1 あの人が遺した優しさで、あの人のように誰かを救う。それが「人として生きる」ということだから。1ターン目と5ターン目のターン開始時、自身と自身以外の攻撃力が最も高い味方に2ターンの間『結界』を付与する（解除不可）。このバフの付帯者が攻撃を受けたとき、ダメージを20%遮断する。/ Lv2 さらにバトル開始時、自身の被ダメージが30%減少する（解除不可）。/ Lv3 被ダメージの減少量が70%になる。/ Ex2 あの人のようにを強化する。『結界』のダメージの遮断量が50%になる。",
+    "NameKey": "[PassiveSkillName134003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription1340031]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003003
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription1340032]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 134003203
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription1340033]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 134003303
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[PassiveSkillDescription1340034]",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003401
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003402
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134003403
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 134003303
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 134004,
+    "IsIgnore": null,
+    "Memo": "面影フィアーSR:Lv1 向けられた悪意は、生死をつなぐ因果のように相手へと還る。自身か味方がアクティブスキルで弱体効果を受けたとき、ランダムな敵5体に2ターンの間『怠惰』を2スタック付与する（最大12スタックまで）。この弱体効果は1スタックにつき付帯者のクリティカル率を5%減少させる。/ Lv2 さらに『怠惰』付与の判定の後、対象が『クリティカル率増加』を付帯している場合、対象の『怠惰』のスタック数を1増加させる。/ Lv3 自身か味方がアクティブスキルで弱体効果を受けたとき、さらに『怠惰』付与の前に自身の弱体効果を1つ解除する。",
+    "NameKey": "[PassiveSkillName134004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription1340041]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription1340042]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription1340043]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 134004201
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 135003,
     "IsIgnore": null,
     "Memo": "メルランSR:Lv1 現実から逃避するための、自分にしか見えない妖精さん。それが類稀なる才能の片鱗であることを、本人はまだ理解していない。毎ターン開始時、自身に『妖精さん』を1スタック付与する（最大30スタックまで）（解除不可）。このバフは1スタックにつき自身の攻撃力を3%、物理防御力を5%増加させる。/ Lv2 ターン開始時、4ターンの間自身に自身の攻撃力×200%の『シールド』を付与する。『シールド』を付与する効果は発動後4回行動終了するまで再び発動せず、13ターン目以降は発動しない。/ Lv3 さらに自身以外の黄属性の味方の編成数が2体以上の場合、『妖精さん』の付与スタック数が2になる。/ Ex2 虐げられた才能を強化する。『シールド』の大きさが自身の攻撃力×1000%になる。",
@@ -18199,6 +18439,197 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 139004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 141003,
+    "IsIgnore": null,
+    "Memo": "リリーSR:Lv1 「私は、花に遺されていた魂の欠片と、フィアーの中にある記憶を、杖の力で結びつけたもの。つまり幽霊みたいなものなんだ」バトル開始時、2ターンの間自身の弱体効果命中率が15%増加する（解除不可）。/ Lv2 弱体効果命中率の増加量が30%になる。/ Lv3 バトル開始時、さらに味方編成内で同じ属性の味方の編成数が3体以上の場合、2ターンの間自身のスピードが10%増加する（解除不可）。/ Ex2 情報転写体を強化する。スピードの増加量が30%になる。",
+    "NameKey": "[PassiveSkillName141003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "[PassiveSkillDescription1410031]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 141003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "[PassiveSkillDescription1410032]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 141003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "[PassiveSkillDescription1410033]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 141003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 141003302
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[PassiveSkillDescription1410034]",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 141003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 141003402
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 141004,
+    "IsIgnore": null,
+    "Memo": "リリーSR:Lv1 かつて切り捨てた罪悪感が、彼女をこの世に縛り付ける核となった。自身か味方がアクティブスキルで弱体効果を付与するたび、弱体効果を1つ以上付帯している敵の数分、自身に『残り香』を1スタック付与する（最大20スタックまで）（解除不可）。このバフは1スタックにつき付帯者の攻撃力を2%増加させる。/ Lv2 『残り香』を付与する対象が自身と自身以外の攻撃力が最も高い味方になる。/ Lv3 『残り香』を付与する対象が自身と自身以外の攻撃力が高い味方2体になる。",
+    "NameKey": "[PassiveSkillName141004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "[PassiveSkillDescription1410041]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "[PassiveSkillDescription1410042]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "[PassiveSkillDescription1410043]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 141004302
           }
         ]
       }
@@ -55193,6 +55624,246 @@
     ]
   },
   {
+    "Id": 5504134003,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName134003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003003
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504134003203
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003002
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003003
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504134003303
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003401
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003402
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStart",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134003403
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504134003303
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504134004,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName134004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "ReceiveDebuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyReceiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504134004201
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 5504135003,
     "IsIgnore": null,
     "Memo": "",
@@ -55739,6 +56410,197 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 4,
             "SubSetSkillId": 5504139004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504141003,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName141003]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 41,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504141003001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 121,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504141003201
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 201,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504141003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504141003302
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 256,
+        "OrderNumber": 4,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBType",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504141003201
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "TurnStartBeforeSpeedCheck",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 10,
+            "SubSetSkillId": 5504141003402
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5504141004,
+    "IsIgnore": null,
+    "Memo": "",
+    "NameKey": "[PassiveSkillName141004]",
+    "PassiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 61,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004001
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 141,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004202
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004202
+          }
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 221,
+        "DescriptionKey": "",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004001
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "GiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004302
+          },
+          {
+            "PassiveGroupId": 0,
+            "PassiveTrigger": "AllyGiveDeBuff",
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 5504141004302
           }
         ]
       }

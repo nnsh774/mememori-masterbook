@@ -14832,6 +14832,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 916,
+    "IsIgnore": null,
+    "Memo": "面影フィアー1",
+    "CharacterId": 134,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13401]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 917,
+    "IsIgnore": null,
+    "Memo": "面影フィアー2",
+    "CharacterId": 134,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13402]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 918,
+    "IsIgnore": null,
+    "Memo": "面影フィアー3",
+    "CharacterId": 134,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13403]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 919,
+    "IsIgnore": null,
+    "Memo": "面影フィアー4",
+    "CharacterId": 134,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13404]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 920,
+    "IsIgnore": null,
+    "Memo": "面影フィアー5",
+    "CharacterId": 134,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13405]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 921,
+    "IsIgnore": null,
+    "Memo": "面影フィアー6",
+    "CharacterId": 134,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13406]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 922,
+    "IsIgnore": null,
+    "Memo": "面影フィアー7",
+    "CharacterId": 134,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText13407]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 923,
     "IsIgnore": null,
     "Memo": "メルラン1",

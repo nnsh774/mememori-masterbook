@@ -60842,6 +60842,626 @@
     ]
   },
   {
+    "Id": 2094,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_１日ログイン",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1165]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1001,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2095,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_洞窟でウォーリア3人以上で７回勝利",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1504]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClear3UnitWarriorType",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1008,
+          "ItemType": "ChatEmoticon"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2096,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_貢献メダル300枚",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1166]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 300,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 3,
+    "SortOrderB": 3,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1003,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2097,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_ギルドレイド5回",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1169]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1004,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2098,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_5日ログイン",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1167]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 5,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1005,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2099,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_高速バトルを5回",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1168]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2100,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_フレンドポイントを30回送る",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1171]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1007,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2101,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_武具の強化レベルを30にする",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1317]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1008,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2102,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_期間中キャラガチャを5回引く",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1173]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1009,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 28,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2103,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル600枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1174]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2001,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2104,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神殿で天または冥属性１人以上で10回勝利",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1179]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictory1UnitLightAndDarkType",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2105,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_期間中キャラガチャ20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1182]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2003,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 28,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2106,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_高速バトル10回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1177]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2004,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2107,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ギルドレイドを20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1178]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 14,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2005,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2108,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_7日ログイン",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1175]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 15,
+    "SortOrderB": 15,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2109,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神装強化10回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1180]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentMergeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 16,
+    "SortOrderB": 16,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2007,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2110,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ルーン合成20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1181]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 17,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2008,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2111,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1176]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 18,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2009,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
     "Id": 2112,
     "IsIgnore": null,
     "Memo": "メイン_全ての属性の塔で1850階をクリアする",
@@ -61250,6 +61870,1612 @@
       {
         "Item": {
           "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2128,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54章をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName2128]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattledMaxClearChapter",
+    "RequireValue": 54,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 4,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 9,
+          "ItemId": 12,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2129,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55章をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName2129]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattledMaxClearChapter",
+    "RequireValue": 55,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 4,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 9,
+          "ItemId": 12,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2130,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-8をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2168,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2131,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-16をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2176,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2132,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-24をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2184,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2133,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-32をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2192,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2134,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-40をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2135,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-48をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2208,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2136,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-56をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2216,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2137,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト54-60をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2220,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2138,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-8をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2228,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2139,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-16をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2236,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2140,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-24をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2244,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2141,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-32をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2252,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2142,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-40をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2260,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2143,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-48をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2268,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2144,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-56をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2276,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 150,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2145,
+    "IsIgnore": null,
+    "Memo": "メイン_メインクエスト55-60をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainBossBattle]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattle",
+    "AchievementType": "AutoBattleMaxClearQuest",
+    "RequireValue": 2280,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2146,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_1日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1459]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2147,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_2日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1460]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2148,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_3日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1461]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2149,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_4日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1462]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2150,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_5日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1463]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2151,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_6日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1464]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2152,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_7日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1465]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2153,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_高速バトルを3回行う",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1466]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2154,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_高速バトルを5回行う",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1467]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 15,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2155,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_高速バトルを10回行う",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1468]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2156,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_ギルドレイドに5回挑戦する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1469]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2157,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_ギルドレイドに10回挑戦する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1470]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2158,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_ギルドレイドに20回挑戦する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1471]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2159,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_時空の洞窟３層目のボスに１回勝利する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1472]",
+    "DescriptionKey": "[OpenContentToast4]",
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2160,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_時空の洞窟３層目のボスに２回勝利する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1473]",
+    "DescriptionKey": "[OpenContentToast4]",
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2161,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_時空の洞窟３層目のボスに4回勝利する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1474]",
+    "DescriptionKey": "[OpenContentToast4]",
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 8
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2162,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_祈りの泉で10回遠征する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1475]",
+    "DescriptionKey": "[OpenContentToast10]",
+    "TransitionDestination": "BountyQuestSolo",
+    "AchievementType": "BountyQuestAllStartQuestCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2163,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_祈りの泉で20回遠征する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1476]",
+    "DescriptionKey": "[OpenContentToast10]",
+    "TransitionDestination": "BountyQuestSolo",
+    "AchievementType": "BountyQuestAllStartQuestCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2164,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_祈りの泉で30回遠征する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1477]",
+    "DescriptionKey": "[OpenContentToast10]",
+    "TransitionDestination": "BountyQuestSolo",
+    "AchievementType": "BountyQuestAllStartQuestCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 7,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2165,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_武具の強化レベルを50にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1478]",
+    "DescriptionKey": "[OpenContentToast31]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 50,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2166,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_武具の強化レベルを70にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1479]",
+    "DescriptionKey": "[OpenContentToast31]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 70,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2167,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_武具の強化レベルを100にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1480]",
+    "DescriptionKey": "[OpenContentToast31]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2168,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_武具の魔装レベルを3にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1481]",
+    "DescriptionKey": "[OpenContentToast32]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2169,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_武具の魔装レベルを5にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1482]",
+    "DescriptionKey": "[OpenContentToast32]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 8
+      }
+    ]
+  },
+  {
+    "Id": 2170,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_武具の魔装レベルを10にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1483]",
+    "DescriptionKey": "[OpenContentToast32]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2171,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_期間中キャラガチャを10回引く",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1484]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2172,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_期間中キャラガチャを20回引く",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1485]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2173,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_期間中キャラガチャを30回引く",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1486]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2174,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_貢献メダルを200個獲得する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1487]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtCollabMission",
+    "RequireValue": 200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2175,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_貢献メダルを500個獲得する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1488]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtCollabMission",
+    "RequireValue": 500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2176,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_貢献メダルを1000個獲得する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1489]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtCollabMission",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2177,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_指定楽曲を解放する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1491]",
+    "DescriptionKey": "[OpenContentToast180]",
+    "TransitionDestination": "MusicPlayer",
+    "AchievementType": "BuyMusic",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 15,
+    "SortOrderB": 15,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "MusicTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2178,
+    "IsIgnore": null,
+    "Memo": "ラッキーチャンス_ラメントのMVを見る（Url1遷移）",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1492]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Url1",
+    "AchievementType": "Url1Transition",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 16,
+    "SortOrderB": 16,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
           "ItemId": 1,
           "ItemType": "CurrencyFree"
         },

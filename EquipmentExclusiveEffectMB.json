@@ -13998,5 +13998,139 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 649,
+    "IsIgnore": null,
+    "Memo": "面影フィアーSSR180",
+    "CharacterId": 134,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 650,
+    "IsIgnore": null,
+    "Memo": "面影フィアーSSR200",
+    "CharacterId": 134,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      }
+    ]
+  },
+  {
+    "Id": 651,
+    "IsIgnore": null,
+    "Memo": "面影フィアーSSR220",
+    "CharacterId": 134,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 652,
+    "IsIgnore": null,
+    "Memo": "面影フィアーSSR240",
+    "CharacterId": 134,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 653,
+    "IsIgnore": null,
+    "Memo": "面影フィアーUR",
+    "CharacterId": 134,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 654,
+    "IsIgnore": null,
+    "Memo": "面影フィアーLR",
+    "CharacterId": 134,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

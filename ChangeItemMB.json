@@ -11790,5 +11790,101 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 756,
+    "IsIgnore": null,
+    "Memo": "第２回ラッキーチャンス_ラッキーチャンスガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "LuckyChanceGachaTicket",
+    "ItemId": 2,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 757,
+    "IsIgnore": null,
+    "Memo": "第２回ラッキーチャンス_キャラが選べる高級複製原画",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeC",
+    "ItemId": 1,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 758,
+    "IsIgnore": null,
+    "Memo": "第２回ラッキーチャンス_ルームウェア上下",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 31,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 759,
+    "IsIgnore": null,
+    "Memo": "第２回ラッキーチャンス_キャンバスプリント（フィアータイトル絵）",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 32,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 760,
+    "IsIgnore": null,
+    "Memo": "第２回ラッキーチャンス_とけねこTシャツ（ライブパーカー転用）",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 33,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 761,
+    "IsIgnore": null,
+    "Memo": "第２回ラッキーチャンス_アクリルキーホルダー（スタンプキャラ）",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 34,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]

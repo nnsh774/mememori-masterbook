@@ -18026,5 +18026,215 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9301,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9302,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9303,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9304,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9305,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9306,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9307,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9308,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9309,
+    "IsIgnore": null,
+    "Memo": "サジテリアスの光源​(新フィアー,フィアー)",
+    "CollectionId": 93,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

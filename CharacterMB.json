@@ -6237,6 +6237,58 @@
     "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
+    "Id": 134,
+    "IsIgnore": null,
+    "Memo": "面影フィアー",
+    "NameKey": "[CharacterName134]",
+    "Name2Key": "[CharacterSubName134]",
+    "CharacterType": "ColorChange",
+    "ElementType": "Blue",
+    "JobFlags": 1,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": -2,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 5,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 2785
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 74,
+      "Health": 83,
+      "Intelligence": 90,
+      "Muscle": 97
+    },
+    "BaseParameterGrossCoefficient": 344,
+    "NormalSkillId": 101,
+    "ActiveSkillIds": [
+      134001,
+      134002
+    ],
+    "PassiveSkillIds": [
+      134003,
+      134004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2026-04-15 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
     "Id": 135,
     "IsIgnore": null,
     "Memo": "メルラン",
@@ -6390,6 +6442,58 @@
     "RequireFragmentCount": 60,
     "ItemRarityFlags": 64,
     "StartTimeFixJST": "2026-03-31 15:00:00",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
+  },
+  {
+    "Id": 141,
+    "IsIgnore": null,
+    "Memo": "リリー",
+    "NameKey": "[CharacterName141]",
+    "Name2Key": "",
+    "CharacterType": "Normal",
+    "ElementType": "Light",
+    "JobFlags": 4,
+    "RarityFlags": 8,
+    "InitialBattleParameter": {
+      "AttackPower": -2,
+      "Avoidance": 0,
+      "Critical": 0,
+      "CriticalDamageEnhance": 0,
+      "CriticalResist": 0,
+      "DamageEnhance": 0,
+      "DamageReflect": 0,
+      "DebuffHit": 5,
+      "DebuffResist": 0,
+      "Defense": 7,
+      "DefensePenetration": 0,
+      "HP": 0,
+      "Hit": 0,
+      "HpDrain": 0,
+      "MagicCriticalDamageRelax": 0,
+      "MagicDamageRelax": 0,
+      "PhysicalCriticalDamageRelax": 0,
+      "PhysicalDamageRelax": 0,
+      "Speed": 3058
+    },
+    "BaseParameterCoefficient": {
+      "Energy": 79,
+      "Health": 74,
+      "Intelligence": 103,
+      "Muscle": 79
+    },
+    "BaseParameterGrossCoefficient": 335,
+    "NormalSkillId": 102,
+    "ActiveSkillIds": [
+      141001,
+      141002
+    ],
+    "PassiveSkillIds": [
+      141003,
+      141004
+    ],
+    "RequireFragmentCount": 60,
+    "ItemRarityFlags": 64,
+    "StartTimeFixJST": "2100-01-01 00:00:00",
     "EndTimeFixJST": "2100-12-31 23:59:59"
   }
 ]
