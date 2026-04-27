@@ -11792,6 +11792,38 @@
     ]
   },
   {
+    "Id": 754,
+    "IsIgnore": null,
+    "Memo": "リリーのアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 41,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 755,
+    "IsIgnore": null,
+    "Memo": "リリーガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1410,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
+  },
+  {
     "Id": 756,
     "IsIgnore": null,
     "Memo": "第２回ラッキーチャンス_ラッキーチャンスガチャチケット",

@@ -5320,6 +5320,25 @@
     "SecondaryFrameNum": 0
   },
   {
+    "Id": 282,
+    "IsIgnore": null,
+    "Memo": "リリーのアイテム",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 41,
+    "NameKey": "[ItemName282]",
+    "DisplayName": "[ItemDisplayName282]",
+    "DescriptionKey": "[ItemDescription282]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-04-30 00:00:00",
+    "EndTime": "2026-05-13 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 233,
+    "TransferSpotId": 59,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
     "Id": 283,
     "IsIgnore": null,
     "Memo": "第２回ラッキーチャンス_ラッキーチャンスガチャチケット",
@@ -5451,6 +5470,25 @@
     "TransferSpotId": 0,
     "SecondaryFrameType": "None",
     "SecondaryFrameNum": 0
+  },
+  {
+    "Id": 297,
+    "IsIgnore": null,
+    "Memo": "リリーガチャチケット",
+    "ItemType": "GachaTicket",
+    "ItemId": 1410,
+    "NameKey": "[ItemName297]",
+    "DisplayName": "[ItemDisplayName297]",
+    "DescriptionKey": "[ItemDescription297]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-04-30 00:00:00",
+    "EndTime": "2026-05-21 14:29:59",
+    "MaxItemCount": 0,
+    "IconId": 112,
+    "TransferSpotId": 230,
+    "SecondaryFrameType": "CenteredCharacterIcon",
+    "SecondaryFrameNum": 141
   },
   {
     "Id": 9999,
