@@ -14132,5 +14132,139 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 655,
+    "IsIgnore": null,
+    "Memo": "リリーSSR180",
+    "CharacterId": 141,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 656,
+    "IsIgnore": null,
+    "Memo": "リリーSSR200",
+    "CharacterId": 141,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      }
+    ]
+  },
+  {
+    "Id": 657,
+    "IsIgnore": null,
+    "Memo": "リリーSSR220",
+    "CharacterId": 141,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 658,
+    "IsIgnore": null,
+    "Memo": "リリーSSR240",
+    "CharacterId": 141,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 659,
+    "IsIgnore": null,
+    "Memo": "リリーUR",
+    "CharacterId": 141,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 660,
+    "IsIgnore": null,
+    "Memo": "リリーLR",
+    "CharacterId": 141,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Intelligence",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

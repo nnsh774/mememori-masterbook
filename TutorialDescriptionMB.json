@@ -800,270 +800,6 @@
     "ImageCharacterId": 0
   },
   {
-    "Id": 2001,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 5,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 440,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 44
-  },
-  {
-    "Id": 2002,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_浴衣コルディ",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText39]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 8,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 28,
-      "ItemType": "TreasureChest"
-    },
-    "ImageCharacterId": 72
-  },
-  {
-    "Id": 2003,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_神呪イリア",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText41]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 11,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 610,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 61
-  },
-  {
-    "Id": 2004,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_ギルウィアル",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 14,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 28,
-      "ItemType": "TreasureChest"
-    },
-    "ImageCharacterId": 64
-  },
-  {
-    "Id": 2005,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_使徒ロザリー",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 17,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 880,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 88
-  },
-  {
-    "Id": 2006,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_夏アムレート",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 20,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 28,
-      "ItemType": "TreasureChest"
-    },
-    "ImageCharacterId": 96
-  },
-  {
-    "Id": 2007,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_花束ナターシャ",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 23,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 1050,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 105
-  },
-  {
-    "Id": 2008,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_アルトリア",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 26,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 28,
-      "ItemType": "TreasureChest"
-    },
-    "ImageCharacterId": 93
-  },
-  {
-    "Id": 2009,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_制服A.A.",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 29,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 1170,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 117
-  },
-  {
-    "Id": 2010,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_ネブラ",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 32,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 870,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 87
-  },
-  {
-    "Id": 2011,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_宝物ケルベロス",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 35,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 1290,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 129
-  },
-  {
     "Id": 2012,
     "IsIgnore": null,
     "Memo": "神殿_イベント_エヴリン",
@@ -1086,6 +822,30 @@
       "ItemType": "TreasureChest"
     },
     "ImageCharacterId": 101
+  },
+  {
+    "Id": 2013,
+    "IsIgnore": null,
+    "Memo": "神殿_イベント_リリー",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText37]",
+        "ImageId": 37
+      }
+    ],
+    "HelpId": 4210,
+    "ImagePositionFormatType": "LocalRaidEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 41,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 1410,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 141
   },
   {
     "Id": 3001,

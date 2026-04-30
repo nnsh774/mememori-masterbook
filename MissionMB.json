@@ -63482,5 +63482,785 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 2179,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2410階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2410,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2180,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2420階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2420,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2181,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2430階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2430,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2182,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2440階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2440,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2183,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2450階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2450,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2184,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2460階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2460,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2185,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2470階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2470,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2186,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2480階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2480,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2187,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2490階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2490,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2188,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2500階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2189,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2510階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2510,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2190,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2520階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2520,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2191,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2530階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2530,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2192,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2540階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2540,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2193,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2550階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2550,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2194,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2560階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2560,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2195,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2570階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2570,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2196,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2580階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2580,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2197,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2590階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2590,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2198,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2600階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2199,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2610階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2610,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2200,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2620階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2620,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2201,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2630階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2630,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2202,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2640階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2640,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2203,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2650階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2650,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2204,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2660階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2660,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2205,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2670階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2670,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2206,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2680階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2680,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2207,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2690階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2690,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2208,
+    "IsIgnore": null,
+    "Memo": "メイン_無窮の塔で2700階をクリアする",
+    "MissionType": "Main",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionNameMainTowerBattle]",
+    "DescriptionKey": "[OpenContentToast9]",
+    "TransitionDestination": "TowerBattle",
+    "AchievementType": "TowerBattleMaxClearFloor",
+    "RequireValue": 2700,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 24,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 250,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

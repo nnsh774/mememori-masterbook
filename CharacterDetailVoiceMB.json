@@ -14688,6 +14688,23 @@
     "SortOrder": 20
   },
   {
+    "Id": 3322,
+    "IsIgnore": null,
+    "Memo": "チェルナ朗読",
+    "CharacterId": 33,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 200
+  },
+  {
     "Id": 3390,
     "IsIgnore": null,
     "Memo": "チェルナ",
@@ -28303,6 +28320,23 @@
       "VoiceId": 0
     },
     "SortOrder": 21
+  },
+  {
+    "Id": 6022,
+    "IsIgnore": null,
+    "Memo": "フィアー朗読",
+    "CharacterId": 60,
+    "UnlockedVoiceButtonTextKey": "[CharacterDetailVoiceUnLockedText31]",
+    "SubtitleKey": null,
+    "CharacterVoiceCategory": "Monologue",
+    "UnlockCondition": "None",
+    "UnlockQuestId": 0,
+    "Path": {
+      "TimelineType": "Monologue",
+      "TimelineId": 1,
+      "VoiceId": 0
+    },
+    "SortOrder": 200
   },
   {
     "Id": 6090,
