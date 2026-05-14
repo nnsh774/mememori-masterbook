@@ -1233,5 +1233,18 @@
     "StartTimeFixJST": "2026-04-30 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 95,
+    "IsIgnore": null,
+    "Memo": "アルバートの真理(イディーネ,?)",
+    "NameKey": "[CharacterCollectionName95]",
+    "RequiredCharacterIds": [
+      92,
+      0
+    ],
+    "StartTimeFixJST": "2026-05-14 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

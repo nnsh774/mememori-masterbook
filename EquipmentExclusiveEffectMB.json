@@ -14266,5 +14266,134 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 667,
+    "IsIgnore": null,
+    "Memo": "イディーネSSR180",
+    "CharacterId": 92,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 668,
+    "IsIgnore": null,
+    "Memo": "イディーネSSR200",
+    "CharacterId": 92,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 669,
+    "IsIgnore": null,
+    "Memo": "イディーネSSR220",
+    "CharacterId": 92,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 670,
+    "IsIgnore": null,
+    "Memo": "イディーネSSR240",
+    "CharacterId": 92,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 671,
+    "IsIgnore": null,
+    "Memo": "イディーネUR",
+    "CharacterId": 92,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 672,
+    "IsIgnore": null,
+    "Memo": "イディーネLR",
+    "CharacterId": 92,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

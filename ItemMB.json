@@ -211,7 +211,7 @@
   {
     "Id": 12,
     "IsIgnore": null,
-    "Memo": "精錬水",
+    "Memo": "強化水",
     "ItemType": "EquipmentReinforcementItem",
     "ItemId": 1,
     "NameKey": "[ItemName12]",
@@ -230,7 +230,7 @@
   {
     "Id": 13,
     "IsIgnore": null,
-    "Memo": "上級精錬水",
+    "Memo": "強化秘薬",
     "ItemType": "EquipmentReinforcementItem",
     "ItemId": 2,
     "NameKey": "[ItemName13]",
@@ -306,7 +306,7 @@
   {
     "Id": 17,
     "IsIgnore": null,
-    "Memo": "ゴールドの袋（1時間）",
+    "Memo": "ゴールド（1時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 1,
     "NameKey": "[ItemName17]",
@@ -325,7 +325,7 @@
   {
     "Id": 18,
     "IsIgnore": null,
-    "Memo": "ゴールドの袋（2時間）",
+    "Memo": "ゴールド（2時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 2,
     "NameKey": "[ItemName18]",
@@ -344,7 +344,7 @@
   {
     "Id": 19,
     "IsIgnore": null,
-    "Memo": "ゴールドの袋（6時間）",
+    "Memo": "ゴールド（6時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 3,
     "NameKey": "[ItemName19]",
@@ -363,7 +363,7 @@
   {
     "Id": 20,
     "IsIgnore": null,
-    "Memo": "ゴールドの大箱（8時間）",
+    "Memo": "ゴールド（8時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 4,
     "NameKey": "[ItemName20]",
@@ -382,7 +382,7 @@
   {
     "Id": 21,
     "IsIgnore": null,
-    "Memo": "ゴールドの大箱（24時間）",
+    "Memo": "ゴールド（24時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 5,
     "NameKey": "[ItemName21]",
@@ -401,7 +401,7 @@
   {
     "Id": 22,
     "IsIgnore": null,
-    "Memo": "経験珠の袋（1時間）",
+    "Memo": "経験珠（1時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 6,
     "NameKey": "[ItemName22]",
@@ -420,7 +420,7 @@
   {
     "Id": 23,
     "IsIgnore": null,
-    "Memo": "経験珠の袋（2時間）",
+    "Memo": "経験珠（2時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 7,
     "NameKey": "[ItemName23]",
@@ -439,7 +439,7 @@
   {
     "Id": 24,
     "IsIgnore": null,
-    "Memo": "経験珠の袋（6時間）",
+    "Memo": "経験珠（6時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 8,
     "NameKey": "[ItemName24]",
@@ -458,7 +458,7 @@
   {
     "Id": 25,
     "IsIgnore": null,
-    "Memo": "経験珠の大箱（8時間）",
+    "Memo": "経験珠（8時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 9,
     "NameKey": "[ItemName25]",
@@ -477,7 +477,7 @@
   {
     "Id": 26,
     "IsIgnore": null,
-    "Memo": "経験珠の大箱（24時間）",
+    "Memo": "経験珠（24時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 10,
     "NameKey": "[ItemName26]",
@@ -496,7 +496,7 @@
   {
     "Id": 27,
     "IsIgnore": null,
-    "Memo": "潜在宝珠の袋（1時間）",
+    "Memo": "潜在宝珠（1時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 11,
     "NameKey": "[ItemName27]",
@@ -515,7 +515,7 @@
   {
     "Id": 28,
     "IsIgnore": null,
-    "Memo": "潜在宝珠の袋（2時間）",
+    "Memo": "潜在宝珠（2時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 12,
     "NameKey": "[ItemName28]",
@@ -534,7 +534,7 @@
   {
     "Id": 29,
     "IsIgnore": null,
-    "Memo": "潜在宝珠の袋（6時間）",
+    "Memo": "潜在宝珠（6時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 13,
     "NameKey": "[ItemName29]",
@@ -553,7 +553,7 @@
   {
     "Id": 30,
     "IsIgnore": null,
-    "Memo": "潜在宝珠の大箱（8時間）",
+    "Memo": "潜在宝珠（8時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 14,
     "NameKey": "[ItemName30]",
@@ -572,7 +572,7 @@
   {
     "Id": 31,
     "IsIgnore": null,
-    "Memo": "潜在宝珠の大箱（24時間）",
+    "Memo": "潜在宝珠（24時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 15,
     "NameKey": "[ItemName31]",
@@ -591,7 +591,7 @@
   {
     "Id": 32,
     "IsIgnore": null,
-    "Memo": "豪華な袋（1時間）",
+    "Memo": "育成セット（1時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 16,
     "NameKey": "[ItemName32]",
@@ -610,7 +610,7 @@
   {
     "Id": 33,
     "IsIgnore": null,
-    "Memo": "豪華な袋（2時間）",
+    "Memo": "育成セット（2時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 17,
     "NameKey": "[ItemName33]",
@@ -629,7 +629,7 @@
   {
     "Id": 34,
     "IsIgnore": null,
-    "Memo": "豪華な袋（6時間）",
+    "Memo": "育成セット（6時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 18,
     "NameKey": "[ItemName34]",
@@ -648,7 +648,7 @@
   {
     "Id": 35,
     "IsIgnore": null,
-    "Memo": "豪華な大箱（8時間）",
+    "Memo": "育成セット（8時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 19,
     "NameKey": "[ItemName35]",
@@ -667,7 +667,7 @@
   {
     "Id": 36,
     "IsIgnore": null,
-    "Memo": "豪華な大箱（24時間）",
+    "Memo": "育成セット（24時間）",
     "ItemType": "QuestQuickTicket",
     "ItemId": 20,
     "NameKey": "[ItemName36]",
@@ -800,7 +800,7 @@
   {
     "Id": 43,
     "IsIgnore": null,
-    "Memo": "スフィアチケット",
+    "Memo": "ルーンチケット",
     "ItemType": "ExchangePlaceItem",
     "ItemId": 4,
     "NameKey": "[ItemName43]",
@@ -1275,7 +1275,7 @@
   {
     "Id": 68,
     "IsIgnore": null,
-    "Memo": "初心者ミッションメダル",
+    "Memo": "スタートダッシュメダル",
     "ItemType": "ActivityMedal",
     "ItemId": 3,
     "NameKey": "[ItemName68]",
@@ -1313,7 +1313,7 @@
   {
     "Id": 70,
     "IsIgnore": null,
-    "Memo": "クリスマスコイン",
+    "Memo": "ルークのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 1,
     "NameKey": "[ItemName70]",
@@ -1332,7 +1332,7 @@
   {
     "Id": 71,
     "IsIgnore": null,
-    "Memo": "期間限定ミッションメダル",
+    "Memo": "イベントメダル",
     "ItemType": "ActivityMedal",
     "ItemId": 5,
     "NameKey": "[ItemName71]",
@@ -1370,7 +1370,7 @@
   {
     "Id": 73,
     "IsIgnore": null,
-    "Memo": "骸晶の欠片",
+    "Memo": "オフィーリアのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 2,
     "NameKey": "[ItemName73]",
@@ -1389,7 +1389,7 @@
   {
     "Id": 75,
     "IsIgnore": null,
-    "Memo": "グランドバトルコイン常設用",
+    "Memo": "グランドコイン",
     "ItemType": "ExchangePlaceItem",
     "ItemId": 15,
     "NameKey": "[ItemName75]",
@@ -1408,7 +1408,7 @@
   {
     "Id": 76,
     "IsIgnore": null,
-    "Memo": "虚妄の断片",
+    "Memo": "レアのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 4,
     "NameKey": "[ItemName76]",
@@ -1446,7 +1446,7 @@
   {
     "Id": 78,
     "IsIgnore": null,
-    "Memo": "天泣の雫",
+    "Memo": "ルサールカのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 5,
     "NameKey": "[ItemName78]",
@@ -1484,7 +1484,7 @@
   {
     "Id": 80,
     "IsIgnore": null,
-    "Memo": "魔刃の鉱石",
+    "Memo": "アーティのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 6,
     "NameKey": "[ItemName80]",
@@ -1503,7 +1503,7 @@
   {
     "Id": 81,
     "IsIgnore": null,
-    "Memo": "湖畔の貝殻",
+    "Memo": "水着サブリナのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 7,
     "NameKey": "[ItemName81]",
@@ -1598,7 +1598,7 @@
   {
     "Id": 86,
     "IsIgnore": null,
-    "Memo": "線香花火",
+    "Memo": "浴衣コルディのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 8,
     "NameKey": "[ItemName86]",
@@ -1655,7 +1655,7 @@
   {
     "Id": 89,
     "IsIgnore": null,
-    "Memo": "戦友のドッグタグ",
+    "Memo": "アームストロングのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 9,
     "NameKey": "[ItemName89]",
@@ -1674,7 +1674,7 @@
   {
     "Id": 90,
     "IsIgnore": null,
-    "Memo": "塔の鍵",
+    "Memo": "プリシラのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 10,
     "NameKey": "[ItemName90]",
@@ -1997,7 +1997,7 @@
   {
     "Id": 107,
     "IsIgnore": null,
-    "Memo": "禁断の果実",
+    "Memo": "神呪イリアのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 11,
     "NameKey": "[ItemName107]",
@@ -2529,7 +2529,7 @@
   {
     "Id": 135,
     "IsIgnore": null,
-    "Memo": "運命の赤い糸",
+    "Memo": "聖夜アモールのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 12,
     "NameKey": "[ItemName135]",
@@ -2586,7 +2586,7 @@
   {
     "Id": 138,
     "IsIgnore": null,
-    "Memo": "思い出のカップケーキ",
+    "Memo": "聖夜トロポンのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 13,
     "NameKey": "[ItemName138]",
@@ -2681,7 +2681,7 @@
   {
     "Id": 143,
     "IsIgnore": null,
-    "Memo": "星命の記憶",
+    "Memo": "ギルウィアルのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 14,
     "NameKey": "[ItemName143]",
@@ -2700,7 +2700,7 @@
   {
     "Id": 144,
     "IsIgnore": null,
-    "Memo": "継承の秘伝書",
+    "Memo": "クラウディアのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 15,
     "NameKey": "[ItemName144]",
@@ -2795,7 +2795,7 @@
   {
     "Id": 149,
     "IsIgnore": null,
-    "Memo": "開花の種（ウォーリアー）",
+    "Memo": "開花の種（ウォーリア）",
     "ItemType": "GuildTowerJobReinforcementMaterial",
     "ItemId": 1,
     "NameKey": "[ItemName149]",
@@ -2871,7 +2871,7 @@
   {
     "Id": 153,
     "IsIgnore": null,
-    "Memo": "妹からの手紙",
+    "Memo": "エイルのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 16,
     "NameKey": "[ItemName153]",
@@ -2947,7 +2947,7 @@
   {
     "Id": 157,
     "IsIgnore": null,
-    "Memo": "天使の落とし物",
+    "Memo": "使徒ロザリーのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 17,
     "NameKey": "[ItemName157]",
@@ -2985,7 +2985,7 @@
   {
     "Id": 159,
     "IsIgnore": null,
-    "Memo": "肖像画",
+    "Memo": "アレクサンドラのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 18,
     "NameKey": "[ItemName159]",
@@ -3042,7 +3042,7 @@
   {
     "Id": 162,
     "IsIgnore": null,
-    "Memo": "折居人形",
+    "Memo": "カグヤのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 19,
     "NameKey": "[ItemName162]",
@@ -3156,7 +3156,7 @@
   {
     "Id": 168,
     "IsIgnore": null,
-    "Memo": "トロピカルドリンク",
+    "Memo": "夏アムレートのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 20,
     "NameKey": "[ItemName168]",
@@ -3194,7 +3194,7 @@
   {
     "Id": 170,
     "IsIgnore": null,
-    "Memo": "思い出のハープ",
+    "Memo": "アイネのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 21,
     "NameKey": "[ItemName170]",
@@ -3251,7 +3251,7 @@
   {
     "Id": 173,
     "IsIgnore": null,
-    "Memo": "封印の呪符",
+    "Memo": "タマのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 22,
     "NameKey": "[ItemName173]",
@@ -3669,7 +3669,7 @@
   {
     "Id": 195,
     "IsIgnore": null,
-    "Memo": "お花の詰め合わせ",
+    "Memo": "花束ナターシャのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 23,
     "NameKey": "[ItemName195]",
@@ -3726,7 +3726,7 @@
   {
     "Id": 198,
     "IsIgnore": null,
-    "Memo": "絆のスノードーム",
+    "Memo": "冬ルナリンドのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 25,
     "NameKey": "[ItemName198]",
@@ -3764,7 +3764,7 @@
   {
     "Id": 200,
     "IsIgnore": null,
-    "Memo": "追慕のネックレス",
+    "Memo": "アルトリアのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 26,
     "NameKey": "[ItemName200]",
@@ -3859,7 +3859,7 @@
   {
     "Id": 205,
     "IsIgnore": null,
-    "Memo": "ふきだし（とけねこ）",
+    "Memo": "吹き出し（とけねこ）",
     "ItemType": "ChatBalloon",
     "ItemId": 1,
     "NameKey": "[ItemName205]",
@@ -3878,7 +3878,7 @@
   {
     "Id": 206,
     "IsIgnore": null,
-    "Memo": "幸福な燕のブローチ",
+    "Memo": "ルスティカのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 27,
     "NameKey": "[ItemName206]",
@@ -4087,7 +4087,7 @@
   {
     "Id": 217,
     "IsIgnore": null,
-    "Memo": "思い出の香り袋",
+    "Memo": "ポプリのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 28,
     "NameKey": "[ItemName217]",
@@ -4239,7 +4239,7 @@
   {
     "Id": 225,
     "IsIgnore": null,
-    "Memo": "ふきだし（錆鉄）",
+    "Memo": "吹き出し（錆鉄）",
     "ItemType": "ChatBalloon",
     "ItemId": 2,
     "NameKey": "[ItemName225]",
@@ -4258,7 +4258,7 @@
   {
     "Id": 226,
     "IsIgnore": null,
-    "Memo": "えーちゃんの勉強道具",
+    "Memo": "制服A.A.のアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 29,
     "NameKey": "[ItemName226]",
@@ -4353,7 +4353,7 @@
   {
     "Id": 231,
     "IsIgnore": null,
-    "Memo": "思い出の紅茶",
+    "Memo": "モワノーのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 30,
     "NameKey": "[ItemName231]",
@@ -4410,7 +4410,7 @@
   {
     "Id": 234,
     "IsIgnore": null,
-    "Memo": "ネグちゃんのお花",
+    "Memo": "ルミカのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 31,
     "NameKey": "[ItemName234]",
@@ -4467,7 +4467,7 @@
   {
     "Id": 237,
     "IsIgnore": null,
-    "Memo": "ふきだし（音符）",
+    "Memo": "吹き出し（音符）",
     "ItemType": "ChatBalloon",
     "ItemId": 3,
     "NameKey": "[ItemName237]",
@@ -4505,7 +4505,7 @@
   {
     "Id": 239,
     "IsIgnore": null,
-    "Memo": "ネブラアイテム",
+    "Memo": "ネブラのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 32,
     "NameKey": "[ItemName239]",
@@ -4657,7 +4657,7 @@
   {
     "Id": 247,
     "IsIgnore": null,
-    "Memo": "夜の一族の印章",
+    "Memo": "カーミラのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 33,
     "NameKey": "[ItemName247]",
@@ -4733,7 +4733,7 @@
   {
     "Id": 251,
     "IsIgnore": null,
-    "Memo": "天国に宛てた手紙",
+    "Memo": "リーベのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 34,
     "NameKey": "[ItemName251]",
@@ -4790,7 +4790,7 @@
   {
     "Id": 254,
     "IsIgnore": null,
-    "Memo": "ふきだし（キャンディ）",
+    "Memo": "吹き出し（キャンディ）",
     "ItemType": "ChatBalloon",
     "ItemId": 4,
     "NameKey": "[ItemName254]",
@@ -4809,7 +4809,7 @@
   {
     "Id": 255,
     "IsIgnore": null,
-    "Memo": "キラキラの宝石箱",
+    "Memo": "宝物ケルベロスのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 35,
     "NameKey": "[ItemName255]",
@@ -4923,7 +4923,7 @@
   {
     "Id": 261,
     "IsIgnore": null,
-    "Memo": "森の精の雫",
+    "Memo": "冬マーリンのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 36,
     "NameKey": "[ItemName261]",
@@ -4942,7 +4942,7 @@
   {
     "Id": 262,
     "IsIgnore": null,
-    "Memo": "星空の夜纏い",
+    "Memo": "冬ステラのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 37,
     "NameKey": "[ItemName262]",
@@ -5018,7 +5018,7 @@
   {
     "Id": 266,
     "IsIgnore": null,
-    "Memo": "エヴリンアイテム",
+    "Memo": "エヴリンのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 38,
     "NameKey": "[ItemName266]",
@@ -5083,8 +5083,8 @@
     "DescriptionKey": "[ItemDescription269]",
     "ItemRarityFlags": 64,
     "SortOrder": 0,
-    "StartTime": "",
-    "EndTime": "",
+    "StartTime": null,
+    "EndTime": null,
     "MaxItemCount": 0,
     "IconId": 230,
     "TransferSpotId": 0,
@@ -5094,7 +5094,7 @@
   {
     "Id": 270,
     "IsIgnore": null,
-    "Memo": "レジーナアイテム",
+    "Memo": "レジーナのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 39,
     "NameKey": "[ItemName270]",
@@ -5121,8 +5121,8 @@
     "DescriptionKey": "[ItemDescription243]",
     "ItemRarityFlags": 64,
     "SortOrder": 0,
-    "StartTime": "",
-    "EndTime": "",
+    "StartTime": null,
+    "EndTime": null,
     "MaxItemCount": 0,
     "IconId": 217,
     "TransferSpotId": 40003,
@@ -5227,7 +5227,7 @@
   {
     "Id": 277,
     "IsIgnore": null,
-    "Memo": "トリクシーアイテム",
+    "Memo": "トリクシーのアイテム",
     "ItemType": "EventExchangePlaceItem",
     "ItemId": 40,
     "NameKey": "[ItemName277]",
@@ -5265,7 +5265,7 @@
   {
     "Id": 279,
     "IsIgnore": null,
-    "Memo": "吹き出し(白百合)",
+    "Memo": "吹き出し（白百合）",
     "ItemType": "ChatBalloon",
     "ItemId": 5,
     "NameKey": "[ItemName279]",
@@ -5341,7 +5341,7 @@
   {
     "Id": 283,
     "IsIgnore": null,
-    "Memo": "第２回ラッキーチャンス_ラッキーチャンスガチャチケット",
+    "Memo": "第２回ラッキーチャンスガチャチケット",
     "ItemType": "LuckyChanceGachaTicket",
     "ItemId": 2,
     "NameKey": "[ItemName283]",
@@ -5493,7 +5493,7 @@
   {
     "Id": 9999,
     "IsIgnore": null,
-    "Memo": "CD特典応急対応",
+    "Memo": "イリアの特別アイコン",
     "ItemType": "SpecialIcon",
     "ItemId": 1001,
     "NameKey": "[itemName9999]",
