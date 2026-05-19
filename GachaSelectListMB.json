@@ -7082,7 +7082,7 @@
   {
     "Id": 187,
     "IsIgnore": null,
-    "Memo": "イディーネ+D.D.+仮",
+    "Memo": "イディーネ+制服A.A.+D.D.",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-05-21 14:30:00",
@@ -7090,6 +7090,7 @@
     "OrderNumber": 187,
     "CharacterIdList": [
       92,
+      117,
       116,
       5,
       6,
@@ -7116,7 +7117,46 @@
     ],
     "NewCharacterIdList": [
       92,
+      117,
       116
+    ]
+  },
+  {
+    "Id": 188,
+    "IsIgnore": null,
+    "Memo": "制服A.A.+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-05-28 16:30:00",
+    "EndTimeFixJST": "2026-06-08 14:29:59",
+    "OrderNumber": 188,
+    "CharacterIdList": [
+      117,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      117
     ]
   },
   {
