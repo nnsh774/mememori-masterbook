@@ -5491,6 +5491,25 @@
     "SecondaryFrameNum": 141
   },
   {
+    "Id": 298,
+    "IsIgnore": null,
+    "Memo": "カトレアのアイテム",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 42,
+    "NameKey": "[ItemName298]",
+    "DisplayName": "[ItemDisplayName298]",
+    "DescriptionKey": "[ItemDescription298]",
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "StartTime": "2026-05-28 00:00:00",
+    "EndTime": "2026-06-11 03:59:59",
+    "MaxItemCount": 0,
+    "IconId": 250,
+    "TransferSpotId": 60,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0
+  },
+  {
     "Id": 9999,
     "IsIgnore": null,
     "Memo": "イリアの特別アイコン",
