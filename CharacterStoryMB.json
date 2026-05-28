@@ -10926,6 +10926,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 608,
+    "IsIgnore": null,
+    "Memo": "カトレア1",
+    "CharacterId": 90,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9001]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 609,
+    "IsIgnore": null,
+    "Memo": "カトレア2",
+    "CharacterId": 90,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9002]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 610,
+    "IsIgnore": null,
+    "Memo": "カトレア3",
+    "CharacterId": 90,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9003]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 611,
+    "IsIgnore": null,
+    "Memo": "カトレア4",
+    "CharacterId": 90,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9004]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 612,
+    "IsIgnore": null,
+    "Memo": "カトレア5",
+    "CharacterId": 90,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9005]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 613,
+    "IsIgnore": null,
+    "Memo": "カトレア6",
+    "CharacterId": 90,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9006]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 614,
+    "IsIgnore": null,
+    "Memo": "カトレア7",
+    "CharacterId": 90,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText9007]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 622,
     "IsIgnore": null,
     "Memo": "イディーネ1",
