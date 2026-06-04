@@ -7166,7 +7166,7 @@
   {
     "Id": 189,
     "IsIgnore": null,
-    "Memo": "カトレア+ポプリ+仮",
+    "Memo": "カトレア+アイシェ+ポプリ",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-06-08 14:30:00",
@@ -7174,6 +7174,7 @@
     "OrderNumber": 189,
     "CharacterIdList": [
       90,
+      130,
       115,
       5,
       6,
@@ -7200,7 +7201,46 @@
     ],
     "NewCharacterIdList": [
       90,
+      130,
       115
+    ]
+  },
+  {
+    "Id": 190,
+    "IsIgnore": null,
+    "Memo": "アイシェ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-06-15 16:30:00",
+    "EndTimeFixJST": "2026-06-23 14:29:59",
+    "OrderNumber": 190,
+    "CharacterIdList": [
+      130,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      130
     ]
   },
   {
