@@ -23,14 +23,6 @@
           "ItemType": "TreasureChestKey"
         },
         "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 20,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
-        },
-        "RarityFlags": 0
       }
     ],
     "StartTime": "2020-01-01 00:00:00",
@@ -60,14 +52,6 @@
           "ItemCount": 1,
           "ItemId": 2,
           "ItemType": "TreasureChestKey"
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 30,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
         },
         "RarityFlags": 0
       }
@@ -101,14 +85,6 @@
           "ItemType": "TreasureChestKey"
         },
         "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 40,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
-        },
-        "RarityFlags": 0
       }
     ],
     "StartTime": "2020-01-01 00:00:00",
@@ -132,14 +108,6 @@
           "ItemType": "CurrencyFree"
         },
         "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 60,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
-        },
-        "RarityFlags": 0
       }
     ],
     "StartTime": "2020-01-01 00:00:00",
@@ -161,14 +129,6 @@
           "ItemCount": 1,
           "ItemId": 2,
           "ItemType": "GachaTicket"
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 100,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
         },
         "RarityFlags": 0
       }
@@ -202,14 +162,6 @@
           "ItemType": "DungeonRecoveryItem"
         },
         "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 80,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
-        },
-        "RarityFlags": 0
       }
     ],
     "StartTime": "2020-01-01 00:00:00",
@@ -239,14 +191,6 @@
           "ItemCount": 60,
           "ItemId": 27,
           "ItemType": "TreasureChest"
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 160,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
         },
         "RarityFlags": 0
       }
@@ -288,14 +232,6 @@
           "ItemType": "DungeonRecoveryItem"
         },
         "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 240,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
-        },
-        "RarityFlags": 0
       }
     ],
     "StartTime": "2020-01-01 00:00:00",
@@ -325,14 +261,6 @@
           "ItemCount": 3,
           "ItemId": 1,
           "ItemType": "TowerBattleTicket"
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 320,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
         },
         "RarityFlags": 0
       }
@@ -372,14 +300,6 @@
           "ItemCount": 3,
           "ItemId": 1,
           "ItemType": "BossChallengeTicket"
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 400,
-          "ItemId": 4,
-          "ItemType": "ActivityMedal"
         },
         "RarityFlags": 0
       }
@@ -1761,6 +1681,75 @@
     "EndTime": "2026-05-07 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 1046,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション1_第4回目魔女の書庫整理",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": [],
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-06-15 04:00:00",
+    "EndTime": "2026-06-25 03:59:59",
+    "SortOrder": 0,
+    "Value": 1
+  },
+  {
+    "Id": 1047,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション3_第4回目魔女の書庫整理",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": [],
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-06-15 04:00:00",
+    "EndTime": "2026-06-25 03:59:59",
+    "SortOrder": 0,
+    "Value": 1
+  },
+  {
+    "Id": 1048,
+    "IsIgnore": null,
+    "Memo": "デイリーミッション5_第4回目魔女の書庫整理",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": [],
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 15,
+          "ItemId": 1,
+          "ItemType": "BookSortGridCellUnlockItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-06-15 04:00:00",
+    "EndTime": "2026-06-25 03:59:59",
+    "SortOrder": 0,
+    "Value": 1
   },
   {
     "Id": 10001,
