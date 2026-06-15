@@ -15712,5 +15712,131 @@
     ],
     "TextKey": "[CharacterStoryText14107]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 1014,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア1",
+    "CharacterId": 148,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14801]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1015,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア2",
+    "CharacterId": 148,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14802]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1016,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア3",
+    "CharacterId": 148,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14803]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1017,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア4",
+    "CharacterId": 148,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14804]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1018,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア5",
+    "CharacterId": 148,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14805]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1019,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア6",
+    "CharacterId": 148,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14806]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1020,
+    "IsIgnore": null,
+    "Memo": "グィネヴィア7",
+    "CharacterId": 148,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14807]",
+    "RarityFlags": 512
   }
 ]

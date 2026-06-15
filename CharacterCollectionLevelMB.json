@@ -18640,5 +18640,207 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9601,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 100.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9602,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 250.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9603,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 250.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9604,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 250.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9605,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 255.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 160.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9606,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 260.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 170.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9607,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 265.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 180.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9608,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 270.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 190.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 9609,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "CollectionId": 96,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 275.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

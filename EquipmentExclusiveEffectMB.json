@@ -14524,5 +14524,134 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 679,
+    "IsIgnore": null,
+    "Memo": "グィネヴィアSSR180",
+    "CharacterId": 148,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 680,
+    "IsIgnore": null,
+    "Memo": "グィネヴィアSSR200",
+    "CharacterId": 148,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ]
+  },
+  {
+    "Id": 681,
+    "IsIgnore": null,
+    "Memo": "グィネヴィアSSR220",
+    "CharacterId": 148,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 682,
+    "IsIgnore": null,
+    "Memo": "グィネヴィアSSR240",
+    "CharacterId": 148,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 683,
+    "IsIgnore": null,
+    "Memo": "グィネヴィアUR",
+    "CharacterId": 148,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 684,
+    "IsIgnore": null,
+    "Memo": "グィネヴィアLR",
+    "CharacterId": 148,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      },
+      {
+        "BattleParameterType": "DebuffHit",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

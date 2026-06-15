@@ -3361,6 +3361,29 @@
     "StartTime": null
   },
   {
+    "Id": 148,
+    "IsIgnore": null,
+    "Memo": "天命のチケットケース",
+    "NameKey": "[TreasureChestName148]",
+    "DisplayNameKey": "[TreasureChestDisplayName148]",
+    "DescriptionKey": "[TreasureChestDescription148]",
+    "IconId": 255,
+    "ItemRarityFlags": 64,
+    "SortOrder": 0,
+    "TreasureChestLotteryType": "SelectItem",
+    "ChestKeyItemId": 0,
+    "MinOpenCount": 1,
+    "MaxItemCount": 0,
+    "SecondaryFrameType": "None",
+    "SecondaryFrameNum": 0,
+    "TreasureChestItemIdList": [
+      151
+    ],
+    "BulkUseEnabled": false,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",

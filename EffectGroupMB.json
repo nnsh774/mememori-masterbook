@@ -32363,6 +32363,313 @@
     ]
   },
   {
+    "Id": 14000100102,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%減少する。",
+    "NameKey": "[EffectGroupName14000100102]",
+    "DescriptionKey": "[EffectGroupDescription14000100102]",
+    "IconType": "Character",
+    "IconId": 140001,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000130102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000120102,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 14000100102,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 14000120102,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%減少する。",
+    "NameKey": "[EffectGroupName14000120102]",
+    "DescriptionKey": "[EffectGroupDescription14000120102]",
+    "IconType": "Character",
+    "IconId": 140001,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000130102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000120102,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 14000100102,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 14000130102,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が30%減少する。",
+    "NameKey": "[EffectGroupName14000130102]",
+    "DescriptionKey": "[EffectGroupDescription14000130102]",
+    "IconType": "Character",
+    "IconId": 140001,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000130102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000120102,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 14000100102,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 14000300101,
+    "IsIgnore": null,
+    "Memo": "*弱体効果を2つ解除する。",
+    "NameKey": "[EffectGroupName14000300101]",
+    "DescriptionKey": "[EffectGroupDescription14000300101]",
+    "IconType": "Character",
+    "IconId": 140003,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14000300103,
+    "IsIgnore": null,
+    "Memo": "[霊痕]人の手が魂に触れた痕跡。美しい輝きを守ろうとする力を感じる……。",
+    "NameKey": "[EffectGroupName14000300103]",
+    "DescriptionKey": "[EffectGroupDescription14000300103]",
+    "IconType": "Character",
+    "IconId": 140003,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14000320201,
+    "IsIgnore": null,
+    "Memo": "*弱体効果を1つ解除する。",
+    "NameKey": "[EffectGroupName14000320201]",
+    "DescriptionKey": "[EffectGroupDescription14000320201]",
+    "IconType": "Character",
+    "IconId": 140003,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14000400101,
+    "IsIgnore": null,
+    "Memo": "防御力が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000400101]",
+    "DescriptionKey": "[EffectGroupDescription14000400101]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000400102,
+    "IsIgnore": null,
+    "Memo": "魔法防御力が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000400102]",
+    "DescriptionKey": "[EffectGroupDescription14000400102]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000440102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000400102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000400103,
+    "IsIgnore": null,
+    "Memo": "魔法クリダメ緩和が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000400103]",
+    "DescriptionKey": "[EffectGroupDescription14000400103]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000440103,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000400103,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000420104,
+    "IsIgnore": null,
+    "Memo": "被ダメージが10%減少する（解除不可）。",
+    "NameKey": "[EffectGroupName14000420104]",
+    "DescriptionKey": "[EffectGroupDescription14000420104]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000430104,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000420104,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000430104,
+    "IsIgnore": null,
+    "Memo": "被ダメージが60%減少する（解除不可）。",
+    "NameKey": "[EffectGroupName14000430104]",
+    "DescriptionKey": "[EffectGroupDescription14000430104]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000430104,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000420104,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000440101,
+    "IsIgnore": null,
+    "Memo": "防御力が80%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000440101]",
+    "DescriptionKey": "[EffectGroupDescription14000440101]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000440102,
+    "IsIgnore": null,
+    "Memo": "魔法防御力が40%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000440102]",
+    "DescriptionKey": "[EffectGroupDescription14000440102]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000440102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000400102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14000440103,
+    "IsIgnore": null,
+    "Memo": "魔法クリダメ緩和が20%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000440103]",
+    "DescriptionKey": "[EffectGroupDescription14000440103]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14000440103,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14000400103,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
     "Id": 14100100102,
     "IsIgnore": null,
     "Memo": "[気絶] 行動不能になる。",
@@ -32527,6 +32834,140 @@
     "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14800120201,
+    "IsIgnore": null,
+    "Memo": "被ダメージが10%増加する。",
+    "NameKey": "[EffectGroupName14800120201]",
+    "DescriptionKey": "[EffectGroupDescription14800120201]",
+    "IconType": "Character",
+    "IconId": 148001,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14800140203,
+    "IsIgnore": null,
+    "Memo": "[脱力] バトル中ステータスの攻撃力が{0}%減少する。",
+    "NameKey": "[EffectGroupName14800140203]",
+    "DescriptionKey": "[EffectGroupDescription14800140203]",
+    "IconType": "Character",
+    "IconId": 148001,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14800300101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が3%増加する（最大8スタックまで）（解除不可）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName14800300101]",
+    "DescriptionKey": "[EffectGroupDescription14800300101]",
+    "IconType": "Character",
+    "IconId": 148003,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14800320101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14800300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14800320101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が6%増加する（最大8スタックまで）（解除不可）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName14800320101]",
+    "DescriptionKey": "[EffectGroupDescription14800320101]",
+    "IconType": "Character",
+    "IconId": 148003,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14800320101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14800300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14800400101,
+    "IsIgnore": null,
+    "Memo": "スピードが15%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14800400101]",
+    "DescriptionKey": "[EffectGroupDescription14800400101]",
+    "IconType": "Character",
+    "IconId": 148004,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14800430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14800400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 14800420201,
+    "IsIgnore": null,
+    "Memo": "[気絶無効] 気絶が付与されなくなる。",
+    "NameKey": "[EffectGroupName14800420201]",
+    "DescriptionKey": "[EffectGroupDescription14800420201]",
+    "IconType": "Character",
+    "IconId": 148004,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 14800430101,
+    "IsIgnore": null,
+    "Memo": "スピードが30%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14800430101]",
+    "DescriptionKey": "[EffectGroupDescription14800430101]",
+    "IconType": "Character",
+    "IconId": 148004,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 14800430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 14800400101,
+        "OrderNumber": 2
+      }
+    ]
   },
   {
     "Id": 5504600400101,
@@ -56901,6 +57342,20 @@
     "CasterIconType": "Blessing",
     "CasterIconId": 1,
     "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550000000900101,
+    "IsIgnore": null,
+    "Memo": "[悪魔の呪い] 行動不能になり、バフが付与されなくなる（解除不可）。<br>この弱体効果は、Lv240未満のキャラに付与される。",
+    "NameKey": "[EffectGroupName550000000900101]",
+    "DescriptionKey": "[EffectGroupDescription550000000900101]",
+    "IconType": "Character",
+    "IconId": 5500000003,
+    "CasterIconType": "None",
+    "CasterIconId": 0,
+    "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": null
   },
@@ -90295,6 +90750,313 @@
     ]
   },
   {
+    "Id": 550414000100102,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%減少する。",
+    "NameKey": "[EffectGroupName14000100102]",
+    "DescriptionKey": "[EffectGroupDescription14000100102]",
+    "IconType": "Character",
+    "IconId": 140001,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000130102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000120102,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550414000100102,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 550414000120102,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が15%減少する。",
+    "NameKey": "[EffectGroupName14000120102]",
+    "DescriptionKey": "[EffectGroupDescription14000120102]",
+    "IconType": "Character",
+    "IconId": 140001,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000130102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000120102,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550414000100102,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 550414000130102,
+    "IsIgnore": null,
+    "Memo": "弱体効果命中率が30%減少する。",
+    "NameKey": "[EffectGroupName14000130102]",
+    "DescriptionKey": "[EffectGroupDescription14000130102]",
+    "IconType": "Character",
+    "IconId": 140001,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000130102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000120102,
+        "OrderNumber": 2
+      },
+      {
+        "EffectGroupId": 550414000100102,
+        "OrderNumber": 3
+      }
+    ]
+  },
+  {
+    "Id": 550414000300101,
+    "IsIgnore": null,
+    "Memo": "*弱体効果を2つ解除する。",
+    "NameKey": "[EffectGroupName14000300101]",
+    "DescriptionKey": "[EffectGroupDescription14000300101]",
+    "IconType": "Character",
+    "IconId": 140003,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414000300103,
+    "IsIgnore": null,
+    "Memo": "[霊痕]人の手が魂に触れた痕跡。美しい輝きを守ろうとする力を感じる……。",
+    "NameKey": "[EffectGroupName14000300103]",
+    "DescriptionKey": "[EffectGroupDescription14000300103]",
+    "IconType": "Character",
+    "IconId": 140003,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414000320201,
+    "IsIgnore": null,
+    "Memo": "*弱体効果を1つ解除する。",
+    "NameKey": "[EffectGroupName14000320201]",
+    "DescriptionKey": "[EffectGroupDescription14000320201]",
+    "IconType": "Character",
+    "IconId": 140003,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414000400101,
+    "IsIgnore": null,
+    "Memo": "防御力が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000400101]",
+    "DescriptionKey": "[EffectGroupDescription14000400101]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000400102,
+    "IsIgnore": null,
+    "Memo": "魔法防御力が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000400102]",
+    "DescriptionKey": "[EffectGroupDescription14000400102]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000440102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000400102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000400103,
+    "IsIgnore": null,
+    "Memo": "魔法クリダメ緩和が10%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000400103]",
+    "DescriptionKey": "[EffectGroupDescription14000400103]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000440103,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000400103,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000420104,
+    "IsIgnore": null,
+    "Memo": "被ダメージが10%減少する（解除不可）。",
+    "NameKey": "[EffectGroupName14000420104]",
+    "DescriptionKey": "[EffectGroupDescription14000420104]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000430104,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000420104,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000430104,
+    "IsIgnore": null,
+    "Memo": "被ダメージが60%減少する（解除不可）。",
+    "NameKey": "[EffectGroupName14000430104]",
+    "DescriptionKey": "[EffectGroupDescription14000430104]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": true,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000430104,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000420104,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000440101,
+    "IsIgnore": null,
+    "Memo": "防御力が80%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000440101]",
+    "DescriptionKey": "[EffectGroupDescription14000440101]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000440101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000440102,
+    "IsIgnore": null,
+    "Memo": "魔法防御力が40%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000440102]",
+    "DescriptionKey": "[EffectGroupDescription14000440102]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000440102,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000400102,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414000440103,
+    "IsIgnore": null,
+    "Memo": "魔法クリダメ緩和が20%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14000440103]",
+    "DescriptionKey": "[EffectGroupDescription14000440103]",
+    "IconType": "Character",
+    "IconId": 140004,
+    "CasterIconType": "Character",
+    "CasterIconId": 140,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414000440103,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414000400103,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
     "Id": 550414100100102,
     "IsIgnore": null,
     "Memo": "[気絶] 行動不能になる。",
@@ -90459,5 +91221,139 @@
     "IsHide": false,
     "IsTurnHide": true,
     "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414800120201,
+    "IsIgnore": null,
+    "Memo": "被ダメージが10%増加する。",
+    "NameKey": "[EffectGroupName14800120201]",
+    "DescriptionKey": "[EffectGroupDescription14800120201]",
+    "IconType": "Character",
+    "IconId": 148001,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414800140203,
+    "IsIgnore": null,
+    "Memo": "[脱力] バトル中ステータスの攻撃力が{0}%減少する。",
+    "NameKey": "[EffectGroupName14800140203]",
+    "DescriptionKey": "[EffectGroupDescription14800140203]",
+    "IconType": "Character",
+    "IconId": 148001,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414800300101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が3%増加する（最大8スタックまで）（解除不可）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName14800300101]",
+    "DescriptionKey": "[EffectGroupDescription14800300101]",
+    "IconType": "Character",
+    "IconId": 148003,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414800320101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414800300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414800320101,
+    "IsIgnore": null,
+    "Memo": "攻撃力が6%増加する（最大8スタックまで）（解除不可）。現在のスタック数：{stack}",
+    "NameKey": "[EffectGroupName14800320101]",
+    "DescriptionKey": "[EffectGroupDescription14800320101]",
+    "IconType": "Character",
+    "IconId": 148003,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": true,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414800320101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414800300101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414800400101,
+    "IsIgnore": null,
+    "Memo": "スピードが15%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14800400101]",
+    "DescriptionKey": "[EffectGroupDescription14800400101]",
+    "IconType": "Character",
+    "IconId": 148004,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414800430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414800400101,
+        "OrderNumber": 2
+      }
+    ]
+  },
+  {
+    "Id": 550414800420201,
+    "IsIgnore": null,
+    "Memo": "[気絶無効] 気絶が付与されなくなる。",
+    "NameKey": "[EffectGroupName14800420201]",
+    "DescriptionKey": "[EffectGroupDescription14800420201]",
+    "IconType": "Character",
+    "IconId": 148004,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": null
+  },
+  {
+    "Id": 550414800430101,
+    "IsIgnore": null,
+    "Memo": "スピードが30%増加する（解除不可）。",
+    "NameKey": "[EffectGroupName14800430101]",
+    "DescriptionKey": "[EffectGroupDescription14800430101]",
+    "IconType": "Character",
+    "IconId": 148004,
+    "CasterIconType": "Character",
+    "CasterIconId": 148,
+    "IsHide": false,
+    "IsTurnHide": false,
+    "EffectGroupInfoList": [
+      {
+        "EffectGroupId": 550414800430101,
+        "OrderNumber": 1
+      },
+      {
+        "EffectGroupId": 550414800400101,
+        "OrderNumber": 2
+      }
+    ]
   }
 ]

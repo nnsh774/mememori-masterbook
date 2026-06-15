@@ -262,6 +262,15 @@
           }
         ],
         "HelpParameterType": "None"
+      },
+      {
+        "HeadLine": "[HelpHeadLine1011]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText1011]"
+          }
+        ],
+        "HelpParameterType": "None"
       }
     ],
     "TutorialDescriptionId": 0,
@@ -275,7 +284,7 @@
   {
     "Id": 1020,
     "IsIgnore": null,
-    "Memo": "プレミアギフト画面(Steam版のみ表示)",
+    "Memo": "プレミアギフト画面(Steam版_JPのみ表示)",
     "HelpTitle": "[HelpTitleKey]",
     "HelpPartInfoList": [
       {
@@ -286,6 +295,15 @@
           }
         ],
         "HelpParameterType": "None"
+      },
+      {
+        "HeadLine": "[HelpHeadLine1021]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText1021]"
+          }
+        ],
+        "HelpParameterType": "None"
       }
     ],
     "TutorialDescriptionId": 0,
@@ -293,6 +311,55 @@
     "IsDisplayed": true,
     "DisplayDeviceTypes": [
       6
+    ]
+  },
+  {
+    "Id": 1021,
+    "IsIgnore": null,
+    "Memo": "プレミアギフト画面(Steam版_海外表示)",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine1022]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText1022]"
+          }
+        ],
+        "HelpParameterType": "None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "DialogType": 1,
+    "IsDisplayed": true,
+    "DisplayDeviceTypes": [
+      6
+    ]
+  },
+  {
+    "Id": 1030,
+    "IsIgnore": null,
+    "Memo": "プレミアギフト画面（その他_JPのみ）",
+    "HelpTitle": "[HelpTitleKey]",
+    "HelpPartInfoList": [
+      {
+        "HeadLine": "[HelpHeadLine1030]",
+        "MainTextList": [
+          {
+            "MainText": "[HelpMainText1030]"
+          }
+        ],
+        "HelpParameterType": "None"
+      }
+    ],
+    "TutorialDescriptionId": 0,
+    "DialogType": 1,
+    "IsDisplayed": true,
+    "DisplayDeviceTypes": [
+      1,
+      2,
+      3,
+      5
     ]
   },
   {
@@ -902,6 +969,9 @@
           },
           {
             "MainText": "[HelpMainText_Skill_SilenceImmunity​]"
+          },
+          {
+            "MainText": "[HelpMainText_Skill_FaintedImmunity​]"
           },
           {
             "MainText": "[HelpMainText_Skill_Taunt]"

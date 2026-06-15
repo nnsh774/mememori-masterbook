@@ -1246,5 +1246,18 @@
     "StartTimeFixJST": "2026-05-14 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 96,
+    "IsIgnore": null,
+    "Memo": "アカマルの反魂(グィネヴィア,?)",
+    "NameKey": "[CharacterCollectionName96]",
+    "RequiredCharacterIds": [
+      148,
+      0
+    ],
+    "StartTimeFixJST": "2026-06-15 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]
