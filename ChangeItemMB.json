@@ -11934,5 +11934,37 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 763,
+    "IsIgnore": null,
+    "Memo": "エレインのアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 43,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 764,
+    "IsIgnore": null,
+    "Memo": "エレインガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1400,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
   }
 ]
