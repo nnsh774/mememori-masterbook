@@ -14653,5 +14653,138 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 685,
+    "IsIgnore": null,
+    "Memo": "エレインSSR180",
+    "CharacterId": 140,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 686,
+    "IsIgnore": null,
+    "Memo": "エレインSSR200",
+    "CharacterId": 140,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2300.000000
+      }
+    ]
+  },
+  {
+    "Id": 687,
+    "IsIgnore": null,
+    "Memo": "エレインSSR220",
+    "CharacterId": 140,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2600.000000
+      }
+    ]
+  },
+  {
+    "Id": 688,
+    "IsIgnore": null,
+    "Memo": "エレインSSR240",
+    "CharacterId": 140,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 2900.000000
+      }
+    ]
+  },
+  {
+    "Id": 689,
+    "IsIgnore": null,
+    "Memo": "エレインUR",
+    "CharacterId": 140,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3200.000000
+      }
+    ]
+  },
+  {
+    "Id": 690,
+    "IsIgnore": null,
+    "Memo": "エレインLR",
+    "CharacterId": 140,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Health",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "MagicCriticalDamageRelax",
+        "ChangeParameterType": "Addition",
+        "Value": 3500.000000
+      }
+    ]
   }
 ]

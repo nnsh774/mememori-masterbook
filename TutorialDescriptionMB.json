@@ -918,5 +918,29 @@
       "ItemType": "TreasureChest"
     },
     "ImageCharacterId": 139
+  },
+  {
+    "Id": 4002,
+    "IsIgnore": null,
+    "Memo": "ギルドレイド_イベント_エレイン",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText39]",
+        "ImageId": 39
+      }
+    ],
+    "HelpId": 5010,
+    "ImagePositionFormatType": "GuildRaidEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 43,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 1400,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 140
   }
 ]

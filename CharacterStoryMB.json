@@ -15588,6 +15588,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 958,
+    "IsIgnore": null,
+    "Memo": "エレイン1",
+    "CharacterId": 140,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14001]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 959,
+    "IsIgnore": null,
+    "Memo": "エレイン2",
+    "CharacterId": 140,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14002]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 960,
+    "IsIgnore": null,
+    "Memo": "エレイン3",
+    "CharacterId": 140,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14003]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 961,
+    "IsIgnore": null,
+    "Memo": "エレイン4",
+    "CharacterId": 140,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14004]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 962,
+    "IsIgnore": null,
+    "Memo": "エレイン5",
+    "CharacterId": 140,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14005]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 963,
+    "IsIgnore": null,
+    "Memo": "エレイン6",
+    "CharacterId": 140,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14006]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 964,
+    "IsIgnore": null,
+    "Memo": "エレイン7",
+    "CharacterId": 140,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14007]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 965,
     "IsIgnore": null,
     "Memo": "リリー1",
