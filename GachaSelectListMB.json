@@ -7334,7 +7334,7 @@
   {
     "Id": 193,
     "IsIgnore": null,
-    "Memo": "エレイン+エヴリン+仮",
+    "Memo": "エレイン+エヴリン+夏ニーナ",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-07-07 14:30:00",
@@ -7343,6 +7343,7 @@
     "CharacterIdList": [
       140,
       101,
+      95,
       5,
       6,
       7,
@@ -7368,7 +7369,46 @@
     ],
     "NewCharacterIdList": [
       140,
-      101
+      101,
+      95
+    ]
+  },
+  {
+    "Id": 194,
+    "IsIgnore": null,
+    "Memo": "夏ニーナ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-07-15 16:30:00",
+    "EndTimeFixJST": "2026-07-23 14:29:59",
+    "OrderNumber": 194,
+    "CharacterIdList": [
+      95,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      95
     ]
   },
   {
