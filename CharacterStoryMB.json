@@ -15964,5 +15964,131 @@
     ],
     "TextKey": "[CharacterStoryText14807]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 1021,
+    "IsIgnore": null,
+    "Memo": "夏プリマ1",
+    "CharacterId": 149,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14901]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1022,
+    "IsIgnore": null,
+    "Memo": "夏プリマ2",
+    "CharacterId": 149,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14902]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1023,
+    "IsIgnore": null,
+    "Memo": "夏プリマ3",
+    "CharacterId": 149,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14903]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1024,
+    "IsIgnore": null,
+    "Memo": "夏プリマ4",
+    "CharacterId": 149,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14904]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1025,
+    "IsIgnore": null,
+    "Memo": "夏プリマ5",
+    "CharacterId": 149,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14905]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1026,
+    "IsIgnore": null,
+    "Memo": "夏プリマ6",
+    "CharacterId": 149,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14906]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1027,
+    "IsIgnore": null,
+    "Memo": "夏プリマ7",
+    "CharacterId": 149,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText14907]",
+    "RarityFlags": 512
   }
 ]
