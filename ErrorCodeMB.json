@@ -3344,8 +3344,8 @@
   {
     "Id": 262039,
     "IsIgnore": null,
-    "Memo": null,
-    "ErrorMessageType": "DialogWithError"
+    "Memo": "注文がキャンセルされました。",
+    "ErrorMessageType": "Dialog"
   },
   {
     "Id": 262040,
@@ -4035,6 +4035,24 @@
     "Id": 352026,
     "IsIgnore": null,
     "Memo": null,
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 352031,
+    "IsIgnore": null,
+    "Memo": "不正なリクエストです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 352032,
+    "IsIgnore": null,
+    "Memo": "開催期間外です",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 352033,
+    "IsIgnore": null,
+    "Memo": "開催期間外です",
     "ErrorMessageType": "DialogWithError"
   },
   {
@@ -4863,6 +4881,30 @@
     "Id": 471033,
     "IsIgnore": null,
     "Memo": "選択対象外のキャラです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 471034,
+    "IsIgnore": null,
+    "Memo": "選択中のボックスがありません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 471035,
+    "IsIgnore": null,
+    "Memo": "無効なボックスです",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 471036,
+    "IsIgnore": null,
+    "Memo": "ボックスを選択できません",
+    "ErrorMessageType": "DialogWithError"
+  },
+  {
+    "Id": 471037,
+    "IsIgnore": null,
+    "Memo": "開催中のラッキーチャンスガチャのユーザーデータがありません",
     "ErrorMessageType": "DialogWithError"
   },
   {

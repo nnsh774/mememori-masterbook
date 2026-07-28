@@ -64746,5 +64746,1127 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 2245,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_1日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1459]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1530,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 64
+      }
+    ]
+  },
+  {
+    "Id": 2246,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_2日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1460]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2247,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_3日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1461]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2248,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_4日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1462]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2249,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_5日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1463]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2250,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_6日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1464]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2251,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_7日ログインする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1465]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2252,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_ギルドレイドに5回挑戦する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1469]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2253,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_ギルドレイドに10回挑戦する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1470]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2254,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_ギルドレイドに20回挑戦する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1471]",
+    "DescriptionKey": "[OpenContentToast46]",
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2255,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_祈りの泉で10回遠征する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1475]",
+    "DescriptionKey": "[OpenContentToast10]",
+    "TransitionDestination": "BountyQuestSolo",
+    "AchievementType": "BountyQuestAllStartQuestCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2256,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_祈りの泉で20回遠征する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1476]",
+    "DescriptionKey": "[OpenContentToast10]",
+    "TransitionDestination": "BountyQuestSolo",
+    "AchievementType": "BountyQuestAllStartQuestCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2257,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_祈りの泉で30回遠征する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1477]",
+    "DescriptionKey": "[OpenContentToast10]",
+    "TransitionDestination": "BountyQuestSolo",
+    "AchievementType": "BountyQuestAllStartQuestCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 7,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2258,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_時空の洞窟３層目のボスに１回勝利する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1472]",
+    "DescriptionKey": "[OpenContentToast4]",
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2259,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_時空の洞窟３層目のボスに２回勝利する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1473]",
+    "DescriptionKey": "[OpenContentToast4]",
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 2,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2260,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_時空の洞窟３層目のボスに4回勝利する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1474]",
+    "DescriptionKey": "[OpenContentToast4]",
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClearThirdFloorCount",
+    "RequireValue": 4,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2261,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_高速バトルを3回行う",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1466]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2262,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_高速バトルを5回行う",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1467]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 15,
+          "ItemId": 1,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2263,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_高速バトルを10回行う",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1468]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 2,
+          "ItemType": "TreasureChestKey"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2264,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_武具の強化レベルを50にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1478]",
+    "DescriptionKey": "[OpenContentToast31]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 50,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2265,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_武具の強化レベルを70にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1479]",
+    "DescriptionKey": "[OpenContentToast31]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 70,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2266,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_武具の強化レベルを100にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1480]",
+    "DescriptionKey": "[OpenContentToast31]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 100,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2267,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_幻影の神殿を6回クリアする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1842]",
+    "DescriptionKey": "[OpenContentToast12]",
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 6,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2268,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_幻影の神殿を15回クリアする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1843]",
+    "DescriptionKey": "[OpenContentToast12]",
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 15,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 5,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2269,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_幻影の神殿を30回クリアする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1844]",
+    "DescriptionKey": "[OpenContentToast12]",
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictoryCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 7,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2270,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_武具の魔装レベルを3にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1481]",
+    "DescriptionKey": "[OpenContentToast32]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 3,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2271,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_武具の魔装レベルを5にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1482]",
+    "DescriptionKey": "[OpenContentToast32]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2272,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_武具の魔装レベルを10にする",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1483]",
+    "DescriptionKey": "[OpenContentToast32]",
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterMatchlessSacredTreasureMaxLevel",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2273,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_貢献メダルを200個獲得する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1487]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtCollabMission",
+    "RequireValue": 200,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2274,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_貢献メダルを500個獲得する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1488]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtCollabMission",
+    "RequireValue": 500,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2275,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_貢献メダルを1000個獲得する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1489]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtCollabMission",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 2,
+          "ItemId": 12,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2276,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_動画を1回再生する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName2276]",
+    "DescriptionKey": null,
+    "TransitionDestination": "PlayVideo",
+    "AchievementType": "PlayVideoCount",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 18,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1530,
+          "ItemType": "GachaTicket"
+        },
+        "RarityFlags": 64
+      }
+    ]
+  },
+  {
+    "Id": 2277,
+    "IsIgnore": null,
+    "Memo": "にじさんじLC_指定楽曲を解放する",
+    "MissionType": "Collab",
+    "OpeningPeriod": 0,
+    "NameKey": "[CollabMissionName1491]",
+    "DescriptionKey": "[OpenContentToast180]",
+    "TransitionDestination": "MusicPlayer",
+    "AchievementType": "BuyMusic",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 15,
+    "SortOrderB": 15,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 8,
+          "ItemType": "ActivityMedal"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "MusicTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]

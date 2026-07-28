@@ -733,9 +733,9 @@
     "IsIgnore": null,
     "Memo": "夏ニーナ",
     "CharacterId": 95,
-    "IsPickup": true,
-    "StartTimeFixJST": "2026-07-07 14:30:00",
-    "EndTimeFixJST": "2026-07-23 14:29:59"
+    "IsPickup": false,
+    "StartTimeFixJST": "2100-12-31 23:59:59",
+    "EndTimeFixJST": "2100-12-31 23:59:59"
   },
   {
     "Id": 83,
@@ -931,9 +931,9 @@
     "IsIgnore": null,
     "Memo": "フラック",
     "CharacterId": 122,
-    "IsPickup": false,
-    "StartTimeFixJST": "2100-12-31 23:59:59",
-    "EndTimeFixJST": "2100-12-31 23:59:59"
+    "IsPickup": true,
+    "StartTimeFixJST": "2026-07-28 14:30:00",
+    "EndTimeFixJST": "2026-08-13 14:29:59"
   },
   {
     "Id": 105,
@@ -1168,5 +1168,14 @@
     "IsPickup": true,
     "StartTimeFixJST": "2026-07-15 14:30:00",
     "EndTimeFixJST": "2026-07-28 14:29:59"
+  },
+  {
+    "Id": 131,
+    "IsIgnore": null,
+    "Memo": "シロ",
+    "CharacterId": 153,
+    "IsPickup": true,
+    "StartTimeFixJST": "2026-07-28 14:30:00",
+    "EndTimeFixJST": "2026-08-24 14:29:59"
   }
 ]

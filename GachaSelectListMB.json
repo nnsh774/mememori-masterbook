@@ -7460,14 +7460,16 @@
   {
     "Id": 196,
     "IsIgnore": null,
-    "Memo": "ネブラ+仮",
+    "Memo": "シロ+ネブラ+フラック",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2026-07-28 16:30:00",
+    "StartTimeFixJST": "2026-07-28 14:30:00",
     "EndTimeFixJST": "2026-08-06 14:29:59",
     "OrderNumber": 196,
     "CharacterIdList": [
+      153,
       87,
+      122,
       5,
       6,
       7,
@@ -7492,7 +7494,87 @@
       46
     ],
     "NewCharacterIdList": [
-      87
+      153,
+      87,
+      122
+    ]
+  },
+  {
+    "Id": 197,
+    "IsIgnore": null,
+    "Memo": "シロ+フラック+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-08-06 14:30:00",
+    "EndTimeFixJST": "2026-08-13 14:29:59",
+    "OrderNumber": 197,
+    "CharacterIdList": [
+      153,
+      122,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      153,
+      122
+    ]
+  },
+  {
+    "Id": 198,
+    "IsIgnore": null,
+    "Memo": "シロ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-08-13 16:30:00",
+    "EndTimeFixJST": "2026-08-24 14:29:59",
+    "OrderNumber": 198,
+    "CharacterIdList": [
+      153,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      153
     ]
   },
   {

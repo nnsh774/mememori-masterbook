@@ -11982,5 +11982,133 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 766,
+    "IsIgnore": null,
+    "Memo": "シロガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1530,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
+  },
+  {
+    "Id": 767,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンス_コラボアクリルアートパネル",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 35,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 768,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンス_コラボアクリルキーホルダー",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 36,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 769,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンス_コラボメモ帳",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 37,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 770,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンス_とけねこ笑顔ぬいぐるみ",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 38,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 771,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンス_アクリルキーホルダー(アイリス)",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 39,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 772,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンス_アクリルキーホルダー（イリア）",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 40,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 773,
+    "IsIgnore": null,
+    "Memo": "にじさんじラッキーチャンスガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "LuckyChanceGachaTicket",
+    "ItemId": 3,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]

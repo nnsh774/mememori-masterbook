@@ -16090,5 +16090,131 @@
     ],
     "TextKey": "[CharacterStoryText14907]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 1049,
+    "IsIgnore": null,
+    "Memo": "シロ1",
+    "CharacterId": 153,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15301]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1050,
+    "IsIgnore": null,
+    "Memo": "シロ2",
+    "CharacterId": 153,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15302]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1051,
+    "IsIgnore": null,
+    "Memo": "シロ3",
+    "CharacterId": 153,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15303]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1052,
+    "IsIgnore": null,
+    "Memo": "シロ4",
+    "CharacterId": 153,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15304]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1053,
+    "IsIgnore": null,
+    "Memo": "シロ5",
+    "CharacterId": 153,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15305]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1054,
+    "IsIgnore": null,
+    "Memo": "シロ6",
+    "CharacterId": 153,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15306]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1055,
+    "IsIgnore": null,
+    "Memo": "シロ7",
+    "CharacterId": 153,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15307]",
+    "RarityFlags": 512
   }
 ]

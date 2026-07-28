@@ -800,30 +800,6 @@
     "ImageCharacterId": 0
   },
   {
-    "Id": 2012,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_エヴリン",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 38,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 28,
-      "ItemType": "TreasureChest"
-    },
-    "ImageCharacterId": 101
-  },
-  {
     "Id": 2013,
     "IsIgnore": null,
     "Memo": "神殿_イベント_リリー",
@@ -846,6 +822,30 @@
       "ItemType": "GachaTicket"
     },
     "ImageCharacterId": 141
+  },
+  {
+    "Id": 2014,
+    "IsIgnore": null,
+    "Memo": "神殿_イベント_シロ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText37]",
+        "ImageId": 37
+      }
+    ],
+    "HelpId": 4210,
+    "ImagePositionFormatType": "LocalRaidEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 44,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 28,
+      "ItemType": "TreasureChest"
+    },
+    "ImageCharacterId": 153
   },
   {
     "Id": 3012,

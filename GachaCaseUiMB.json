@@ -19950,6 +19950,170 @@
     "CeilingCountFormatKey": null
   },
   {
+    "Id": 248,
+    "IsIgnore": null,
+    "Memo": "シロキャラガチャ 07/28 16:30 ~ 08/24 14:29",
+    "BannerKey": "[GachaBanner50]",
+    "NameKey": "[GachaName50]",
+    "ExplanationKey": "[GachaExplanationNormal]",
+    "PickUpCharacterId": 153,
+    "TitleColorType": "Yellow",
+    "GachaButtonMessageKey": null,
+    "HeaderItem1": {
+      "ItemCount": 1,
+      "ItemId": 1,
+      "ItemType": "CurrencyFree"
+    },
+    "HeaderItem2": {
+      "ItemCount": 1,
+      "ItemId": 1530,
+      "ItemType": "GachaTicket"
+    },
+    "HeaderItem3": null,
+    "IsLotteryViewShowBonusItem": true,
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 24,
+        "BannerLetterSpacing": -4.000000,
+        "BannerLineSpacing": 0.500000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -46.000000,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": -0.500000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39.000000,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.900000,
+        "BannerOutlineColor": "#4D3E13FF",
+        "BannerPositionX": -51.000000,
+        "BannerPositionY": 6.000000,
+        "TitleFontSize": 45
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -52.799999,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 1.000000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -51.000000,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      }
+    },
+    "BannerImageNumber": 112,
+    "TimeFormatKey": "[GachaTimeFormat50]",
+    "EquipmentPictureBookTabIndex": 0,
+    "GachaBonusGaugeType": "SingleReset",
+    "DetailDialogHeadingKey": "[GachaDetailDialogHeadingNewTicket]",
+    "DetailDialogDetailKey": "[GachaDetailDialogDetailNewTicket]",
+    "DetailDialogNotesKey": "[GachaDetailDialogNotesNewTicket]",
+    "AddRewardItems": null,
+    "CeilingCountFormatKey": null
+  },
+  {
+    "Id": 249,
+    "IsIgnore": null,
+    "Memo": "フラック復刻キャラガチャ 07/28 16:30 ~ 08/13 14:29",
+    "BannerKey": "[GachaBanner50]",
+    "NameKey": "[GachaName50]",
+    "ExplanationKey": "[GachaExplanationNormal]",
+    "PickUpCharacterId": 122,
+    "TitleColorType": "Yellow",
+    "GachaButtonMessageKey": null,
+    "HeaderItem1": {
+      "ItemCount": 1,
+      "ItemId": 1,
+      "ItemType": "CurrencyFree"
+    },
+    "HeaderItem2": null,
+    "HeaderItem3": null,
+    "IsLotteryViewShowBonusItem": true,
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 24,
+        "BannerLetterSpacing": -4.000000,
+        "BannerLineSpacing": 0.500000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -46.000000,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 22,
+        "BannerLetterSpacing": -0.500000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -39.000000,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.900000,
+        "BannerOutlineColor": "#4D3E13FF",
+        "BannerPositionX": -51.000000,
+        "BannerPositionY": 6.000000,
+        "TitleFontSize": 45
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -52.799999,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 26,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 1.000000,
+        "BannerOutlineColor": "#635735FF",
+        "BannerPositionX": -51.000000,
+        "BannerPositionY": 0.000000,
+        "TitleFontSize": 45
+      }
+    },
+    "BannerImageNumber": 82,
+    "TimeFormatKey": "[GachaTimeFormat50]",
+    "EquipmentPictureBookTabIndex": 0,
+    "GachaBonusGaugeType": "SingleReset",
+    "DetailDialogHeadingKey": "[GachaDetailDialogHeadingReturn]",
+    "DetailDialogDetailKey": "[GachaDetailDialogDetailReturn]",
+    "DetailDialogNotesKey": "[GachaDetailDialogNotesReturn]",
+    "AddRewardItems": null,
+    "CeilingCountFormatKey": null
+  },
+  {
     "Id": 10000,
     "IsIgnore": null,
     "Memo": "星の導きガチャ",
