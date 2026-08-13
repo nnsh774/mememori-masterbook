@@ -15048,5 +15048,138 @@
         "Value": 500.000000
       }
     ]
+  },
+  {
+    "Id": 703,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンスSSR180",
+    "CharacterId": 150,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 704,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンスSSR200",
+    "CharacterId": 150,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ]
+  },
+  {
+    "Id": 705,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンスSSR220",
+    "CharacterId": 150,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 650.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 706,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンスSSR240",
+    "CharacterId": 150,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 707,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンスUR",
+    "CharacterId": 150,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 750.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 708,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンスLR",
+    "CharacterId": 150,
+    "BaseParameterChangeInfoList": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ],
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "Critical",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
   }
 ]

@@ -64748,6 +64748,626 @@
     ]
   },
   {
+    "Id": 2227,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_5日ログイン",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1167]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 2,
+    "SortOrderB": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1001,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2228,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_洞窟でウォーリア3人以上で７回勝利",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1504]",
+    "DescriptionKey": null,
+    "TransitionDestination": "DungeonBattle",
+    "AchievementType": "DungeonBattleClear3UnitWarriorType",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 3,
+    "SortOrderB": 3,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1012,
+          "ItemType": "ChatEmoticon"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2229,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_貢献メダル300枚",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1166]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 300,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 4,
+    "SortOrderB": 4,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1003,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2230,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_ギルドレイド5回",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1169]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 5,
+    "SortOrderB": 5,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1004,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2231,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_１日ログイン",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1165]",
+    "DescriptionKey": "",
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 1,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1005,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "EquipmentReinforcementItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2232,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_高速バトルを5回",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1168]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 6,
+    "SortOrderB": 6,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 100,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2233,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_フレンドポイントを30回送る",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1171]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Friend",
+    "AchievementType": "FriendSendFriendPointCount",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 7,
+    "SortOrderB": 7,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1007,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "FriendPoint"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2234,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_武具の強化レベルを30にする",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1317]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterAllEquipmentReinforceMaxLevel",
+    "RequireValue": 30,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 8,
+    "SortOrderB": 8,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1008,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2235,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート1_期間中キャラガチャを5回引く",
+    "MissionType": "PanelSheet1",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1173]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 5,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 9,
+    "SortOrderB": 9,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 1009,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 28,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2236,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル600枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1174]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 600,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 10,
+    "SortOrderB": 10,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2001,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2237,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神殿で天または冥属性１人以上で10回勝利",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1179]",
+    "DescriptionKey": null,
+    "TransitionDestination": "LocalRaid",
+    "AchievementType": "LocalRaidVictory1UnitLightAndDarkType",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 11,
+    "SortOrderB": 11,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2002,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 30,
+          "ItemId": 4,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2238,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_期間中キャラガチャ20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1182]",
+    "DescriptionKey": null,
+    "TransitionDestination": "Gacha",
+    "AchievementType": "GachaDrawCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 12,
+    "SortOrderB": 12,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2003,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 20,
+          "ItemId": 28,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2239,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_高速バトル10回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1177]",
+    "DescriptionKey": null,
+    "TransitionDestination": "AutoBattleQuick",
+    "AchievementType": "AutoBattleQuickCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 13,
+    "SortOrderB": 13,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2004,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 40,
+          "ItemId": 27,
+          "ItemType": "TreasureChest"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2240,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ギルドレイドを20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1178]",
+    "DescriptionKey": null,
+    "TransitionDestination": "GuildRaid",
+    "AchievementType": "GuildGuildRaidChallengeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 14,
+    "SortOrderB": 14,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2005,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 200,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2241,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_7日ログイン",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1175]",
+    "DescriptionKey": null,
+    "TransitionDestination": "None",
+    "AchievementType": "Login",
+    "RequireValue": 7,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 15,
+    "SortOrderB": 15,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2006,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2242,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_神装強化10回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1180]",
+    "DescriptionKey": null,
+    "TransitionDestination": "CharacterList",
+    "AchievementType": "CharacterEquipmentMergeCount",
+    "RequireValue": 10,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 16,
+    "SortOrderB": 16,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2007,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "BossChallengeTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2243,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_ルーン合成20回",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1181]",
+    "DescriptionKey": null,
+    "TransitionDestination": "ItemBoxSphere",
+    "AchievementType": "EquipmentSphereComposeCount",
+    "RequireValue": 20,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 17,
+    "SortOrderB": 17,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2008,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 3,
+          "ItemId": 1,
+          "ItemType": "TowerBattleTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2244,
+    "IsIgnore": null,
+    "Memo": "パネル(汎用2枚版)_シート2_貢献メダル1000枚",
+    "MissionType": "PanelSheet2",
+    "OpeningPeriod": 0,
+    "NameKey": "[PanelMissionName1176]",
+    "DescriptionKey": null,
+    "TransitionDestination": "MissionDaily",
+    "AchievementType": "MissionTotalActivityAtPanelMission",
+    "RequireValue": 1000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 18,
+    "SortOrderB": 18,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 2009,
+          "ItemType": "UnlockPanelGridItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 1,
+          "ItemId": 13,
+          "ItemType": "QuestQuickTicket"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
     "Id": 2245,
     "IsIgnore": null,
     "Memo": "にじさんじLC_1日ログインする",

@@ -16092,6 +16092,132 @@
     "RarityFlags": 512
   },
   {
+    "Id": 1028,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス1",
+    "CharacterId": 150,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15001]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1029,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス2",
+    "CharacterId": 150,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15002]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1030,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス3",
+    "CharacterId": 150,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15003]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1031,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス4",
+    "CharacterId": 150,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15004]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1032,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス5",
+    "CharacterId": 150,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15005]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1033,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス6",
+    "CharacterId": 150,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15006]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1034,
+    "IsIgnore": null,
+    "Memo": "黄昏フローレンス7",
+    "CharacterId": 150,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15007]",
+    "RarityFlags": 512
+  },
+  {
     "Id": 1049,
     "IsIgnore": null,
     "Memo": "シロ1",

@@ -306,5 +306,27 @@
     "CharacterImageX": 10.000000,
     "CharacterImageY": 0.000000,
     "CharacterImageSize": 665.599976
+  },
+  {
+    "Id": 15,
+    "IsIgnore": null,
+    "Memo": "2026_フローレンス（黄昏）登場記念ログインボーナス",
+    "StartTime": "2026-08-13 04:00:00",
+    "EndTime": "2026-09-14 03:59:59",
+    "DelayDays": 14,
+    "RewardListId": 15,
+    "CharacterImageId": 150,
+    "RewardBackgroundImageId": 13,
+    "SpecialRewardBackgroundImageId": 13,
+    "TitleTextKey": "[LimitedLoginBonusTitle]",
+    "AppealTextKey": "[LimitedLoginBonusAppeal1]",
+    "SpecialRewardAppealTextKey": "[LimitedLoginBonusSpecialRewardAppeal4]",
+    "SpecialRewardLabelTextColor": "#473D3BFF",
+    "SpecialRewardLabelTextOutlineColor": "#FFFFFFFF",
+    "SpecialRewardCountTextColor": "#473D3BFF",
+    "MypageIconDisplayLocationType": "EventPortalOnly",
+    "CharacterImageX": 10.000000,
+    "CharacterImageY": 0.000000,
+    "CharacterImageSize": 665.599976
   }
 ]

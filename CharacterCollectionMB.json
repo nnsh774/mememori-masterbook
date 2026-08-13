@@ -1286,5 +1286,18 @@
     "StartTimeFixJST": "2026-07-28 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 99,
+    "IsIgnore": null,
+    "Memo": "クルクスの天誓(黄昏フローレンス,?)",
+    "NameKey": "[CharacterCollectionName99]",
+    "RequiredCharacterIds": [
+      150,
+      0
+    ],
+    "StartTimeFixJST": "2026-08-13 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]
