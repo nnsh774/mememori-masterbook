@@ -18491,6 +18491,148 @@
     "RootActiveSkillId": 150102
   },
   {
+    "Id": 151001,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナSR:Lv1 「どうか、かの者をお守りください……！」3ターンの間自身と、自身よりもスピードが高い味方全体の防御力を自身の防御力×25%増加させる（解除不可）。その後ランダムな敵5体に攻撃力×240%の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に、3ターンの間自身と自身以外のスピードが自身よりも高い味方全体の物理防御力を自身の物理防御力×25%、魔法防御力を自身の魔法防御力×25%増加させる（解除不可）。/ Lv3 物理攻撃のダメージが攻撃力×480%になる。/ Ex1 光剣の祈りを強化する。防御力の増加量が自身の防御力×50%、物理防御力の増加量が自身の物理防御力×50%、魔法防御力の増加量が自身の魔法防御力×50%になる。",
+    "NameKey": "[ActiveSkillName151001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": "[ActiveSkillDescription1510011]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          151001001,
+          151001002,
+          151001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": "[ActiveSkillDescription1510012]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          151001201,
+          151001202,
+          151001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1510013]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          151001201,
+          151001202,
+          151001303
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": "[ActiveSkillDescription1510014]",
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          151001401,
+          151001402,
+          151001303
+        ]
+      }
+    ],
+    "RootActiveSkillId": 151001
+  },
+  {
+    "Id": 151002,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナSR:Lv1 「全ては神のご意思のままに……」業を背負いし罪人に、神の裁きが下る。ランダムな敵に3回攻撃力×410%の物理攻撃を行う。/ Lv2 さらに最後の物理攻撃の後、自身のHPをこのスキルの総与ダメージ×20%回復する。/ Lv3 物理攻撃の回数が5回になる。/ Lv4 物理攻撃のダメージが攻撃力×560%になる。/ Ex2 天秤の采配を強化する。物理攻撃のダメージが攻撃力×610%になる。/ Ex3 天秤の采配を強化する。物理攻撃のダメージが攻撃力×610%になる。",
+    "NameKey": "[ActiveSkillName151002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": "[ActiveSkillDescription1510021]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          151002001,
+          151002002,
+          151002002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": "[ActiveSkillDescription1510022]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          151002001,
+          151002002,
+          151002002,
+          151002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": "[ActiveSkillDescription1510023]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          151002301,
+          151002302,
+          151002302,
+          151002302,
+          151002302,
+          151002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": "[ActiveSkillDescription1510024]",
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          151002401,
+          151002402,
+          151002402,
+          151002402,
+          151002402,
+          151002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": "[ActiveSkillDescription1510025]",
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          151002501,
+          151002502,
+          151002502,
+          151002502,
+          151002502,
+          151002203
+        ]
+      }
+    ],
+    "RootActiveSkillId": 151002
+  },
+  {
     "Id": 153001,
     "IsIgnore": null,
     "Memo": "シロSR:Lv1 「お手伝いならシロに任せて♪」ランダムな敵3体に攻撃力×240%の物理攻撃を行う。/ Lv2 さらに物理攻撃の前に4ターンの間攻撃力が高い味方2体のクリティカル率とクリダメ強化をそれぞれ15%増加させる。オートバトル・ボスバトルで発動した場合、もしくは9ターン目以降に発動した場合、クリティカル率とクリダメ強化の増加量がそれぞれ30%になる。/ Lv3 物理攻撃のダメージが攻撃力×530%になる。/ Ex1 お手伝いするねっ！を強化する。お手伝いするねっ！の対象がランダムな敵5体になる。/ Ex3 お手伝いするねっ！を強化する。物理攻撃のダメージが攻撃力×580%になる。",
@@ -52322,6 +52464,148 @@
       }
     ],
     "RootActiveSkillId": 150102
+  },
+  {
+    "Id": 5504151001,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[ActiveSkillName151001]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 1,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504151001001,
+          5504151001002,
+          5504151001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 81,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504151001201,
+          5504151001202,
+          5504151001003
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504151001201,
+          5504151001202,
+          5504151001303
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 161,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 128,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504151001401,
+          5504151001402,
+          5504151001303
+        ]
+      }
+    ],
+    "RootActiveSkillId": 151001
+  },
+  {
+    "Id": 5504151002,
+    "IsIgnore": null,
+    "Memo": null,
+    "NameKey": "[ActiveSkillName151002]",
+    "SkillInitCoolTime": 0,
+    "SkillMaxCoolTime": 4,
+    "ActiveSkillConditions": "True",
+    "ActiveSkillInfos": [
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 11,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 1,
+        "SubSetSkillIds": [
+          5504151002001,
+          5504151002002,
+          5504151002002
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 21,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 2,
+        "SubSetSkillIds": [
+          5504151002001,
+          5504151002002,
+          5504151002002,
+          5504151002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 101,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 3,
+        "SubSetSkillIds": [
+          5504151002301,
+          5504151002302,
+          5504151002302,
+          5504151002302,
+          5504151002302,
+          5504151002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 181,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 0,
+        "OrderNumber": 4,
+        "SubSetSkillIds": [
+          5504151002401,
+          5504151002402,
+          5504151002402,
+          5504151002402,
+          5504151002402,
+          5504151002203
+        ]
+      },
+      {
+        "BlessingItemId": 0,
+        "CharacterLevel": 240,
+        "DescriptionKey": null,
+        "EquipmentRarityFlags": 512,
+        "OrderNumber": 5,
+        "SubSetSkillIds": [
+          5504151002501,
+          5504151002502,
+          5504151002502,
+          5504151002502,
+          5504151002502,
+          5504151002203
+        ]
+      }
+    ],
+    "RootActiveSkillId": 151002
   },
   {
     "Id": 5504153001,

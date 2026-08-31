@@ -15181,5 +15181,134 @@
         "Value": 1000.000000
       }
     ]
+  },
+  {
+    "Id": 715,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナSSR180",
+    "CharacterId": 151,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 716,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナSSR200",
+    "CharacterId": 151,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 717,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナSSR220",
+    "CharacterId": 151,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 718,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナSSR240",
+    "CharacterId": 151,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1300.000000
+      }
+    ]
+  },
+  {
+    "Id": 719,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナUR",
+    "CharacterId": 151,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2000.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1400.000000
+      }
+    ]
+  },
+  {
+    "Id": 720,
+    "IsIgnore": null,
+    "Memo": "黄昏フォルティナLR",
+    "CharacterId": 151,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "Hp",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 2200.000000
+      },
+      {
+        "BattleParameterType": "HpDrain",
+        "ChangeParameterType": "Addition",
+        "Value": 1500.000000
+      }
+    ]
   }
 ]

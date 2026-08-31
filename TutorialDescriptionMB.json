@@ -896,6 +896,30 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 3014,
+    "IsIgnore": null,
+    "Memo": "時空の洞窟_イベント_黄昏フォルティナ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText36]",
+        "ImageId": 36
+      }
+    ],
+    "HelpId": 4010,
+    "ImagePositionFormatType": "DungeonBattleEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 45,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 1510,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 4001,
     "IsIgnore": null,
     "Memo": "ギルドレイド_イベント",
