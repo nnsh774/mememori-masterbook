@@ -7674,7 +7674,7 @@
   {
     "Id": 201,
     "IsIgnore": null,
-    "Memo": "黄昏フォルティナ+ユルディズ+仮",
+    "Memo": "黄昏フォルティナ+ルミカ+ユルディズ",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-09-08 14:30:00",
@@ -7682,6 +7682,7 @@
     "OrderNumber": 201,
     "CharacterIdList": [
       151,
+      121,
       124,
       5,
       6,
@@ -7708,13 +7709,14 @@
     ],
     "NewCharacterIdList": [
       151,
+      121,
       124
     ]
   },
   {
     "Id": 202,
     "IsIgnore": null,
-    "Memo": "黄昏フォルティナ+仮",
+    "Memo": "黄昏フォルティナ+ルミカ+仮",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-09-15 16:30:00",
@@ -7722,6 +7724,7 @@
     "OrderNumber": 202,
     "CharacterIdList": [
       151,
+      121,
       5,
       6,
       7,
@@ -7746,7 +7749,8 @@
       46
     ],
     "NewCharacterIdList": [
-      151
+      151,
+      121
     ]
   },
   {
