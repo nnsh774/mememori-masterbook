@@ -7716,15 +7716,17 @@
   {
     "Id": 202,
     "IsIgnore": null,
-    "Memo": "黄昏フォルティナ+ルミカ+仮",
+    "Memo": "クーシー+黄昏フォルティナ+ルミカ+コベル",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2026-09-15 16:30:00",
+    "StartTimeFixJST": "2026-09-15 15:00:00",
     "EndTimeFixJST": "2026-09-24 14:29:59",
     "OrderNumber": 202,
     "CharacterIdList": [
+      97,
       151,
       121,
+      103,
       5,
       6,
       7,
@@ -7749,8 +7751,50 @@
       46
     ],
     "NewCharacterIdList": [
+      97,
       151,
-      121
+      121,
+      103
+    ]
+  },
+  {
+    "Id": 203,
+    "IsIgnore": null,
+    "Memo": "クーシー+コベル+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-09-24 14:30:00",
+    "EndTimeFixJST": "2026-09-30 14:29:59",
+    "OrderNumber": 203,
+    "CharacterIdList": [
+      97,
+      103,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      97,
+      103
     ]
   },
   {

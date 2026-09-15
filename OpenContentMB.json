@@ -1392,6 +1392,22 @@
     "TutorialId": 0
   },
   {
+    "Id": 640,
+    "IsIgnore": null,
+    "Memo": "武具強化Lv指定機能",
+    "OpenContentType": "PartyLevel",
+    "GuideStartValue": 0,
+    "OpenContentValue": 500,
+    "DescriptionKey": null,
+    "AssetPath": null,
+    "OpenCommandType": "EquipmentSpecifyReinforceLevel",
+    "IsActiveGuide": false,
+    "GuideOrderNumber": 0,
+    "GuideDescriptionKey": null,
+    "ToastKey": null,
+    "TutorialId": 0
+  },
+  {
     "Id": 1000,
     "IsIgnore": null,
     "Memo": "装備固定",

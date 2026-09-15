@@ -1299,5 +1299,18 @@
     "StartTimeFixJST": "2026-08-13 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 100,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "NameKey": "[CharacterCollectionName100]",
+    "RequiredCharacterIds": [
+      97,
+      103
+    ],
+    "StartTimeFixJST": "2026-09-15 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

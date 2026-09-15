@@ -15183,6 +15183,135 @@
     ]
   },
   {
+    "Id": 709,
+    "IsIgnore": null,
+    "Memo": "クーシーSSR180",
+    "CharacterId": 97,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 710,
+    "IsIgnore": null,
+    "Memo": "クーシーSSR200",
+    "CharacterId": 97,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 300.000000
+      }
+    ]
+  },
+  {
+    "Id": 711,
+    "IsIgnore": null,
+    "Memo": "クーシーSSR220",
+    "CharacterId": 97,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350.000000
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      }
+    ]
+  },
+  {
+    "Id": 712,
+    "IsIgnore": null,
+    "Memo": "クーシーSSR240",
+    "CharacterId": 97,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 400.000000
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      }
+    ]
+  },
+  {
+    "Id": 713,
+    "IsIgnore": null,
+    "Memo": "クーシーUR",
+    "CharacterId": 97,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 450.000000
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      }
+    ]
+  },
+  {
+    "Id": 714,
+    "IsIgnore": null,
+    "Memo": "クーシーLR",
+    "CharacterId": 97,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500.000000
+      },
+      {
+        "BattleParameterType": "CriticalResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      }
+    ]
+  },
+  {
     "Id": 715,
     "IsIgnore": null,
     "Memo": "黄昏フォルティナSSR180",

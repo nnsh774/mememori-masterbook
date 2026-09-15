@@ -19464,5 +19464,207 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10001,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10002,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10003,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10004,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10005,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10006,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 80.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10007,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 85.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10008,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 90.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10009,
+    "IsIgnore": null,
+    "Memo": "トゥカナの飛翔(クーシー,コベル)",
+    "CollectionId": 100,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250.000000
+      },
+      {
+        "BattleParameterType": "Hit",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 95.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]
