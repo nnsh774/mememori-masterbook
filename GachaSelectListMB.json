@@ -7760,7 +7760,7 @@
   {
     "Id": 203,
     "IsIgnore": null,
-    "Memo": "クーシー+コベル+仮",
+    "Memo": "クーシー+レジーナ+コベル",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-09-24 14:30:00",
@@ -7768,6 +7768,7 @@
     "OrderNumber": 203,
     "CharacterIdList": [
       97,
+      137,
       103,
       5,
       6,
@@ -7794,7 +7795,46 @@
     ],
     "NewCharacterIdList": [
       97,
+      137,
       103
+    ]
+  },
+  {
+    "Id": 204,
+    "IsIgnore": null,
+    "Memo": "レジーナ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-09-30 16:30:00",
+    "EndTimeFixJST": "2026-10-08 14:29:59",
+    "OrderNumber": 204,
+    "CharacterIdList": [
+      137,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      137
     ]
   },
   {
@@ -8699,6 +8739,32 @@
       62,
       76,
       66
+    ]
+  },
+  {
+    "Id": 10440,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ ルサールカ・オフィーリア・ステラ・シフォン・フィアー・リシェス",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-09-24 14:30:00",
+    "EndTimeFixJST": "2026-10-15 14:29:59",
+    "OrderNumber": 10440,
+    "CharacterIdList": [
+      44,
+      49,
+      57,
+      54,
+      60,
+      67
+    ],
+    "NewCharacterIdList": [
+      44,
+      49,
+      57,
+      54,
+      60,
+      67
     ]
   },
   {
