@@ -920,30 +920,6 @@
     "ImageCharacterId": 0
   },
   {
-    "Id": 4001,
-    "IsIgnore": null,
-    "Memo": "ギルドレイド_イベント",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText39]",
-        "ImageId": 39
-      }
-    ],
-    "HelpId": 5010,
-    "ImagePositionFormatType": "GuildRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 40,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 28,
-      "ItemType": "TreasureChest"
-    },
-    "ImageCharacterId": 139
-  },
-  {
     "Id": 4002,
     "IsIgnore": null,
     "Memo": "ギルドレイド_イベント_エレイン",
@@ -966,5 +942,29 @@
       "ItemType": "GachaTicket"
     },
     "ImageCharacterId": 140
+  },
+  {
+    "Id": 4003,
+    "IsIgnore": null,
+    "Memo": "ギルドレイド_イベント_聖剣アルトリア",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText39]",
+        "ImageId": 39
+      }
+    ],
+    "HelpId": 5010,
+    "ImagePositionFormatType": "GuildRaidEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 46,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 28,
+      "ItemType": "TreasureChest"
+    },
+    "ImageCharacterId": 154
   }
 ]

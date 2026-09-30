@@ -1312,5 +1312,18 @@
     "StartTimeFixJST": "2026-09-15 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00",
     "RequiredPartyLv": 0
+  },
+  {
+    "Id": 101,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "NameKey": "[CharacterCollectionName101]",
+    "RequiredCharacterIds": [
+      154,
+      0
+    ],
+    "StartTimeFixJST": "2026-09-30 00:00:00",
+    "EndTimeFixJST": "2100-01-01 00:00:00",
+    "RequiredPartyLv": 0
   }
 ]

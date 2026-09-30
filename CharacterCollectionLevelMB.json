@@ -19666,5 +19666,215 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10101,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 100.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10102,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10103,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10104,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 40.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 200.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10105,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 41.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 210.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10106,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 42.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 220.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10107,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 43.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 230.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10108,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 44.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 240.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10109,
+    "IsIgnore": null,
+    "Memo": "リゲルの聖剣(聖剣アルトリア,？)",
+    "CollectionId": 101,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 45.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 250.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

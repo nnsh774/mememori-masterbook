@@ -5225,5 +5225,88 @@
     "OpenCommandType": "ShopEventExchange",
     "StartTime": "2026-08-31 04:00:00",
     "EndTime": "2026-09-13 03:59:59"
+  },
+  {
+    "Id": 65,
+    "IsIgnore": null,
+    "Memo": "20260930聖剣アルトリア_イベント",
+    "IconId": 61,
+    "DecorationId": 5,
+    "DecorationSpecialId": 1,
+    "DecorationColor": "#98c8c1FF",
+    "CustomTextLayout": {
+      "jaJP": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#2c4542FF",
+        "BannerPositionX": -40.000000,
+        "BannerPositionY": -3.000000,
+        "TitleFontSize": 0
+      },
+      "enUS": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#2c4542FF",
+        "BannerPositionX": -40.000000,
+        "BannerPositionY": -3.000000,
+        "TitleFontSize": 0
+      },
+      "koKR": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 1.000000,
+        "BannerOutlineColor": "#2c4542FF",
+        "BannerPositionX": -40.000000,
+        "BannerPositionY": -3.000000,
+        "TitleFontSize": 0
+      },
+      "zhTW": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#2c4542FF",
+        "BannerPositionX": -40.000000,
+        "BannerPositionY": -3.000000,
+        "TitleFontSize": 0
+      },
+      "zhCN": {
+        "BannerAlignment": 4,
+        "BannerFontSize": 23,
+        "BannerLetterSpacing": 0.000000,
+        "BannerLineSpacing": 0.600000,
+        "BannerOutlineColor": "#2c4542FF",
+        "BannerPositionX": -40.000000,
+        "BannerPositionY": -3.000000,
+        "TitleFontSize": 0
+      }
+    },
+    "TabNameKey": "[TradeShopTabName20]",
+    "SortOrder": 11,
+    "IsHide": false,
+    "IsHideNotOpen": false,
+    "TradeShopType": "Fix",
+    "AutoUpdateType": "None",
+    "AutoUpdateTimes": [
+      0
+    ],
+    "IsManualUpdate": false,
+    "ManualUpdateCurrencyCount": 0,
+    "ForceResetTimeFixJST": null,
+    "ConsumeItemInfos": [
+      {
+        "ItemId": 46,
+        "ItemType": "EventExchangePlaceItem"
+      }
+    ],
+    "TradeShopItemCount": 0,
+    "OpenCommandType": "ShopEventExchange",
+    "StartTime": "2026-09-30 04:00:00",
+    "EndTime": "2026-10-13 03:59:59"
   }
 ]

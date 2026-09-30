@@ -16594,5 +16594,131 @@
     ],
     "TextKey": "[CharacterStoryText15307]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 1056,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア1",
+    "CharacterId": 154,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15401]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1057,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア2",
+    "CharacterId": 154,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15402]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1058,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア3",
+    "CharacterId": 154,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15403]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1059,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア4",
+    "CharacterId": 154,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15404]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1060,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア5",
+    "CharacterId": 154,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15405]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1061,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア6",
+    "CharacterId": 154,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15406]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1062,
+    "IsIgnore": null,
+    "Memo": "聖剣アルトリア7",
+    "CharacterId": 154,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15407]",
+    "RarityFlags": 512
   }
 ]
