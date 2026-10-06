@@ -7844,7 +7844,7 @@
   {
     "Id": 205,
     "IsIgnore": null,
-    "Memo": "聖剣アルトリア+ミフリ+仮",
+    "Memo": "聖剣アルトリア+リリコット+ミフリ",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-10-08 14:30:00",
@@ -7852,6 +7852,7 @@
     "OrderNumber": 205,
     "CharacterIdList": [
       154,
+      99,
       126,
       5,
       6,
@@ -7878,7 +7879,46 @@
     ],
     "NewCharacterIdList": [
       154,
+      99,
       126
+    ]
+  },
+  {
+    "Id": 206,
+    "IsIgnore": null,
+    "Memo": "リリコット+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-10-15 16:30:00",
+    "EndTimeFixJST": "2026-10-22 14:29:59",
+    "OrderNumber": 206,
+    "CharacterIdList": [
+      99,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      99
     ]
   },
   {
