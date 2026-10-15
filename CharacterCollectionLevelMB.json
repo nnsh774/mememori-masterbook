@@ -19876,5 +19876,215 @@
     ],
     "CharacterRarityBonus": 1,
     "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10201,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 1,
+    "CharacterRarityFlags": 8,
+    "BaseParameterChangeInfos": null,
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 150.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10202,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 2,
+    "CharacterRarityFlags": 128,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 300.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10203,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 3,
+    "CharacterRarityFlags": 512,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 300.000000
+      }
+    ],
+    "CharacterRarityBonus": 0,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10204,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 4,
+    "CharacterRarityFlags": 16384,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 70.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 300.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10205,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 5,
+    "CharacterRarityFlags": 32768,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 71.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 310.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10206,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 6,
+    "CharacterRarityFlags": 65536,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 72.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 320.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10207,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 7,
+    "CharacterRarityFlags": 131072,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 73.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 330.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10208,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 8,
+    "CharacterRarityFlags": 262144,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 74.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 340.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
+  },
+  {
+    "Id": 10209,
+    "IsIgnore": null,
+    "Memo": "ヴェナティキの回生(守護アレクサンドラ,アレクサンドラ,？)",
+    "CollectionId": 102,
+    "CollectionLevel": 9,
+    "CharacterRarityFlags": 524288,
+    "BaseParameterChangeInfos": [
+      {
+        "BaseParameterType": "Muscle",
+        "ChangeParameterType": "CharacterLevelConstantMultiplicationAddition",
+        "Value": 75.000000
+      }
+    ],
+    "BattleParameterChangeInfos": [
+      {
+        "BattleParameterType": "DamageReflect",
+        "ChangeParameterType": "Addition",
+        "Value": 350.000000
+      }
+    ],
+    "CharacterRarityBonus": 1,
+    "MaxLevelIncreaseValue": 0
   }
 ]

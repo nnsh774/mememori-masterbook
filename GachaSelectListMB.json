@@ -7886,14 +7886,16 @@
   {
     "Id": 206,
     "IsIgnore": null,
-    "Memo": "リリコット+仮",
+    "Memo": "守護アレクサンドラ+リリコット+宝物フェンリル",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2026-10-15 16:30:00",
+    "StartTimeFixJST": "2026-10-15 15:00:00",
     "EndTimeFixJST": "2026-10-22 14:29:59",
     "OrderNumber": 206,
     "CharacterIdList": [
+      155,
       99,
+      83,
       5,
       6,
       7,
@@ -7918,7 +7920,125 @@
       46
     ],
     "NewCharacterIdList": [
-      99
+      155,
+      99,
+      83
+    ]
+  },
+  {
+    "Id": 207,
+    "IsIgnore": null,
+    "Memo": "守護アレクサンドラ+宝物フェンリル+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-10-22 14:30:00",
+    "EndTimeFixJST": "2026-10-29 14:29:59",
+    "OrderNumber": 207,
+    "CharacterIdList": [
+      155,
+      83,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      155,
+      83
+    ]
+  },
+  {
+    "Id": 208,
+    "IsIgnore": null,
+    "Memo": "守護アレクサンドラ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-10-29 16:30:00",
+    "EndTimeFixJST": "2026-11-09 14:29:59",
+    "OrderNumber": 208,
+    "CharacterIdList": [
+      155,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      155
+    ]
+  },
+  {
+    "Id": 209,
+    "IsIgnore": null,
+    "Memo": "守護アレクサンドラ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-11-09 14:30:00",
+    "EndTimeFixJST": "2026-11-16 14:29:59",
+    "OrderNumber": 209,
+    "CharacterIdList": [
+      155,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      155
     ]
   },
   {
@@ -8849,6 +8969,32 @@
       54,
       60,
       67
+    ]
+  },
+  {
+    "Id": 10450,
+    "IsIgnore": null,
+    "Memo": "星の導きガチャ アイネ・パラデア・エイル・モルガナ・アレクサンドラ・タマ",
+    "GachaSelectListType": "StarsGuidance",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-10-15 15:00:00",
+    "EndTimeFixJST": "2026-11-09 14:29:59",
+    "OrderNumber": 10450,
+    "CharacterIdList": [
+      65,
+      63,
+      59,
+      75,
+      82,
+      81
+    ],
+    "NewCharacterIdList": [
+      65,
+      63,
+      59,
+      75,
+      82,
+      81
     ]
   },
   {

@@ -12158,5 +12158,148 @@
         "ItemType": "Gold"
       }
     ]
+  },
+  {
+    "Id": 779,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンスガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "LuckyChanceGachaTicket",
+    "ItemId": 4,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 780,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_とけねこルームウェア",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 41,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 781,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_4周年キャンバスボード",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 42,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 782,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_とけねこMusicTシャツ",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 43,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 783,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_とけねこホットサンドメーカー",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 44,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1000,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 784,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_とけねこマグカップ",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 45,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 785,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_4周年記念メダル風ピンバッジ",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 46,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
+  },
+  {
+    "Id": 786,
+    "IsIgnore": null,
+    "Memo": "４周年ラッキーチャンス_選べるアクリルキーホルダー",
+    "ChangeItemType": "Sell",
+    "ItemType": "RealPrizeGoods",
+    "ItemId": 47,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 48,
+        "ItemType": "RealPrizeGoods"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 49,
+        "ItemType": "RealPrizeGoods"
+      },
+      {
+        "ItemCount": 1,
+        "ItemId": 50,
+        "ItemType": "RealPrizeGoods"
+      },
+      {
+        "ItemCount": 300,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ]
   }
 ]
