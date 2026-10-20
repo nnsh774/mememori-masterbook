@@ -7928,7 +7928,7 @@
   {
     "Id": 207,
     "IsIgnore": null,
-    "Memo": "守護アレクサンドラ+宝物フェンリル+仮",
+    "Memo": "守護アレクサンドラ+宝物ケルベロス+宝物フェンリル",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-10-22 14:30:00",
@@ -7936,6 +7936,7 @@
     "OrderNumber": 207,
     "CharacterIdList": [
       155,
+      129,
       83,
       5,
       6,
@@ -7962,13 +7963,14 @@
     ],
     "NewCharacterIdList": [
       155,
+      129,
       83
     ]
   },
   {
     "Id": 208,
     "IsIgnore": null,
-    "Memo": "守護アレクサンドラ+仮",
+    "Memo": "守護アレクサンドラ+宝物ケルベロス+仮",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-10-29 16:30:00",
@@ -7976,6 +7978,7 @@
     "OrderNumber": 208,
     "CharacterIdList": [
       155,
+      129,
       5,
       6,
       7,
@@ -8000,7 +8003,8 @@
       46
     ],
     "NewCharacterIdList": [
-      155
+      155,
+      129
     ]
   },
   {
