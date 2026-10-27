@@ -12160,6 +12160,38 @@
     ]
   },
   {
+    "Id": 777,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデのアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 47,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
+  },
+  {
+    "Id": 778,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデガチャチケット",
+    "ChangeItemType": "Sell",
+    "ItemType": "GachaTicket",
+    "ItemId": 1560,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 1,
+        "ItemId": 2,
+        "ItemType": "GachaTicket"
+      }
+    ]
+  },
+  {
     "Id": 779,
     "IsIgnore": null,
     "Memo": "４周年ラッキーチャンスガチャチケット",
