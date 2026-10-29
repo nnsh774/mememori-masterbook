@@ -15701,5 +15701,134 @@
         "Value": 7000.000000
       }
     ]
+  },
+  {
+    "Id": 739,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデSSR180",
+    "CharacterId": 156,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 740,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデSSR200",
+    "CharacterId": 156,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5000.000000
+      }
+    ]
+  },
+  {
+    "Id": 741,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデSSR220",
+    "CharacterId": 156,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 5500.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 5500.000000
+      }
+    ]
+  },
+  {
+    "Id": 742,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデSSR240",
+    "CharacterId": 156,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6000.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6000.000000
+      }
+    ]
+  },
+  {
+    "Id": 743,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデUR",
+    "CharacterId": 156,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 6500.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 6500.000000
+      }
+    ]
+  },
+  {
+    "Id": 744,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデLR",
+    "CharacterId": 156,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DefensePenetration",
+        "ChangeParameterType": "Addition",
+        "Value": 7000.000000
+      },
+      {
+        "BattleParameterType": "DamageEnhance",
+        "ChangeParameterType": "Addition",
+        "Value": 7000.000000
+      }
+    ]
   }
 ]

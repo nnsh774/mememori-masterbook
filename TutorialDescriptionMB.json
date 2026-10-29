@@ -760,6 +760,30 @@
     "ImageCharacterId": 0
   },
   {
+    "Id": 43,
+    "IsIgnore": null,
+    "Memo": "団結ミッション",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText63]",
+        "ImageId": 63
+      },
+      {
+        "MainTextKey": "[TutorialDescriptionMainText64]",
+        "ImageId": 64
+      },
+      {
+        "MainTextKey": "[TutorialDescriptionMainText65]",
+        "ImageId": 65
+      }
+    ],
+    "HelpId": 7800,
+    "ImagePositionFormatType": "None",
+    "ImageItem1": null,
+    "ImageItem2": null,
+    "ImageCharacterId": 0
+  },
+  {
     "Id": 1001,
     "IsIgnore": null,
     "Memo": "ギルドバトル③",
@@ -800,30 +824,6 @@
     "ImageCharacterId": 0
   },
   {
-    "Id": 2013,
-    "IsIgnore": null,
-    "Memo": "神殿_イベント_リリー",
-    "PageInfo": [
-      {
-        "MainTextKey": "[TutorialDescriptionMainText37]",
-        "ImageId": 37
-      }
-    ],
-    "HelpId": 4210,
-    "ImagePositionFormatType": "LocalRaidEvent",
-    "ImageItem1": {
-      "ItemCount": 0,
-      "ItemId": 41,
-      "ItemType": "EventExchangePlaceItem"
-    },
-    "ImageItem2": {
-      "ItemCount": 0,
-      "ItemId": 1410,
-      "ItemType": "GachaTicket"
-    },
-    "ImageCharacterId": 141
-  },
-  {
     "Id": 2014,
     "IsIgnore": null,
     "Memo": "神殿_イベント_シロ",
@@ -846,6 +846,30 @@
       "ItemType": "TreasureChest"
     },
     "ImageCharacterId": 153
+  },
+  {
+    "Id": 2015,
+    "IsIgnore": null,
+    "Memo": "神殿_イベント_眷属エルフリンデ",
+    "PageInfo": [
+      {
+        "MainTextKey": "[TutorialDescriptionMainText37]",
+        "ImageId": 37
+      }
+    ],
+    "HelpId": 4210,
+    "ImagePositionFormatType": "LocalRaidEvent",
+    "ImageItem1": {
+      "ItemCount": 0,
+      "ItemId": 47,
+      "ItemType": "EventExchangePlaceItem"
+    },
+    "ImageItem2": {
+      "ItemCount": 0,
+      "ItemId": 1560,
+      "ItemType": "GachaTicket"
+    },
+    "ImageCharacterId": 156
   },
   {
     "Id": 3012,

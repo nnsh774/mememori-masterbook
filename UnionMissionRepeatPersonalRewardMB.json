@@ -1,0 +1,77 @@
+[
+  {
+    "Id": 1,
+    "IsIgnore": null,
+    "Memo": null,
+    "ClassType": "Bronze",
+    "RequirePersonalPoint": 200,
+    "RewardItemList": [
+      {
+        "Item": {
+          "ItemCount": 500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "IsIgnore": null,
+    "Memo": null,
+    "ClassType": "Silver",
+    "RequirePersonalPoint": 200,
+    "RewardItemList": [
+      {
+        "Item": {
+          "ItemCount": 500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "IsIgnore": null,
+    "Memo": null,
+    "ClassType": "Gold",
+    "RequirePersonalPoint": 200,
+    "RewardItemList": [
+      {
+        "Item": {
+          "ItemCount": 500,
+          "ItemId": 12,
+          "ItemType": "ExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 10000,
+          "ItemId": 1,
+          "ItemType": "Gold"
+        },
+        "RarityFlags": 0
+      }
+    ]
+  }
+]

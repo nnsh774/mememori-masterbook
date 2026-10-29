@@ -16846,5 +16846,131 @@
     ],
     "TextKey": "[CharacterStoryText15507]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 1070,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ1",
+    "CharacterId": 156,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15601]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1071,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ2",
+    "CharacterId": 156,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15602]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1072,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ3",
+    "CharacterId": 156,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15603]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1073,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ4",
+    "CharacterId": 156,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15604]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1074,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ5",
+    "CharacterId": 156,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15605]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1075,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ6",
+    "CharacterId": 156,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15606]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1076,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ7",
+    "CharacterId": 156,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15607]",
+    "RarityFlags": 512
   }
 ]

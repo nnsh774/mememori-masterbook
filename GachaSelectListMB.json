@@ -7970,15 +7970,17 @@
   {
     "Id": 208,
     "IsIgnore": null,
-    "Memo": "守護アレクサンドラ+宝物ケルベロス+仮",
+    "Memo": "眷属エルフリンデ+守護アレクサンドラ+宝物ケルベロス+面影フィアー",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
-    "StartTimeFixJST": "2026-10-29 16:30:00",
+    "StartTimeFixJST": "2026-10-29 14:30:00",
     "EndTimeFixJST": "2026-11-09 14:29:59",
     "OrderNumber": 208,
     "CharacterIdList": [
+      156,
       155,
       129,
+      134,
       5,
       6,
       7,
@@ -8003,21 +8005,25 @@
       46
     ],
     "NewCharacterIdList": [
+      156,
       155,
-      129
+      129,
+      134
     ]
   },
   {
     "Id": 209,
     "IsIgnore": null,
-    "Memo": "守護アレクサンドラ+仮",
+    "Memo": "眷属エルフリンデ+守護アレクサンドラ+面影フィアー+仮",
     "GachaSelectListType": "Destiny",
     "IsResetSelectedCharacter": false,
     "StartTimeFixJST": "2026-11-09 14:30:00",
     "EndTimeFixJST": "2026-11-16 14:29:59",
     "OrderNumber": 209,
     "CharacterIdList": [
+      156,
       155,
+      134,
       5,
       6,
       7,
@@ -8042,7 +8048,85 @@
       46
     ],
     "NewCharacterIdList": [
-      155
+      156,
+      155,
+      134
+    ]
+  },
+  {
+    "Id": 210,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-11-16 16:30:00",
+    "EndTimeFixJST": "2026-11-24 14:29:59",
+    "OrderNumber": 210,
+    "CharacterIdList": [
+      156,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      156
+    ]
+  },
+  {
+    "Id": 211,
+    "IsIgnore": null,
+    "Memo": "眷属エルフリンデ+仮",
+    "GachaSelectListType": "Destiny",
+    "IsResetSelectedCharacter": false,
+    "StartTimeFixJST": "2026-11-24 14:30:00",
+    "EndTimeFixJST": "2026-11-30 14:29:59",
+    "OrderNumber": 211,
+    "CharacterIdList": [
+      156,
+      5,
+      6,
+      7,
+      8,
+      10,
+      15,
+      16,
+      17,
+      18,
+      20,
+      25,
+      26,
+      27,
+      28,
+      29,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      46
+    ],
+    "NewCharacterIdList": [
+      156
     ]
   },
   {
