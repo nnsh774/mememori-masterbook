@@ -16972,5 +16972,131 @@
     ],
     "TextKey": "[CharacterStoryText15607]",
     "RarityFlags": 512
+  },
+  {
+    "Id": 1077,
+    "IsIgnore": null,
+    "Memo": "ラミス1",
+    "CharacterId": 157,
+    "EpisodeId": 1,
+    "Level": 0,
+    "TitleKey": "[CharacterStoryTitle1]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15701]",
+    "RarityFlags": 8
+  },
+  {
+    "Id": 1078,
+    "IsIgnore": null,
+    "Memo": "ラミス2",
+    "CharacterId": 157,
+    "EpisodeId": 2,
+    "Level": 10,
+    "TitleKey": "[CharacterStoryTitle2]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15702]",
+    "RarityFlags": 16
+  },
+  {
+    "Id": 1079,
+    "IsIgnore": null,
+    "Memo": "ラミス3",
+    "CharacterId": 157,
+    "EpisodeId": 3,
+    "Level": 20,
+    "TitleKey": "[CharacterStoryTitle3]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15703]",
+    "RarityFlags": 32
+  },
+  {
+    "Id": 1080,
+    "IsIgnore": null,
+    "Memo": "ラミス4",
+    "CharacterId": 157,
+    "EpisodeId": 4,
+    "Level": 40,
+    "TitleKey": "[CharacterStoryTitle4]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15704]",
+    "RarityFlags": 64
+  },
+  {
+    "Id": 1081,
+    "IsIgnore": null,
+    "Memo": "ラミス5",
+    "CharacterId": 157,
+    "EpisodeId": 5,
+    "Level": 60,
+    "TitleKey": "[CharacterStoryTitle5]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15705]",
+    "RarityFlags": 128
+  },
+  {
+    "Id": 1082,
+    "IsIgnore": null,
+    "Memo": "ラミス6",
+    "CharacterId": 157,
+    "EpisodeId": 6,
+    "Level": 80,
+    "TitleKey": "[CharacterStoryTitle6]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15706]",
+    "RarityFlags": 256
+  },
+  {
+    "Id": 1083,
+    "IsIgnore": null,
+    "Memo": "ラミス7",
+    "CharacterId": 157,
+    "EpisodeId": 7,
+    "Level": 100,
+    "TitleKey": "[CharacterStoryTitle7]",
+    "RewardItemList": [
+      {
+        "ItemCount": 20,
+        "ItemId": 1,
+        "ItemType": "CurrencyFree"
+      }
+    ],
+    "TextKey": "[CharacterStoryText15707]",
+    "RarityFlags": 512
   }
 ]

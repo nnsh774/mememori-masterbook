@@ -15703,6 +15703,135 @@
     ]
   },
   {
+    "Id": 733,
+    "IsIgnore": null,
+    "Memo": "ラミスSSR180",
+    "CharacterId": 157,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1200.000000
+      }
+    ]
+  },
+  {
+    "Id": 734,
+    "IsIgnore": null,
+    "Memo": "ラミスSSR200",
+    "CharacterId": 157,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1300.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 600.000000
+      }
+    ]
+  },
+  {
+    "Id": 735,
+    "IsIgnore": null,
+    "Memo": "ラミスSSR220",
+    "CharacterId": 157,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1400.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 700.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 350.000000
+      }
+    ]
+  },
+  {
+    "Id": 736,
+    "IsIgnore": null,
+    "Memo": "ラミスSSR240",
+    "CharacterId": 157,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1500.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 800.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 400.000000
+      }
+    ]
+  },
+  {
+    "Id": 737,
+    "IsIgnore": null,
+    "Memo": "ラミスUR",
+    "CharacterId": 157,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1600.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 900.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 450.000000
+      }
+    ]
+  },
+  {
+    "Id": 738,
+    "IsIgnore": null,
+    "Memo": "ラミスLR",
+    "CharacterId": 157,
+    "BaseParameterChangeInfoList": null,
+    "BattleParameterChangeInfoList": [
+      {
+        "BattleParameterType": "AttackPower",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1800.000000
+      },
+      {
+        "BattleParameterType": "DebuffResist",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 1000.000000
+      },
+      {
+        "BattleParameterType": "Defense",
+        "ChangeParameterType": "AdditionPercent",
+        "Value": 500.000000
+      }
+    ]
+  },
+  {
     "Id": 739,
     "IsIgnore": null,
     "Memo": "眷属エルフリンデSSR180",

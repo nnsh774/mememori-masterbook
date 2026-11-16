@@ -70332,5 +70332,31 @@
         "RarityFlags": 0
       }
     ]
+  },
+  {
+    "Id": 2434,
+    "IsIgnore": null,
+    "Memo": "復帰_3000個クリスタルを獲得する",
+    "MissionType": "ComebackConsumeCurrency",
+    "OpeningPeriod": 0,
+    "NameKey": "[MissionName2434]",
+    "DescriptionKey": null,
+    "TransitionDestination": "WebStoreGuidanceGetWebCrystal",
+    "AchievementType": "ShopGetWebCrystalCount",
+    "RequireValue": 3000,
+    "StartTime": "2020-01-01 00:00:00",
+    "EndTime": "2100-01-01 00:00:00",
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 300,
+          "ItemId": 1,
+          "ItemType": "CurrencyFree"
+        },
+        "RarityFlags": 0
+      }
+    ]
   }
 ]
