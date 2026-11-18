@@ -376,5 +376,19 @@
     "Memo": null,
     "AchievementType": "ShareMusicPlaylist",
     "OpenCommandType": "MusicPlayer"
+  },
+  {
+    "Id": 56,
+    "IsIgnore": null,
+    "Memo": "パネル_時空の洞窟ウォーリア3人",
+    "AchievementType": "DungeonBattleClear3UnitWarriorType",
+    "OpenCommandType": "DungeonBattle"
+  },
+  {
+    "Id": 57,
+    "IsIgnore": null,
+    "Memo": "パネル_幻影の神殿天冥",
+    "AchievementType": "LocalRaidVictory1UnitLightAndDarkType",
+    "OpenCommandType": "LocalRaid"
   }
 ]
