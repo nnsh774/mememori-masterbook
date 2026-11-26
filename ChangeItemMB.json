@@ -12333,5 +12333,21 @@
         "ItemType": "CurrencyFree"
       }
     ]
+  },
+  {
+    "Id": 787,
+    "IsIgnore": null,
+    "Memo": "冬ティリーのアイテム",
+    "ChangeItemType": "Sell",
+    "ItemType": "EventExchangePlaceItem",
+    "ItemId": 48,
+    "NeedCount": 1,
+    "ChangeItems": [
+      {
+        "ItemCount": 10000,
+        "ItemId": 1,
+        "ItemType": "Gold"
+      }
+    ]
   }
 ]

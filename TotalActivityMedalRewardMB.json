@@ -4364,5 +4364,74 @@
     "EndTime": "2026-11-08 03:59:59",
     "SortOrder": 0,
     "Value": 0
+  },
+  {
+    "Id": 10801,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション1_冬ティリー",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 20,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 48,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-11-30 04:00:00",
+    "EndTime": "2026-12-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10802,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション3_冬ティリー",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 60,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 5,
+          "ItemId": 48,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-11-30 04:00:00",
+    "EndTime": "2026-12-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
+  },
+  {
+    "Id": 10803,
+    "IsIgnore": null,
+    "Memo": "イベント_デイリーミッション5_冬ティリー",
+    "MissionGroupType": "DailyBonus",
+    "RequiredActivityMedalCount": 100,
+    "TimeServerIdList": null,
+    "ImageId": 0,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 10,
+          "ItemId": 48,
+          "ItemType": "EventExchangePlaceItem"
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "StartTime": "2026-11-30 04:00:00",
+    "EndTime": "2026-12-10 03:59:59",
+    "SortOrder": 0,
+    "Value": 0
   }
 ]
